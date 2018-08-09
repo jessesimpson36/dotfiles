@@ -51,6 +51,8 @@ Plugin 'scrooloose/nerdtree'
 
 syntax on
 set autoindent
+set cindent
+set shiftwidth=4
 map <F2> :NERDTreeToggle <CR>
 map <Tab> :s/^/    <CR>
 map <S-Tab> :s/^    /<CR>

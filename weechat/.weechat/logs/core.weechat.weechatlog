@@ -1,0 +1,2319 @@
+2018-03-16 14:05:09		New key binding (context "default"): meta-meta-OQ => /bar scroll buflist * e
+2018-03-16 14:05:09		New key binding (context "default"): meta-meta-OP => /bar scroll buflist * b
+2018-03-16 14:05:09		New key binding (context "default"): meta-OQ => /bar scroll buflist * +100%
+2018-03-16 14:05:09		New key binding (context "default"): meta-OP => /bar scroll buflist * -100%
+2018-03-16 14:05:09		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-16 14:05:24		No server
+2018-03-16 14:05:27	=!=	You can not write text in this buffer
+2018-03-16 14:05:29	=!=	You can not write text in this buffer
+2018-03-16 14:05:30	=!=	You can not write text in this buffer
+2018-03-16 14:06:14		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-16 14:06:18	=!=	Error: unknown command "/slack" (type /help for help)
+2018-03-16 14:07:38		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-16 14:07:40	=!=	Error: unknown command "/slack" (type /help for help)
+2018-03-16 14:07:44	=!=	Error: unknown command "/slack" (type /help for help)
+2018-03-16 14:07:46		[core]
+2018-03-16 14:07:46		  away     cursor   history  mute     reload   unset    window 
+2018-03-16 14:07:46		  bar      debug    input    plugin   repeat   upgrade
+2018-03-16 14:07:46		  buffer   eval     key      print    save     uptime 
+2018-03-16 14:07:46		  color    filter   layout   proxy    secure   version
+2018-03-16 14:07:46		  command  help     mouse    quit     set      wait   
+2018-03-16 14:07:46		[alias]
+2018-03-16 14:07:46		  AAWAY    BEEP     CLOSE    KB       N        T        WC     
+2018-03-16 14:07:46		  alias    BYE      EXIT     LEAVE    Q        UB       WI     
+2018-03-16 14:07:46		  AME      C        IG       M        REDRAW   UMODE    WII    
+2018-03-16 14:07:46		  AMSG     CHAT     J        MSGBUF   SAY      V        WW     
+2018-03-16 14:07:46		  ANICK    CL       K        MUB      SIGNOFF  W      
+2018-03-16 14:07:46		[fifo]
+2018-03-16 14:07:46		  fifo
+2018-03-16 14:07:46		[lua]
+2018-03-16 14:07:46		  lua
+2018-03-16 14:07:46		[relay]
+2018-03-16 14:07:46		  relay
+2018-03-16 14:07:46		[ruby]
+2018-03-16 14:07:46		  ruby
+2018-03-16 14:07:46		[tcl]
+2018-03-16 14:07:46		  tcl
+2018-03-16 14:07:47		[fset]
+2018-03-16 14:07:47		  fset
+2018-03-16 14:07:47		[exec]
+2018-03-16 14:07:47		  exec
+2018-03-16 14:07:47		[python]
+2018-03-16 14:07:47		  python
+2018-03-16 14:07:47		[trigger]
+2018-03-16 14:07:47		  trigger
+2018-03-16 14:07:47		[logger]
+2018-03-16 14:07:47		  logger
+2018-03-16 14:07:47		[xfer]
+2018-03-16 14:07:47		  me  xfer
+2018-03-16 14:07:47		[script]
+2018-03-16 14:07:47		  script
+2018-03-16 14:07:47		[buflist]
+2018-03-16 14:07:47		  buflist
+2018-03-16 14:07:47		[perl]
+2018-03-16 14:07:47		  perl
+2018-03-16 14:07:47		[aspell]
+2018-03-16 14:07:47		  aspell
+2018-03-16 14:07:47		[charset]
+2018-03-16 14:07:47		  charset
+2018-03-16 14:07:47		[irc]
+2018-03-16 14:07:47		  admin       halfop      motd        rehash      time      
+2018-03-16 14:07:47		  allchan     ignore      msg         remove      topic     
+2018-03-16 14:07:47		  allpv       info        names       restart     trace     
+2018-03-16 14:07:47		  allserv     invite      nick        sajoin      unban     
+2018-03-16 14:07:47		  ban         ison        notice      samode      unquiet   
+2018-03-16 14:07:47		  cap         join        notify      sanick      userhost  
+2018-03-16 14:07:47		  connect     kick        op          sapart      users     
+2018-03-16 14:07:47		  ctcp        kickban     oper        saquit      version   
+2018-03-16 14:07:47		  cycle       kill        part        server      voice     
+2018-03-16 14:07:47		  dcc         links       ping        service     wallchops 
+2018-03-16 14:07:47		  dehalfop    list        pong        servlist    wallops   
+2018-03-16 14:07:47		  deop        lusers      query       squery      who       
+2018-03-16 14:07:47		  devoice     map         quiet       squit       whois     
+2018-03-16 14:07:47		  die         me          quote       stats       whowas    
+2018-03-16 14:07:47		  disconnect  mode        reconnect   summon    
+2018-03-16 14:07:49	=!=	You can not write text in this buffer
+2018-03-16 14:07:50	=!=	You can not write text in this buffer
+2018-03-16 14:07:51	=!=	You can not write text in this buffer
+2018-03-16 14:07:53	=!=	You can not write text in this buffer
+2018-03-16 14:10:38		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-16 14:10:43		python scripts loaded:
+2018-03-16 14:10:43		  (none)
+2018-03-16 14:10:47		No server
+2018-03-16 14:11:01	=!=	Error: unknown command "/slack" (type /help for help)
+2018-03-16 14:11:05	=!=	Error: unknown command "/slack" (type /help for help)
+2018-03-16 14:11:08	=!=	You can not write text in this buffer
+2018-03-16 14:12:18		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-16 14:12:24	=!=	python: script "python/autoload/wee_slack.py" not found
+2018-03-16 14:12:31		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-16 14:12:33	=!=	python: script "python/autoload/wee_slack.py" not found
+2018-03-16 14:13:15		python: loading script "/home/jesse/.weechat/python/autoload"
+2018-03-16 14:13:15		python: registered script "slack", version 2.0.0 (Extends weechat for typing notification/search/etc on slack.com)
+2018-03-16 14:13:16		ERROR: Failed connecting to Slack with token starting with INSERT VALID KE: invalid_auth
+2018-03-16 14:14:32		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-16 14:14:56	=!=	python: script "python/autoload/wee_slack.py" not found
+2018-03-16 14:15:13		python: loading script "/home/jesse/.weechat/python/autoload"
+2018-03-16 14:15:13		python: registered script "slack", version 2.0.0 (Extends weechat for typing notification/search/etc on slack.com)
+2018-03-16 14:15:13		ERROR: Failed connecting to Slack with token starting with INSERT VALID KE: invalid_auth
+2018-03-16 14:15:20		#### Retrieving a Slack token via OAUTH ####
+2018-03-16 14:15:20		1) Paste this into a browser: https://slack.com/oauth/authorize?client_id=2468770254.51917335286&scope=client
+2018-03-16 14:15:20		2) Select the team you wish to access from wee-slack in your browser.
+2018-03-16 14:15:20		3) Click "Authorize" in the browser **IMPORTANT: the redirect will fail, this is expected**
+2018-03-16 14:15:20		4) Copy the "code" portion of the URL to your clipboard
+2018-03-16 14:15:20		5) Return to weechat and run `/slack register [code]`
+2018-03-16 14:18:16		#### Retrieving a Slack token via OAUTH ####
+2018-03-16 14:18:16		1) Paste this into a browser: https://slack.com/oauth/authorize?client_id=2468770254.51917335286&scope=client
+2018-03-16 14:18:16		2) Select the team you wish to access from wee-slack in your browser.
+2018-03-16 14:18:16		3) Click "Authorize" in the browser **IMPORTANT: the redirect will fail, this is expected**
+2018-03-16 14:18:16		4) Copy the "code" portion of the URL to your clipboard
+2018-03-16 14:18:16		5) Return to weechat and run `/slack register [code]`
+2018-03-16 14:19:01		Success! Added team "Heckman's Hackers"
+2018-03-16 14:19:01		Please reload wee-slack with: /script reload slack
+2018-03-16 14:19:08		python: unloading script "slack"
+2018-03-16 14:19:08		python: script "slack" unloaded
+2018-03-16 14:19:08		python: loading script "/home/jesse/.weechat/python/autoload"
+2018-03-16 14:19:08		python: registered script "slack", version 2.0.0 (Extends weechat for typing notification/search/etc on slack.com)
+2018-03-16 14:19:22	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2018-03-16 14:19:44	=!=	You can not write text in this buffer
+2018-03-16 14:20:54	=!=	You can not write text in this buffer
+2018-03-16 14:21:09	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2018-03-16 14:22:28		[core]
+2018-03-16 14:22:28		  away     color    debug    help     key      mute     proxy    repeat   set      uptime   window 
+2018-03-16 14:22:28		  bar      command  eval     history  layout   plugin   quit     save     unset    version
+2018-03-16 14:22:28		  buffer   cursor   filter   input    mouse    print    reload   secure   upgrade  wait   
+2018-03-16 14:22:28		[alias]
+2018-03-16 14:22:28		  AAWAY    AMSG     BYE      CL       IG       KB       MSGBUF   Q        SIGNOFF  UMODE    WC       WW     
+2018-03-16 14:22:28		  alias    ANICK    C        CLOSE    J        LEAVE    MUB      REDRAW   T        V        WI     
+2018-03-16 14:22:28		  AME      BEEP     CHAT     EXIT     K        M        N        SAY      UB       W        WII    
+2018-03-16 14:22:28		[fifo]
+2018-03-16 14:22:28		  fifo
+2018-03-16 14:22:28		[lua]
+2018-03-16 14:22:28		  lua
+2018-03-16 14:22:28		[relay]
+2018-03-16 14:22:28		  relay
+2018-03-16 14:22:28		[ruby]
+2018-03-16 14:22:28		  ruby
+2018-03-16 14:22:28		[tcl]
+2018-03-16 14:22:28		  tcl
+2018-03-16 14:22:28		[fset]
+2018-03-16 14:22:28		  fset
+2018-03-16 14:22:28		[exec]
+2018-03-16 14:22:28		  exec
+2018-03-16 14:22:28		[python]
+2018-03-16 14:22:28		  python  slack
+2018-03-16 14:22:28		[trigger]
+2018-03-16 14:22:28		  trigger
+2018-03-16 14:22:28		[logger]
+2018-03-16 14:22:28		  logger
+2018-03-16 14:22:28		[xfer]
+2018-03-16 14:22:28		  me  xfer
+2018-03-16 14:22:28		[script]
+2018-03-16 14:22:28		  script
+2018-03-16 14:22:28		[buflist]
+2018-03-16 14:22:28		  buflist
+2018-03-16 14:22:28		[perl]
+2018-03-16 14:22:28		  perl
+2018-03-16 14:22:28		[aspell]
+2018-03-16 14:22:28		  aspell
+2018-03-16 14:22:28		[charset]
+2018-03-16 14:22:28		  charset
+2018-03-16 14:22:28		[irc]
+2018-03-16 14:22:28		  admin       dcc         invite      map         op          rehash      service     unban       whois     
+2018-03-16 14:22:28		  allchan     dehalfop    ison        me          oper        remove      servlist    unquiet     whowas    
+2018-03-16 14:22:28		  allpv       deop        join        mode        part        restart     squery      userhost  
+2018-03-16 14:22:28		  allserv     devoice     kick        motd        ping        sajoin      squit       users     
+2018-03-16 14:22:28		  ban         die         kickban     msg         pong        samode      stats       version   
+2018-03-16 14:22:28		  cap         disconnect  kill        names       query       sanick      summon      voice     
+2018-03-16 14:22:28		  connect     halfop      links       nick        quiet       sapart      time        wallchops 
+2018-03-16 14:22:28		  ctcp        ignore      list        notice      quote       saquit      topic       wallops   
+2018-03-16 14:22:28		  cycle       info        lusers      notify      reconnect   server      trace       who       
+2018-03-16 14:22:31		Command not found: help
+2018-03-16 14:22:43	=!=	You can not write text in this buffer
+2018-03-16 14:23:25	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2018-03-16 14:23:39	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2018-03-16 14:24:06	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2018-03-16 14:24:09	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2018-03-16 14:24:32		Command not found: 
+2018-03-16 14:24:34		Command not found: 
+2018-03-16 14:24:48		Options saved to sec.conf
+2018-03-16 14:24:48		Options saved to weechat.conf
+2018-03-16 14:24:48		Options saved to plugins.conf
+2018-03-16 14:24:48		Options saved to charset.conf
+2018-03-16 14:24:48		Options saved to logger.conf
+2018-03-16 14:24:48		Options saved to exec.conf
+2018-03-16 14:24:48		Options saved to trigger.conf
+2018-03-16 14:24:48		Options saved to aspell.conf
+2018-03-16 14:24:48		Options saved to alias.conf
+2018-03-16 14:24:48		Options saved to buflist.conf
+2018-03-16 14:24:48		Options saved to fifo.conf
+2018-03-16 14:24:48		Options saved to xfer.conf
+2018-03-16 14:24:48		Options saved to irc.conf
+2018-03-16 14:24:48		Options saved to relay.conf
+2018-03-16 14:24:48		Options saved to script.conf
+2018-03-16 14:24:48		Options saved to fset.conf
+2018-03-16 14:24:48	=!=	Error with command "/python reloadYy" (help on command: /help python)
+2018-03-16 14:24:53		python: unloading script "slack"
+2018-03-16 14:25:04	=!=	Error: unknown command "/slack" (type /help for help)
+2018-03-16 14:25:09	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2018-03-16 14:25:16	=!=	Error: unknown command "/slack" (type /help for help)
+2018-03-16 14:25:22		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-16 14:25:27	=!=	Error: unknown command "/slack" (type /help for help)
+2018-03-16 14:25:38	=!=	Error: unknown command "/slack" (type /help for help)
+2018-03-16 14:25:52		No server
+2018-03-16 14:26:39	=!=	Error with command "/python load" (help on command: /help python)
+2018-03-16 14:26:56	=!=	python: script "python/autoload/wee_slack.py" not found
+2018-03-16 14:29:09		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-16 14:29:17	=!=	Error: unknown command "/python3" (type /help for help)
+2018-03-16 14:29:20		python scripts loaded:
+2018-03-16 14:29:20		  (none)
+2018-03-16 14:29:38	=!=	python: script "slack" not loaded
+2018-03-16 14:31:13		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-16 14:31:31		python: loading script ".weechat/python/autoload"
+2018-03-16 14:31:31		python: registered script "slack", version 2.0.0 (Extends weechat for typing notification/search/etc on slack.com)
+2018-03-16 14:31:35		Options saved to sec.conf
+2018-03-16 14:31:35		Options saved to weechat.conf
+2018-03-16 14:31:35		Options saved to plugins.conf
+2018-03-16 14:31:35		Options saved to charset.conf
+2018-03-16 14:31:35		Options saved to logger.conf
+2018-03-16 14:31:35		Options saved to exec.conf
+2018-03-16 14:31:35		Options saved to trigger.conf
+2018-03-16 14:31:35		Options saved to aspell.conf
+2018-03-16 14:31:35		Options saved to alias.conf
+2018-03-16 14:31:35		Options saved to buflist.conf
+2018-03-16 14:31:35		Options saved to fifo.conf
+2018-03-16 14:31:35		Options saved to xfer.conf
+2018-03-16 14:31:35		Options saved to irc.conf
+2018-03-16 14:31:35		Options saved to relay.conf
+2018-03-16 14:31:35		Options saved to script.conf
+2018-03-16 14:31:35		Options saved to fset.conf
+2018-03-16 14:32:04	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2018-03-16 14:32:10	=!=	Error: unknown command "/channel" (type /help for help)
+2018-03-16 14:32:12	=!=	Error: unknown command "/channel" (type /help for help)
+2018-03-16 14:32:17		[core]
+2018-03-16 14:32:17		  away   
+2018-03-16 14:32:17		  bar    
+2018-03-16 14:32:17		  buffer 
+2018-03-16 14:32:17		  color  
+2018-03-16 14:32:17		  command
+2018-03-16 14:32:17		  cursor 
+2018-03-16 14:32:17		  debug  
+2018-03-16 14:32:17		  eval   
+2018-03-16 14:32:17		  filter 
+2018-03-16 14:32:17		  help   
+2018-03-16 14:32:17		  history
+2018-03-16 14:32:17		  input  
+2018-03-16 14:32:17		  key    
+2018-03-16 14:32:17		  layout 
+2018-03-16 14:32:17		  mouse  
+2018-03-16 14:32:17		  mute   
+2018-03-16 14:32:17		  plugin 
+2018-03-16 14:32:17		  print  
+2018-03-16 14:32:17		  proxy  
+2018-03-16 14:32:17		  quit   
+2018-03-16 14:32:17		  reload 
+2018-03-16 14:32:17		  repeat 
+2018-03-16 14:32:17		  save   
+2018-03-16 14:32:17		  secure 
+2018-03-16 14:32:17		  set    
+2018-03-16 14:32:17		  unset  
+2018-03-16 14:32:17		  upgrade
+2018-03-16 14:32:17		  uptime 
+2018-03-16 14:32:17		  version
+2018-03-16 14:32:17		  wait   
+2018-03-16 14:32:17		  window 
+2018-03-16 14:32:17		[alias]
+2018-03-16 14:32:17		  AAWAY  
+2018-03-16 14:32:17		  alias  
+2018-03-16 14:32:17		  AME    
+2018-03-16 14:32:17		  AMSG   
+2018-03-16 14:32:17		  ANICK  
+2018-03-16 14:32:17		  BEEP   
+2018-03-16 14:32:17		  BYE    
+2018-03-16 14:32:17		  C      
+2018-03-16 14:32:17		  CHAT   
+2018-03-16 14:32:17		  CL     
+2018-03-16 14:32:17		  CLOSE  
+2018-03-16 14:32:17		  EXIT   
+2018-03-16 14:32:17		  IG     
+2018-03-16 14:32:17		  J      
+2018-03-16 14:32:17		  K      
+2018-03-16 14:32:17		  KB     
+2018-03-16 14:32:17		  LEAVE  
+2018-03-16 14:32:17		  M      
+2018-03-16 14:32:17		  MSGBUF 
+2018-03-16 14:32:17		  MUB    
+2018-03-16 14:32:17		  N      
+2018-03-16 14:32:17		  Q      
+2018-03-16 14:32:17		  REDRAW 
+2018-03-16 14:32:17		  SAY    
+2018-03-16 14:32:17		  SIGNOFF
+2018-03-16 14:32:17		  T      
+2018-03-16 14:32:17		  UB     
+2018-03-16 14:32:17		  UMODE  
+2018-03-16 14:32:17		  V      
+2018-03-16 14:32:17		  W      
+2018-03-16 14:32:17		  WC     
+2018-03-16 14:32:17		  WI     
+2018-03-16 14:32:17		  WII    
+2018-03-16 14:32:17		  WW     
+2018-03-16 14:32:17		[fifo]
+2018-03-16 14:32:17		  fifo
+2018-03-16 14:32:17		[lua]
+2018-03-16 14:32:17		  lua
+2018-03-16 14:32:17		[relay]
+2018-03-16 14:32:17		  relay
+2018-03-16 14:32:17		[ruby]
+2018-03-16 14:32:17		  ruby
+2018-03-16 14:32:17		[tcl]
+2018-03-16 14:32:17		  tcl
+2018-03-16 14:32:17		[fset]
+2018-03-16 14:32:17		  fset
+2018-03-16 14:32:17		[exec]
+2018-03-16 14:32:17		  exec
+2018-03-16 14:32:17		[python]
+2018-03-16 14:32:17		  python  slack
+2018-03-16 14:32:17		[trigger]
+2018-03-16 14:32:17		  trigger
+2018-03-16 14:32:17		[logger]
+2018-03-16 14:32:17		  logger
+2018-03-16 14:32:17		[xfer]
+2018-03-16 14:32:17		  me  xfer
+2018-03-16 14:32:17		[script]
+2018-03-16 14:32:17		  script
+2018-03-16 14:32:17		[buflist]
+2018-03-16 14:32:17		  buflist
+2018-03-16 14:32:17		[perl]
+2018-03-16 14:32:17		  perl
+2018-03-16 14:32:17		[aspell]
+2018-03-16 14:32:17		  aspell
+2018-03-16 14:32:17		[charset]
+2018-03-16 14:32:17		  charset
+2018-03-16 14:32:17		[irc]
+2018-03-16 14:32:17		  admin     
+2018-03-16 14:32:17		  allchan   
+2018-03-16 14:32:17		  allpv     
+2018-03-16 14:32:17		  allserv   
+2018-03-16 14:32:17		  ban       
+2018-03-16 14:32:17		  cap       
+2018-03-16 14:32:17		  connect   
+2018-03-16 14:32:17		  ctcp      
+2018-03-16 14:32:17		  cycle     
+2018-03-16 14:32:17		  dcc       
+2018-03-16 14:32:17		  dehalfop  
+2018-03-16 14:32:17		  deop      
+2018-03-16 14:32:17		  devoice   
+2018-03-16 14:32:17		  die       
+2018-03-16 14:32:17		  disconnect
+2018-03-16 14:32:17		  halfop    
+2018-03-16 14:32:17		  ignore    
+2018-03-16 14:32:17		  info      
+2018-03-16 14:32:17		  invite    
+2018-03-16 14:32:17		  ison      
+2018-03-16 14:32:17		  join      
+2018-03-16 14:32:17		  kick      
+2018-03-16 14:32:17		  kickban   
+2018-03-16 14:32:17		  kill      
+2018-03-16 14:32:17		  links     
+2018-03-16 14:32:17		  list      
+2018-03-16 14:32:17		  lusers    
+2018-03-16 14:32:17		  map       
+2018-03-16 14:32:17		  me        
+2018-03-16 14:32:17		  mode      
+2018-03-16 14:32:17		  motd      
+2018-03-16 14:32:17		  msg       
+2018-03-16 14:32:17		  names     
+2018-03-16 14:32:17		  nick      
+2018-03-16 14:32:17		  notice    
+2018-03-16 14:32:17		  notify    
+2018-03-16 14:32:17		  op        
+2018-03-16 14:32:17		  oper      
+2018-03-16 14:32:17		  part      
+2018-03-16 14:32:17		  ping      
+2018-03-16 14:32:17		  pong      
+2018-03-16 14:32:17		  query     
+2018-03-16 14:32:17		  quiet     
+2018-03-16 14:32:17		  quote     
+2018-03-16 14:32:17		  reconnect 
+2018-03-16 14:32:17		  rehash    
+2018-03-16 14:32:17		  remove    
+2018-03-16 14:32:17		  restart   
+2018-03-16 14:32:17		  sajoin    
+2018-03-16 14:32:17		  samode    
+2018-03-16 14:32:17		  sanick    
+2018-03-16 14:32:17		  sapart    
+2018-03-16 14:32:17		  saquit    
+2018-03-16 14:32:17		  server    
+2018-03-16 14:32:17		  service   
+2018-03-16 14:32:17		  servlist  
+2018-03-16 14:32:17		  squery    
+2018-03-16 14:32:17		  squit     
+2018-03-16 14:32:17		  stats     
+2018-03-16 14:32:17		  summon    
+2018-03-16 14:32:17		  time      
+2018-03-16 14:32:17		  topic     
+2018-03-16 14:32:17		  trace     
+2018-03-16 14:32:17		  unban     
+2018-03-16 14:32:17		  unquiet   
+2018-03-16 14:32:17		  userhost  
+2018-03-16 14:32:17		  users     
+2018-03-16 14:32:17		  version   
+2018-03-16 14:32:17		  voice     
+2018-03-16 14:32:17		  wallchops 
+2018-03-16 14:32:17		  wallops   
+2018-03-16 14:32:17		  who       
+2018-03-16 14:32:17		  whois     
+2018-03-16 14:32:17		  whowas    
+2018-03-16 14:35:11		#### Retrieving a Slack token via OAUTH ####
+2018-03-16 14:35:11		1) Paste this into a browser: https://slack.com/oauth/authorize?client_id=2468770254.51917335286&scope=client
+2018-03-16 14:35:11		2) Select the team you wish to access from wee-slack in your browser.
+2018-03-16 14:35:11		3) Click "Authorize" in the browser **IMPORTANT: the redirect will fail, this is expected**
+2018-03-16 14:35:11		4) Copy the "code" portion of the URL to your clipboard
+2018-03-16 14:35:11		5) Return to weechat and run `/slack register [code]`
+2018-03-16 14:35:24		#### Retrieving a Slack token via OAUTH ####
+2018-03-16 14:35:24		1) Paste this into a browser: https://slack.com/oauth/authorize?client_id=2468770254.51917335286&scope=client
+2018-03-16 14:35:24		2) Select the team you wish to access from wee-slack in your browser.
+2018-03-16 14:35:24		3) Click "Authorize" in the browser **IMPORTANT: the redirect will fail, this is expected**
+2018-03-16 14:35:24		4) Copy the "code" portion of the URL to your clipboard
+2018-03-16 14:35:24		5) Return to weechat and run `/slack register [code]`
+2018-03-16 14:36:25		Success! Added team "NC State University ITng"
+2018-03-16 14:36:25		Please reload wee-slack with: /script reload slack
+2018-03-16 14:36:43		python: unloading script "slack"
+2018-03-16 14:36:43		python: script "slack" unloaded
+2018-03-16 14:36:43		python: loading script ".weechat/python/autoload"
+2018-03-16 14:36:43		python: registered script "slack", version 2.0.0 (Extends weechat for typing notification/search/etc on slack.com)
+2018-03-16 14:37:32		#### Retrieving a Slack token via OAUTH ####
+2018-03-16 14:37:32		1) Paste this into a browser: https://slack.com/oauth/authorize?client_id=2468770254.51917335286&scope=client
+2018-03-16 14:37:32		2) Select the team you wish to access from wee-slack in your browser.
+2018-03-16 14:37:32		3) Click "Authorize" in the browser **IMPORTANT: the redirect will fail, this is expected**
+2018-03-16 14:37:32		4) Copy the "code" portion of the URL to your clipboard
+2018-03-16 14:37:32		5) Return to weechat and run `/slack register [code]`
+2018-03-16 14:38:03		Success! Added team "plm18"
+2018-03-16 14:38:03		Please reload wee-slack with: /script reload slack
+2018-03-16 14:38:10		python: unloading script "slack"
+2018-03-16 14:38:10		python: script "slack" unloaded
+2018-03-16 14:38:10		python: loading script ".weechat/python/autoload"
+2018-03-16 14:38:10		python: registered script "slack", version 2.0.0 (Extends weechat for typing notification/search/etc on slack.com)
+2018-03-16 14:38:18		Options saved to sec.conf
+2018-03-16 14:38:18		Options saved to weechat.conf
+2018-03-16 14:38:18		Options saved to plugins.conf
+2018-03-16 14:38:18		Options saved to charset.conf
+2018-03-16 14:38:18		Options saved to logger.conf
+2018-03-16 14:38:18		Options saved to exec.conf
+2018-03-16 14:38:18		Options saved to trigger.conf
+2018-03-16 14:38:18		Options saved to aspell.conf
+2018-03-16 14:38:18		Options saved to alias.conf
+2018-03-16 14:38:18		Options saved to buflist.conf
+2018-03-16 14:38:18		Options saved to fifo.conf
+2018-03-16 14:38:18		Options saved to xfer.conf
+2018-03-16 14:38:18		Options saved to irc.conf
+2018-03-16 14:38:18		Options saved to relay.conf
+2018-03-16 14:38:18		Options saved to script.conf
+2018-03-16 14:38:18		Options saved to fset.conf
+2018-03-16 14:42:34	=!=	Error: WeeChat main buffer can't be closed
+2018-03-16 14:42:38	=!=	Error: WeeChat main buffer can't be closed
+2018-03-16 14:44:20		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-16 14:44:37	=!=	python: script ".config/python/autoload" not found
+2018-03-16 14:45:27		python: loading script "/home/jesse/.weechat/python/autoload"
+2018-03-16 14:45:27		python: registered script "slack", version 2.0.0 (Extends weechat for typing notification/search/etc on slack.com)
+2018-03-16 14:46:20		Buffers list:
+2018-03-16 14:46:20		  [1] core.weechat (notify: all)
+2018-03-16 14:46:20		  [1] python.ncstateuniversityitng.slack.com (notify: all)
+2018-03-16 14:46:20		  [1] python.plm18.slack.com (notify: all)
+2018-03-16 14:46:20		  [1] python.sturgill-operators.slack.com (notify: all)
+2018-03-16 14:46:20		  [2] python.ncstateuniversityitng.slack.com.#random (notify: all)
+2018-03-16 14:46:20		  [3] python.ncstateuniversityitng.slack.com.#rarediseases (notify: all)
+2018-03-16 14:46:20		  [4] python.ncstateuniversityitng.slack.com.jesse (notify: all)
+2018-03-16 14:46:20		  [5] python.ncstateuniversityitng.slack.com.#general (notify: all)
+2018-03-16 14:46:20		  [6] python.ncstateuniversityitng.slack.com.Arun (notify: all)
+2018-03-16 14:46:20		  [7] python.ncstateuniversityitng.slack.com.msbrown3 (notify: all)
+2018-03-16 14:46:20		  [8] python.ncstateuniversityitng.slack.com.googledrive (notify: all)
+2018-03-16 14:46:20		  [9] python.ncstateuniversityitng.slack.com.&patientportalpeeps (notify: all)
+2018-03-16 14:46:20		  [10] python.ncstateuniversityitng.slack.com.jbass (notify: all)
+2018-03-16 14:46:20		  [11] python.ncstateuniversityitng.slack.com.Sagar (notify: all)
+2018-03-16 14:46:20		  [12] python.ncstateuniversityitng.slack.com.mejohn (notify: all)
+2018-03-16 14:46:20		  [13] python.ncstateuniversityitng.slack.com.cmoon2 (notify: all)
+2018-03-16 14:46:20		  [14] python.ncstateuniversityitng.slack.com.mdkowole (notify: all)
+2018-03-16 14:46:20		  [15] python.ncstateuniversityitng.slack.com.Janne (notify: all)
+2018-03-16 14:46:20		  [16] python.ncstateuniversityitng.slack.com.slackbot (notify: all)
+2018-03-16 14:46:20		  [17] python.plm18.slack.com.slackbot (notify: all)
+2018-03-16 14:46:20		  [18] python.plm18.slack.com.cmthomp7 (notify: all)
+2018-03-16 14:46:20		  [19] python.plm18.slack.com.raayers (notify: all)
+2018-03-16 14:46:20		  [20] python.plm18.slack.com.#random (notify: all)
+2018-03-16 14:46:20		  [21] python.plm18.slack.com.#project (notify: all)
+2018-03-16 14:46:20		  [22] python.plm18.slack.com.#general (notify: all)
+2018-03-16 14:46:20		  [23] python.plm18.slack.com.GradyStewart (notify: all)
+2018-03-16 14:46:20		  [24] python.plm18.slack.com.timm (notify: all)
+2018-03-16 14:46:20		  [25] python.plm18.slack.com.hfernan (notify: all)
+2018-03-16 14:46:20		  [26] python.plm18.slack.com.#lectures (notify: all)
+2018-03-16 14:46:20		  [27] python.plm18.slack.com.mehess (notify: all)
+2018-03-16 14:46:20		  [28] python.plm18.slack.com.kjandre2 (notify: all)
+2018-03-16 14:46:20		  [29] python.plm18.slack.com.#review (notify: all)
+2018-03-16 14:46:20		  [30] python.plm18.slack.com.Jesse (notify: all)
+2018-03-16 14:46:20		  [31] python.plm18.slack.com.asuh (notify: all)
+2018-03-16 14:46:20		  [32] python.plm18.slack.com.&group-n (notify: all)
+2018-03-16 14:46:20		  [33] python.plm18.slack.com.#proj3_apr13 (notify: all)
+2018-03-16 14:46:20		  [34] python.plm18.slack.com.#exams (notify: all)
+2018-03-16 14:46:20		  [35] python.plm18.slack.com.#homework (notify: all)
+2018-03-16 14:46:20		  [36] python.plm18.slack.com.#proj1_feb7 (notify: all)
+2018-03-16 14:46:20		  [37] python.plm18.slack.com.Dax (notify: all)
+2018-03-16 14:46:20		  [38] python.plm18.slack.com.#python101 (notify: all)
+2018-03-16 14:46:20		  [39] python.plm18.slack.com.#proj2_mar1 (notify: all)
+2018-03-16 14:46:20		  [40] python.sturgill-operators.slack.com.#game_design_spring_18 (notify: all)
+2018-03-16 14:46:20		  [41] python.sturgill-operators.slack.com.#general (notify: all)
+2018-03-16 14:46:20		  [42] python.sturgill-operators.slack.com.#plm2018 (notify: all)
+2018-03-16 14:46:20		  [43] python.sturgill-operators.slack.com.jesse (notify: all)
+2018-03-16 14:46:20		  [44] python.sturgill-operators.slack.com.#random (notify: all)
+2018-03-16 14:46:20		  [45] python.sturgill-operators.slack.com.slackbot (notify: all)
+2018-03-16 14:46:20		  [46] python.sturgill-operators.slack.com.chrisaben (notify: all)
+2018-03-16 14:47:04	=!=	Error with command "/buffer gjabell" (help on command: /help buffer)
+2018-03-16 14:47:15		[core]  /buffer  list
+2018-03-16 14:47:15		                 clear [<number>|<name>|-merged|-all [<number>|<name>...]]
+2018-03-16 14:47:15		                 move <number>|-|+
+2018-03-16 14:47:15		                 swap <number1>|<name1> [<number2>|<name2>]
+2018-03-16 14:47:15		                 cycle <number>|<name> [<number>|<name>...]
+2018-03-16 14:47:15		                 merge <number>
+2018-03-16 14:47:15		                 unmerge [<number>|-all]
+2018-03-16 14:47:15		                 hide [<number>|<name>|-all [<number>|<name>...]]
+2018-03-16 14:47:15		                 unhide [<number>|<name>|-all [<number>|<name>...]]
+2018-03-16 14:47:15		                 renumber [<number1> [<number2> [<start>]]]
+2018-03-16 14:47:15		                 close [<n1>[-<n2>]|<name>]
+2018-03-16 14:47:15		                 notify <level>
+2018-03-16 14:47:15		                 localvar
+2018-03-16 14:47:15		                 set <property> [<value>]
+2018-03-16 14:47:15		                 get <property>
+2018-03-16 14:47:15		                 <number>|-|+|<name>
+2018-03-16 14:47:15		manage buffers
+2018-03-16 14:47:15		    list: list buffers (without argument, this list is displayed)
+2018-03-16 14:47:15		   clear: clear buffer content (number for a buffer, -merged for merged buffers, -all for all buffers, or nothing for current buffer)
+2018-03-16 14:47:15		    move: move buffer in the list (may be relative, for example -1); "-" = move to first buffer number, "+" = move to last buffer number + 1
+2018-03-16 14:47:15		    swap: swap two buffers (swap with current buffer if only one number/name given)
+2018-03-16 14:47:15		   cycle: jump loop between a list of buffers
+2018-03-16 14:47:15		   merge: merge current buffer to another buffer (chat area will be mix of both buffers)
+2018-03-16 14:47:15		          (by default ctrl-x switches between merged buffers)
+2018-03-16 14:47:15		 unmerge: unmerge buffer from other buffers which have same number
+2018-03-16 14:47:15		    hide: hide the buffer
+2018-03-16 14:47:15		  unhide: unhide the buffer
+2018-03-16 14:47:15		renumber: renumber buffers (works only if option weechat.look.buffer_auto_renumber is off)
+2018-03-16 14:47:15		   close: close buffer (number/range or name is optional)
+2018-03-16 14:47:15		  notify: set notify level for current buffer: this level determines whether buffer will be added to hotlist or not:
+2018-03-16 14:47:15		               none: never
+2018-03-16 14:47:15		          highlight: for highlights only
+2018-03-16 14:47:15		            message: for messages from users + highlights
+2018-03-16 14:47:15		                all: all messages
+2018-03-16 14:47:15		              reset: reset to default value (all)
+2018-03-16 14:47:15		localvar: display local variables for current buffer
+2018-03-16 14:47:15		     set: set a property for current buffer
+2018-03-16 14:47:15		     get: display a property of current buffer
+2018-03-16 14:47:15		  number: jump to buffer by number, possible prefix:
+2018-03-16 14:47:15		          '+': relative jump, add number to current
+2018-03-16 14:47:15		          '-': relative jump, sub number to current
+2018-03-16 14:47:15		          '*': jump to number, using option "weechat.look.jump_current_to_previous_buffer"
+2018-03-16 14:47:15		       -: jump to first buffer number
+2018-03-16 14:47:15		       +: jump to last buffer number
+2018-03-16 14:47:15		    name: jump to buffer by (partial) name
+2018-03-16 14:47:15		Examples:
+2018-03-16 14:47:15		  clear current buffer:
+2018-03-16 14:47:15		    /buffer clear
+2018-03-16 14:47:15		  move buffer to number 5:
+2018-03-16 14:47:15		    /buffer move 5
+2018-03-16 14:47:15		  swap buffer 1 with 3:
+2018-03-16 14:47:15		    /buffer swap 1 3
+2018-03-16 14:47:15		  swap buffer #weechat with current buffer:
+2018-03-16 14:47:15		    /buffer swap #weechat
+2018-03-16 14:47:15		  jump on #chan1, #chan2, #chan3 and loop:
+2018-03-16 14:47:15		    /buffer cycle #chan1 #chan2 #chan3
+2018-03-16 14:47:15		  merge with core buffer:
+2018-03-16 14:47:15		    /buffer merge 1
+2018-03-16 14:47:15		  unmerge buffer:
+2018-03-16 14:47:15		    /buffer unmerge
+2018-03-16 14:47:15		  close current buffer:
+2018-03-16 14:47:15		    /buffer close
+2018-03-16 14:47:15		  close buffers 5 to 7:
+2018-03-16 14:47:15		    /buffer close 5-7
+2018-03-16 14:47:15		  jump to #weechat:
+2018-03-16 14:47:15		    /buffer #weechat
+2018-03-16 14:47:15		  jump to next buffer:
+2018-03-16 14:47:15		    /buffer +1
+2018-03-16 14:47:15		  jump to last buffer number:
+2018-03-16 14:47:15		    /buffer +
+2018-03-16 14:47:27	=!=	Error with command "/buffer help" (help on command: /help buffer)
+2018-03-16 14:47:30		[core]  /buffer  list
+2018-03-16 14:47:30		                 clear [<number>|<name>|-merged|-all [<number>|<name>...]]
+2018-03-16 14:47:30		                 move <number>|-|+
+2018-03-16 14:47:30		                 swap <number1>|<name1> [<number2>|<name2>]
+2018-03-16 14:47:30		                 cycle <number>|<name> [<number>|<name>...]
+2018-03-16 14:47:30		                 merge <number>
+2018-03-16 14:47:30		                 unmerge [<number>|-all]
+2018-03-16 14:47:30		                 hide [<number>|<name>|-all [<number>|<name>...]]
+2018-03-16 14:47:30		                 unhide [<number>|<name>|-all [<number>|<name>...]]
+2018-03-16 14:47:30		                 renumber [<number1> [<number2> [<start>]]]
+2018-03-16 14:47:30		                 close [<n1>[-<n2>]|<name>]
+2018-03-16 14:47:30		                 notify <level>
+2018-03-16 14:47:30		                 localvar
+2018-03-16 14:47:30		                 set <property> [<value>]
+2018-03-16 14:47:30		                 get <property>
+2018-03-16 14:47:30		                 <number>|-|+|<name>
+2018-03-16 14:47:30		manage buffers
+2018-03-16 14:47:30		    list: list buffers (without argument, this list is displayed)
+2018-03-16 14:47:30		   clear: clear buffer content (number for a buffer, -merged for merged buffers, -all for all buffers, or nothing for current buffer)
+2018-03-16 14:47:30		    move: move buffer in the list (may be relative, for example -1); "-" = move to first buffer number, "+" = move to last buffer number + 1
+2018-03-16 14:47:30		    swap: swap two buffers (swap with current buffer if only one number/name given)
+2018-03-16 14:47:30		   cycle: jump loop between a list of buffers
+2018-03-16 14:47:30		   merge: merge current buffer to another buffer (chat area will be mix of both buffers)
+2018-03-16 14:47:30		          (by default ctrl-x switches between merged buffers)
+2018-03-16 14:47:30		 unmerge: unmerge buffer from other buffers which have same number
+2018-03-16 14:47:30		    hide: hide the buffer
+2018-03-16 14:47:30		  unhide: unhide the buffer
+2018-03-16 14:47:30		renumber: renumber buffers (works only if option weechat.look.buffer_auto_renumber is off)
+2018-03-16 14:47:30		   close: close buffer (number/range or name is optional)
+2018-03-16 14:47:30		  notify: set notify level for current buffer: this level determines whether buffer will be added to hotlist or not:
+2018-03-16 14:47:30		               none: never
+2018-03-16 14:47:30		          highlight: for highlights only
+2018-03-16 14:47:30		            message: for messages from users + highlights
+2018-03-16 14:47:30		                all: all messages
+2018-03-16 14:47:30		              reset: reset to default value (all)
+2018-03-16 14:47:30		localvar: display local variables for current buffer
+2018-03-16 14:47:30		     set: set a property for current buffer
+2018-03-16 14:47:30		     get: display a property of current buffer
+2018-03-16 14:47:30		  number: jump to buffer by number, possible prefix:
+2018-03-16 14:47:30		          '+': relative jump, add number to current
+2018-03-16 14:47:30		          '-': relative jump, sub number to current
+2018-03-16 14:47:30		          '*': jump to number, using option "weechat.look.jump_current_to_previous_buffer"
+2018-03-16 14:47:30		       -: jump to first buffer number
+2018-03-16 14:47:30		       +: jump to last buffer number
+2018-03-16 14:47:30		    name: jump to buffer by (partial) name
+2018-03-16 14:47:30		Examples:
+2018-03-16 14:47:30		  clear current buffer:
+2018-03-16 14:47:30		    /buffer clear
+2018-03-16 14:47:30		  move buffer to number 5:
+2018-03-16 14:47:30		    /buffer move 5
+2018-03-16 14:47:30		  swap buffer 1 with 3:
+2018-03-16 14:47:30		    /buffer swap 1 3
+2018-03-16 14:47:30		  swap buffer #weechat with current buffer:
+2018-03-16 14:47:30		    /buffer swap #weechat
+2018-03-16 14:47:30		  jump on #chan1, #chan2, #chan3 and loop:
+2018-03-16 14:47:30		    /buffer cycle #chan1 #chan2 #chan3
+2018-03-16 14:47:30		  merge with core buffer:
+2018-03-16 14:47:30		    /buffer merge 1
+2018-03-16 14:47:30		  unmerge buffer:
+2018-03-16 14:47:30		    /buffer unmerge
+2018-03-16 14:47:30		  close current buffer:
+2018-03-16 14:47:30		    /buffer close
+2018-03-16 14:47:30		  close buffers 5 to 7:
+2018-03-16 14:47:30		    /buffer close 5-7
+2018-03-16 14:47:30		  jump to #weechat:
+2018-03-16 14:47:30		    /buffer #weechat
+2018-03-16 14:47:30		  jump to next buffer:
+2018-03-16 14:47:30		    /buffer +1
+2018-03-16 14:47:30		  jump to last buffer number:
+2018-03-16 14:47:30		    /buffer +
+2018-03-16 14:47:38	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2018-03-16 14:47:43		[core]
+2018-03-16 14:47:43		  away     color    debug    help     key      mute     proxy    repeat   set      uptime   window 
+2018-03-16 14:47:43		  bar      command  eval     history  layout   plugin   quit     save     unset    version
+2018-03-16 14:47:43		  buffer   cursor   filter   input    mouse    print    reload   secure   upgrade  wait   
+2018-03-16 14:47:43		[alias]
+2018-03-16 14:47:43		  AAWAY    ANICK    CHAT     IG       LEAVE    N        SIGNOFF  V        WII    
+2018-03-16 14:47:43		  alias    BEEP     CL       J        M        Q        T        W        WW     
+2018-03-16 14:47:43		  AME      BYE      CLOSE    K        MSGBUF   REDRAW   UB       WC     
+2018-03-16 14:47:43		  AMSG     C        EXIT     KB       MUB      SAY      UMODE    WI     
+2018-03-16 14:47:43		[fifo]
+2018-03-16 14:47:43		  fifo
+2018-03-16 14:47:43		[lua]
+2018-03-16 14:47:43		  lua
+2018-03-16 14:47:43		[relay]
+2018-03-16 14:47:43		  relay
+2018-03-16 14:47:43		[ruby]
+2018-03-16 14:47:43		  ruby
+2018-03-16 14:47:43		[tcl]
+2018-03-16 14:47:43		  tcl
+2018-03-16 14:47:43		[fset]
+2018-03-16 14:47:43		  fset
+2018-03-16 14:47:43		[exec]
+2018-03-16 14:47:43		  exec
+2018-03-16 14:47:43		[python]
+2018-03-16 14:47:43		  python  slack
+2018-03-16 14:47:43		[trigger]
+2018-03-16 14:47:43		  trigger
+2018-03-16 14:47:43		[logger]
+2018-03-16 14:47:43		  logger
+2018-03-16 14:47:43		[xfer]
+2018-03-16 14:47:43		  me  xfer
+2018-03-16 14:47:43		[script]
+2018-03-16 14:47:43		  script
+2018-03-16 14:47:43		[buflist]
+2018-03-16 14:47:43		  buflist
+2018-03-16 14:47:43		[perl]
+2018-03-16 14:47:43		  perl
+2018-03-16 14:47:43		[aspell]
+2018-03-16 14:47:43		  aspell
+2018-03-16 14:47:43		[charset]
+2018-03-16 14:47:43		  charset
+2018-03-16 14:47:43		[irc]
+2018-03-16 14:47:43		  admin       dehalfop    join        motd        pong        sanick      time        wallops   
+2018-03-16 14:47:43		  allchan     deop        kick        msg         query       sapart      topic       who       
+2018-03-16 14:47:43		  allpv       devoice     kickban     names       quiet       saquit      trace       whois     
+2018-03-16 14:47:43		  allserv     die         kill        nick        quote       server      unban       whowas    
+2018-03-16 14:47:43		  ban         disconnect  links       notice      reconnect   service     unquiet   
+2018-03-16 14:47:43		  cap         halfop      list        notify      rehash      servlist    userhost  
+2018-03-16 14:47:43		  connect     ignore      lusers      op          remove      squery      users     
+2018-03-16 14:47:43		  ctcp        info        map         oper        restart     squit       version   
+2018-03-16 14:47:43		  cycle       invite      me          part        sajoin      stats       voice     
+2018-03-16 14:47:43		  dcc         ison        mode        ping        samode      summon      wallchops 
+2018-03-16 14:47:49	=!=	irc: command "lusers" must be executed on irc buffer (server or channel)
+2018-03-16 14:48:00	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2018-03-16 14:48:12	=!=	irc: unable to add temporary server "plm18.slack.com" because the addition of temporary servers with command /connect is currently disabled
+2018-03-16 14:48:12	=!=	irc: if you want to add a standard server, use the command "/server add" (see /help server); if you really want to add a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
+2018-03-16 14:48:18		No server
+2018-03-16 14:50:13		Buffers list:
+2018-03-16 14:50:13		  [1] core.weechat (notify: all)
+2018-03-16 14:50:13		  [1] python.ncstateuniversityitng.slack.com (notify: all)
+2018-03-16 14:50:13		  [1] python.plm18.slack.com (notify: all)
+2018-03-16 14:50:13		  [1] python.sturgill-operators.slack.com (notify: all)
+2018-03-16 14:50:13		  [2] python.ncstateuniversityitng.slack.com.#random (notify: all)
+2018-03-16 14:50:13		  [3] python.ncstateuniversityitng.slack.com.#rarediseases (notify: all)
+2018-03-16 14:50:13		  [4] python.ncstateuniversityitng.slack.com.jesse (notify: all)
+2018-03-16 14:50:13		  [5] python.ncstateuniversityitng.slack.com.#general (notify: all)
+2018-03-16 14:50:13		  [6] python.ncstateuniversityitng.slack.com.Arun (notify: all)
+2018-03-16 14:50:13		  [7] python.ncstateuniversityitng.slack.com.msbrown3 (notify: all)
+2018-03-16 14:50:13		  [8] python.ncstateuniversityitng.slack.com.googledrive (notify: all)
+2018-03-16 14:50:13		  [9] python.ncstateuniversityitng.slack.com.&patientportalpeeps (notify: all)
+2018-03-16 14:50:13		  [10] python.ncstateuniversityitng.slack.com.jbass (notify: all)
+2018-03-16 14:50:13		  [11] python.ncstateuniversityitng.slack.com.Sagar (notify: all)
+2018-03-16 14:50:13		  [12] python.ncstateuniversityitng.slack.com.mejohn (notify: all)
+2018-03-16 14:50:13		  [13] python.ncstateuniversityitng.slack.com.cmoon2 (notify: all)
+2018-03-16 14:50:13		  [14] python.ncstateuniversityitng.slack.com.mdkowole (notify: all)
+2018-03-16 14:50:13		  [15] python.ncstateuniversityitng.slack.com.Janne (notify: all)
+2018-03-16 14:50:13		  [16] python.ncstateuniversityitng.slack.com.slackbot (notify: all)
+2018-03-16 14:50:13		  [17] python.plm18.slack.com.slackbot (notify: all)
+2018-03-16 14:50:13		  [18] python.plm18.slack.com.cmthomp7 (notify: all)
+2018-03-16 14:50:13		  [19] python.plm18.slack.com.raayers (notify: all)
+2018-03-16 14:50:13		  [20] python.plm18.slack.com.#random (notify: all)
+2018-03-16 14:50:13		  [21] python.plm18.slack.com.#project (notify: all)
+2018-03-16 14:50:13		  [22] python.plm18.slack.com.#general (notify: all)
+2018-03-16 14:50:13		  [23] python.plm18.slack.com.GradyStewart (notify: all)
+2018-03-16 14:50:13		  [24] python.plm18.slack.com.timm (notify: all)
+2018-03-16 14:50:13		  [25] python.plm18.slack.com.hfernan (notify: all)
+2018-03-16 14:50:13		  [26] python.plm18.slack.com.#lectures (notify: all)
+2018-03-16 14:50:13		  [27] python.plm18.slack.com.mehess (notify: all)
+2018-03-16 14:50:13		  [28] python.plm18.slack.com.kjandre2 (notify: all)
+2018-03-16 14:50:13		  [29] python.plm18.slack.com.#review (notify: all)
+2018-03-16 14:50:13		  [30] python.plm18.slack.com.Jesse (notify: all)
+2018-03-16 14:50:13		  [31] python.plm18.slack.com.asuh (notify: all)
+2018-03-16 14:50:13		  [32] python.plm18.slack.com.&group-n (notify: all)
+2018-03-16 14:50:13		  [33] python.plm18.slack.com.#proj3_apr13 (notify: all)
+2018-03-16 14:50:13		  [34] python.plm18.slack.com.#exams (notify: all)
+2018-03-16 14:50:13		  [35] python.plm18.slack.com.#homework (notify: all)
+2018-03-16 14:50:13		  [36] python.plm18.slack.com.#proj1_feb7 (notify: all)
+2018-03-16 14:50:13		  [37] python.plm18.slack.com.Dax (notify: all)
+2018-03-16 14:50:13		  [38] python.plm18.slack.com.#python101 (notify: all)
+2018-03-16 14:50:13		  [39] python.plm18.slack.com.#proj2_mar1 (notify: all)
+2018-03-16 14:50:13		  [40] python.sturgill-operators.slack.com.#game_design_spring_18 (notify: all)
+2018-03-16 14:50:13		  [41] python.sturgill-operators.slack.com.#general (notify: all)
+2018-03-16 14:50:13		  [42] python.sturgill-operators.slack.com.#plm2018 (notify: all)
+2018-03-16 14:50:13		  [43] python.sturgill-operators.slack.com.jesse (notify: all)
+2018-03-16 14:50:13		  [44] python.sturgill-operators.slack.com.#random (notify: all)
+2018-03-16 14:50:13		  [45] python.sturgill-operators.slack.com.slackbot (notify: all)
+2018-03-16 14:50:13		  [46] python.sturgill-operators.slack.com.chrisaben (notify: all)
+2018-03-16 14:50:13		  [47] python.sturgill-operators.slack.com.gjabell (notify: all)
+2018-03-16 14:51:35		Command not found: chat
+2018-03-16 14:52:12	=!=	irc: command "query" must be executed on irc buffer (server or channel)
+2018-03-16 14:52:29	=!=	irc: command "part" must be executed on irc buffer (server or channel)
+2018-03-16 14:52:41	=!=	irc: command "part" must be executed on irc buffer (server or channel)
+2018-03-16 14:52:51	=!=	irc: command "part" must be executed on irc buffer (server or channel)
+2018-03-16 14:53:05	=!=	irc: command "part" must be executed on irc buffer (server or channel)
+2018-03-16 14:53:12	=!=	irc: command "part" must be executed on irc buffer (server or channel)
+2018-03-16 14:53:56		No server
+2018-03-16 14:54:16	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2018-03-16 14:55:32	=!=	Too few arguments for command "/query" (help on command: /help query)
+2018-03-16 14:55:35		[irc]  /query  [-noswitch] [-server <server>] <nick>[,<nick>...] [<text>]
+2018-03-16 14:55:35		send a private message to a nick
+2018-03-16 14:55:35		-noswitch: do not switch to new buffer
+2018-03-16 14:55:35		   server: send to this server (internal name)
+2018-03-16 14:55:35		     nick: nick
+2018-03-16 14:55:35		     text: text to send
+2018-03-16 14:55:48	=!=	irc: command "query" must be executed on irc buffer (server or channel)
+2018-03-16 14:56:07	=!=	Error with command "/query -server sturgill-operators.slack.com gjabell" (help on command: /help query)
+2018-03-16 14:56:26	=!=	irc: command "list" must be executed on irc buffer (server or channel)
+2018-03-16 14:56:28	=!=	irc: command "list" must be executed on irc buffer (server or channel)
+2018-03-16 14:59:24		Options saved to sec.conf
+2018-03-16 14:59:24		Options saved to weechat.conf
+2018-03-16 14:59:24		Options saved to plugins.conf
+2018-03-16 14:59:24		Options saved to charset.conf
+2018-03-16 14:59:24		Options saved to logger.conf
+2018-03-16 14:59:24		Options saved to exec.conf
+2018-03-16 14:59:24		Options saved to trigger.conf
+2018-03-16 14:59:24		Options saved to aspell.conf
+2018-03-16 14:59:24		Options saved to alias.conf
+2018-03-16 14:59:24		Options saved to buflist.conf
+2018-03-16 14:59:24		Options saved to fifo.conf
+2018-03-16 14:59:24		Options saved to xfer.conf
+2018-03-16 14:59:24		Options saved to irc.conf
+2018-03-16 14:59:24		Options saved to relay.conf
+2018-03-16 14:59:24		Options saved to script.conf
+2018-03-16 14:59:24		Options saved to fset.conf
+2018-03-16 14:59:55		Options saved to sec.conf
+2018-03-16 14:59:55		Options saved to weechat.conf
+2018-03-16 14:59:55		Options saved to plugins.conf
+2018-03-16 14:59:55		Options saved to charset.conf
+2018-03-16 14:59:55		Options saved to logger.conf
+2018-03-16 14:59:55		Options saved to exec.conf
+2018-03-16 14:59:55		Options saved to trigger.conf
+2018-03-16 14:59:55		Options saved to aspell.conf
+2018-03-16 14:59:55		Options saved to alias.conf
+2018-03-16 14:59:55		Options saved to buflist.conf
+2018-03-16 14:59:55		Options saved to fifo.conf
+2018-03-16 14:59:55		Options saved to xfer.conf
+2018-03-16 14:59:55		Options saved to irc.conf
+2018-03-16 14:59:55		Options saved to relay.conf
+2018-03-16 14:59:55		Options saved to script.conf
+2018-03-16 14:59:55		Options saved to fset.conf
+2018-03-16 14:59:59	=!=	Error: WeeChat main buffer can't be closed
+2018-03-16 15:00:02		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-16 15:00:21		python: loading script ".weechat/python/autoload"
+2018-03-16 15:00:22		python: registered script "slack", version 2.0.0 (Extends weechat for typing notification/search/etc on slack.com)
+2018-03-16 15:07:28		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-16 15:07:41	=!=	python: script ".config/python/autoload" not found
+2018-03-16 15:07:46	=!=	python: script ".config/python/autoload.py" not found
+2018-03-16 15:07:53	=!=	python: script ".weechat/python/autoload.py" not found
+2018-03-16 15:07:54		python: loading script ".weechat/python/autoload"
+2018-03-16 15:07:55		python: registered script "slack", version 2.0.0 (Extends weechat for typing notification/search/etc on slack.com)
+2018-03-16 15:10:50		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-16 15:11:56		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-16 15:12:02	=!=	You can not write text in this buffer
+2018-03-16 15:13:05		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-16 15:13:18		python: loading script ".weechat/python/autoload"
+2018-03-16 15:13:19		python: registered script "slack", version 2.0.0 (Extends weechat for typing notification/search/etc on slack.com)
+2018-03-16 15:16:18		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-16 15:16:29	=!=	python: script ".config/python/autoload" not found
+2018-03-16 15:16:35		python: loading script ".weechat/python/autoload"
+2018-03-16 15:16:35		python: registered script "slack", version 2.0.0 (Extends weechat for typing notification/search/etc on slack.com)
+2018-03-16 15:18:40		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-16 15:20:12		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-16 15:20:34	=!=	You can not write text in this buffer
+2018-03-16 15:20:45		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-16 15:20:50	=!=	python: script "python/autoload/wee_slack.py" not found
+2018-03-16 15:21:02	=!=	python: script ".weechat/python/autoload/wee_slack.py" not found
+2018-03-16 15:21:17	=!=	python: script ".weechat/python/autoload" not found
+2018-03-16 15:23:34		python scripts loaded: slack
+2018-03-16 15:23:34		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-16 17:23:22		python scripts loaded: slack
+2018-03-16 17:23:22		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-16 19:35:17		python scripts loaded: slack
+2018-03-16 19:35:17		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-16 22:32:08		python scripts loaded: slack
+2018-03-16 22:32:08		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-17 10:18:32		python scripts loaded: slack
+2018-03-17 10:18:32		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-17 15:48:04		python scripts loaded: slack
+2018-03-17 15:48:04		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-19 09:55:03		python scripts loaded: slack
+2018-03-19 09:55:03		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-19 11:52:18		python scripts loaded: slack
+2018-03-19 11:52:18		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-19 14:14:59		python scripts loaded: slack
+2018-03-19 14:14:59		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-19 16:42:52		python scripts loaded: slack
+2018-03-19 16:42:52		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-19 21:11:44		python scripts loaded: slack
+2018-03-19 21:11:44		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-20 10:04:56		python scripts loaded: slack
+2018-03-20 10:04:56		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-20 16:43:06		python scripts loaded: slack
+2018-03-20 16:43:06		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-20 20:42:29		python scripts loaded: slack
+2018-03-20 20:42:29		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-20 20:42:52		python scripts loaded: slack
+2018-03-20 20:42:52		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-20 22:05:50		python scripts loaded: slack
+2018-03-20 22:05:50		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-21 07:56:25		python scripts loaded: slack
+2018-03-21 07:56:25		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-21 11:58:29		python scripts loaded: slack
+2018-03-21 11:58:29		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-21 12:56:38		python scripts loaded: slack
+2018-03-21 12:56:38		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-21 14:05:45		python scripts loaded: slack
+2018-03-21 14:05:45		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-21 14:20:11		python scripts loaded: slack
+2018-03-21 14:20:11		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-22 11:06:35		python scripts loaded: slack
+2018-03-22 11:06:35		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-22 16:07:29		python scripts loaded: slack
+2018-03-22 16:07:29		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-22 16:58:55		python scripts loaded: slack
+2018-03-22 16:58:55		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-22 21:08:19		python scripts loaded: slack
+2018-03-22 21:08:19		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-22 21:08:48	=!=	Error: unknown command "/bufer" (type /help for help)
+2018-03-24 11:28:01		python scripts loaded: slack
+2018-03-24 11:28:01		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-24 16:44:26		python scripts loaded: slack
+2018-03-24 16:44:26		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-24 16:45:52		python scripts loaded: slack
+2018-03-24 16:45:52		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-24 16:46:00	=!=	Error: unknown command "/channels" (type /help for help)
+2018-03-24 16:46:15		Command not found: help
+2018-03-24 16:46:18		Command not found: 
+2018-03-24 16:46:23		[python/slack]  /slack  [command] [command options]
+2018-03-24 16:46:23		Plugin to allow typing notification and sync of read markers for slack.com
+2018-03-24 16:46:23		Commands:
+2018-03-24 16:46:23		status
+2018-03-24 16:46:23		nodistractions
+2018-03-24 16:46:23		showmuted
+2018-03-24 16:46:23		mute
+2018-03-24 16:46:23		away
+2018-03-24 16:46:23		register
+2018-03-24 16:46:23		openweb
+2018-03-24 16:46:23		p
+2018-03-24 16:46:23		back
+2018-03-24 16:46:23		channels
+2018-03-24 16:46:23		distracting
+2018-03-24 16:46:23		upload
+2018-03-24 16:46:23		slash
+2018-03-24 16:46:23		talk
+2018-03-24 16:46:23		users
+2018-03-24 16:46:23		Use /slack help [command] to find out more
+2018-03-24 16:46:41		Command not found: help
+2018-03-24 16:46:48		Command not found: help
+2018-03-24 16:46:52		Command not found: help
+2018-03-24 20:24:52		python scripts loaded: slack
+2018-03-24 20:24:52		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-25 11:52:20		python scripts loaded: slack
+2018-03-25 11:52:20		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-25 17:14:14		python scripts loaded: slack
+2018-03-25 17:14:14		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-25 19:37:07		python scripts loaded: slack
+2018-03-25 19:37:07		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-25 19:37:34		python scripts loaded: slack
+2018-03-25 19:37:34		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-25 19:52:05		python scripts loaded: slack
+2018-03-25 19:52:05		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-26 09:07:57		python scripts loaded: slack
+2018-03-26 09:07:57		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-27 16:38:40		python scripts loaded: slack
+2018-03-27 16:38:41		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-28 10:19:27		python scripts loaded: slack
+2018-03-28 10:19:27		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-28 14:40:13		python scripts loaded: slack
+2018-03-28 14:40:13		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-28 14:56:31		python scripts loaded: slack
+2018-03-28 14:56:31		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-28 20:42:57		python scripts loaded: slack
+2018-03-28 20:42:57		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-28 20:43:18		python scripts loaded: slack
+2018-03-28 20:43:18		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-29 16:32:13		python scripts loaded: slack
+2018-03-29 16:32:13		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-29 17:06:06		Command not found: channel
+2018-03-29 17:06:18		Command not found: list
+2018-03-29 17:06:23		Command not found: list
+2018-03-29 17:06:35		Command not found: channel
+2018-03-29 21:33:49		python scripts loaded: slack
+2018-03-29 21:33:49		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-30 19:32:58		python scripts loaded: slack
+2018-03-30 19:32:58		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-31 15:25:23		python scripts loaded: slack
+2018-03-31 15:25:23		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-03-31 15:45:14		python scripts loaded: slack
+2018-03-31 15:45:14		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-01 10:25:44		python scripts loaded: slack
+2018-04-01 10:25:44		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-02 16:56:31		python scripts loaded: slack
+2018-04-02 16:56:31		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-03 13:34:53		python scripts loaded: slack
+2018-04-03 13:34:53		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-03 16:38:26		python scripts loaded: slack
+2018-04-03 16:38:26		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-03 20:22:33		python scripts loaded: slack
+2018-04-03 20:22:33		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-04 17:58:05		python scripts loaded: slack
+2018-04-04 17:58:05		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-04 20:54:02		python scripts loaded: slack
+2018-04-04 20:54:02		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-05 09:25:58		python scripts loaded: slack
+2018-04-05 09:25:58		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-05 11:13:26		python scripts loaded: slack
+2018-04-05 11:13:26		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-05 13:46:56		python scripts loaded: slack
+2018-04-05 13:46:56		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-05 14:12:49		python scripts loaded: slack
+2018-04-05 14:12:49		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-05 18:00:45		python scripts loaded: slack
+2018-04-05 18:00:45		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-05 18:03:08		python scripts loaded: slack
+2018-04-05 18:03:08		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-05 19:10:11		python scripts loaded: slack
+2018-04-05 19:10:11		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-05 19:32:04		python scripts loaded: slack
+2018-04-05 19:32:04		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-06 14:50:57		python scripts loaded: slack
+2018-04-06 14:50:57		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-06 23:14:52		python scripts loaded: slack
+2018-04-06 23:14:52		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-06 23:15:27	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2018-04-06 23:15:36	=!=	Error with command "/server @jesse:jessesimpsoncodes.com" (help on command: /help server)
+2018-04-06 23:15:44		[irc]  /server  list|listfull [<server>]
+2018-04-06 23:15:44		                add <server> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2018-04-06 23:15:44		                copy|rename <server> <new_name>
+2018-04-06 23:15:44		                reorder <server> [<server>...]
+2018-04-06 23:15:44		                open <server>|-all [<server>...]
+2018-04-06 23:15:44		                del|keep <server>
+2018-04-06 23:15:44		                deloutq|jump|raw
+2018-04-06 23:15:44		list, add or remove IRC servers
+2018-04-06 23:15:44		    list: list servers (without argument, this list is displayed)
+2018-04-06 23:15:44		listfull: list servers with detailed info for each server
+2018-04-06 23:15:44		     add: add a new server
+2018-04-06 23:15:44		  server: server name, for internal and display use
+2018-04-06 23:15:44		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2018-04-06 23:15:44		   -temp: add a temporary server (not saved)
+2018-04-06 23:15:44		  option: set option for server (for boolean option, value can be omitted)
+2018-04-06 23:15:44		nooption: set boolean option to 'off' (for example: -nossl)
+2018-04-06 23:15:44		    copy: duplicate a server
+2018-04-06 23:15:44		  rename: rename a server
+2018-04-06 23:15:44		 reorder: reorder list of servers
+2018-04-06 23:15:44		    open: open the server buffer without connecting
+2018-04-06 23:15:44		    keep: keep server in config file (for temporary servers only)
+2018-04-06 23:15:44		     del: delete a server
+2018-04-06 23:15:44		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2018-04-06 23:15:44		    jump: jump to server buffer
+2018-04-06 23:15:44		     raw: open buffer with raw IRC data
+2018-04-06 23:15:44		Examples:
+2018-04-06 23:15:44		  /server listfull
+2018-04-06 23:15:44		  /server add freenode chat.freenode.net
+2018-04-06 23:15:44		  /server add freenode chat.freenode.net/6697 -ssl -autoconnect
+2018-04-06 23:15:44		  /server add chatspike irc.chatspike.net/6667,irc.duckspike.net/6667
+2018-04-06 23:15:44		  /server copy freenode freenode-test
+2018-04-06 23:15:44		  /server rename freenode-test freenode2
+2018-04-06 23:15:44		  /server reorder freenode2 freenode
+2018-04-06 23:15:44		  /server del freenode
+2018-04-06 23:15:44		  /server deloutq
+2018-04-06 23:15:56	=!=	Too few arguments for command "/server add" (help on command: /help server)
+2018-04-07 10:15:57		python scripts loaded: slack
+2018-04-07 10:15:57		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-07 16:55:23		python scripts loaded: slack
+2018-04-07 16:55:23		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-07 16:55:32		python scripts loaded: slack
+2018-04-07 16:55:32		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-07 19:59:06		python scripts loaded: slack
+2018-04-07 19:59:06		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-07 20:02:07		python scripts loaded: slack
+2018-04-07 20:02:07		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-08 11:06:30		python scripts loaded: slack
+2018-04-08 11:06:30		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-08 11:06:52		python scripts loaded: slack
+2018-04-08 11:06:52		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-08 11:54:57		python scripts loaded: slack
+2018-04-08 11:54:57		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-08 12:58:13		python scripts loaded: slack
+2018-04-08 12:58:13		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-08 13:21:01		python scripts loaded: slack
+2018-04-08 13:21:01		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-08 21:28:54		python scripts loaded: slack
+2018-04-08 21:28:54		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-08 23:54:42		python: stdout/stderr (slack): Traceback (most recent call last):
+2018-04-08 23:54:42		python: stdout/stderr (slack):   File "/home/jesse/.weechat/python/autoload/wee_slack.py", line 96, in wrapper
+2018-04-08 23:54:42		python: stdout/stderr (slack):     return f(data, current_buffer, *args, **kwargs)
+2018-04-08 23:54:42		python: stdout/stderr (slack):   File "/home/jesse/.weechat/python/autoload/wee_slack.py", line 119, in wrapper
+2018-04-08 23:54:42		python: stdout/stderr (slack):     return f(*decode_from_utf8(args), **decode_from_utf8(kwargs))
+2018-04-08 23:54:42		python: stdout/stderr (slack):   File "/home/jesse/.weechat/python/autoload/wee_slack.py", line 3170, in command_talk
+2018-04-08 23:54:42		python: stdout/stderr (slack):     channel_name = args.split(' ')[1]
+2018-04-08 23:54:42		python: stdout/stderr (slack): IndexError: list index out of range
+2018-04-08 23:54:42	=!=	python: error in function "command_talk"
+2018-04-08 23:54:42	=!=	Too few arguments for command "/query" (help on command: /help query)
+2018-04-09 13:31:35		python scripts loaded: slack
+2018-04-09 13:31:35		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-09 21:19:19	=!=	Error: unknown command "/matrix" (type /help for help)
+2018-04-09 21:22:00	=!=	lua: script "/home/jesse/.weechat/lua/autoload/matrix.lua" not found
+2018-04-09 21:22:00		python scripts loaded: slack
+2018-04-09 21:22:00		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-09 21:23:34	=!=	Error: unknown command "/matrix" (type /help for help)
+2018-04-09 21:23:43	=!=	Error: unknown command "/matrix" (type /help for help)
+2018-04-09 21:23:46		[core]
+2018-04-09 21:23:46		  away     color    debug    help     key      mute     proxy    repeat   set      uptime   window 
+2018-04-09 21:23:46		  bar      command  eval     history  layout   plugin   quit     save     unset    version
+2018-04-09 21:23:46		  buffer   cursor   filter   input    mouse    print    reload   secure   upgrade  wait   
+2018-04-09 21:23:46		[alias]
+2018-04-09 21:23:46		  AAWAY    ANICK    CHAT     IG       LEAVE    N        SIGNOFF  V        WII    
+2018-04-09 21:23:46		  alias    BEEP     CL       J        M        Q        T        W        WW     
+2018-04-09 21:23:46		  AME      BYE      CLOSE    K        MSGBUF   REDRAW   UB       WC     
+2018-04-09 21:23:46		  AMSG     C        EXIT     KB       MUB      SAY      UMODE    WI     
+2018-04-09 21:23:46		[fifo]
+2018-04-09 21:23:46		  fifo
+2018-04-09 21:23:46		[lua]
+2018-04-09 21:23:46		  lua
+2018-04-09 21:23:46		[relay]
+2018-04-09 21:23:46		  relay
+2018-04-09 21:23:46		[ruby]
+2018-04-09 21:23:46		  ruby
+2018-04-09 21:23:46		[tcl]
+2018-04-09 21:23:46		  tcl
+2018-04-09 21:23:46		[fset]
+2018-04-09 21:23:46		  fset
+2018-04-09 21:23:46		[exec]
+2018-04-09 21:23:46		  exec
+2018-04-09 21:23:46		[python]
+2018-04-09 21:23:46		  python  slack
+2018-04-09 21:23:46		[trigger]
+2018-04-09 21:23:46		  trigger
+2018-04-09 21:23:46		[logger]
+2018-04-09 21:23:46		  logger
+2018-04-09 21:23:46		[xfer]
+2018-04-09 21:23:46		  me  xfer
+2018-04-09 21:23:46		[script]
+2018-04-09 21:23:46		  script
+2018-04-09 21:23:46		[buflist]
+2018-04-09 21:23:46		  buflist
+2018-04-09 21:23:46		[perl]
+2018-04-09 21:23:46		  perl
+2018-04-09 21:23:46		[aspell]
+2018-04-09 21:23:46		  aspell
+2018-04-09 21:23:46		[charset]
+2018-04-09 21:23:46		  charset
+2018-04-09 21:23:46		[irc]
+2018-04-09 21:23:46		  admin       dehalfop    join        motd        pong        sanick      time        wallops   
+2018-04-09 21:23:46		  allchan     deop        kick        msg         query       sapart      topic       who       
+2018-04-09 21:23:46		  allpv       devoice     kickban     names       quiet       saquit      trace       whois     
+2018-04-09 21:23:46		  allserv     die         kill        nick        quote       server      unban       whowas    
+2018-04-09 21:23:46		  ban         disconnect  links       notice      reconnect   service     unquiet   
+2018-04-09 21:23:46		  cap         halfop      list        notify      rehash      servlist    userhost  
+2018-04-09 21:23:46		  connect     ignore      lusers      op          remove      squery      users     
+2018-04-09 21:23:46		  ctcp        info        map         oper        restart     squit       version   
+2018-04-09 21:23:46		  cycle       invite      me          part        sajoin      stats       voice     
+2018-04-09 21:23:46		  dcc         ison        mode        ping        samode      summon      wallchops 
+2018-04-09 21:24:27	=!=	lua: script "/home/jesse/.weechat/lua/autoload/matrix.lua" not found
+2018-04-09 21:24:27		python scripts loaded: slack
+2018-04-09 21:24:27		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-09 21:24:35	=!=	lua: script "matrix.lua" not found
+2018-04-09 21:24:47		Option created: plugins.var.lua.matrix.user = "jesse"
+2018-04-09 21:25:07		Option created: plugins.var.lua.matrix.password = "chaitea36"
+2018-04-09 21:25:14	=!=	Error: unknown command "/matrix" (type /help for help)
+2018-04-09 21:25:41	=!=	No help available, "plugins.var.lua.matrix.local_echo" is not a command or an option
+2018-04-09 21:25:50	=!=	lua: script "matrix" not loaded
+2018-04-09 21:25:54	=!=	lua: script "/home/jesse/.weechat/lua/autoload/matrix.lua" not found
+2018-04-09 21:25:54		python scripts loaded: slack
+2018-04-09 21:25:54		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-09 21:26:42	=!=	Error: unknown command "/matrix" (type /help for help)
+2018-04-09 21:26:45		[core]
+2018-04-09 21:26:45		  away   
+2018-04-09 21:26:45		  bar    
+2018-04-09 21:26:45		  buffer 
+2018-04-09 21:26:45		  color  
+2018-04-09 21:26:45		  command
+2018-04-09 21:26:45		  cursor 
+2018-04-09 21:26:45		  debug  
+2018-04-09 21:26:45		  eval   
+2018-04-09 21:26:45		  filter 
+2018-04-09 21:26:45		  help   
+2018-04-09 21:26:45		  history
+2018-04-09 21:26:45		  input  
+2018-04-09 21:26:45		  key    
+2018-04-09 21:26:45		  layout 
+2018-04-09 21:26:45		  mouse  
+2018-04-09 21:26:45		  mute   
+2018-04-09 21:26:45		  plugin 
+2018-04-09 21:26:45		  print  
+2018-04-09 21:26:45		  proxy  
+2018-04-09 21:26:45		  quit   
+2018-04-09 21:26:45		  reload 
+2018-04-09 21:26:45		  repeat 
+2018-04-09 21:26:45		  save   
+2018-04-09 21:26:45		  secure 
+2018-04-09 21:26:45		  set    
+2018-04-09 21:26:45		  unset  
+2018-04-09 21:26:45		  upgrade
+2018-04-09 21:26:45		  uptime 
+2018-04-09 21:26:45		  version
+2018-04-09 21:26:45		  wait   
+2018-04-09 21:26:45		  window 
+2018-04-09 21:26:45		[alias]
+2018-04-09 21:26:45		  AAWAY  
+2018-04-09 21:26:45		  alias  
+2018-04-09 21:26:45		  AME    
+2018-04-09 21:26:45		  AMSG   
+2018-04-09 21:26:45		  ANICK  
+2018-04-09 21:26:45		  BEEP   
+2018-04-09 21:26:45		  BYE    
+2018-04-09 21:26:45		  C      
+2018-04-09 21:26:45		  CHAT   
+2018-04-09 21:26:45		  CL     
+2018-04-09 21:26:45		  CLOSE  
+2018-04-09 21:26:45		  EXIT   
+2018-04-09 21:26:45		  IG     
+2018-04-09 21:26:45		  J      
+2018-04-09 21:26:45		  K      
+2018-04-09 21:26:45		  KB     
+2018-04-09 21:26:45		  LEAVE  
+2018-04-09 21:26:45		  M      
+2018-04-09 21:26:45		  MSGBUF 
+2018-04-09 21:26:45		  MUB    
+2018-04-09 21:26:45		  N      
+2018-04-09 21:26:45		  Q      
+2018-04-09 21:26:45		  REDRAW 
+2018-04-09 21:26:45		  SAY    
+2018-04-09 21:26:45		  SIGNOFF
+2018-04-09 21:26:45		  T      
+2018-04-09 21:26:45		  UB     
+2018-04-09 21:26:45		  UMODE  
+2018-04-09 21:26:45		  V      
+2018-04-09 21:26:45		  W      
+2018-04-09 21:26:45		  WC     
+2018-04-09 21:26:45		  WI     
+2018-04-09 21:26:45		  WII    
+2018-04-09 21:26:45		  WW     
+2018-04-09 21:26:45		[fifo]
+2018-04-09 21:26:45		  fifo
+2018-04-09 21:26:45		[lua]
+2018-04-09 21:26:45		  lua
+2018-04-09 21:26:45		[relay]
+2018-04-09 21:26:45		  relay
+2018-04-09 21:26:45		[ruby]
+2018-04-09 21:26:45		  ruby
+2018-04-09 21:26:45		[tcl]
+2018-04-09 21:26:45		  tcl
+2018-04-09 21:26:45		[fset]
+2018-04-09 21:26:45		  fset
+2018-04-09 21:26:45		[exec]
+2018-04-09 21:26:45		  exec
+2018-04-09 21:26:45		[python]
+2018-04-09 21:26:45		  python
+2018-04-09 21:26:45		  slack 
+2018-04-09 21:26:45		[trigger]
+2018-04-09 21:26:45		  trigger
+2018-04-09 21:26:45		[logger]
+2018-04-09 21:26:45		  logger
+2018-04-09 21:26:45		[xfer]
+2018-04-09 21:26:45		  me  
+2018-04-09 21:26:45		  xfer
+2018-04-09 21:26:45		[script]
+2018-04-09 21:26:45		  script
+2018-04-09 21:26:45		[buflist]
+2018-04-09 21:26:45		  buflist
+2018-04-09 21:26:45		[perl]
+2018-04-09 21:26:45		  perl
+2018-04-09 21:26:45		[aspell]
+2018-04-09 21:26:45		  aspell
+2018-04-09 21:26:45		[charset]
+2018-04-09 21:26:45		  charset
+2018-04-09 21:26:45		[irc]
+2018-04-09 21:26:45		  admin     
+2018-04-09 21:26:45		  allchan   
+2018-04-09 21:26:45		  allpv     
+2018-04-09 21:26:45		  allserv   
+2018-04-09 21:26:45		  ban       
+2018-04-09 21:26:45		  cap       
+2018-04-09 21:26:45		  connect   
+2018-04-09 21:26:45		  ctcp      
+2018-04-09 21:26:45		  cycle     
+2018-04-09 21:26:45		  dcc       
+2018-04-09 21:26:45		  dehalfop  
+2018-04-09 21:26:45		  deop      
+2018-04-09 21:26:45		  devoice   
+2018-04-09 21:26:45		  die       
+2018-04-09 21:26:45		  disconnect
+2018-04-09 21:26:45		  halfop    
+2018-04-09 21:26:45		  ignore    
+2018-04-09 21:26:45		  info      
+2018-04-09 21:26:45		  invite    
+2018-04-09 21:26:45		  ison      
+2018-04-09 21:26:45		  join      
+2018-04-09 21:26:45		  kick      
+2018-04-09 21:26:45		  kickban   
+2018-04-09 21:26:45		  kill      
+2018-04-09 21:26:45		  links     
+2018-04-09 21:26:45		  list      
+2018-04-09 21:26:45		  lusers    
+2018-04-09 21:26:45		  map       
+2018-04-09 21:26:45		  me        
+2018-04-09 21:26:45		  mode      
+2018-04-09 21:26:45		  motd      
+2018-04-09 21:26:45		  msg       
+2018-04-09 21:26:45		  names     
+2018-04-09 21:26:45		  nick      
+2018-04-09 21:26:45		  notice    
+2018-04-09 21:26:45		  notify    
+2018-04-09 21:26:45		  op        
+2018-04-09 21:26:45		  oper      
+2018-04-09 21:26:45		  part      
+2018-04-09 21:26:45		  ping      
+2018-04-09 21:26:45		  pong      
+2018-04-09 21:26:45		  query     
+2018-04-09 21:26:45		  quiet     
+2018-04-09 21:26:45		  quote     
+2018-04-09 21:26:45		  reconnect 
+2018-04-09 21:26:45		  rehash    
+2018-04-09 21:26:45		  remove    
+2018-04-09 21:26:45		  restart   
+2018-04-09 21:26:45		  sajoin    
+2018-04-09 21:26:45		  samode    
+2018-04-09 21:26:45		  sanick    
+2018-04-09 21:26:45		  sapart    
+2018-04-09 21:26:45		  saquit    
+2018-04-09 21:26:45		  server    
+2018-04-09 21:26:45		  service   
+2018-04-09 21:26:45		  servlist  
+2018-04-09 21:26:45		  squery    
+2018-04-09 21:26:45		  squit     
+2018-04-09 21:26:45		  stats     
+2018-04-09 21:26:45		  summon    
+2018-04-09 21:26:45		  time      
+2018-04-09 21:26:45		  topic     
+2018-04-09 21:26:45		  trace     
+2018-04-09 21:26:45		  unban     
+2018-04-09 21:26:45		  unquiet   
+2018-04-09 21:26:45		  userhost  
+2018-04-09 21:26:45		  users     
+2018-04-09 21:26:45		  version   
+2018-04-09 21:26:45		  voice     
+2018-04-09 21:26:45		  wallchops 
+2018-04-09 21:26:45		  wallops   
+2018-04-09 21:26:45		  who       
+2018-04-09 21:26:45		  whois     
+2018-04-09 21:26:45		  whowas    
+2018-04-09 21:30:29	=!=	lua: script "/home/jesse/.weechat/lua/autoload/matrix.lua" not found
+2018-04-09 21:30:29		python scripts loaded: slack
+2018-04-09 21:30:29		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-09 21:30:34	=!=	Error: unknown command "/matrix" (type /help for help)
+2018-04-09 21:30:40	=!=	Error: unknown command "/matrix" (type /help for help)
+2018-04-09 21:32:52	=!=	Error: unknown command "/matrix" (type /help for help)
+2018-04-09 21:33:12	=!=	lua: script "matrix" not loaded
+2018-04-09 21:33:16	=!=	lua: script "matrix" not loaded
+2018-04-09 21:34:13		Option changed: plugins.var.lua.matrix.user = "@jesse:jessesimpsoncodes.com"
+2018-04-09 21:34:26		Option changed: plugins.var.lua.matrix.password = "chaitea36"
+2018-04-09 21:34:33	=!=	Error: unknown command "/matrix" (type /help for help)
+2018-04-09 21:38:27	=!=	lua: script "/home/jesse/.weechat/lua/autoload/matrix.lua" not found
+2018-04-09 21:38:27		python scripts loaded: slack
+2018-04-09 21:38:27		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-09 21:38:42	=!=	lua: script "matrix.lua" not found
+2018-04-09 21:38:48	=!=	lua: script "/home/jesse/.weechat/lua/autoload/matrix.lua" not found
+2018-04-09 21:38:48		python scripts loaded: slack
+2018-04-09 21:38:48		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-09 21:39:01	=!=	Error: unknown command "/load" (type /help for help)
+2018-04-09 21:39:03	=!=	Error: unknown command "/load" (type /help for help)
+2018-04-09 21:39:11	=!=	lua: script "matrix" not found
+2018-04-09 21:39:13	=!=	lua: script "matrix.lua" not found
+2018-04-09 21:39:27	=!=	lua: script "matrix.lua" not found
+2018-04-09 21:39:42	=!=	Error: unknown command "/matrix" (type /help for help)
+2018-04-09 21:41:28		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-09 21:41:28		matrix: Connecting to homeserver URL: https://matrix.org/
+2018-04-09 21:41:28		lua scripts loaded: matrix
+2018-04-09 21:41:29		python scripts loaded: slack
+2018-04-09 21:41:29		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-09 21:41:34	=!=	Call to API errored in command url:https://matrix.org/_matrix/client/r0/login, maybe timeout?
+2018-04-09 21:42:39		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-09 21:42:39		matrix: Connecting to homeserver URL: https://matrix.org/
+2018-04-09 21:42:39		lua scripts loaded: matrix
+2018-04-09 21:42:39		python scripts loaded: slack
+2018-04-09 21:42:39		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-09 21:42:47		matrix: Error code during login: Invalid password, code: M_FORBIDDEN
+2018-04-09 21:42:47		matrix: Please verify your username and password
+2018-04-09 21:44:24		Option changed: plugins.var.lua.matrix.user = "jesse"
+2018-04-09 21:44:44		Option changed: plugins.var.lua.matrix.password = "chaitea36"
+2018-04-09 21:45:10		Option created: plugins.var.lua.matrix.server = "http://matrix.jessesimpsoncodes.com"
+2018-04-09 21:45:44	=!=	Command not found: 
+2018-04-09 21:45:46	=!=	Command not found: help
+2018-04-09 21:46:06		[lua/matrix]  /matrix  [command] [command options]
+2018-04-09 21:46:06		Plugin for matrix.org chat protocol
+2018-04-09 21:46:06		Commands:
+2018-04-09 21:46:06		help
+2018-04-09 21:46:06		connect
+2018-04-09 21:46:06		debug
+2018-04-09 21:46:06		msg
+2018-04-09 21:46:06		Use /matrix help [command] to find out more
+2018-04-09 21:46:06		Supported slash commands (i.e. /commands):
+2018-04-09 21:46:06		join, part, leave, me, topic, upload, query, list, op, voice, deop, devoice, kick, create, createalias, invite, nick, whois, notice, msg, encrypt, public, names, more, roominfo, name
+2018-04-09 21:46:35	=!=	Command not found: join jessesimpsoncodes.com
+2018-04-09 21:47:05		Option created: plugins.var.lua.matrix.hostname = "http://matrix.jessesimpsoncodes.com"
+2018-04-09 21:48:10		Option created: plugins.var.lua.http://matrix.jessesimpsoncodes.com.username = "jesse"
+2018-04-09 21:48:27		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-09 21:48:27		matrix: Connecting to homeserver URL: https://matrix.org/
+2018-04-09 21:48:27		lua scripts loaded: matrix
+2018-04-09 21:48:27		python scripts loaded: slack
+2018-04-09 21:48:27		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-09 21:48:28		matrix: Error code during login: Invalid password, code: M_FORBIDDEN
+2018-04-09 21:48:28		matrix: Please verify your username and password
+2018-04-09 21:48:31	=!=	Command not found: 
+2018-04-09 21:50:24		Option created: plugins.var.lua.homeserver_url.http://matrix.jessesimpsoncodes.com/.username = "jesse"
+2018-04-09 21:50:35		Option created: plugins.var.lua.homeserver_url.http://matrix.jessesimpsoncodes.com/.password = "chaitea36"
+2018-04-09 21:50:52	=!=	Command not found: 
+2018-04-09 21:51:35		Option created: plugins.var.lua.homeserver_url = "http://matrix.jessesimpsoncodes.com/"
+2018-04-09 21:52:40		Option changed: plugins.var.lua.matrix.homeserver_url = "http://matrix.jessesimpsoncodes.com/"
+2018-04-09 21:53:06		Option changed: plugins.var.lua.matrix.hostname = ""
+2018-04-09 21:53:33		Option changed: plugins.var.lua.matrix.server = ""
+2018-04-09 21:54:08		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-09 21:54:08		matrix: Connecting to homeserver URL: http://matrix.jessesimpsoncodes.com/
+2018-04-09 21:54:08		lua scripts loaded: matrix
+2018-04-09 21:54:08		python scripts loaded: slack
+2018-04-09 21:54:08		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-09 21:54:08	error	Expected value but found invalid token at character 1 during json load: HTTP/1.1 200 OK
+2018-04-09 21:54:08		Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Authorization
+2018-04-09 21:54:08		Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+2018-04-09 21:54:08		Access-Control-Allow-Origin: *
+2018-04-09 21:54:08		Content-Length: 41
+2018-04-09 21:54:08		Content-Type: application/json
+2018-04-09 21:54:08		Date: Tue, 10 Apr 2018 01:54:08 GMT
+2018-04-09 21:54:08		Server: Caddy
+2018-04-09 21:54:08		Server: Synapse/0.27.2
+2018-04-09 21:54:08		
+2018-04-09 21:54:08		{"flows": [{"type": "m.login.password"}]}
+2018-04-09 21:55:57		lua: loading script "/home/jesse/.weechat/lua/autoload/matrix.lua"
+2018-04-09 21:55:57	=!=	lua: unable to register script "matrix" (another script already exists with this name)
+2018-04-09 21:55:57	=!=	lua: unable to call function "info_get", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to call function "config_set_plugin", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to call function "config_set_plugin", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to call function "config_set_plugin", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to call function "config_set_plugin", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to call function "config_set_plugin", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to call function "config_set_plugin", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to call function "config_set_plugin", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to call function "config_set_plugin", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to call function "config_set_plugin", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to call function "config_set_plugin", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to call function "config_set_plugin", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to call function "config_set_plugin", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to call function "config_get_plugin", script is not initialized (script: -)
+2018-04-09 21:55:57	=!=	lua: unable to execute file "/home/jesse/.weechat/lua/autoload/matrix.lua"
+2018-04-09 21:55:57	=!=	lua: error: /home/jesse/.weechat/lua/autoload/matrix.lua:3353: bad argument #1 to 'tonumber' (value expected)
+2018-04-09 21:56:07		lua: loading script "/home/jesse/.weechat/lua/autoload/matrix.lua"
+2018-04-09 21:56:07	=!=	lua: unable to register script "matrix" (another script already exists with this name)
+2018-04-09 21:56:07	=!=	lua: unable to call function "info_get", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to call function "config_set_plugin", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to call function "config_set_plugin", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to call function "config_set_plugin", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to call function "config_set_plugin", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to call function "config_set_plugin", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to call function "config_set_plugin", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to call function "config_set_plugin", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to call function "config_set_plugin", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to call function "config_set_plugin", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to call function "config_set_plugin", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to call function "config_set_plugin", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to call function "config_is_set_plugin", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to call function "config_set_plugin", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to call function "config_get_plugin", script is not initialized (script: -)
+2018-04-09 21:56:07	=!=	lua: unable to execute file "/home/jesse/.weechat/lua/autoload/matrix.lua"
+2018-04-09 21:56:07	=!=	lua: error: /home/jesse/.weechat/lua/autoload/matrix.lua:3353: bad argument #1 to 'tonumber' (value expected)
+2018-04-09 21:56:13		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-09 21:56:13		matrix: Connecting to homeserver URL: http://matrix.jessesimpsoncodes.com/
+2018-04-09 21:56:13		lua scripts loaded: matrix
+2018-04-09 21:56:13		python scripts loaded: slack
+2018-04-09 21:56:13		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-09 21:56:13	error	Expected value but found invalid token at character 1 during json load: HTTP/1.1 200 OK
+2018-04-09 21:56:13		Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Authorization
+2018-04-09 21:56:13		Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+2018-04-09 21:56:13		Access-Control-Allow-Origin: *
+2018-04-09 21:56:13		Content-Length: 41
+2018-04-09 21:56:13		Content-Type: application/json
+2018-04-09 21:56:13		Date: Tue, 10 Apr 2018 01:56:13 GMT
+2018-04-09 21:56:13		Server: Caddy
+2018-04-09 21:56:13		Server: Synapse/0.27.2
+2018-04-09 21:56:13		
+2018-04-09 21:56:13		{"flows": [{"type": "m.login.password"}]}
+2018-04-09 21:56:57		Option "plugins.var.lua.matrix.local_echo":
+2018-04-09 21:56:57		  description: Print lines locally instead of waiting for return from server (default: "on")
+2018-04-09 21:56:57		  type: string
+2018-04-09 21:56:57		  values: any string
+2018-04-09 21:56:57		  default value: ""
+2018-04-09 21:56:57		  current value: "on"
+2018-04-09 21:57:13		Option changed: plugins.var.lua.matrix.homeserver_url = "https://matrix.jessesimpsoncodes.com/"
+2018-04-09 21:57:19		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-09 21:57:19		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-09 21:57:19		lua scripts loaded: matrix
+2018-04-09 21:57:19		python scripts loaded: slack
+2018-04-09 21:57:19		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-09 22:00:46		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-09 22:00:46		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-09 22:00:46		lua scripts loaded: matrix
+2018-04-09 22:00:46		python scripts loaded: slack
+2018-04-09 22:00:46		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-09 22:00:54		Command not found: help
+2018-04-09 22:00:58		Command not found: 
+2018-04-09 22:01:00		Command not found: h
+2018-04-09 22:01:06		[python/slack]  /slack  [command] [command options]
+2018-04-09 22:01:06		Plugin to allow typing notification and sync of read markers for slack.com
+2018-04-09 22:01:06		Commands:
+2018-04-09 22:01:06		status
+2018-04-09 22:01:06		nodistractions
+2018-04-09 22:01:06		showmuted
+2018-04-09 22:01:06		mute
+2018-04-09 22:01:06		away
+2018-04-09 22:01:06		register
+2018-04-09 22:01:06		openweb
+2018-04-09 22:01:06		p
+2018-04-09 22:01:06		back
+2018-04-09 22:01:06		channels
+2018-04-09 22:01:06		distracting
+2018-04-09 22:01:06		upload
+2018-04-09 22:01:06		slash
+2018-04-09 22:01:06		talk
+2018-04-09 22:01:06		users
+2018-04-09 22:01:06		Use /slack help [command] to find out more
+2018-04-09 22:01:17		Command not found: help
+2018-04-09 22:01:24		Command not found: help
+2018-04-09 22:01:35		[python/slack]  /slack  [command] [command options]
+2018-04-09 22:01:35		Plugin to allow typing notification and sync of read markers for slack.com
+2018-04-09 22:01:35		Commands:
+2018-04-09 22:01:35		status
+2018-04-09 22:01:35		nodistractions
+2018-04-09 22:01:35		showmuted
+2018-04-09 22:01:35		mute
+2018-04-09 22:01:35		away
+2018-04-09 22:01:35		register
+2018-04-09 22:01:35		openweb
+2018-04-09 22:01:35		p
+2018-04-09 22:01:35		back
+2018-04-09 22:01:35		channels
+2018-04-09 22:01:35		distracting
+2018-04-09 22:01:35		upload
+2018-04-09 22:01:35		slash
+2018-04-09 22:01:35		talk
+2018-04-09 22:01:35		users
+2018-04-09 22:01:35		Use /slack help [command] to find out more
+2018-04-09 22:03:01		Command not found: 
+2018-04-09 22:03:04		Command not found: help
+2018-04-09 22:03:21		Command not found: help
+2018-04-09 22:04:22		Command not found: leave
+2018-04-09 22:04:29	=!=	irc: command "part" must be executed on irc buffer (server or channel)
+2018-04-09 22:04:38	=!=	irc: command "part" must be executed on irc buffer (server or channel)
+2018-04-09 22:05:36	=!=	irc: command "part" must be executed on irc buffer (server or channel)
+2018-04-09 22:06:24		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-09 22:06:24		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-09 22:06:24		lua scripts loaded: matrix
+2018-04-09 22:06:24		python scripts loaded: slack
+2018-04-09 22:06:24		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-09 22:09:04		[irc]  /part  [<channel>[,<channel>...]] [<message>]
+2018-04-09 22:09:04		leave a channel
+2018-04-09 22:09:04		channel: channel name to leave
+2018-04-09 22:09:04		message: part message (displayed to other users)
+2018-04-09 22:09:21		[alias]  /LEAVE  
+2018-04-09 22:09:21		part
+2018-04-09 22:10:53	=!=	irc: command "part" must be executed on irc buffer (server or channel)
+2018-04-09 22:11:05	=!=	Error: unknown command "/channel" (type /help for help)
+2018-04-09 22:12:42		Command not found: help
+2018-04-10 10:25:21		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-10 10:25:21		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-10 10:25:21		lua scripts loaded: matrix
+2018-04-10 10:25:21		python scripts loaded: slack
+2018-04-10 10:25:21		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-10 12:30:54		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-10 12:30:54		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-10 12:30:54		lua scripts loaded: matrix
+2018-04-10 12:30:54		python scripts loaded: slack
+2018-04-10 12:30:54		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-10 17:11:18		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-10 17:11:18		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-10 17:11:18		lua scripts loaded: matrix
+2018-04-10 17:11:18		python scripts loaded: slack
+2018-04-10 17:11:18		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-10 19:44:50		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-10 19:44:50		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-10 19:44:50		lua scripts loaded: matrix
+2018-04-10 19:44:50		python scripts loaded: slack
+2018-04-10 19:44:50		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-11 09:38:49		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-11 09:38:49		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-11 09:38:49		lua scripts loaded: matrix
+2018-04-11 09:38:49		python scripts loaded: slack
+2018-04-11 09:38:49		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-11 14:48:08		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-11 14:48:08		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-11 14:48:08		lua scripts loaded: matrix
+2018-04-11 14:48:09		python scripts loaded: slack
+2018-04-11 14:48:09		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-12 13:38:58		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-12 13:38:58		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-12 13:38:58		lua scripts loaded: matrix
+2018-04-12 13:38:58		python scripts loaded: slack
+2018-04-12 13:38:58		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-12 16:30:38		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-12 16:30:38		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-12 16:30:38		lua scripts loaded: matrix
+2018-04-12 16:30:38		python scripts loaded: slack
+2018-04-12 16:30:38		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-14 15:33:41		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-14 15:33:41		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-14 15:33:41		lua scripts loaded: matrix
+2018-04-14 15:33:41		python scripts loaded: slack
+2018-04-14 15:33:41		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-14 16:42:10		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-14 16:42:10		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-14 16:42:10		lua scripts loaded: matrix
+2018-04-14 16:42:10		python scripts loaded: slack
+2018-04-14 16:42:10		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-14 17:17:28		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-14 17:17:28		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-14 17:17:28		lua scripts loaded: matrix
+2018-04-14 17:17:28		python scripts loaded: slack
+2018-04-14 17:17:28		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-16 16:33:23		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-16 16:33:23		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-16 16:33:23		lua scripts loaded: matrix
+2018-04-16 16:33:23		python scripts loaded: slack
+2018-04-16 16:33:23		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-16 16:34:23		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-16 16:34:23		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-16 16:34:23		lua scripts loaded: matrix
+2018-04-16 16:34:23		python scripts loaded: slack
+2018-04-16 16:34:23		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-16 21:06:57	=!=	Error: unknown command "/bufer" (type /help for help)
+2018-04-17 11:51:27		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-17 11:51:27		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-17 11:51:27		lua scripts loaded: matrix
+2018-04-17 11:51:27		python scripts loaded: slack
+2018-04-17 11:51:27		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-17 14:58:42		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-17 14:58:42		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-17 14:58:42		lua scripts loaded: matrix
+2018-04-17 14:58:42		python scripts loaded: slack
+2018-04-17 14:58:42		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-17 17:58:29		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-17 17:58:29		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-17 17:58:29		lua scripts loaded: matrix
+2018-04-17 17:58:29		python scripts loaded: slack
+2018-04-17 17:58:29		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-17 18:10:49		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-17 18:10:49		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-17 18:10:49		lua scripts loaded: matrix
+2018-04-17 18:10:49		python scripts loaded: slack
+2018-04-17 18:10:49		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-17 18:41:53		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-17 18:41:53		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-17 18:41:53		lua scripts loaded: matrix
+2018-04-17 18:41:53		python scripts loaded: slack
+2018-04-17 18:41:53		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-17 18:53:44	=!=	Error with command "/buffer 30/buffer 37" (help on command: /help buffer)
+2018-04-17 20:53:01		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-17 20:53:01		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-17 20:53:01		lua scripts loaded: matrix
+2018-04-17 20:53:01		python scripts loaded: slack
+2018-04-17 20:53:01		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-18 15:57:08		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-18 15:57:08		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-18 15:57:08		lua scripts loaded: matrix
+2018-04-18 15:57:08		python scripts loaded: slack
+2018-04-18 15:57:08		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-18 16:10:29		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-18 16:10:29		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-18 16:10:29		lua scripts loaded: matrix
+2018-04-18 16:10:29		python scripts loaded: slack
+2018-04-18 16:10:29		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-18 19:39:53		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-18 19:39:53		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-18 19:39:53		lua scripts loaded: matrix
+2018-04-18 19:39:53		python scripts loaded: slack
+2018-04-18 19:39:53		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-19 09:36:58		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-19 09:36:58		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-19 09:36:58		lua scripts loaded: matrix
+2018-04-19 09:36:58		python scripts loaded: slack
+2018-04-19 09:36:58		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-19 09:53:42		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-19 09:53:42		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-19 09:53:42		lua scripts loaded: matrix
+2018-04-19 09:53:42		python scripts loaded: slack
+2018-04-19 09:53:42		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-19 12:26:17		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-19 12:26:17		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-19 12:26:17		lua scripts loaded: matrix
+2018-04-19 12:26:17		python scripts loaded: slack
+2018-04-19 12:26:17		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-19 13:00:44		[core]
+2018-04-19 13:00:44		  away     command  filter   key      plugin   reload   set      version
+2018-04-19 13:00:44		  bar      cursor   help     layout   print    repeat   unset    wait   
+2018-04-19 13:00:44		  buffer   debug    history  mouse    proxy    save     upgrade  window 
+2018-04-19 13:00:44		  color    eval     input    mute     quit     secure   uptime 
+2018-04-19 13:00:44		[alias]
+2018-04-19 13:00:44		  AAWAY    BEEP     CLOSE    KB       N        T        WC     
+2018-04-19 13:00:44		  alias    BYE      EXIT     LEAVE    Q        UB       WI     
+2018-04-19 13:00:44		  AME      C        IG       M        REDRAW   UMODE    WII    
+2018-04-19 13:00:44		  AMSG     CHAT     J        MSGBUF   SAY      V        WW     
+2018-04-19 13:00:44		  ANICK    CL       K        MUB      SIGNOFF  W      
+2018-04-19 13:00:44		[fifo]
+2018-04-19 13:00:44		  fifo
+2018-04-19 13:00:44		[lua]
+2018-04-19 13:00:44		  lua  matrix
+2018-04-19 13:00:44		[relay]
+2018-04-19 13:00:44		  relay
+2018-04-19 13:00:44		[ruby]
+2018-04-19 13:00:44		  ruby
+2018-04-19 13:00:44		[tcl]
+2018-04-19 13:00:44		  tcl
+2018-04-19 13:00:44		[fset]
+2018-04-19 13:00:44		  fset
+2018-04-19 13:00:44		[exec]
+2018-04-19 13:00:44		  exec
+2018-04-19 13:00:44		[python]
+2018-04-19 13:00:44		  python  slack
+2018-04-19 13:00:44		[trigger]
+2018-04-19 13:00:44		  trigger
+2018-04-19 13:00:44		[logger]
+2018-04-19 13:00:44		  logger
+2018-04-19 13:00:44		[xfer]
+2018-04-19 13:00:44		  me  xfer
+2018-04-19 13:00:44		[script]
+2018-04-19 13:00:44		  script
+2018-04-19 13:00:44		[buflist]
+2018-04-19 13:00:44		  buflist
+2018-04-19 13:00:44		[perl]
+2018-04-19 13:00:44		  perl
+2018-04-19 13:00:44		[aspell]
+2018-04-19 13:00:44		  aspell
+2018-04-19 13:00:44		[charset]
+2018-04-19 13:00:44		  charset
+2018-04-19 13:00:44		[irc]
+2018-04-19 13:00:44		  admin       die         lusers      ping        saquit      userhost  
+2018-04-19 13:00:44		  allchan     disconnect  map         pong        server      users     
+2018-04-19 13:00:44		  allpv       halfop      me          query       service     version   
+2018-04-19 13:00:44		  allserv     ignore      mode        quiet       servlist    voice     
+2018-04-19 13:00:44		  ban         info        motd        quote       squery      wallchops 
+2018-04-19 13:00:44		  cap         invite      msg         reconnect   squit       wallops   
+2018-04-19 13:00:44		  connect     ison        names       rehash      stats       who       
+2018-04-19 13:00:44		  ctcp        join        nick        remove      summon      whois     
+2018-04-19 13:00:44		  cycle       kick        notice      restart     time        whowas    
+2018-04-19 13:00:44		  dcc         kickban     notify      sajoin      topic     
+2018-04-19 13:00:44		  dehalfop    kill        op          samode      trace     
+2018-04-19 13:00:44		  deop        links       oper        sanick      unban     
+2018-04-19 13:00:44		  devoice     list        part        sapart      unquiet   
+2018-04-19 13:05:32		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-19 13:05:32		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-19 13:05:32		lua scripts loaded: matrix
+2018-04-19 13:05:32		python scripts loaded: slack
+2018-04-19 13:05:32		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-19 16:28:28		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-19 16:28:28		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-19 16:28:28		lua scripts loaded: matrix
+2018-04-19 16:28:28		python scripts loaded: slack
+2018-04-19 16:28:28		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-19 16:43:47		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-19 16:43:47		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-19 16:43:47		lua scripts loaded: matrix
+2018-04-19 16:43:47		python scripts loaded: slack
+2018-04-19 16:43:47		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-19 16:52:10		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-19 16:52:10		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-19 16:52:10		lua scripts loaded: matrix
+2018-04-19 16:52:10		python scripts loaded: slack
+2018-04-19 16:52:10		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-19 16:59:56		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-19 16:59:56		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-19 16:59:56		lua scripts loaded: matrix
+2018-04-19 16:59:56		python scripts loaded: slack
+2018-04-19 16:59:56		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-20 10:49:56		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-20 10:49:56		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-20 10:49:56		lua scripts loaded: matrix
+2018-04-20 10:49:56		python scripts loaded: slack
+2018-04-20 10:49:56		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-20 16:04:20		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-20 16:04:20		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-20 16:04:20		lua scripts loaded: matrix
+2018-04-20 16:04:20		python scripts loaded: slack
+2018-04-20 16:04:20		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-21 11:29:57		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-21 11:29:57		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-21 11:29:57		lua scripts loaded: matrix
+2018-04-21 11:29:58		python scripts loaded: slack
+2018-04-21 11:29:58		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-21 11:41:54		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-21 11:41:54		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-21 11:41:54		lua scripts loaded: matrix
+2018-04-21 11:41:54		python scripts loaded: slack
+2018-04-21 11:41:54		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-22 12:27:04		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-22 12:27:04		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-22 12:27:04		lua scripts loaded: matrix
+2018-04-22 12:27:04		python scripts loaded: slack
+2018-04-22 12:27:04		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-22 21:00:27		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-22 21:00:27		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-22 21:00:27		lua scripts loaded: matrix
+2018-04-22 21:00:27		python scripts loaded: slack
+2018-04-22 21:00:27		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-22 21:10:47		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-22 21:10:47		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-22 21:10:47		lua scripts loaded: matrix
+2018-04-22 21:10:47		python scripts loaded: slack
+2018-04-22 21:10:47		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-23 09:06:10		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-23 09:06:10		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-23 09:06:10		lua scripts loaded: matrix
+2018-04-23 09:06:10		python scripts loaded: slack
+2018-04-23 09:06:10		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-23 09:57:34		Buffers list:
+2018-04-23 09:57:34		  [1] core.weechat (notify: all)
+2018-04-23 09:57:34		  [1] python.sturgill-operators.slack.com (notify: all)
+2018-04-23 09:57:34		  [1] python.ncstateuniversityitng.slack.com (notify: all)
+2018-04-23 09:57:34		  [1] python.plm18.slack.com (notify: all)
+2018-04-23 09:57:34		  [1] lua.matrix (notify: all)
+2018-04-23 09:57:34		  [2] python.sturgill-operators.slack.com.#general (notify: all)
+2018-04-23 09:57:34		  [3] python.sturgill-operators.slack.com.#plm2018 (notify: all)
+2018-04-23 09:57:34		  [4] python.sturgill-operators.slack.com.jesse (notify: all)
+2018-04-23 09:57:34		  [5] python.sturgill-operators.slack.com.gjabell (notify: all)
+2018-04-23 09:57:34		  [6] python.sturgill-operators.slack.com.gjabell|jkayani|jesse (notify: all)
+2018-04-23 09:57:34		  [7] python.ncstateuniversityitng.slack.com.#rarediseases (notify: all)
+2018-04-23 09:57:34		  [8] python.ncstateuniversityitng.slack.com.#general (notify: all)
+2018-04-23 09:57:34		  [9] python.ncstateuniversityitng.slack.com.Arun (notify: all)
+2018-04-23 09:57:34		  [10] python.ncstateuniversityitng.slack.com.msbrown3 (notify: all)
+2018-04-23 09:57:34		  [11] python.ncstateuniversityitng.slack.com.jbass (notify: all)
+2018-04-23 09:57:34		  [12] python.ncstateuniversityitng.slack.com.Sagar (notify: all)
+2018-04-23 09:57:34		  [13] python.ncstateuniversityitng.slack.com.mejohn (notify: all)
+2018-04-23 09:57:34		  [14] python.ncstateuniversityitng.slack.com.&sagar-jesse-michael (notify: all)
+2018-04-23 09:57:34		  [15] python.ncstateuniversityitng.slack.com.mdkowole (notify: all)
+2018-04-23 09:57:34		  [16] python.ncstateuniversityitng.slack.com.Janne (notify: all)
+2018-04-23 09:57:34		  [17] python.plm18.slack.com.#project (notify: all)
+2018-04-23 09:57:34		  [18] python.plm18.slack.com.#general (notify: all)
+2018-04-23 09:57:34		  [19] python.plm18.slack.com.#lectures (notify: all)
+2018-04-23 09:57:34		  [20] python.plm18.slack.com.#review (notify: all)
+2018-04-23 09:57:34		  [21] python.plm18.slack.com.&group-n (notify: all)
+2018-04-23 09:57:34		  [22] python.plm18.slack.com.#exams (notify: all)
+2018-04-23 09:57:34		  [23] lua.Mayushii (notify: all)
+2018-04-23 09:57:34		  [24] lua.stuff (notify: all)
+2018-04-23 09:57:34		  [25] lua.Welcome (notify: all)
+2018-04-23 09:57:34		  [26] lua.Galen / Jesse (notify: all)
+2018-04-23 13:46:54	=!=	Error: unknown command "/b" (type /help for help)
+2018-04-23 14:22:26		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-23 14:22:26		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-23 14:22:26		lua scripts loaded: matrix
+2018-04-23 14:22:27		python scripts loaded: slack
+2018-04-23 14:22:27		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-23 22:57:43		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-23 22:57:43		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-23 22:57:43		lua scripts loaded: matrix
+2018-04-23 22:57:43		python scripts loaded: slack
+2018-04-23 22:57:43		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-24 08:13:59		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-24 08:13:59		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-24 08:13:59		lua scripts loaded: matrix
+2018-04-24 08:13:59		python scripts loaded: slack
+2018-04-24 08:13:59		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-24 10:13:45		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-24 10:13:45		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-24 10:13:45		lua scripts loaded: matrix
+2018-04-24 10:13:45		python scripts loaded: slack
+2018-04-24 10:13:45		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-24 16:31:49		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-24 16:31:49		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-24 16:31:49		lua scripts loaded: matrix
+2018-04-24 16:31:49		python scripts loaded: slack
+2018-04-24 16:31:49		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-25 13:52:53		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-04-25 13:52:53		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-04-25 13:52:53		lua scripts loaded: matrix
+2018-04-25 13:52:54		python scripts loaded: slack
+2018-04-25 13:52:54		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-25 18:39:26		python: stdout/stderr (?): Traceback (most recent call last):
+2018-04-25 18:39:26		python: stdout/stderr (?):   File "/home/jesse/.weechat/python/autoload/wee_slack.py", line 28, in <module>
+2018-04-25 18:39:26		python: stdout/stderr (?):     from websocket import create_connection, WebSocketConnectionClosedException
+2018-04-25 18:39:26		python: stdout/stderr (?): ImportError: No module named websocket
+2018-04-25 18:39:26	=!=	python: unable to parse file "/home/jesse/.weechat/python/autoload/wee_slack.py"
+2018-04-25 18:39:26		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-25 18:39:37		fifo: pipe closed
+2018-04-25 18:40:01		python: stdout/stderr (?): Traceback (most recent call last):
+2018-04-25 18:40:01		python: stdout/stderr (?):   File "/home/jesse/.weechat/python/autoload/wee_slack.py", line 28, in <module>
+2018-04-25 18:40:01		python: stdout/stderr (?):     from websocket import create_connection, WebSocketConnectionClosedException
+2018-04-25 18:40:01		python: stdout/stderr (?): ImportError: No module named websocket
+2018-04-25 18:40:01	=!=	python: unable to parse file "/home/jesse/.weechat/python/autoload/wee_slack.py"
+2018-04-25 18:40:01		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-25 18:40:18		fifo: pipe closed
+2018-04-25 18:40:34		python: stdout/stderr (?): Traceback (most recent call last):
+2018-04-25 18:40:34		python: stdout/stderr (?):   File "/home/jesse/.weechat/python/autoload/wee_slack.py", line 28, in <module>
+2018-04-25 18:40:34		python: stdout/stderr (?):     from websocket import create_connection, WebSocketConnectionClosedException
+2018-04-25 18:40:34		python: stdout/stderr (?): ImportError: No module named websocket
+2018-04-25 18:40:34	=!=	python: unable to parse file "/home/jesse/.weechat/python/autoload/wee_slack.py"
+2018-04-25 18:40:34		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-25 18:40:40	=!=	Error: unknown command "/load" (type /help for help)
+2018-04-25 18:40:45		fifo: pipe closed
+2018-04-25 21:22:15		python: stdout/stderr (?): Traceback (most recent call last):
+2018-04-25 21:22:15		python: stdout/stderr (?):   File "/home/jesse/.weechat/python/autoload/wee_slack.py", line 28, in <module>
+2018-04-25 21:22:15		python: stdout/stderr (?):     from websocket import create_connection, WebSocketConnectionClosedException
+2018-04-25 21:22:15		python: stdout/stderr (?): ImportError: No module named websocket
+2018-04-25 21:22:15	=!=	python: unable to parse file "/home/jesse/.weechat/python/autoload/wee_slack.py"
+2018-04-25 21:22:15		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-25 21:22:17		fifo: pipe closed
+2018-04-25 21:22:43		python: stdout/stderr (?): Traceback (most recent call last):
+2018-04-25 21:22:43		python: stdout/stderr (?):   File "/home/jesse/.weechat/python/autoload/wee_slack.py", line 28, in <module>
+2018-04-25 21:22:43		python: stdout/stderr (?):     from websocket import create_connection, WebSocketConnectionClosedException
+2018-04-25 21:22:43		python: stdout/stderr (?): ImportError: No module named websocket
+2018-04-25 21:22:43	=!=	python: unable to parse file "/home/jesse/.weechat/python/autoload/wee_slack.py"
+2018-04-25 21:22:43		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-25 21:22:47		python: loading script "/home/jesse/.weechat/python/autoload/wee_slack.py"
+2018-04-25 21:22:47		python: stdout/stderr (?): Traceback (most recent call last):
+2018-04-25 21:22:47		python: stdout/stderr (?):   File "/home/jesse/.weechat/python/autoload/wee_slack.py", line 28, in <module>
+2018-04-25 21:22:47		python: stdout/stderr (?):     from websocket import create_connection, WebSocketConnectionClosedException
+2018-04-25 21:22:47		python: stdout/stderr (?): ImportError: No module named websocket
+2018-04-25 21:22:47	=!=	python: unable to parse file "/home/jesse/.weechat/python/autoload/wee_slack.py"
+2018-04-25 21:22:58		fifo: pipe closed
+2018-04-25 21:24:13		python: stdout/stderr (?): Traceback (most recent call last):
+2018-04-25 21:24:13		python: stdout/stderr (?):   File "/home/jesse/.weechat/python/autoload/wee_slack.py", line 28, in <module>
+2018-04-25 21:24:13		python: stdout/stderr (?):     from websocket import create_connection, WebSocketConnectionClosedException
+2018-04-25 21:24:13		python: stdout/stderr (?): ImportError: No module named websocket
+2018-04-25 21:24:13	=!=	python: unable to parse file "/home/jesse/.weechat/python/autoload/wee_slack.py"
+2018-04-25 21:24:13		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-25 21:24:16		python: loading script "/home/jesse/.weechat/python/autoload/wee_slack.py"
+2018-04-25 21:24:16		python: stdout/stderr (?): Traceback (most recent call last):
+2018-04-25 21:24:16		python: stdout/stderr (?):   File "/home/jesse/.weechat/python/autoload/wee_slack.py", line 28, in <module>
+2018-04-25 21:24:16		python: stdout/stderr (?):     from websocket import create_connection, WebSocketConnectionClosedException
+2018-04-25 21:24:16		python: stdout/stderr (?): ImportError: No module named websocket
+2018-04-25 21:24:16	=!=	python: unable to parse file "/home/jesse/.weechat/python/autoload/wee_slack.py"
+2018-04-25 21:24:19		fifo: pipe closed
+2018-04-25 21:25:03		python: stdout/stderr (?): Traceback (most recent call last):
+2018-04-25 21:25:03		python: stdout/stderr (?):   File "/home/jesse/.weechat/python/autoload/wee_slack.py", line 28, in <module>
+2018-04-25 21:25:03		python: stdout/stderr (?):     from websocket import create_connection, WebSocketConnectionClosedException
+2018-04-25 21:25:03		python: stdout/stderr (?): ImportError: cannot import name create_connection
+2018-04-25 21:25:03	=!=	python: unable to parse file "/home/jesse/.weechat/python/autoload/wee_slack.py"
+2018-04-25 21:25:03		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-25 21:25:07		python: loading script "/home/jesse/.weechat/python/autoload/wee_slack.py"
+2018-04-25 21:25:07		python: stdout/stderr (?): Traceback (most recent call last):
+2018-04-25 21:25:07		python: stdout/stderr (?):   File "/home/jesse/.weechat/python/autoload/wee_slack.py", line 28, in <module>
+2018-04-25 21:25:07		python: stdout/stderr (?):     from websocket import create_connection, WebSocketConnectionClosedException
+2018-04-25 21:25:07		python: stdout/stderr (?): ImportError: cannot import name create_connection
+2018-04-25 21:25:07	=!=	python: unable to parse file "/home/jesse/.weechat/python/autoload/wee_slack.py"
+2018-04-25 21:25:25		fifo: pipe closed
+2018-04-25 21:25:33		python scripts loaded: slack
+2018-04-25 21:25:33		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-25 21:25:51		fifo: pipe closed
+2018-04-25 21:26:34		python scripts loaded: slack
+2018-04-25 21:26:35		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-25 21:27:38		lua: loading script "/home/jesse/.weechat/lua/matrix.lua"
+2018-04-25 21:27:38	=!=	lua: unable to execute file "/home/jesse/.weechat/lua/matrix.lua"
+2018-04-25 21:27:38	=!=	lua: error: /home/jesse/.weechat/lua/matrix.lua:46: module 'cjson' not found:
+2018-04-25 21:27:38		no field package.preload['cjson']
+2018-04-25 21:27:38		no file '/usr/share/lua/5.3/cjson.lua'
+2018-04-25 21:27:38		no file '/usr/share/lua/5.3/cjson/init.lua'
+2018-04-25 21:27:38		no file '/usr/lib/lua/5.3/cjson.lua'
+2018-04-25 21:27:38		no file '/usr/lib/lua/5.3/cjson/init.lua'
+2018-04-25 21:27:38		no file './cjson.lua'
+2018-04-25 21:27:38		no file './cjson/init.lua'
+2018-04-25 21:27:38		no file '/usr/lib/lua/5.3/cjson.so'
+2018-04-25 21:27:38		no file '/usr/lib/lua/5.3/loadall.so'
+2018-04-25 21:27:38		no file './cjson.so'
+2018-04-25 21:27:47		fifo: pipe closed
+2018-04-25 21:30:20		python scripts loaded: slack
+2018-04-25 21:30:20		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-25 21:30:26	=!=	Error: unknown command "/matrix" (type /help for help)
+2018-04-25 21:30:44	=!=	lua: script "matrix" not loaded
+2018-04-25 21:31:52	=!=	lua: script "matrix" not loaded
+2018-04-25 21:32:01	=!=	Error: unknown command "/load" (type /help for help)
+2018-04-25 21:32:10	=!=	lua: script "matrix" not found
+2018-04-25 21:32:37	=!=	lua: script "matrix" not loaded
+2018-04-25 21:33:09		fifo: pipe closed
+2018-04-25 22:34:27		python scripts loaded: slack
+2018-04-25 22:34:27		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-25 22:35:32		fifo: pipe closed
+2018-04-26 08:59:13		python scripts loaded: slack
+2018-04-26 08:59:13		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-26 09:00:33		fifo: pipe closed
+2018-04-26 09:13:12		python scripts loaded: slack
+2018-04-26 09:13:12		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-26 09:14:11		fifo: pipe closed
+2018-04-27 14:06:44		python scripts loaded: slack
+2018-04-27 14:06:44		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-27 14:06:54	=!=	Error: unknown command "/load" (type /help for help)
+2018-04-27 14:06:57	=!=	Error with command "/lua load" (help on command: /help lua)
+2018-04-27 14:07:08		fifo: pipe closed
+2018-04-27 14:07:12		python scripts loaded: slack
+2018-04-27 14:07:12		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-27 22:31:47		fifo: pipe closed
+2018-04-28 10:28:13		python scripts loaded: slack
+2018-04-28 10:28:13		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-28 21:09:41		fifo: pipe closed
+2018-04-30 10:28:23		python scripts loaded: slack
+2018-04-30 10:28:23		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-30 14:34:28		fifo: pipe closed
+2018-04-30 15:41:49		python scripts loaded: slack
+2018-04-30 15:41:49		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-30 15:43:23		fifo: pipe closed
+2018-04-30 15:43:27		python scripts loaded: slack
+2018-04-30 15:43:27		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-30 16:07:09		fifo: pipe closed
+2018-04-30 16:07:11		python scripts loaded: slack
+2018-04-30 16:07:11		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-30 16:07:13		fifo: pipe closed
+2018-04-30 16:11:49		python scripts loaded: slack
+2018-04-30 16:11:49		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-30 19:10:46		fifo: pipe closed
+2018-04-30 19:46:44		python scripts loaded: slack
+2018-04-30 19:46:44		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-04-30 21:14:26		fifo: pipe closed
+2018-05-01 11:38:20		python scripts loaded: slack
+2018-05-01 11:38:20		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-05-01 19:58:37		fifo: pipe closed
+2018-05-01 21:03:40		python scripts loaded: slack
+2018-05-01 21:03:40		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-05-01 21:05:42		fifo: pipe closed
+2018-05-01 21:05:56		python scripts loaded: slack
+2018-05-01 21:05:56		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-05-01 21:33:15		fifo: pipe closed
+2018-05-07 12:51:45		python scripts loaded: slack
+2018-05-07 12:51:45		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-05-07 12:52:21		fifo: pipe closed
+2018-05-07 12:52:24		python scripts loaded: slack
+2018-05-07 12:52:24		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-05-07 12:52:32		fifo: pipe closed
+2018-05-07 13:09:35		python scripts loaded: slack
+2018-05-07 13:09:35		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-05-07 17:42:39		fifo: pipe closed
+2018-05-10 20:47:10		python scripts loaded: slack
+2018-05-10 20:47:10		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-05-10 20:47:16		fifo: pipe closed
+2018-05-10 20:47:43		python scripts loaded: slack
+2018-05-10 20:47:43	=!=	lua: unable to execute file "/home/jesse/.weechat/lua/autoload/matrix.lua"
+2018-05-10 20:47:43	=!=	lua: error: /home/jesse/.weechat/lua/autoload/matrix.lua:46: module 'cjson' not found:
+2018-05-10 20:47:43		no field package.preload['cjson']
+2018-05-10 20:47:43		no file '/usr/share/lua/5.3/cjson.lua'
+2018-05-10 20:47:43		no file '/usr/share/lua/5.3/cjson/init.lua'
+2018-05-10 20:47:43		no file '/usr/lib/lua/5.3/cjson.lua'
+2018-05-10 20:47:43		no file '/usr/lib/lua/5.3/cjson/init.lua'
+2018-05-10 20:47:43		no file './cjson.lua'
+2018-05-10 20:47:43		no file './cjson/init.lua'
+2018-05-10 20:47:43		no file '/usr/lib/lua/5.3/cjson.so'
+2018-05-10 20:47:43		no file '/usr/lib/lua/5.3/loadall.so'
+2018-05-10 20:47:43		no file './cjson.so'
+2018-05-10 20:47:43		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-05-10 20:47:51	=!=	Error with command "/lua load" (help on command: /help lua)
+2018-05-10 20:47:57	=!=	Error: unknown command "/load" (type /help for help)
+2018-05-10 20:52:49	=!=	You can not write text in this buffer
+2018-05-10 20:53:20		fifo: pipe closed
+2018-05-10 20:53:48		python scripts loaded: slack
+2018-05-10 20:53:48		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-05-10 20:53:55		lua: loading script "/home/jesse/.weechat/lua/matrix.lua"
+2018-05-10 20:53:55	=!=	lua: unable to execute file "/home/jesse/.weechat/lua/matrix.lua"
+2018-05-10 20:53:55	=!=	lua: error: /home/jesse/.weechat/lua/matrix.lua:46: module 'cjson' not found:
+2018-05-10 20:53:55		no field package.preload['cjson']
+2018-05-10 20:53:55		no file '/usr/share/lua/5.3/cjson.lua'
+2018-05-10 20:53:55		no file '/usr/share/lua/5.3/cjson/init.lua'
+2018-05-10 20:53:55		no file '/usr/lib/lua/5.3/cjson.lua'
+2018-05-10 20:53:55		no file '/usr/lib/lua/5.3/cjson/init.lua'
+2018-05-10 20:53:55		no file './cjson.lua'
+2018-05-10 20:53:55		no file './cjson/init.lua'
+2018-05-10 20:53:55		no file '/usr/lib/lua/5.3/cjson.so'
+2018-05-10 20:53:55		no file '/usr/lib/lua/5.3/loadall.so'
+2018-05-10 20:53:55		no file './cjson.so'
+2018-05-10 20:54:01		fifo: pipe closed
+2018-05-10 20:54:48		python scripts loaded: slack
+2018-05-10 20:54:48		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-05-10 20:54:59		lua: loading script "/home/jesse/.weechat/lua/matrix.lua"
+2018-05-10 20:54:59	=!=	lua: unable to execute file "/home/jesse/.weechat/lua/matrix.lua"
+2018-05-10 20:54:59	=!=	lua: error: /home/jesse/.weechat/lua/matrix.lua:46: module 'cjson' not found:
+2018-05-10 20:54:59		no field package.preload['cjson']
+2018-05-10 20:54:59		no file '/usr/share/lua/5.3/cjson.lua'
+2018-05-10 20:54:59		no file '/usr/share/lua/5.3/cjson/init.lua'
+2018-05-10 20:54:59		no file '/usr/lib/lua/5.3/cjson.lua'
+2018-05-10 20:54:59		no file '/usr/lib/lua/5.3/cjson/init.lua'
+2018-05-10 20:54:59		no file './cjson.lua'
+2018-05-10 20:54:59		no file './cjson/init.lua'
+2018-05-10 20:54:59		no file '/usr/lib/lua/5.3/cjson.so'
+2018-05-10 20:54:59		no file '/usr/lib/lua/5.3/loadall.so'
+2018-05-10 20:54:59		no file './cjson.so'
+2018-05-10 20:55:08		fifo: pipe closed
+2018-05-10 20:56:01		python scripts loaded: slack
+2018-05-10 20:56:01		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-05-10 20:56:08		lua: loading script "/home/jesse/.weechat/lua/matrix.lua"
+2018-05-10 20:56:08	=!=	lua: unable to execute file "/home/jesse/.weechat/lua/matrix.lua"
+2018-05-10 20:56:08	=!=	lua: error: /home/jesse/.weechat/lua/matrix.lua:46: module 'cjson' not found:
+2018-05-10 20:56:08		no field package.preload['cjson']
+2018-05-10 20:56:08		no file '/usr/share/lua/5.3/cjson.lua'
+2018-05-10 20:56:08		no file '/usr/share/lua/5.3/cjson/init.lua'
+2018-05-10 20:56:08		no file '/usr/lib/lua/5.3/cjson.lua'
+2018-05-10 20:56:08		no file '/usr/lib/lua/5.3/cjson/init.lua'
+2018-05-10 20:56:08		no file './cjson.lua'
+2018-05-10 20:56:08		no file './cjson/init.lua'
+2018-05-10 20:56:08		no file '/usr/lib/lua/5.3/cjson.so'
+2018-05-10 20:56:08		no file '/usr/lib/lua/5.3/loadall.so'
+2018-05-10 20:56:08		no file './cjson.so'
+2018-05-10 20:56:13		fifo: pipe closed
+2018-05-10 20:56:44		python scripts loaded: slack
+2018-05-10 20:56:44		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-05-10 20:56:51		lua: loading script "/home/jesse/.weechat/lua/matrix.lua"
+2018-05-10 20:56:51	=!=	lua: unable to execute file "/home/jesse/.weechat/lua/matrix.lua"
+2018-05-10 20:56:51	=!=	lua: error: /home/jesse/.weechat/lua/matrix.lua:46: module 'cjson' not found:
+2018-05-10 20:56:51		no field package.preload['cjson']
+2018-05-10 20:56:51		no file '/usr/share/lua/5.3/cjson.lua'
+2018-05-10 20:56:51		no file '/usr/share/lua/5.3/cjson/init.lua'
+2018-05-10 20:56:51		no file '/usr/lib/lua/5.3/cjson.lua'
+2018-05-10 20:56:51		no file '/usr/lib/lua/5.3/cjson/init.lua'
+2018-05-10 20:56:51		no file './cjson.lua'
+2018-05-10 20:56:51		no file './cjson/init.lua'
+2018-05-10 20:56:51		no file '/usr/lib/lua/5.3/cjson.so'
+2018-05-10 20:56:51		no file '/usr/lib/lua/5.3/loadall.so'
+2018-05-10 20:56:51		no file './cjson.so'
+2018-05-10 20:57:02		fifo: pipe closed
+2018-05-10 20:57:10		python scripts loaded: slack
+2018-05-10 20:57:10		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-05-10 20:57:16	=!=	lua: script "matrix" not loaded
+2018-05-10 20:57:18	=!=	lua: script "matrix.lua" not loaded
+2018-05-10 20:57:24		lua: loading script "/home/jesse/.weechat/lua/matrix.lua"
+2018-05-10 20:57:24	=!=	lua: unable to execute file "/home/jesse/.weechat/lua/matrix.lua"
+2018-05-10 20:57:24	=!=	lua: error: /home/jesse/.weechat/lua/matrix.lua:46: module 'cjson' not found:
+2018-05-10 20:57:24		no field package.preload['cjson']
+2018-05-10 20:57:24		no file '/usr/share/lua/5.3/cjson.lua'
+2018-05-10 20:57:24		no file '/usr/share/lua/5.3/cjson/init.lua'
+2018-05-10 20:57:24		no file '/usr/lib/lua/5.3/cjson.lua'
+2018-05-10 20:57:24		no file '/usr/lib/lua/5.3/cjson/init.lua'
+2018-05-10 20:57:24		no file './cjson.lua'
+2018-05-10 20:57:24		no file './cjson/init.lua'
+2018-05-10 20:57:24		no file '/usr/lib/lua/5.3/cjson.so'
+2018-05-10 20:57:24		no file '/usr/lib/lua/5.3/loadall.so'
+2018-05-10 20:57:24		no file './cjson.so'
+2018-05-10 20:57:42		fifo: pipe closed
+2018-05-10 20:58:42		python scripts loaded: slack
+2018-05-10 20:58:42		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-05-10 20:58:54		lua: loading script "/home/jesse/.weechat/lua/matrix.lua"
+2018-05-10 20:58:54		lua: registered script "matrix", version 3 (Matrix.org chat plugin)
+2018-05-10 20:58:54		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-05-10 20:58:54		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-05-10 20:59:16		matrix: Unloading
+2018-05-10 20:59:16		matrix: done cleaning up!
+2018-05-10 20:59:16	=!=	Room got closed: !DYYmvOHVfHZsjQNXXB:galenabell.com
+2018-05-10 20:59:16	=!=	Room got closed: !uVATaAgRhsGsjctEnn:matrix.jessesimpsoncodes.com
+2018-05-10 20:59:16	=!=	Room got closed: !jDOpaSKyYKSbaOnaEb:matrix.jessesimpsoncodes.com
+2018-05-10 20:59:16	=!=	Room got closed: !bOUoIxsHwrnEftJutd:matrix.jessesimpsoncodes.com
+2018-05-10 20:59:16		lua: scripts unloaded
+2018-05-10 20:59:16		fifo: pipe closed
+2018-05-10 20:59:17		python scripts loaded: slack
+2018-05-10 20:59:17		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-05-10 20:59:30		lua: loading script "/home/jesse/.weechat/lua/matrix.lua"
+2018-05-10 20:59:30		lua: registered script "matrix", version 3 (Matrix.org chat plugin)
+2018-05-10 20:59:30		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-05-10 20:59:30		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-05-10 21:53:23		matrix: Unloading
+2018-05-10 21:53:23		matrix: done cleaning up!
+2018-05-10 21:53:23	=!=	Room got closed: !bOUoIxsHwrnEftJutd:matrix.jessesimpsoncodes.com
+2018-05-10 21:53:23	=!=	Room got closed: !DYYmvOHVfHZsjQNXXB:galenabell.com
+2018-05-10 21:53:23	=!=	Room got closed: !jDOpaSKyYKSbaOnaEb:matrix.jessesimpsoncodes.com
+2018-05-10 21:53:23	=!=	Room got closed: !uVATaAgRhsGsjctEnn:matrix.jessesimpsoncodes.com
+2018-05-10 21:53:23		lua: scripts unloaded
+2018-05-10 21:53:23		fifo: pipe closed
+2018-05-13 15:10:21		python scripts loaded: slack
+2018-05-13 15:10:21		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-05-13 15:13:03	=!=	lua: script "matrix.lua" not loaded
+2018-05-13 15:13:09		lua: loading script "/home/jesse/dotfiles/weechat/.weechat/lua/matrix.lua"
+2018-05-13 15:13:09		lua: registered script "matrix", version 3 (Matrix.org chat plugin)
+2018-05-13 15:13:09		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-05-13 15:13:09		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-05-13 15:13:15	=!=	Error with command "/lua save" (help on command: /help lua)
+2018-05-13 15:13:18		[lua]  /lua  list|listfull [<name>]
+2018-05-13 15:13:18		             load [-q] <filename>
+2018-05-13 15:13:18		             autoload
+2018-05-13 15:13:18		             reload|unload [-q] [<name>]
+2018-05-13 15:13:18		             eval [-o|-oc] <code>
+2018-05-13 15:13:18		             version
+2018-05-13 15:13:18		list/load/unload scripts
+2018-05-13 15:13:18		    list: list loaded scripts
+2018-05-13 15:13:18		listfull: list loaded scripts (verbose)
+2018-05-13 15:13:18		    load: load a script
+2018-05-13 15:13:18		autoload: load all scripts in "autoload" directory
+2018-05-13 15:13:18		  reload: reload a script (if no name given, unload all scripts, then load all scripts in "autoload" directory)
+2018-05-13 15:13:18		  unload: unload a script (if no name given, unload all scripts)
+2018-05-13 15:13:18		filename: script (file) to load
+2018-05-13 15:13:18		      -q: quiet mode: do not display messages
+2018-05-13 15:13:18		    name: a script name (name used in call to "register" function)
+2018-05-13 15:13:18		    eval: evaluate source code and display result on current buffer
+2018-05-13 15:13:18		      -o: send evaluation result to the buffer without executing commands
+2018-05-13 15:13:18		     -oc: send evaluation result to the buffer and execute commands
+2018-05-13 15:13:18		    code: source code to evaluate
+2018-05-13 15:13:18		 version: display the version of interpreter used
+2018-05-13 15:13:18		Without argument, this command lists all loaded scripts.
+2018-05-13 15:15:28		matrix: Unloading
+2018-05-13 15:15:28		matrix: done cleaning up!
+2018-05-13 15:15:28	=!=	Room got closed: !DYYmvOHVfHZsjQNXXB:galenabell.com
+2018-05-13 15:15:28	=!=	Room got closed: !bOUoIxsHwrnEftJutd:matrix.jessesimpsoncodes.com
+2018-05-13 15:15:28	=!=	Room got closed: !jDOpaSKyYKSbaOnaEb:matrix.jessesimpsoncodes.com
+2018-05-13 15:15:28	=!=	Room got closed: !uVATaAgRhsGsjctEnn:matrix.jessesimpsoncodes.com
+2018-05-13 15:15:28		lua: scripts unloaded
+2018-05-13 15:15:28		fifo: pipe closed
+2018-05-13 15:15:30		python scripts loaded: slack
+2018-05-13 15:15:30		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-05-13 15:15:39		fifo: pipe closed
+2018-05-13 15:16:47		python scripts loaded: slack
+2018-05-13 15:16:47		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-05-13 15:16:47		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-05-13 15:16:47		lua scripts loaded: matrix
+2018-05-13 15:16:47		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-05-13 15:17:14		matrix: Unloading
+2018-05-13 15:17:14		matrix: done cleaning up!
+2018-05-13 15:17:14	=!=	Room got closed: !bOUoIxsHwrnEftJutd:matrix.jessesimpsoncodes.com
+2018-05-13 15:17:14	=!=	Room got closed: !jDOpaSKyYKSbaOnaEb:matrix.jessesimpsoncodes.com
+2018-05-13 15:17:14	=!=	Room got closed: !DYYmvOHVfHZsjQNXXB:galenabell.com
+2018-05-13 15:17:14		lua: scripts unloaded
+2018-05-13 15:17:14		fifo: pipe closed
+2018-05-14 09:06:49		python scripts loaded: slack
+2018-05-14 09:06:49		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-05-14 09:06:49		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-05-14 09:06:49		lua scripts loaded: matrix
+2018-05-14 09:06:49		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-05-14 09:55:22		matrix: Unloading
+2018-05-14 09:55:22		matrix: done cleaning up!
+2018-05-14 09:55:22	=!=	Room got closed: !jDOpaSKyYKSbaOnaEb:matrix.jessesimpsoncodes.com
+2018-05-14 09:55:22	=!=	Room got closed: !bOUoIxsHwrnEftJutd:matrix.jessesimpsoncodes.com
+2018-05-14 09:55:22		lua: scripts unloaded
+2018-05-14 09:55:22		fifo: pipe closed
+2018-05-15 07:26:13		python scripts loaded: slack
+2018-05-15 07:26:13		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-05-15 07:26:13		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-05-15 07:26:13		lua scripts loaded: matrix
+2018-05-15 07:26:13		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-05-16 21:37:28		matrix: Unloading
+2018-05-16 21:37:28		matrix: done cleaning up!
+2018-05-16 21:37:28	=!=	Room got closed: !bOUoIxsHwrnEftJutd:matrix.jessesimpsoncodes.com
+2018-05-16 21:37:28	=!=	Room got closed: !jDOpaSKyYKSbaOnaEb:matrix.jessesimpsoncodes.com
+2018-05-16 21:37:28		lua: scripts unloaded
+2018-05-16 21:37:28		fifo: pipe closed
+2018-05-17 09:34:55		python scripts loaded: slack
+2018-05-17 09:34:55		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-05-17 09:34:55		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-05-17 09:34:55		lua scripts loaded: matrix
+2018-05-17 09:34:55		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-05-17 12:13:27		matrix: Unloading
+2018-05-17 12:13:27		matrix: done cleaning up!
+2018-05-17 12:13:27	=!=	Room got closed: !jDOpaSKyYKSbaOnaEb:matrix.jessesimpsoncodes.com
+2018-05-17 12:13:27	=!=	Room got closed: !bOUoIxsHwrnEftJutd:matrix.jessesimpsoncodes.com
+2018-05-17 12:13:27		lua: scripts unloaded
+2018-05-17 12:13:27		fifo: pipe closed
+2018-05-21 08:18:48		python scripts loaded: slack
+2018-05-21 08:18:48		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-05-21 08:18:48		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-05-21 08:18:48		lua scripts loaded: matrix
+2018-05-21 08:18:48		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-05-22 09:03:57		matrix: Unloading
+2018-05-22 09:03:57		matrix: done cleaning up!
+2018-05-22 09:03:57	=!=	Room got closed: !jDOpaSKyYKSbaOnaEb:matrix.jessesimpsoncodes.com
+2018-05-22 09:03:57	=!=	Room got closed: !bOUoIxsHwrnEftJutd:matrix.jessesimpsoncodes.com
+2018-05-22 09:03:57		lua: scripts unloaded
+2018-05-22 09:03:57		fifo: pipe closed
+2018-05-22 09:03:58		python scripts loaded: slack
+2018-05-22 09:03:58		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-05-22 09:03:58		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-05-22 09:03:58		lua scripts loaded: matrix
+2018-05-22 09:03:58		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-05-24 10:17:52		matrix: Unloading
+2018-05-24 10:17:52		matrix: done cleaning up!
+2018-05-24 10:17:52	=!=	Room got closed: !bOUoIxsHwrnEftJutd:matrix.jessesimpsoncodes.com
+2018-05-24 10:17:52	=!=	Room got closed: !jDOpaSKyYKSbaOnaEb:matrix.jessesimpsoncodes.com
+2018-05-24 10:17:52		lua: scripts unloaded
+2018-05-24 10:17:52		fifo: pipe closed
+2018-05-24 10:17:53		python scripts loaded: slack
+2018-05-24 10:17:53		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-05-24 10:17:53		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-05-24 10:17:53		lua scripts loaded: matrix
+2018-05-24 10:17:53		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-05-25 05:07:16		matrix: Unloading
+2018-05-25 05:07:16		matrix: done cleaning up!
+2018-05-25 05:07:16	=!=	Room got closed: !bOUoIxsHwrnEftJutd:matrix.jessesimpsoncodes.com
+2018-05-25 05:07:16	=!=	Room got closed: !jDOpaSKyYKSbaOnaEb:matrix.jessesimpsoncodes.com
+2018-05-25 05:07:16		lua: scripts unloaded
+2018-05-25 05:07:17		fifo: pipe closed
+2018-07-28 12:22:51		python scripts loaded: slack
+2018-07-28 12:22:51		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-07-28 12:22:51		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-07-28 12:22:51		lua scripts loaded: matrix
+2018-07-28 12:22:51		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-07-28 12:22:55		error: curl error 7 (Failed to connect to matrix.jessesimpsoncodes.com port 443: No route to host) (URL: "https://matrix.jessesimpsoncodes.com/_matrix/client/r0/login")
+2018-07-28 12:23:30		matrix: Unloading
+2018-07-28 12:23:30		matrix: done cleaning up!
+2018-07-28 12:23:30		lua: scripts unloaded
+2018-07-28 12:23:31		fifo: pipe closed
+2018-08-09 18:02:35		python scripts loaded: slack
+2018-08-09 18:02:35		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-08-09 18:02:35		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-08-09 18:02:35		lua scripts loaded: matrix
+2018-08-09 18:02:35		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-08-09 18:02:39		error: curl error 7 (Failed to connect to matrix.jessesimpsoncodes.com port 443: No route to host) (URL: "https://matrix.jessesimpsoncodes.com/_matrix/client/r0/login")
+2018-08-09 18:02:53		matrix: Unloading
+2018-08-09 18:02:53		matrix: done cleaning up!
+2018-08-09 18:02:53		lua: scripts unloaded
+2018-08-09 18:02:53		fifo: pipe closed
+2018-08-09 18:06:18		python scripts loaded: slack
+2018-08-09 18:06:18		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-08-09 18:06:18		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-08-09 18:06:18		lua scripts loaded: matrix
+2018-08-09 18:06:18		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-08-09 18:06:23		error: curl error 7 (Failed to connect to matrix.jessesimpsoncodes.com port 443: No route to host) (URL: "https://matrix.jessesimpsoncodes.com/_matrix/client/r0/login")
+2018-08-09 18:06:51	=!=	You can not write text in this buffer
+2018-08-09 18:06:55		matrix: Unloading
+2018-08-09 18:06:55		matrix: done cleaning up!
+2018-08-09 18:06:55		lua: scripts unloaded
+2018-08-09 18:06:55		fifo: pipe closed
+2018-08-09 18:06:59		python scripts loaded: slack
+2018-08-09 18:06:59		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-08-09 18:06:59		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-08-09 18:06:59		lua scripts loaded: matrix
+2018-08-09 18:06:59		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-08-09 18:07:03		error: curl error 7 (Failed to connect to matrix.jessesimpsoncodes.com port 443: No route to host) (URL: "https://matrix.jessesimpsoncodes.com/_matrix/client/r0/login")
+2018-08-09 18:07:41		matrix: Unloading
+2018-08-09 18:07:41		matrix: done cleaning up!
+2018-08-09 18:07:41		lua: scripts unloaded
+2018-08-09 18:07:41		fifo: pipe closed
+2018-08-20 10:08:50		python scripts loaded: slack
+2018-08-20 10:08:50		matrix: Unable to load olm encryption library. Not enabling encryption. Please see documentation (README.md) for information on how to enable.
+2018-08-20 10:08:50		matrix: Connecting to homeserver URL: https://matrix.jessesimpsoncodes.com/
+2018-08-20 10:08:50		lua scripts loaded: matrix
+2018-08-20 10:08:50		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2018-08-20 10:08:53		error: curl error 7 (Failed to connect to matrix.jessesimpsoncodes.com port 443: No route to host) (URL: "https://matrix.jessesimpsoncodes.com/_matrix/client/r0/login")
+2018-08-20 10:10:04		matrix: Unloading
+2018-08-20 10:10:04		matrix: done cleaning up!
+2018-08-20 10:10:04		lua: scripts unloaded
+2018-08-20 10:10:04		fifo: pipe closed

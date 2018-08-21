@@ -1,0 +1,1740 @@
+2018-03-27 16:38:40		getting channel history...
+2018-01-09 16:36:41	-->		@timm has joined the channel 
+2018-01-09 16:36:54	-->		@hfernan has joined the channel 
+2018-01-09 17:09:06	-->		@Anastasia has joined the channel 
+2018-01-16 16:30:42	timm	https://docs.google.com/document/d/1o26-rnTNb_ietLh2zW6ylk-xM-sfyAPwtfwt5SWgRSU/edit?usp=sharing 
+2018-01-16 16:30:53	-->		@ajshryoc has joined the channel 
+2018-01-16 16:30:59	-->		@Jesse has joined the channel 
+2018-01-16 16:31:01	-->		@Wenting has joined the channel 
+2018-01-16 16:31:03	Jesse	Hello world [:earth_americas:1 :wave:1] 
+2018-01-16 16:31:07	Wenting	yep 
+2018-01-16 16:31:17	-->		@jfave has joined the channel 
+2018-01-16 16:31:21	-->		@SamuelHenderson has joined the channel 
+2018-01-16 16:31:24	-->		@cjhall3 has joined the channel 
+2018-01-16 16:31:25	-->		@AnthonySu has joined the channel 
+2018-01-16 16:31:29	-->		@patrick_xia has joined the channel 
+2018-01-16 16:31:31	-->		@MattGray has joined the channel 
+2018-01-16 16:31:36	-->		@rjwoods3 has joined the channel 
+2018-01-16 16:31:37	-->		@ThomasDickerson has joined the channel 
+2018-01-16 16:31:38	-->		@cmthomp7 has joined the channel 
+2018-01-16 16:31:42	-->		@kjandre2 has joined the channel 
+2018-01-16 16:31:45	-->		@wjglas has joined the channel 
+2018-01-16 16:31:48	-->		@adbishel has joined the channel 
+2018-01-16 16:31:49	-->		@gjabell has joined the channel 
+2018-01-16 16:31:51	-->		@ejgillia has joined the channel 
+2018-01-16 16:40:54	-->		@camara has joined the channel 
+2018-01-25 16:29:21	timm	this week: https://docs.google.com/document/d/1Dfpo1YgAvwJurxVK93b6BmzyoPlmDAb3eDjZxO9jgss/edit?usp=sharing 
+2018-01-30 16:35:20	timm	review3: 
+2018-01-30 16:36:00	timm	https://docs.google.com/document/d/1P2IV_0-J39l4bdXfbCguW0Y17ec9Fv2F1dIYQ0tKUCo/edit?usp=sharing 
+2018-02-06 15:15:57	timm	review4:
+2018-02-06 15:15:57		- questions: https://github.com/txt/plm18/blob/master/doc/review4.md
+2018-02-06 15:15:57		- answer space: https://docs.google.com/document/d/1MMPOQUrB6Rk30gZWHg-NG4x8qezAil0YhZKQub1ln28/edit?usp=sharing
+2018-02-06 15:15:57		txt/plm18
+2018-02-06 15:15:57		plm18 - programming languages and modeling, NCSU 2018 
+2018-02-13 14:26:49	timm	Review5
+2018-02-13 14:26:49		- questions: https://github.com/txt/plm18/blob/master/doc/review5.md
+2018-02-13 14:26:49		- answer space: https://docs.google.com/document/d/1yvb3P7glwVeSXTjJeC5RTVpYyqGAm-tYAu1UmhjYw6A/edit?usp=sharing
+2018-02-13 14:26:49		txt/plm18
+2018-02-13 14:26:49		plm18 - programming languages and modeling, NCSU 2018  (edited)
+2018-02-20 16:28:59	timm	feb20:
+2018-02-20 16:28:59		questions:
+2018-02-20 16:28:59		https://github.com/txt/plm18/blob/master/doc/review6.md
+2018-02-20 16:28:59		answer space: https://docs.google.com/document/d/1WRa_VjD9AnrIbzzWzxmBL_rvBy_LCj4yoJcWzBbK-z4/edit?usp=sharing
+2018-02-20 16:28:59		txt/plm18
+2018-02-20 16:28:59		plm18 - programming languages and modeling, NCSU 2018 
+2018-02-27 16:29:29	timm	questions: https://github.com/txt/plm18/blob/master/doc/review7.md
+2018-02-27 16:29:29		answer space: https://docs.google.com/document/d/1fXB991xujsVLfsfB4sERrd87MhZi4bmRVsjq0oszbtA/edit?usp=sharing
+2018-02-27 16:29:29		txt/plm18
+2018-02-27 16:29:29		plm18 - programming languages and modeling, NCSU 2018 
+2018-03-27 16:31:07	timm	answers: https://docs.google.com/document/d/1GjlkMvxVO4dGSzgMzAZkOBqx0ceSIUlR2kWUX0wzFH4/edit?usp=sharing 
+2018-03-27 16:31:36	timm	questionsL https://github.com/txt/plm18/blob/master/doc/review8.md
+2018-03-27 16:31:36		doc/review8.md
+2018-03-27 16:31:36		```
+2018-03-27 16:31:36		[home](http://tiny.cc/plm18) |
+2018-03-27 16:31:36		[copyright](https://github.com/txt/plm18/blob/master/LICENSE.md) &copy;2018, tim&commat;menzies.us
+2018-03-27 16:31:36		<br>
+2018-03-27 16:31:36		[<img width=900 src="https://raw.githubusercontent.com/txt/plm18/master/img/banner.png">](http://tiny.cc/plm18)<br>
+2018-03-27 16:31:36		[syllabus](https://github.com/txt/plm18/blob/master/doc/syllabus.md) |
+2018-03-27 16:31:36		[src](https://github.com/txt/plm18/tree/master/src) |
+2018-03-27 16:31:36		[submit](http://tiny.cc/plm18give) |
+2018-03-27 16:31:36		[chat](https://plm18.slack.com/)
+2018-03-27 16:31:36		______
+2018-03-27 16:31:36		# Review
+2018-03-27 16:31:36		### Week 8~10 : 03/01/2018 ~ 03/22/2018
+2018-03-27 16:31:36		Q1. Describe the operations of the lisp virtual machine. In what ways of these different to the operations provided by the Java virtual machine?
+2018-03-27 16:31:36		Q2. Kotlin and Java are two languages, how are they similar and different?
+2018-03-27 16:31:36		Q3. How are containers same and different to the JVM? When would containers be most useful?
+2018-03-27 16:31:36		Q4. How are serverless apps are same and different to containers? When would serverless apps be most useful?
+2018-03-27 16:31:36		Q5. List and explain 3 advantages and 3 disadvantages of serverless apps.
+2018-03-27 16:31:36		Q6a. What is polymorphism?
+2018-03-27 16:31:36		Q6b. Assuming polymorphism, in the simulation of ducks and cows that "quack" and "moo", describle the centralized controllers and the duck and cow class.
+2018-03-27 16:31:36		Q6c. The simulations have been extened, now there are humans that "sing", assuming polymorphism, what has to be changed in the centralized controllers?
+2018-03-27 16:31:36		In the following questions, assume there is a method call "ifTrue:ifFalse:". In polymorphic systems, control is pushed out to the leaf classes, here are the smalltalk definations of ifTrue: and ifFalse:
+2018-03-27 16:31:36		    ! Boolean methods !
+2018-03-27 16:31:36		    ifTrue: aBlock
+2018-03-27 16:31:36		        "inlined in the Compiler"
+2018-03-27 16:31:36		        ^ self ifTrue: aBlock ifFalse: []
+2018-03-27 16:31:36		    ifFalse: aBlock
+2018-03-27 16:31:36		        "inlined in the Compiler"
+2018-03-27 16:31:36		        ^ self ifTrue: [] ifFalse: aBlock
+2018-03-27 16:31:36		Q7. Assuming you have a random number generator, how would you code up "usually:" which two third of time act as "ifTrue:" ?
+2018-03-27 16:31:36		Here are some smalltalk code for iteration in an array, the method "value:value:" sends the values of each and (anotherCollection at: index) into aBlock,
+2018-03-27 16:31:36		    ! In IndexableCollection methods !
+2018-03-27 16:31:36		    with: anotherCollection do: aBlock
+2018-03-27 16:31:36		        "Calls aBlock with every value from self
+2018-03-27 16:31:36		        and with indetically-indexed value from anotherCollection"
+2018-03-27 16:31:36		        self withIndexDo: [ :each :index |
+2018-03-27 16:31:36		            aBlock value: each value: (anotherCollection at: index) ]
+2018-03-27 16:31:36		Q8a. What might blocks be called in lisp?
+2018-03-27 16:31:36		Q8b. Write the with do methods in Python, such that even numbered indexes of an array are printed.
+2018-03-27 16:31:36		Here are some smalltalk code for extracting or deleting items in a collection items
+2018-03-27 16:31:36		    ! Collection methods !
+2018-03-27 16:31:36		    reject: aBlock
+2018-03-27 16:31:36		        ^ self select: [ :each | (aBlock value: each) = false ]
+2018-03-27 16:31:36		    select: aBlock
+2018-03-27 16:31:36		        | stream |
+2018-03-27 16:31:36		        stream := self class new writeStream.
+2018-03-27 16:31:36		        self do: [ :each |
+2018-03-27 16:31:36		            (aBlock value: each) ifTrue: [
+2018-03-27 16:31:36		            stream nextPut: each ] ].
+2018-03-27 16:31:36		        ^ stream contents
+2018-03-27 16:31:36		Q9. Write equivalent Python iterators called "reject" and "select" such that reject is implemented as a special called selected.
+2018-03-27 16:31:36		Covert the following Kotlin code to Python:
+2018-03-27 16:31:36		Q10a.
+2018-03-27 16:31:36		    when (x) {
+2018-03-27 16:31:36		    1 -> print("x is 1")
+2018-03-27 16:31:36		    2 -> print("x is 2")
+2018-03-27 16:31:36		    3, 4 -> print("x is 3 or 4")
+2018-03-27 16:31:36		    in 5..10 -> print("x is 5, 6, 7, 8, 9, or 10")
+2018-03-27 16:31:36		    else -> print("x is out of range")
+2018-03-27 16:31:36		    }
+2018-03-27 16:31:36		Q10b.
+2018-03-27 16:31:36		    class Frame {
+2018-03-27 16:31:36		    var width: Int = 800
+2018-03-27 16:31:36		    var height: Int = 600
+2018-03-27 16:31:36		    val pixels: Int
+2018-03-27 16:31:36		    get() = width * height
+2018-03-27 16:31:36		    }
+2018-03-27 16:31:36		Q10c.
+2018-03-27 16:31:36		    val name = ship?.captain?.name ?: "unknown"
+2018-03-27 16:31:36		Q10d.
+2018-03-27 16:31:36		    str.removeSuffix(".txt")
+2018-03-27 16:31:36		    str.capitalize()
+2018-03-27 16:31:36		    str.substringAfterLast("/")
+2018-03-27 16:31:36		    str.replaceAfter(":", "classified")
+2018-03-27 16:31:36		``` 
+2018-04-03 16:38:26		getting channel history...
+2018-01-09 16:36:41	-->		@timm has joined the channel 
+2018-01-09 16:36:54	-->		@hfernan has joined the channel 
+2018-01-09 17:09:06	-->		@Anastasia has joined the channel 
+2018-01-16 16:30:42	timm	https://docs.google.com/document/d/1o26-rnTNb_ietLh2zW6ylk-xM-sfyAPwtfwt5SWgRSU/edit?usp=sharing 
+2018-01-16 16:30:53	-->		@ajshryoc has joined the channel 
+2018-01-16 16:30:59	-->		@Jesse has joined the channel 
+2018-01-16 16:31:01	-->		@Wenting has joined the channel 
+2018-01-16 16:31:03	Jesse	Hello world [:earth_americas:1 :wave:1] 
+2018-01-16 16:31:07	Wenting	yep 
+2018-01-16 16:31:17	-->		@jfave has joined the channel 
+2018-01-16 16:31:21	-->		@SamuelHenderson has joined the channel 
+2018-01-16 16:31:24	-->		@cjhall3 has joined the channel 
+2018-01-16 16:31:25	-->		@AnthonySu has joined the channel 
+2018-01-16 16:31:29	-->		@patrick_xia has joined the channel 
+2018-01-16 16:31:31	-->		@MattGray has joined the channel 
+2018-01-16 16:31:36	-->		@RaymondWoods has joined the channel 
+2018-01-16 16:31:37	-->		@ThomasDickerson has joined the channel 
+2018-01-16 16:31:38	-->		@cmthomp7 has joined the channel 
+2018-01-16 16:31:42	-->		@kjandre2 has joined the channel 
+2018-01-16 16:31:45	-->		@wjglas has joined the channel 
+2018-01-16 16:31:48	-->		@adbishel has joined the channel 
+2018-01-16 16:31:49	-->		@gjabell has joined the channel 
+2018-01-16 16:31:51	-->		@ejgillia has joined the channel 
+2018-01-16 16:40:54	-->		@camara has joined the channel 
+2018-01-25 16:29:21	timm	this week: https://docs.google.com/document/d/1Dfpo1YgAvwJurxVK93b6BmzyoPlmDAb3eDjZxO9jgss/edit?usp=sharing 
+2018-01-30 16:35:20	timm	review3: 
+2018-01-30 16:36:00	timm	https://docs.google.com/document/d/1P2IV_0-J39l4bdXfbCguW0Y17ec9Fv2F1dIYQ0tKUCo/edit?usp=sharing 
+2018-02-06 15:15:57	timm	review4:
+2018-02-06 15:15:57		- questions: https://github.com/txt/plm18/blob/master/doc/review4.md
+2018-02-06 15:15:57		- answer space: https://docs.google.com/document/d/1MMPOQUrB6Rk30gZWHg-NG4x8qezAil0YhZKQub1ln28/edit?usp=sharing
+2018-02-06 15:15:57		txt/plm18
+2018-02-06 15:15:57		plm18 - programming languages and modeling, NCSU 2018 
+2018-02-13 14:26:49	timm	Review5
+2018-02-13 14:26:49		- questions: https://github.com/txt/plm18/blob/master/doc/review5.md
+2018-02-13 14:26:49		- answer space: https://docs.google.com/document/d/1yvb3P7glwVeSXTjJeC5RTVpYyqGAm-tYAu1UmhjYw6A/edit?usp=sharing
+2018-02-13 14:26:49		txt/plm18
+2018-02-13 14:26:49		plm18 - programming languages and modeling, NCSU 2018  (edited)
+2018-02-20 16:28:59	timm	feb20:
+2018-02-20 16:28:59		questions:
+2018-02-20 16:28:59		https://github.com/txt/plm18/blob/master/doc/review6.md
+2018-02-20 16:28:59		answer space: https://docs.google.com/document/d/1WRa_VjD9AnrIbzzWzxmBL_rvBy_LCj4yoJcWzBbK-z4/edit?usp=sharing
+2018-02-20 16:28:59		txt/plm18
+2018-02-20 16:28:59		plm18 - programming languages and modeling, NCSU 2018 
+2018-02-27 16:29:29	timm	questions: https://github.com/txt/plm18/blob/master/doc/review7.md
+2018-02-27 16:29:29		answer space: https://docs.google.com/document/d/1fXB991xujsVLfsfB4sERrd87MhZi4bmRVsjq0oszbtA/edit?usp=sharing
+2018-02-27 16:29:29		txt/plm18
+2018-02-27 16:29:29		plm18 - programming languages and modeling, NCSU 2018 
+2018-03-27 16:31:07	timm	answers: https://docs.google.com/document/d/1GjlkMvxVO4dGSzgMzAZkOBqx0ceSIUlR2kWUX0wzFH4/edit?usp=sharing 
+2018-03-27 16:31:36	timm	questionsL https://github.com/txt/plm18/blob/master/doc/review8.md
+2018-03-27 16:31:36		doc/review8.md
+2018-03-27 16:31:36		```
+2018-03-27 16:31:36		[home](http://tiny.cc/plm18) |
+2018-03-27 16:31:36		[copyright](https://github.com/txt/plm18/blob/master/LICENSE.md) &copy;2018, tim&commat;menzies.us
+2018-03-27 16:31:36		<br>
+2018-03-27 16:31:36		[<img width=900 src="https://raw.githubusercontent.com/txt/plm18/master/img/banner.png">](http://tiny.cc/plm18)<br>
+2018-03-27 16:31:36		[syllabus](https://github.com/txt/plm18/blob/master/doc/syllabus.md) |
+2018-03-27 16:31:36		[src](https://github.com/txt/plm18/tree/master/src) |
+2018-03-27 16:31:36		[submit](http://tiny.cc/plm18give) |
+2018-03-27 16:31:36		[chat](https://plm18.slack.com/)
+2018-03-27 16:31:36		______
+2018-03-27 16:31:36		# Review
+2018-03-27 16:31:36		### Week 8~10 : 03/01/2018 ~ 03/22/2018
+2018-03-27 16:31:36		Q1. Describe the operations of the lisp virtual machine. In what ways of these different to the operations provided by the Java virtual machine?
+2018-03-27 16:31:36		Q2. Kotlin and Java are two languages, how are they similar and different?
+2018-03-27 16:31:36		Q3. How are containers same and different to the JVM? When would containers be most useful?
+2018-03-27 16:31:36		Q4. How are serverless apps are same and different to containers? When would serverless apps be most useful?
+2018-03-27 16:31:36		Q5. List and explain 3 advantages and 3 disadvantages of serverless apps.
+2018-03-27 16:31:36		Q6a. What is polymorphism?
+2018-03-27 16:31:36		Q6b. Assuming polymorphism, in the simulation of ducks and cows that "quack" and "moo", describle the centralized controllers and the duck and cow class.
+2018-03-27 16:31:36		Q6c. The simulations have been extened, now there are humans that "sing", assuming polymorphism, what has to be changed in the centralized controllers?
+2018-03-27 16:31:36		In the following questions, assume there is a method call "ifTrue:ifFalse:". In polymorphic systems, control is pushed out to the leaf classes, here are the smalltalk definations of ifTrue: and ifFalse:
+2018-03-27 16:31:36		    ! Boolean methods !
+2018-03-27 16:31:36		    ifTrue: aBlock
+2018-03-27 16:31:36		        "inlined in the Compiler"
+2018-03-27 16:31:36		        ^ self ifTrue: aBlock ifFalse: []
+2018-03-27 16:31:36		    ifFalse: aBlock
+2018-03-27 16:31:36		        "inlined in the Compiler"
+2018-03-27 16:31:36		        ^ self ifTrue: [] ifFalse: aBlock
+2018-03-27 16:31:36		Q7. Assuming you have a random number generator, how would you code up "usually:" which two third of time act as "ifTrue:" ?
+2018-03-27 16:31:36		Here are some smalltalk code for iteration in an array, the method "value:value:" sends the values of each and (anotherCollection at: index) into aBlock,
+2018-03-27 16:31:36		    ! In IndexableCollection methods !
+2018-03-27 16:31:36		    with: anotherCollection do: aBlock
+2018-03-27 16:31:36		        "Calls aBlock with every value from self
+2018-03-27 16:31:36		        and with indetically-indexed value from anotherCollection"
+2018-03-27 16:31:36		        self withIndexDo: [ :each :index |
+2018-03-27 16:31:36		            aBlock value: each value: (anotherCollection at: index) ]
+2018-03-27 16:31:36		Q8a. What might blocks be called in lisp?
+2018-03-27 16:31:36		Q8b. Write the with do methods in Python, such that even numbered indexes of an array are printed.
+2018-03-27 16:31:36		Here are some smalltalk code for extracting or deleting items in a collection items
+2018-03-27 16:31:36		    ! Collection methods !
+2018-03-27 16:31:36		    reject: aBlock
+2018-03-27 16:31:36		        ^ self select: [ :each | (aBlock value: each) = false ]
+2018-03-27 16:31:36		    select: aBlock
+2018-03-27 16:31:36		        | stream |
+2018-03-27 16:31:36		        stream := self class new writeStream.
+2018-03-27 16:31:36		        self do: [ :each |
+2018-03-27 16:31:36		            (aBlock value: each) ifTrue: [
+2018-03-27 16:31:36		            stream nextPut: each ] ].
+2018-03-27 16:31:36		        ^ stream contents
+2018-03-27 16:31:36		Q9. Write equivalent Python iterators called "reject" and "select" such that reject is implemented as a special called selected.
+2018-03-27 16:31:36		Covert the following Kotlin code to Python:
+2018-03-27 16:31:36		Q10a.
+2018-03-27 16:31:36		    when (x) {
+2018-03-27 16:31:36		    1 -> print("x is 1")
+2018-03-27 16:31:36		    2 -> print("x is 2")
+2018-03-27 16:31:36		    3, 4 -> print("x is 3 or 4")
+2018-03-27 16:31:36		    in 5..10 -> print("x is 5, 6, 7, 8, 9, or 10")
+2018-03-27 16:31:36		    else -> print("x is out of range")
+2018-03-27 16:31:36		    }
+2018-03-27 16:31:36		Q10b.
+2018-03-27 16:31:36		    class Frame {
+2018-03-27 16:31:36		    var width: Int = 800
+2018-03-27 16:31:36		    var height: Int = 600
+2018-03-27 16:31:36		    val pixels: Int
+2018-03-27 16:31:36		    get() = width * height
+2018-03-27 16:31:36		    }
+2018-03-27 16:31:36		Q10c.
+2018-03-27 16:31:36		    val name = ship?.captain?.name ?: "unknown"
+2018-03-27 16:31:36		Q10d.
+2018-03-27 16:31:36		    str.removeSuffix(".txt")
+2018-03-27 16:31:36		    str.capitalize()
+2018-03-27 16:31:36		    str.substringAfterLast("/")
+2018-03-27 16:31:36		    str.replaceAfter(":", "classified")
+2018-03-27 16:31:36		``` 
+2018-04-03 16:29:50	timm	questions; https://github.com/txt/plm18/blob/master/doc/review9.md
+2018-04-03 16:29:50		answer space: https://docs.google.com/document/d/1-jLbSsiSamu2kn9_IQ_zCkB2PBsq-VUL_K-I3tKjnLA/edit?usp=sharing
+2018-04-03 16:29:50		doc/review9.md
+2018-04-03 16:29:50		```
+2018-04-03 16:29:50		[home](http://tiny.cc/plm18) |
+2018-04-03 16:29:50		[copyright](https://github.com/txt/plm18/blob/master/LICENSE.md) &copy;2018, tim&commat;menzies.us
+2018-04-03 16:29:50		<br>
+2018-04-03 16:29:50		[<img width=900 src="https://raw.githubusercontent.com/txt/plm18/master/img/banner.png">](http://tiny.cc/plm18)<br>
+2018-04-03 16:29:50		[syllabus](https://github.com/txt/plm18/blob/master/doc/syllabus.md) |
+2018-04-03 16:29:50		[src](https://github.com/txt/plm18/tree/master/src) |
+2018-04-03 16:29:50		[submit](http://tiny.cc/plm18give) |
+2018-04-03 16:29:50		[chat](https://plm18.slack.com/)
+2018-04-03 16:29:50		______
+2018-04-03 16:29:50		# Review
+2018-04-03 16:29:50		### Week 11 : 03/27/2018 ~ 03/29/2018
+2018-04-03 16:29:50		Q1. What is the difference between object-based system and class-based system?
+2018-04-03 16:29:50		Given an applciation with 1000000 objects, which might you prefer? Justify your answer.
+2018-04-03 16:29:50		Q2. There are two ways to build a DSL: External and Internal, briefly explain what they are and give an example for each of them.
+2018-04-03 16:29:50		Q3a. What is context manager? What do the following do? For each of 3b, 3c offer
+2018-04-03 16:29:50		another example where you might use this langauge feature.
+2018-04-03 16:29:50		Q3b.
+2018-04-03 16:29:50		    def duration():
+2018-04-03 16:29:50		        t1 = time.time()
+2018-04-03 16:29:50		        yield
+2018-04-03 16:29:50		        t2 = time.time()
+2018-04-03 16:29:50		        print("\n" + "-"  72)
+2018-04-03 16:29:50		        print("# Runtime: %.3f secs" % (t2-t1))
+2018-04-03 16:29:50		        
+2018-04-03 16:29:50		Q3c.
+2018-04-03 16:29:50		    def closing(thing):
+2018-04-03 16:29:50		        try:
+2018-04-03 16:29:50		            yield thing
+2018-04-03 16:29:50		        finally:
+2018-04-03 16:29:50		            thing.close()
+2018-04-03 16:29:50		            
+2018-04-03 16:29:50		Q3d. Are 3b, 3c examples of itnernal or external DSLs? Justify your answer.
+2018-04-03 16:29:50		In the following code:
+2018-04-03 16:29:50		      def step(i,dt,t,u,v):
+2018-04-03 16:29:50		        def saturday(x): return int(x) % 7 == 6
+2018-04-03 16:29:50		        v.C +=  dt(u.q - u.r)
+2018-04-03 16:29:50		        v.D +=  dt*(u.r - u.s)
+2018-04-03 16:29:50		        v.q  =  70  if saturday(t) else 0 
+2018-04-03 16:29:50		        v.s  =  u.D if saturday(t) else 0
+2018-04-03 16:29:50		        if t == 27: # special case (the day i forget)
+2018-04-03 16:29:50		          v.s = 0
+2018-04-03 16:29:50		Q4a. Draw the associated compartmental model
+2018-04-03 16:29:50		          
+2018-04-03 16:29:50		Q4b. How do we get the constants of dict?
+2018-04-03 16:29:50		Q4c. What are i, dt, t respectively?
+2018-04-03 16:29:50		Q4d. How to represent payload in the code?
+2018-04-03 16:29:50		Q4e. How to update the field of v?
+2018-04-03 16:29:50		Q4f. Is this an external or internal DSL?
+2018-04-03 16:29:50		Q5. For the following example, write a compartmental model in python.
+2018-04-03 16:29:50		```
+2018-04-03 16:29:50		a   +-----+  c  +-----+
+2018-04-03 16:29:50		---->|  B  |---->|  D  |--> e
+2018-04-03 16:29:50		^   +-----+     +-+---+    |
+2018-04-03 16:29:50		|                          |
+2018-04-03 16:29:50		+--------------------------+
+2018-04-03 16:29:50		f
+2018-04-03 16:29:50		B = contents of supermarket shelves
+2018-04-03 16:29:50		D = contents of tummy
+2018-04-03 16:29:50		a = restock rate of supermarket
+2018-04-03 16:29:50		c = buying rate of a student
+2018-04-03 16:29:50		e = garbage bags outside student housing
+2018-04-03 16:29:50		f = increases restocking for stuburbs with lottsa garbage
+2018-04-03 16:29:50		```
+2018-04-03 16:29:50		    
+2018-04-03 16:29:50		Q6. What is the difference between Stocks and Flows in Compartmental Modeling?
+2018-04-03 16:29:50		Q7. In Compartmental Modeling, what are auxillary variables used for?
+2018-04-03 16:29:50		Q8. Why would a stock need this?
+2018-04-03 16:29:50		      def restrain(i,x):
+2018-04-03 16:29:50		        return max(i.lo,
+2018-04-03 16:29:50		min(i.hi, x))
+2018-04-03 16:29:50		            
+2018-04-03 16:29:50		In class "model":
+2018-04-03 16:29:50		    class Model:
+2018-04-03 16:29:50		      def state(i):
+2018-04-03 16:29:50		        """To create a state vector, we create 
+2018-04-03 16:29:50		        one slot for each name in 'have'."""
+2018-04-03 16:29:50		        tmp=i.have()
+2018-04-03 16:29:50		        for k,v in tmp.has().items():
+2018-04-03 16:29:50		          v.name = k
+2018-04-03 16:29:50		        return tmp 
+2018-04-03 16:29:50		      def run(i,dt=1,tmax=30):
+2018-04-03 16:29:50		        """For time up to 'tmax', increment 't' 
+2018-04-03 16:29:50		           by 'dt' and 'step' the model."""
+2018-04-03 16:29:50		        t,b4 = 0, o()
+2018-04-03 16:29:50		        keep = []    ## 1
+2018-04-03 16:29:50		        state = i.state()
+2018-04-03 16:29:50		        for k,a in state.items(): 
+2018-04-03 16:29:50		          b4[k] = a.init
+2018-04-03 16:29:50		        keys  = sorted(state.keys(),  ## 3
+2018-04-03 16:29:50		                       key=lambda z: state[z].rank())
+2018-04-03 16:29:50		        keep = [["t"] +  keys,
+2018-04-03 16:29:50		                [0] + b4.asList(keys)]
+2018-04-03 16:29:50		        while t < tmax:
+2018-04-03 16:29:50		          now = b4.copy()
+2018-04-03 16:29:50		          i.step(dt,t,b4,now)
+2018-04-03 16:29:50		          for k in state.keys(): 
+2018-04-03 16:29:50		            now[k] = state[k].restrain(now[k]) ## 4
+2018-04-03 16:29:50		          keep += [[t] + now.asList(keys)] ## 2
+2018-04-03 16:29:50		          t += dt
+2018-04-03 16:29:50		          b4 = now
+2018-04-03 16:29:50		        return keep
+2018-04-03 16:29:50		Q9a. What is keep = []?
+2018-04-03 16:29:50		Q9b. What is happending here:
+2018-04-03 16:29:50		for k in state.keys():
+2018-04-03 16:29:50		now[k] = state[k].restrain(now[k]) ## 4
+2018-04-03 16:29:50		Q9c. What returns here:
+2018-04-03 16:29:50		      keep += [[t] + now.asList(keys)] ## 2
+2018-04-03 16:29:50		In the following code about "printm":
+2018-04-03 16:29:50		    def printm(matrix,less=True):
+2018-04-03 16:29:50		       """Print a list of list, only showing changes
+2018-04-03 16:29:50		       in each column (if less is True)."""
+2018-04-03 16:29:50		       def ditto(m,mark="."):
+2018-04-03 16:29:50		         def worker(lst):
+2018-04-03 16:29:50		           out = []
+2018-04-03 16:29:50		           for i,now in enumerate(lst):
+2018-04-03 16:29:50		             before = old.get(i,None) # get old it if exists
+2018-04-03 16:29:50		             out += [mark if before == now else now]
+2018-04-03 16:29:50		             old[i] = now # next time, 'now' is the 'old' value
+2018-04-03 16:29:50		           return out # the lst with ditto marks inserted
+2018-04-03 16:29:50		         old = {}
+2018-04-03 16:29:50		         return [worker(row) for row in m]
+2018-04-03 16:29:50		       matrix = ditto(matrix) if less else matrix
+2018-04-03 16:29:50		       s = [[str(e) for e in row] for row in matrix]
+2018-04-03 16:29:50		       lens = [max(map(len, col)) for col in zip(*s)]
+2018-04-03 16:29:50		       fmt = ' | '.join('{{:{}}}'.format(x) for x in lens)
+2018-04-03 16:29:50		       for row in [fmt.format(*row) for row in s]:
+2018-04-03 16:29:50		          print(row)
+2018-04-03 16:29:50		          
+2018-04-03 16:29:50		Q10. What do these two lines do:
+2018-04-03 16:29:50		       s = [[str(e) for e in row] for row in matrix]
+2018-04-03 16:29:50		       lens = [max(map(len, col)) for col in zip(*s)]
+2018-04-03 16:29:50		Q11. For Compartmental Models, why we do not try to debug complex emergent behavior?
+2018-04-03 16:29:50		Q12. Instead of debugging complex emergent behavior, what we can do?
+2018-04-03 16:29:50		Q13. Label the models below:
+2018-04-03 16:29:50		![cmnl](https://cloud.githubusercontent.com/assets/1433964/10382538/12b9265c-6df3-11e5-8572-7b60661e4464.jpg)
+2018-04-03 16:29:50		```  (edited)
+2018-04-19 16:43:47		getting channel history...
+2018-01-09 16:36:41	-->		@timm has joined the channel 
+2018-01-09 16:36:54	-->		@hfernan has joined the channel 
+2018-01-09 17:09:06	-->		@Anastasia has joined the channel 
+2018-01-16 16:30:42	timm	https://docs.google.com/document/d/1o26-rnTNb_ietLh2zW6ylk-xM-sfyAPwtfwt5SWgRSU/edit?usp=sharing 
+2018-01-16 16:30:53	-->		@ajshryoc has joined the channel 
+2018-01-16 16:30:59	-->		@Jesse has joined the channel 
+2018-01-16 16:31:01	-->		@Wenting has joined the channel 
+2018-01-16 16:31:03	Jesse	Hello world [:earth_americas:1 :wave:1] 
+2018-01-16 16:31:07	Wenting	yep 
+2018-01-16 16:31:17	-->		@jfave has joined the channel 
+2018-01-16 16:31:21	-->		@SamuelHenderson has joined the channel 
+2018-01-16 16:31:24	-->		@cjhall3 has joined the channel 
+2018-01-16 16:31:25	-->		@AnthonySu has joined the channel 
+2018-01-16 16:31:29	-->		@patrick_xia has joined the channel 
+2018-01-16 16:31:31	-->		@MattGray has joined the channel 
+2018-01-16 16:31:36	-->		@RaymondWoods has joined the channel 
+2018-01-16 16:31:37	-->		@ThomasDickerson has joined the channel 
+2018-01-16 16:31:38	-->		@cmthomp7 has joined the channel 
+2018-01-16 16:31:42	-->		@kjandre2 has joined the channel 
+2018-01-16 16:31:45	-->		@wjglas has joined the channel 
+2018-01-16 16:31:48	-->		@adbishel has joined the channel 
+2018-01-16 16:31:49	-->		@gjabell has joined the channel 
+2018-01-16 16:31:51	-->		@ejgillia has joined the channel 
+2018-01-16 16:40:54	-->		@camara has joined the channel 
+2018-01-25 16:29:21	timm	this week: https://docs.google.com/document/d/1Dfpo1YgAvwJurxVK93b6BmzyoPlmDAb3eDjZxO9jgss/edit?usp=sharing 
+2018-01-30 16:35:20	timm	review3: 
+2018-01-30 16:36:00	timm	https://docs.google.com/document/d/1P2IV_0-J39l4bdXfbCguW0Y17ec9Fv2F1dIYQ0tKUCo/edit?usp=sharing 
+2018-02-06 15:15:57	timm	review4:
+2018-02-06 15:15:57		- questions: https://github.com/txt/plm18/blob/master/doc/review4.md
+2018-02-06 15:15:57		- answer space: https://docs.google.com/document/d/1MMPOQUrB6Rk30gZWHg-NG4x8qezAil0YhZKQub1ln28/edit?usp=sharing
+2018-02-06 15:15:57		txt/plm18
+2018-02-06 15:15:57		plm18 - programming languages and modeling, NCSU 2018 
+2018-02-13 14:26:49	timm	Review5
+2018-02-13 14:26:49		- questions: https://github.com/txt/plm18/blob/master/doc/review5.md
+2018-02-13 14:26:49		- answer space: https://docs.google.com/document/d/1yvb3P7glwVeSXTjJeC5RTVpYyqGAm-tYAu1UmhjYw6A/edit?usp=sharing
+2018-02-13 14:26:49		txt/plm18
+2018-02-13 14:26:49		plm18 - programming languages and modeling, NCSU 2018  (edited)
+2018-02-20 16:28:59	timm	feb20:
+2018-02-20 16:28:59		questions:
+2018-02-20 16:28:59		https://github.com/txt/plm18/blob/master/doc/review6.md
+2018-02-20 16:28:59		answer space: https://docs.google.com/document/d/1WRa_VjD9AnrIbzzWzxmBL_rvBy_LCj4yoJcWzBbK-z4/edit?usp=sharing
+2018-02-20 16:28:59		txt/plm18
+2018-02-20 16:28:59		plm18 - programming languages and modeling, NCSU 2018 
+2018-02-27 16:29:29	timm	questions: https://github.com/txt/plm18/blob/master/doc/review7.md
+2018-02-27 16:29:29		answer space: https://docs.google.com/document/d/1fXB991xujsVLfsfB4sERrd87MhZi4bmRVsjq0oszbtA/edit?usp=sharing
+2018-02-27 16:29:29		txt/plm18
+2018-02-27 16:29:29		plm18 - programming languages and modeling, NCSU 2018 
+2018-03-27 16:31:07	timm	answers: https://docs.google.com/document/d/1GjlkMvxVO4dGSzgMzAZkOBqx0ceSIUlR2kWUX0wzFH4/edit?usp=sharing 
+2018-03-27 16:31:36	timm	questionsL https://github.com/txt/plm18/blob/master/doc/review8.md
+2018-03-27 16:31:36		doc/review8.md
+2018-03-27 16:31:36		```
+2018-03-27 16:31:36		[home](http://tiny.cc/plm18) |
+2018-03-27 16:31:36		[copyright](https://github.com/txt/plm18/blob/master/LICENSE.md) &copy;2018, tim&commat;menzies.us
+2018-03-27 16:31:36		<br>
+2018-03-27 16:31:36		[<img width=900 src="https://raw.githubusercontent.com/txt/plm18/master/img/banner.png">](http://tiny.cc/plm18)<br>
+2018-03-27 16:31:36		[syllabus](https://github.com/txt/plm18/blob/master/doc/syllabus.md) |
+2018-03-27 16:31:36		[src](https://github.com/txt/plm18/tree/master/src) |
+2018-03-27 16:31:36		[submit](http://tiny.cc/plm18give) |
+2018-03-27 16:31:36		[chat](https://plm18.slack.com/)
+2018-03-27 16:31:36		______
+2018-03-27 16:31:36		# Review
+2018-03-27 16:31:36		### Week 8~10 : 03/01/2018 ~ 03/22/2018
+2018-03-27 16:31:36		Q1. Describe the operations of the lisp virtual machine. In what ways of these different to the operations provided by the Java virtual machine?
+2018-03-27 16:31:36		Q2. Kotlin and Java are two languages, how are they similar and different?
+2018-03-27 16:31:36		Q3. How are containers same and different to the JVM? When would containers be most useful?
+2018-03-27 16:31:36		Q4. How are serverless apps are same and different to containers? When would serverless apps be most useful?
+2018-03-27 16:31:36		Q5. List and explain 3 advantages and 3 disadvantages of serverless apps.
+2018-03-27 16:31:36		Q6a. What is polymorphism?
+2018-03-27 16:31:36		Q6b. Assuming polymorphism, in the simulation of ducks and cows that "quack" and "moo", describle the centralized controllers and the duck and cow class.
+2018-03-27 16:31:36		Q6c. The simulations have been extened, now there are humans that "sing", assuming polymorphism, what has to be changed in the centralized controllers?
+2018-03-27 16:31:36		In the following questions, assume there is a method call "ifTrue:ifFalse:". In polymorphic systems, control is pushed out to the leaf classes, here are the smalltalk definations of ifTrue: and ifFalse:
+2018-03-27 16:31:36		    ! Boolean methods !
+2018-03-27 16:31:36		    ifTrue: aBlock
+2018-03-27 16:31:36		        "inlined in the Compiler"
+2018-03-27 16:31:36		        ^ self ifTrue: aBlock ifFalse: []
+2018-03-27 16:31:36		    ifFalse: aBlock
+2018-03-27 16:31:36		        "inlined in the Compiler"
+2018-03-27 16:31:36		        ^ self ifTrue: [] ifFalse: aBlock
+2018-03-27 16:31:36		Q7. Assuming you have a random number generator, how would you code up "usually:" which two third of time act as "ifTrue:" ?
+2018-03-27 16:31:36		Here are some smalltalk code for iteration in an array, the method "value:value:" sends the values of each and (anotherCollection at: index) into aBlock,
+2018-03-27 16:31:36		    ! In IndexableCollection methods !
+2018-03-27 16:31:36		    with: anotherCollection do: aBlock
+2018-03-27 16:31:36		        "Calls aBlock with every value from self
+2018-03-27 16:31:36		        and with indetically-indexed value from anotherCollection"
+2018-03-27 16:31:36		        self withIndexDo: [ :each :index |
+2018-03-27 16:31:36		            aBlock value: each value: (anotherCollection at: index) ]
+2018-03-27 16:31:36		Q8a. What might blocks be called in lisp?
+2018-03-27 16:31:36		Q8b. Write the with do methods in Python, such that even numbered indexes of an array are printed.
+2018-03-27 16:31:36		Here are some smalltalk code for extracting or deleting items in a collection items
+2018-03-27 16:31:36		    ! Collection methods !
+2018-03-27 16:31:36		    reject: aBlock
+2018-03-27 16:31:36		        ^ self select: [ :each | (aBlock value: each) = false ]
+2018-03-27 16:31:36		    select: aBlock
+2018-03-27 16:31:36		        | stream |
+2018-03-27 16:31:36		        stream := self class new writeStream.
+2018-03-27 16:31:36		        self do: [ :each |
+2018-03-27 16:31:36		            (aBlock value: each) ifTrue: [
+2018-03-27 16:31:36		            stream nextPut: each ] ].
+2018-03-27 16:31:36		        ^ stream contents
+2018-03-27 16:31:36		Q9. Write equivalent Python iterators called "reject" and "select" such that reject is implemented as a special called selected.
+2018-03-27 16:31:36		Covert the following Kotlin code to Python:
+2018-03-27 16:31:36		Q10a.
+2018-03-27 16:31:36		    when (x) {
+2018-03-27 16:31:36		    1 -> print("x is 1")
+2018-03-27 16:31:36		    2 -> print("x is 2")
+2018-03-27 16:31:36		    3, 4 -> print("x is 3 or 4")
+2018-03-27 16:31:36		    in 5..10 -> print("x is 5, 6, 7, 8, 9, or 10")
+2018-03-27 16:31:36		    else -> print("x is out of range")
+2018-03-27 16:31:36		    }
+2018-03-27 16:31:36		Q10b.
+2018-03-27 16:31:36		    class Frame {
+2018-03-27 16:31:36		    var width: Int = 800
+2018-03-27 16:31:36		    var height: Int = 600
+2018-03-27 16:31:36		    val pixels: Int
+2018-03-27 16:31:36		    get() = width * height
+2018-03-27 16:31:36		    }
+2018-03-27 16:31:36		Q10c.
+2018-03-27 16:31:36		    val name = ship?.captain?.name ?: "unknown"
+2018-03-27 16:31:36		Q10d.
+2018-03-27 16:31:36		    str.removeSuffix(".txt")
+2018-03-27 16:31:36		    str.capitalize()
+2018-03-27 16:31:36		    str.substringAfterLast("/")
+2018-03-27 16:31:36		    str.replaceAfter(":", "classified")
+2018-03-27 16:31:36		``` 
+2018-04-03 16:29:50	timm	questions; https://github.com/txt/plm18/blob/master/doc/review9.md
+2018-04-03 16:29:50		answer space: https://docs.google.com/document/d/1-jLbSsiSamu2kn9_IQ_zCkB2PBsq-VUL_K-I3tKjnLA/edit?usp=sharing
+2018-04-03 16:29:50		doc/review9.md
+2018-04-03 16:29:50		```
+2018-04-03 16:29:50		[home](http://tiny.cc/plm18) |
+2018-04-03 16:29:50		[copyright](https://github.com/txt/plm18/blob/master/LICENSE.md) &copy;2018, tim&commat;menzies.us
+2018-04-03 16:29:50		<br>
+2018-04-03 16:29:50		[<img width=900 src="https://raw.githubusercontent.com/txt/plm18/master/img/banner.png">](http://tiny.cc/plm18)<br>
+2018-04-03 16:29:50		[syllabus](https://github.com/txt/plm18/blob/master/doc/syllabus.md) |
+2018-04-03 16:29:50		[src](https://github.com/txt/plm18/tree/master/src) |
+2018-04-03 16:29:50		[submit](http://tiny.cc/plm18give) |
+2018-04-03 16:29:50		[chat](https://plm18.slack.com/)
+2018-04-03 16:29:50		______
+2018-04-03 16:29:50		# Review
+2018-04-03 16:29:50		### Week 11 : 03/27/2018 ~ 03/29/2018
+2018-04-03 16:29:50		Q1. What is the difference between object-based system and class-based system?
+2018-04-03 16:29:50		Given an applciation with 1000000 objects, which might you prefer? Justify your answer.
+2018-04-03 16:29:50		Q2. There are two ways to build a DSL: External and Internal, briefly explain what they are and give an example for each of them.
+2018-04-03 16:29:50		Q3a. What is context manager? What do the following do? For each of 3b, 3c offer
+2018-04-03 16:29:50		another example where you might use this langauge feature.
+2018-04-03 16:29:50		Q3b.
+2018-04-03 16:29:50		    def duration():
+2018-04-03 16:29:50		        t1 = time.time()
+2018-04-03 16:29:50		        yield
+2018-04-03 16:29:50		        t2 = time.time()
+2018-04-03 16:29:50		        print("\n" + "-"  72)
+2018-04-03 16:29:50		        print("# Runtime: %.3f secs" % (t2-t1))
+2018-04-03 16:29:50		        
+2018-04-03 16:29:50		Q3c.
+2018-04-03 16:29:50		    def closing(thing):
+2018-04-03 16:29:50		        try:
+2018-04-03 16:29:50		            yield thing
+2018-04-03 16:29:50		        finally:
+2018-04-03 16:29:50		            thing.close()
+2018-04-03 16:29:50		            
+2018-04-03 16:29:50		Q3d. Are 3b, 3c examples of itnernal or external DSLs? Justify your answer.
+2018-04-03 16:29:50		In the following code:
+2018-04-03 16:29:50		      def step(i,dt,t,u,v):
+2018-04-03 16:29:50		        def saturday(x): return int(x) % 7 == 6
+2018-04-03 16:29:50		        v.C +=  dt(u.q - u.r)
+2018-04-03 16:29:50		        v.D +=  dt*(u.r - u.s)
+2018-04-03 16:29:50		        v.q  =  70  if saturday(t) else 0 
+2018-04-03 16:29:50		        v.s  =  u.D if saturday(t) else 0
+2018-04-03 16:29:50		        if t == 27: # special case (the day i forget)
+2018-04-03 16:29:50		          v.s = 0
+2018-04-03 16:29:50		Q4a. Draw the associated compartmental model
+2018-04-03 16:29:50		          
+2018-04-03 16:29:50		Q4b. How do we get the constants of dict?
+2018-04-03 16:29:50		Q4c. What are i, dt, t respectively?
+2018-04-03 16:29:50		Q4d. How to represent payload in the code?
+2018-04-03 16:29:50		Q4e. How to update the field of v?
+2018-04-03 16:29:50		Q4f. Is this an external or internal DSL?
+2018-04-03 16:29:50		Q5. For the following example, write a compartmental model in python.
+2018-04-03 16:29:50		```
+2018-04-03 16:29:50		a   +-----+  c  +-----+
+2018-04-03 16:29:50		---->|  B  |---->|  D  |--> e
+2018-04-03 16:29:50		^   +-----+     +-+---+    |
+2018-04-03 16:29:50		|                          |
+2018-04-03 16:29:50		+--------------------------+
+2018-04-03 16:29:50		f
+2018-04-03 16:29:50		B = contents of supermarket shelves
+2018-04-03 16:29:50		D = contents of tummy
+2018-04-03 16:29:50		a = restock rate of supermarket
+2018-04-03 16:29:50		c = buying rate of a student
+2018-04-03 16:29:50		e = garbage bags outside student housing
+2018-04-03 16:29:50		f = increases restocking for stuburbs with lottsa garbage
+2018-04-03 16:29:50		```
+2018-04-03 16:29:50		    
+2018-04-03 16:29:50		Q6. What is the difference between Stocks and Flows in Compartmental Modeling?
+2018-04-03 16:29:50		Q7. In Compartmental Modeling, what are auxillary variables used for?
+2018-04-03 16:29:50		Q8. Why would a stock need this?
+2018-04-03 16:29:50		      def restrain(i,x):
+2018-04-03 16:29:50		        return max(i.lo,
+2018-04-03 16:29:50		min(i.hi, x))
+2018-04-03 16:29:50		            
+2018-04-03 16:29:50		In class "model":
+2018-04-03 16:29:50		    class Model:
+2018-04-03 16:29:50		      def state(i):
+2018-04-03 16:29:50		        """To create a state vector, we create 
+2018-04-03 16:29:50		        one slot for each name in 'have'."""
+2018-04-03 16:29:50		        tmp=i.have()
+2018-04-03 16:29:50		        for k,v in tmp.has().items():
+2018-04-03 16:29:50		          v.name = k
+2018-04-03 16:29:50		        return tmp 
+2018-04-03 16:29:50		      def run(i,dt=1,tmax=30):
+2018-04-03 16:29:50		        """For time up to 'tmax', increment 't' 
+2018-04-03 16:29:50		           by 'dt' and 'step' the model."""
+2018-04-03 16:29:50		        t,b4 = 0, o()
+2018-04-03 16:29:50		        keep = []    ## 1
+2018-04-03 16:29:50		        state = i.state()
+2018-04-03 16:29:50		        for k,a in state.items(): 
+2018-04-03 16:29:50		          b4[k] = a.init
+2018-04-03 16:29:50		        keys  = sorted(state.keys(),  ## 3
+2018-04-03 16:29:50		                       key=lambda z: state[z].rank())
+2018-04-03 16:29:50		        keep = [["t"] +  keys,
+2018-04-03 16:29:50		                [0] + b4.asList(keys)]
+2018-04-03 16:29:50		        while t < tmax:
+2018-04-03 16:29:50		          now = b4.copy()
+2018-04-03 16:29:50		          i.step(dt,t,b4,now)
+2018-04-03 16:29:50		          for k in state.keys(): 
+2018-04-03 16:29:50		            now[k] = state[k].restrain(now[k]) ## 4
+2018-04-03 16:29:50		          keep += [[t] + now.asList(keys)] ## 2
+2018-04-03 16:29:50		          t += dt
+2018-04-03 16:29:50		          b4 = now
+2018-04-03 16:29:50		        return keep
+2018-04-03 16:29:50		Q9a. What is keep = []?
+2018-04-03 16:29:50		Q9b. What is happending here:
+2018-04-03 16:29:50		for k in state.keys():
+2018-04-03 16:29:50		now[k] = state[k].restrain(now[k]) ## 4
+2018-04-03 16:29:50		Q9c. What returns here:
+2018-04-03 16:29:50		      keep += [[t] + now.asList(keys)] ## 2
+2018-04-03 16:29:50		In the following code about "printm":
+2018-04-03 16:29:50		    def printm(matrix,less=True):
+2018-04-03 16:29:50		       """Print a list of list, only showing changes
+2018-04-03 16:29:50		       in each column (if less is True)."""
+2018-04-03 16:29:50		       def ditto(m,mark="."):
+2018-04-03 16:29:50		         def worker(lst):
+2018-04-03 16:29:50		           out = []
+2018-04-03 16:29:50		           for i,now in enumerate(lst):
+2018-04-03 16:29:50		             before = old.get(i,None) # get old it if exists
+2018-04-03 16:29:50		             out += [mark if before == now else now]
+2018-04-03 16:29:50		             old[i] = now # next time, 'now' is the 'old' value
+2018-04-03 16:29:50		           return out # the lst with ditto marks inserted
+2018-04-03 16:29:50		         old = {}
+2018-04-03 16:29:50		         return [worker(row) for row in m]
+2018-04-03 16:29:50		       matrix = ditto(matrix) if less else matrix
+2018-04-03 16:29:50		       s = [[str(e) for e in row] for row in matrix]
+2018-04-03 16:29:50		       lens = [max(map(len, col)) for col in zip(*s)]
+2018-04-03 16:29:50		       fmt = ' | '.join('{{:{}}}'.format(x) for x in lens)
+2018-04-03 16:29:50		       for row in [fmt.format(*row) for row in s]:
+2018-04-03 16:29:50		          print(row)
+2018-04-03 16:29:50		          
+2018-04-03 16:29:50		Q10. What do these two lines do:
+2018-04-03 16:29:50		       s = [[str(e) for e in row] for row in matrix]
+2018-04-03 16:29:50		       lens = [max(map(len, col)) for col in zip(*s)]
+2018-04-03 16:29:50		Q11. For Compartmental Models, why we do not try to debug complex emergent behavior?
+2018-04-03 16:29:50		Q12. Instead of debugging complex emergent behavior, what we can do?
+2018-04-03 16:29:50		Q13. Label the models below:
+2018-04-03 16:29:50		![cmnl](https://cloud.githubusercontent.com/assets/1433964/10382538/12b9265c-6df3-11e5-8572-7b60661e4464.jpg)
+2018-04-03 16:29:50		```  (edited)
+2018-04-12 16:28:56	timm	questions: https://github.com/txt/plm18/blob/master/doc/review10.md
+2018-04-12 16:28:56		answers: https://docs.google.com/document/d/1oF4oedMdwbUuNbBV3CvDNYgk703uKP8O6PLGovjEhw0/edit?usp=sharing
+2018-04-12 16:28:56		doc/review10.md
+2018-04-12 16:28:56		```
+2018-04-12 16:28:56		[home](http://tiny.cc/plm18) |
+2018-04-12 16:28:56		[copyright](https://github.com/txt/plm18/blob/master/LICENSE.md) &copy;2018, tim&commat;menzies.us
+2018-04-12 16:28:56		<br>
+2018-04-12 16:28:56		[<img width=900 src="https://raw.githubusercontent.com/txt/plm18/master/img/banner.png">](http://tiny.cc/plm18)<br>
+2018-04-12 16:28:56		[syllabus](https://github.com/txt/plm18/blob/master/doc/syllabus.md) |
+2018-04-12 16:28:56		[src](https://github.com/txt/plm18/tree/master/src) |
+2018-04-12 16:28:56		[submit](http://tiny.cc/plm18give) |
+2018-04-12 16:28:56		[chat](https://plm18.slack.com/)
+2018-04-12 16:28:56		______
+2018-04-12 16:28:56		# Review
+2018-04-12 16:28:56		### Week 13-14 : 04/02/2018 ~ 04/09/2018
+2018-04-12 16:28:56		Q1. A macro is a program called at loadtime to expand smaller things to bigger things, give two examples why this is useful.
+2018-04-12 16:28:56		Q2a. Languages such as C and assembly language have rudimentary text based macro systems, how do these macros work? How do these macros methods handle the scoope varilbles? Do these macro systems have access to the semantics of the underlying language?
+2018-04-12 16:28:56		Q2b. In the following code, there is a problem in `msg`, what is the problem?
+2018-04-12 16:28:56		    #define LOG(msg) ({ \
+2018-04-12 16:28:56		        int state = get_log_state(); \
+2018-04-12 16:28:56		        if (state > 0) { \
+2018-04-12 16:28:56		            printf("log(%d): %s\n", state, msg); \
+2018-04-12 16:28:56		        } \
+2018-04-12 16:28:56		    })
+2018-04-12 16:28:56		Q2c. The problem of 2b could be fixed with hygeninc macros variables. Explain how.
+2018-04-12 16:28:56		    
+2018-04-12 16:28:56		Q3a. In C pre-processing macro system, what is the following used for?
+2018-04-12 16:28:56		    #define M (x*x+2*x+1)
+2018-04-12 16:28:56		    #define BUFFER_SIZE 1024
+2018-04-12 16:28:56		    #define min(X, Y)  ((X) < (Y) ? (X) : (Y))
+2018-04-12 16:28:56		    
+2018-04-12 16:28:56		Q3b. `#define min(X, Y)` suffers from the repearted computation problems. Explain when is such repeated computation a problem?
+2018-04-12 16:28:56		Q4. Lisp is a language where programs are expressed as lists. How does the defmacro exploit this?
+2018-04-12 16:28:56		Q5. In the example of Macros in Julia,
+2018-04-12 16:28:56		    macro has(typename, pairs...)
+2018-04-12 16:28:56		        name = esc(symbol(string(typename,0))) # hygiene
+2018-04-12 16:28:56		        x    = esc(symbol("x"))                # hygiene 
+2018-04-12 16:28:56		        ones = [  x.args[1]  for x in pairs ]
+2018-04-12 16:28:56		        twos = [  x.args[2]  for x in pairs ]
+2018-04-12 16:28:56		        sets = [ :($x.$y=$y) for y in ones  ]
+2018-04-12 16:28:56		        :(type $(typename)
+2018-04-12 16:28:56		         $(ones...)
+2018-04-12 16:28:56		          end;
+2018-04-12 16:28:56		          function $(name)(; $(pairs...) )
+2018-04-12 16:28:56		        $x = $(typename)($(twos...))
+2018-04-12 16:28:56		        $(sets...)
+2018-04-12 16:28:56		        $x
+2018-04-12 16:28:56		          end)
+2018-04-12 16:28:56		    end
+2018-04-12 16:28:56		    
+2018-04-12 16:28:56		    @has aa bb=1 cc=10+1
+2018-04-12 16:28:56		    
+2018-04-12 16:28:56		    begin
+2018-04-12 16:28:56		        type aa # /Users/timm/gits/timm/15/jl/one.jl, line 18:
+2018-04-12 16:28:56		            bb
+2018-04-12 16:28:56		        cc
+2018-04-12 16:28:56		        end
+2018-04-12 16:28:56		        function aa0() # /Users/timm/gits/timm/15/jl/one.jl, line 21:
+2018-04-12 16:28:56		        aa(1,10 + 1)
+2018-04-12 16:28:56		        end
+2018-04-12 16:28:56		    end
+2018-04-12 16:28:56		    someFun(x::Any) = println(1000000)
+2018-04-12 16:28:56		    someFun(x::aa)  = println(x.bb)
+2018-04-12 16:28:56		    
+2018-04-12 16:28:56		    x    = aa0()
+2018-04-12 16:28:56		    x.bb = 200
+2018-04-12 16:28:56		Explain how to get the results when we call
+2018-04-12 16:28:56		    someFun(22)
+2018-04-12 16:28:56		    someFun(x)
+2018-04-12 16:28:56		    
+2018-04-12 16:28:56		Q6. In the following example,
+2018-04-12 16:28:56		    {
+2018-04-12 16:28:56		      "animals": [
+2018-04-12 16:28:56		        { "animalName": "beatles", "legNum": "six" },
+2018-04-12 16:28:56		        { "animalName": "horses", "legNum": "four" },
+2018-04-12 16:28:56		        { "animalName": "spiders", "legNum": "eight" },
+2018-04-12 16:28:56		        { "animalName": "snakes", "legNum": "zero" }
+2018-04-12 16:28:56		      ],
+2018-04-12 16:28:56		      "name": function () {
+2018-04-12 16:28:56		        return this.animalName + " " + this.legNum;
+2018-04-12 16:28:56		      }
+2018-04-12 16:28:56		    }
+2018-04-12 16:28:56		    
+2018-04-12 16:28:56		What are these moustaches about? Why are they useful? What is the output of these moustahses:
+2018-04-12 16:28:56		    {{#beatles}}
+2018-04-12 16:28:56		     {{name}}
+2018-04-12 16:28:56		    {{/beatles}}
+2018-04-12 16:28:56		    {{#animals}}
+2018-04-12 16:28:56		     {{name}}
+2018-04-12 16:28:56		    {{/animals}}
+2018-04-12 16:28:56		In OO Version2 examples,
+2018-04-12 16:28:56		    (defun point2 ()
+2018-04-12 16:28:56		      (labels (
+2018-04-12 16:28:56		         (_sq  (z)      (* z z))
+2018-04-12 16:28:56		         (dist (self x2 y2)
+2018-04-12 16:28:56		           (let ((x1 (ask self 'x?))
+2018-04-12 16:28:56		                 (y1 (ask self 'y?)))
+2018-04-12 16:28:56		             (sqrt (+ (_sq (- x1 x2)) 
+2018-04-12 16:28:56		                      (_sq (- y1 y2)))))))
+2018-04-12 16:28:56		        (lambda (self z args)
+2018-04-12 16:28:56		          (case z
+2018-04-12 16:28:56		            (x?         (nth 0 (cdr self)))
+2018-04-12 16:28:56		            (y?         (nth 1 (cdr self)))
+2018-04-12 16:28:56		            (x!   (setf (nth 0 (cdr self)) (nth 0 args)))
+2018-04-12 16:28:56		            (y!   (setf (nth 1 (cdr self)) (nth 1 args)))
+2018-04-12 16:28:56		            (dist (dist self (first args) (second args)))
+2018-04-12 16:28:56		            (otherwise 
+2018-04-12 16:28:56		              (error "~a unknown" z))))))
+2018-04-12 16:28:56		Q7a. This is not a class instance language. Explain why. What would be needed to make it a class instance language?
+2018-04-12 16:28:56		Q7b. For the following code, what is the representations of `self`? How to generate this automatically?
+2018-04-12 16:28:56		    (x?         (nth 0 (cdr self)))
+2018-04-12 16:28:56		(y?         (nth 1 (cdr self)))
+2018-04-12 16:28:56		(x!   (setf (nth 0 (cdr self)) (nth 0 args)))
+2018-04-12 16:28:56		(y!   (setf (nth 1 (cdr self)) (nth 1 args)))
+2018-04-12 16:28:56		    
+2018-04-12 16:28:56		Q7c. What information is needed to auto generate the above code?
+2018-04-12 16:28:56		In OO Version3 examples,
+2018-04-12 16:28:56		    (defmacro defklass (klass lst &rest body)
+2018-04-12 16:28:56		      "template for klasses"
+2018-04-12 16:28:56		      `(defun ,klass ()
+2018-04-12 16:28:56		         (labels (,@body)
+2018-04-12 16:28:56		           (lambda (self %z args)  ; using %z is a hygiene cheat
+2018-04-12 16:28:56		             (case %z
+2018-04-12 16:28:56		               ,@(getsets lst)
+2018-04-12 16:28:56		               ,@(method-calls-with-n-args body)
+2018-04-12 16:28:56		               (otherwise 
+2018-04-12 16:28:56		                 (error "~a unknown" %z)))))))
+2018-04-12 16:28:56		Q8a. This is not an object language. Explain why. What would be needed to make it an object language?
+2018-04-12 16:28:56		Q8b. In English, describe what `getsets` does. Write the exact inputs seen by `getsets`.
+2018-04-12 16:28:56		Q8c. In English, describe what `method-calls-with-n-args` does. Write the exact inputs seen by `method-calls-with-n-args`.
+2018-04-12 16:28:56		Q9. In the following examples,
+2018-04-12 16:28:56		    (let ((a 1)
+2018-04-12 16:28:56		          (b 2)
+2018-04-12 16:28:56		          (c '(10 20 30 40)))
+2018-04-12 16:28:56		       (print '(a a b b))          
+2018-04-12 16:28:56		       (print `(a ,a b ,b))        
+2018-04-12 16:28:56		       (print `(a ,a b ,b c ,c))   
+2018-04-12 16:28:56		       (print `(a ,a b ,b c ,@c)))
+2018-04-12 16:28:56		What are the results of these `print`?
+2018-04-12 16:28:56		Q10. For the following three, describle the problem and advangeage of each approach.
+2018-04-12 16:28:56		    (defmacro Square-1 (X)
+2018-04-12 16:28:56		        `(* ,X ,X))
+2018-04-12 16:28:56		        
+2018-04-12 16:28:56		    (defmacro Square-2 (X)
+2018-04-12 16:28:56		        (* X X))
+2018-04-12 16:28:56		        
+2018-04-12 16:28:56		    (defmacro Square-3 (x)
+2018-04-12 16:28:56		    (let ((temp (gensym)))
+2018-04-12 16:28:56		      `(let ((,temp ,x))
+2018-04-12 16:28:56		          (* ,temp ,temp)))
+2018-04-12 16:28:56		        
+2018-04-12 16:28:56		Q11. In the nested slot access example,
+2018-04-12 16:28:56		    (defmacro ? (obj first-slot &rest more-slots)
+2018-04-12 16:28:56		      "From https://goo.gl/dqnmvH:"
+2018-04-12 16:28:56		      (if (null more-slots)
+2018-04-12 16:28:56		          `(slot-value ,obj ',first-slot)
+2018-04-12 16:28:56		          `(? (slot-value ,obj ',first-slot) ,@more-slots)))
+2018-04-12 16:28:56		        
+2018-04-12 16:28:56		How does this expand `(? obj a b c d)`?
+2018-04-12 16:28:56		``` 
+2018-05-01 16:21:58	riestell	is there a key for the midterm exam that we can use for reviewing? 
+2018-05-01 21:03:40		getting channel history...
+2018-01-09 16:36:41	-->		@timm has joined the channel 
+2018-01-09 16:36:54	-->		@hfernan has joined the channel 
+2018-01-09 17:09:06	-->		@Anastasia has joined the channel 
+2018-01-16 16:30:42	timm	https://docs.google.com/document/d/1o26-rnTNb_ietLh2zW6ylk-xM-sfyAPwtfwt5SWgRSU/edit?usp=sharing 
+2018-01-16 16:30:53	-->		@ajshryoc has joined the channel 
+2018-01-16 16:30:59	-->		@Jesse has joined the channel 
+2018-01-16 16:31:01	-->		@Wenting has joined the channel 
+2018-01-16 16:31:03	Jesse	Hello world [:earth_americas:1 :wave:1] 
+2018-01-16 16:31:07	Wenting	yep 
+2018-01-16 16:31:17	-->		@jfave has joined the channel 
+2018-01-16 16:31:21	-->		@SamuelHenderson has joined the channel 
+2018-01-16 16:31:24	-->		@cjhall3 has joined the channel 
+2018-01-16 16:31:25	-->		@AnthonySu has joined the channel 
+2018-01-16 16:31:29	-->		@patrick_xia has joined the channel 
+2018-01-16 16:31:31	-->		@MattGray has joined the channel 
+2018-01-16 16:31:36	-->		@RaymondWoods has joined the channel 
+2018-01-16 16:31:37	-->		@ThomasDickerson has joined the channel 
+2018-01-16 16:31:38	-->		@cmthomp7 has joined the channel 
+2018-01-16 16:31:42	-->		@kjandre2 has joined the channel 
+2018-01-16 16:31:45	-->		@wjglas has joined the channel 
+2018-01-16 16:31:48	-->		@adbishel has joined the channel 
+2018-01-16 16:31:49	-->		@gjabell has joined the channel 
+2018-01-16 16:31:51	-->		@ejgillia has joined the channel 
+2018-01-16 16:40:54	-->		@camara has joined the channel 
+2018-01-25 16:29:21	timm	this week: https://docs.google.com/document/d/1Dfpo1YgAvwJurxVK93b6BmzyoPlmDAb3eDjZxO9jgss/edit?usp=sharing 
+2018-01-30 16:35:20	timm	review3: 
+2018-01-30 16:36:00	timm	https://docs.google.com/document/d/1P2IV_0-J39l4bdXfbCguW0Y17ec9Fv2F1dIYQ0tKUCo/edit?usp=sharing 
+2018-02-06 15:15:57	timm	review4:
+2018-02-06 15:15:57		- questions: https://github.com/txt/plm18/blob/master/doc/review4.md
+2018-02-06 15:15:57		- answer space: https://docs.google.com/document/d/1MMPOQUrB6Rk30gZWHg-NG4x8qezAil0YhZKQub1ln28/edit?usp=sharing
+2018-02-06 15:15:57		txt/plm18
+2018-02-06 15:15:57		plm18 - programming languages and modeling, NCSU 2018 
+2018-02-13 14:26:49	timm	Review5
+2018-02-13 14:26:49		- questions: https://github.com/txt/plm18/blob/master/doc/review5.md
+2018-02-13 14:26:49		- answer space: https://docs.google.com/document/d/1yvb3P7glwVeSXTjJeC5RTVpYyqGAm-tYAu1UmhjYw6A/edit?usp=sharing
+2018-02-13 14:26:49		txt/plm18
+2018-02-13 14:26:49		plm18 - programming languages and modeling, NCSU 2018  (edited)
+2018-02-20 16:28:59	timm	feb20:
+2018-02-20 16:28:59		questions:
+2018-02-20 16:28:59		https://github.com/txt/plm18/blob/master/doc/review6.md
+2018-02-20 16:28:59		answer space: https://docs.google.com/document/d/1WRa_VjD9AnrIbzzWzxmBL_rvBy_LCj4yoJcWzBbK-z4/edit?usp=sharing
+2018-02-20 16:28:59		txt/plm18
+2018-02-20 16:28:59		plm18 - programming languages and modeling, NCSU 2018 
+2018-02-27 16:29:29	timm	questions: https://github.com/txt/plm18/blob/master/doc/review7.md
+2018-02-27 16:29:29		answer space: https://docs.google.com/document/d/1fXB991xujsVLfsfB4sERrd87MhZi4bmRVsjq0oszbtA/edit?usp=sharing
+2018-02-27 16:29:29		txt/plm18
+2018-02-27 16:29:29		plm18 - programming languages and modeling, NCSU 2018 
+2018-03-27 16:31:07	timm	answers: https://docs.google.com/document/d/1GjlkMvxVO4dGSzgMzAZkOBqx0ceSIUlR2kWUX0wzFH4/edit?usp=sharing 
+2018-03-27 16:31:36	timm	questionsL https://github.com/txt/plm18/blob/master/doc/review8.md
+2018-03-27 16:31:36		doc/review8.md
+2018-03-27 16:31:36		```
+2018-03-27 16:31:36		[home](http://tiny.cc/plm18) |
+2018-03-27 16:31:36		[copyright](https://github.com/txt/plm18/blob/master/LICENSE.md) &copy;2018, tim&commat;menzies.us
+2018-03-27 16:31:36		<br>
+2018-03-27 16:31:36		[<img width=900 src="https://raw.githubusercontent.com/txt/plm18/master/img/banner.png">](http://tiny.cc/plm18)<br>
+2018-03-27 16:31:36		[syllabus](https://github.com/txt/plm18/blob/master/doc/syllabus.md) |
+2018-03-27 16:31:36		[src](https://github.com/txt/plm18/tree/master/src) |
+2018-03-27 16:31:36		[submit](http://tiny.cc/plm18give) |
+2018-03-27 16:31:36		[chat](https://plm18.slack.com/)
+2018-03-27 16:31:36		______
+2018-03-27 16:31:36		# Review
+2018-03-27 16:31:36		### Week 8~10 : 03/01/2018 ~ 03/22/2018
+2018-03-27 16:31:36		Q1. Describe the operations of the lisp virtual machine. In what ways of these different to the operations provided by the Java virtual machine?
+2018-03-27 16:31:36		Q2. Kotlin and Java are two languages, how are they similar and different?
+2018-03-27 16:31:36		Q3. How are containers same and different to the JVM? When would containers be most useful?
+2018-03-27 16:31:36		Q4. How are serverless apps are same and different to containers? When would serverless apps be most useful?
+2018-03-27 16:31:36		Q5. List and explain 3 advantages and 3 disadvantages of serverless apps.
+2018-03-27 16:31:36		Q6a. What is polymorphism?
+2018-03-27 16:31:36		Q6b. Assuming polymorphism, in the simulation of ducks and cows that "quack" and "moo", describle the centralized controllers and the duck and cow class.
+2018-03-27 16:31:36		Q6c. The simulations have been extened, now there are humans that "sing", assuming polymorphism, what has to be changed in the centralized controllers?
+2018-03-27 16:31:36		In the following questions, assume there is a method call "ifTrue:ifFalse:". In polymorphic systems, control is pushed out to the leaf classes, here are the smalltalk definations of ifTrue: and ifFalse:
+2018-03-27 16:31:36		    ! Boolean methods !
+2018-03-27 16:31:36		    ifTrue: aBlock
+2018-03-27 16:31:36		        "inlined in the Compiler"
+2018-03-27 16:31:36		        ^ self ifTrue: aBlock ifFalse: []
+2018-03-27 16:31:36		    ifFalse: aBlock
+2018-03-27 16:31:36		        "inlined in the Compiler"
+2018-03-27 16:31:36		        ^ self ifTrue: [] ifFalse: aBlock
+2018-03-27 16:31:36		Q7. Assuming you have a random number generator, how would you code up "usually:" which two third of time act as "ifTrue:" ?
+2018-03-27 16:31:36		Here are some smalltalk code for iteration in an array, the method "value:value:" sends the values of each and (anotherCollection at: index) into aBlock,
+2018-03-27 16:31:36		    ! In IndexableCollection methods !
+2018-03-27 16:31:36		    with: anotherCollection do: aBlock
+2018-03-27 16:31:36		        "Calls aBlock with every value from self
+2018-03-27 16:31:36		        and with indetically-indexed value from anotherCollection"
+2018-03-27 16:31:36		        self withIndexDo: [ :each :index |
+2018-03-27 16:31:36		            aBlock value: each value: (anotherCollection at: index) ]
+2018-03-27 16:31:36		Q8a. What might blocks be called in lisp?
+2018-03-27 16:31:36		Q8b. Write the with do methods in Python, such that even numbered indexes of an array are printed.
+2018-03-27 16:31:36		Here are some smalltalk code for extracting or deleting items in a collection items
+2018-03-27 16:31:36		    ! Collection methods !
+2018-03-27 16:31:36		    reject: aBlock
+2018-03-27 16:31:36		        ^ self select: [ :each | (aBlock value: each) = false ]
+2018-03-27 16:31:36		    select: aBlock
+2018-03-27 16:31:36		        | stream |
+2018-03-27 16:31:36		        stream := self class new writeStream.
+2018-03-27 16:31:36		        self do: [ :each |
+2018-03-27 16:31:36		            (aBlock value: each) ifTrue: [
+2018-03-27 16:31:36		            stream nextPut: each ] ].
+2018-03-27 16:31:36		        ^ stream contents
+2018-03-27 16:31:36		Q9. Write equivalent Python iterators called "reject" and "select" such that reject is implemented as a special called selected.
+2018-03-27 16:31:36		Covert the following Kotlin code to Python:
+2018-03-27 16:31:36		Q10a.
+2018-03-27 16:31:36		    when (x) {
+2018-03-27 16:31:36		    1 -> print("x is 1")
+2018-03-27 16:31:36		    2 -> print("x is 2")
+2018-03-27 16:31:36		    3, 4 -> print("x is 3 or 4")
+2018-03-27 16:31:36		    in 5..10 -> print("x is 5, 6, 7, 8, 9, or 10")
+2018-03-27 16:31:36		    else -> print("x is out of range")
+2018-03-27 16:31:36		    }
+2018-03-27 16:31:36		Q10b.
+2018-03-27 16:31:36		    class Frame {
+2018-03-27 16:31:36		    var width: Int = 800
+2018-03-27 16:31:36		    var height: Int = 600
+2018-03-27 16:31:36		    val pixels: Int
+2018-03-27 16:31:36		    get() = width * height
+2018-03-27 16:31:36		    }
+2018-03-27 16:31:36		Q10c.
+2018-03-27 16:31:36		    val name = ship?.captain?.name ?: "unknown"
+2018-03-27 16:31:36		Q10d.
+2018-03-27 16:31:36		    str.removeSuffix(".txt")
+2018-03-27 16:31:36		    str.capitalize()
+2018-03-27 16:31:36		    str.substringAfterLast("/")
+2018-03-27 16:31:36		    str.replaceAfter(":", "classified")
+2018-03-27 16:31:36		``` 
+2018-04-03 16:29:50	timm	questions; https://github.com/txt/plm18/blob/master/doc/review9.md
+2018-04-03 16:29:50		answer space: https://docs.google.com/document/d/1-jLbSsiSamu2kn9_IQ_zCkB2PBsq-VUL_K-I3tKjnLA/edit?usp=sharing
+2018-04-03 16:29:50		doc/review9.md
+2018-04-03 16:29:50		```
+2018-04-03 16:29:50		[home](http://tiny.cc/plm18) |
+2018-04-03 16:29:50		[copyright](https://github.com/txt/plm18/blob/master/LICENSE.md) &copy;2018, tim&commat;menzies.us
+2018-04-03 16:29:50		<br>
+2018-04-03 16:29:50		[<img width=900 src="https://raw.githubusercontent.com/txt/plm18/master/img/banner.png">](http://tiny.cc/plm18)<br>
+2018-04-03 16:29:50		[syllabus](https://github.com/txt/plm18/blob/master/doc/syllabus.md) |
+2018-04-03 16:29:50		[src](https://github.com/txt/plm18/tree/master/src) |
+2018-04-03 16:29:50		[submit](http://tiny.cc/plm18give) |
+2018-04-03 16:29:50		[chat](https://plm18.slack.com/)
+2018-04-03 16:29:50		______
+2018-04-03 16:29:50		# Review
+2018-04-03 16:29:50		### Week 11 : 03/27/2018 ~ 03/29/2018
+2018-04-03 16:29:50		Q1. What is the difference between object-based system and class-based system?
+2018-04-03 16:29:50		Given an applciation with 1000000 objects, which might you prefer? Justify your answer.
+2018-04-03 16:29:50		Q2. There are two ways to build a DSL: External and Internal, briefly explain what they are and give an example for each of them.
+2018-04-03 16:29:50		Q3a. What is context manager? What do the following do? For each of 3b, 3c offer
+2018-04-03 16:29:50		another example where you might use this langauge feature.
+2018-04-03 16:29:50		Q3b.
+2018-04-03 16:29:50		    def duration():
+2018-04-03 16:29:50		        t1 = time.time()
+2018-04-03 16:29:50		        yield
+2018-04-03 16:29:50		        t2 = time.time()
+2018-04-03 16:29:50		        print("\n" + "-"  72)
+2018-04-03 16:29:50		        print("# Runtime: %.3f secs" % (t2-t1))
+2018-04-03 16:29:50		        
+2018-04-03 16:29:50		Q3c.
+2018-04-03 16:29:50		    def closing(thing):
+2018-04-03 16:29:50		        try:
+2018-04-03 16:29:50		            yield thing
+2018-04-03 16:29:50		        finally:
+2018-04-03 16:29:50		            thing.close()
+2018-04-03 16:29:50		            
+2018-04-03 16:29:50		Q3d. Are 3b, 3c examples of itnernal or external DSLs? Justify your answer.
+2018-04-03 16:29:50		In the following code:
+2018-04-03 16:29:50		      def step(i,dt,t,u,v):
+2018-04-03 16:29:50		        def saturday(x): return int(x) % 7 == 6
+2018-04-03 16:29:50		        v.C +=  dt(u.q - u.r)
+2018-04-03 16:29:50		        v.D +=  dt*(u.r - u.s)
+2018-04-03 16:29:50		        v.q  =  70  if saturday(t) else 0 
+2018-04-03 16:29:50		        v.s  =  u.D if saturday(t) else 0
+2018-04-03 16:29:50		        if t == 27: # special case (the day i forget)
+2018-04-03 16:29:50		          v.s = 0
+2018-04-03 16:29:50		Q4a. Draw the associated compartmental model
+2018-04-03 16:29:50		          
+2018-04-03 16:29:50		Q4b. How do we get the constants of dict?
+2018-04-03 16:29:50		Q4c. What are i, dt, t respectively?
+2018-04-03 16:29:50		Q4d. How to represent payload in the code?
+2018-04-03 16:29:50		Q4e. How to update the field of v?
+2018-04-03 16:29:50		Q4f. Is this an external or internal DSL?
+2018-04-03 16:29:50		Q5. For the following example, write a compartmental model in python.
+2018-04-03 16:29:50		```
+2018-04-03 16:29:50		a   +-----+  c  +-----+
+2018-04-03 16:29:50		---->|  B  |---->|  D  |--> e
+2018-04-03 16:29:50		^   +-----+     +-+---+    |
+2018-04-03 16:29:50		|                          |
+2018-04-03 16:29:50		+--------------------------+
+2018-04-03 16:29:50		f
+2018-04-03 16:29:50		B = contents of supermarket shelves
+2018-04-03 16:29:50		D = contents of tummy
+2018-04-03 16:29:50		a = restock rate of supermarket
+2018-04-03 16:29:50		c = buying rate of a student
+2018-04-03 16:29:50		e = garbage bags outside student housing
+2018-04-03 16:29:50		f = increases restocking for stuburbs with lottsa garbage
+2018-04-03 16:29:50		```
+2018-04-03 16:29:50		    
+2018-04-03 16:29:50		Q6. What is the difference between Stocks and Flows in Compartmental Modeling?
+2018-04-03 16:29:50		Q7. In Compartmental Modeling, what are auxillary variables used for?
+2018-04-03 16:29:50		Q8. Why would a stock need this?
+2018-04-03 16:29:50		      def restrain(i,x):
+2018-04-03 16:29:50		        return max(i.lo,
+2018-04-03 16:29:50		min(i.hi, x))
+2018-04-03 16:29:50		            
+2018-04-03 16:29:50		In class "model":
+2018-04-03 16:29:50		    class Model:
+2018-04-03 16:29:50		      def state(i):
+2018-04-03 16:29:50		        """To create a state vector, we create 
+2018-04-03 16:29:50		        one slot for each name in 'have'."""
+2018-04-03 16:29:50		        tmp=i.have()
+2018-04-03 16:29:50		        for k,v in tmp.has().items():
+2018-04-03 16:29:50		          v.name = k
+2018-04-03 16:29:50		        return tmp 
+2018-04-03 16:29:50		      def run(i,dt=1,tmax=30):
+2018-04-03 16:29:50		        """For time up to 'tmax', increment 't' 
+2018-04-03 16:29:50		           by 'dt' and 'step' the model."""
+2018-04-03 16:29:50		        t,b4 = 0, o()
+2018-04-03 16:29:50		        keep = []    ## 1
+2018-04-03 16:29:50		        state = i.state()
+2018-04-03 16:29:50		        for k,a in state.items(): 
+2018-04-03 16:29:50		          b4[k] = a.init
+2018-04-03 16:29:50		        keys  = sorted(state.keys(),  ## 3
+2018-04-03 16:29:50		                       key=lambda z: state[z].rank())
+2018-04-03 16:29:50		        keep = [["t"] +  keys,
+2018-04-03 16:29:50		                [0] + b4.asList(keys)]
+2018-04-03 16:29:50		        while t < tmax:
+2018-04-03 16:29:50		          now = b4.copy()
+2018-04-03 16:29:50		          i.step(dt,t,b4,now)
+2018-04-03 16:29:50		          for k in state.keys(): 
+2018-04-03 16:29:50		            now[k] = state[k].restrain(now[k]) ## 4
+2018-04-03 16:29:50		          keep += [[t] + now.asList(keys)] ## 2
+2018-04-03 16:29:50		          t += dt
+2018-04-03 16:29:50		          b4 = now
+2018-04-03 16:29:50		        return keep
+2018-04-03 16:29:50		Q9a. What is keep = []?
+2018-04-03 16:29:50		Q9b. What is happending here:
+2018-04-03 16:29:50		for k in state.keys():
+2018-04-03 16:29:50		now[k] = state[k].restrain(now[k]) ## 4
+2018-04-03 16:29:50		Q9c. What returns here:
+2018-04-03 16:29:50		      keep += [[t] + now.asList(keys)] ## 2
+2018-04-03 16:29:50		In the following code about "printm":
+2018-04-03 16:29:50		    def printm(matrix,less=True):
+2018-04-03 16:29:50		       """Print a list of list, only showing changes
+2018-04-03 16:29:50		       in each column (if less is True)."""
+2018-04-03 16:29:50		       def ditto(m,mark="."):
+2018-04-03 16:29:50		         def worker(lst):
+2018-04-03 16:29:50		           out = []
+2018-04-03 16:29:50		           for i,now in enumerate(lst):
+2018-04-03 16:29:50		             before = old.get(i,None) # get old it if exists
+2018-04-03 16:29:50		             out += [mark if before == now else now]
+2018-04-03 16:29:50		             old[i] = now # next time, 'now' is the 'old' value
+2018-04-03 16:29:50		           return out # the lst with ditto marks inserted
+2018-04-03 16:29:50		         old = {}
+2018-04-03 16:29:50		         return [worker(row) for row in m]
+2018-04-03 16:29:50		       matrix = ditto(matrix) if less else matrix
+2018-04-03 16:29:50		       s = [[str(e) for e in row] for row in matrix]
+2018-04-03 16:29:50		       lens = [max(map(len, col)) for col in zip(*s)]
+2018-04-03 16:29:50		       fmt = ' | '.join('{{:{}}}'.format(x) for x in lens)
+2018-04-03 16:29:50		       for row in [fmt.format(*row) for row in s]:
+2018-04-03 16:29:50		          print(row)
+2018-04-03 16:29:50		          
+2018-04-03 16:29:50		Q10. What do these two lines do:
+2018-04-03 16:29:50		       s = [[str(e) for e in row] for row in matrix]
+2018-04-03 16:29:50		       lens = [max(map(len, col)) for col in zip(*s)]
+2018-04-03 16:29:50		Q11. For Compartmental Models, why we do not try to debug complex emergent behavior?
+2018-04-03 16:29:50		Q12. Instead of debugging complex emergent behavior, what we can do?
+2018-04-03 16:29:50		Q13. Label the models below:
+2018-04-03 16:29:50		![cmnl](https://cloud.githubusercontent.com/assets/1433964/10382538/12b9265c-6df3-11e5-8572-7b60661e4464.jpg)
+2018-04-03 16:29:50		```  (edited)
+2018-04-12 16:28:56	timm	questions: https://github.com/txt/plm18/blob/master/doc/review10.md
+2018-04-12 16:28:56		answers: https://docs.google.com/document/d/1oF4oedMdwbUuNbBV3CvDNYgk703uKP8O6PLGovjEhw0/edit?usp=sharing
+2018-04-12 16:28:56		doc/review10.md
+2018-04-12 16:28:56		```
+2018-04-12 16:28:56		[home](http://tiny.cc/plm18) |
+2018-04-12 16:28:56		[copyright](https://github.com/txt/plm18/blob/master/LICENSE.md) &copy;2018, tim&commat;menzies.us
+2018-04-12 16:28:56		<br>
+2018-04-12 16:28:56		[<img width=900 src="https://raw.githubusercontent.com/txt/plm18/master/img/banner.png">](http://tiny.cc/plm18)<br>
+2018-04-12 16:28:56		[syllabus](https://github.com/txt/plm18/blob/master/doc/syllabus.md) |
+2018-04-12 16:28:56		[src](https://github.com/txt/plm18/tree/master/src) |
+2018-04-12 16:28:56		[submit](http://tiny.cc/plm18give) |
+2018-04-12 16:28:56		[chat](https://plm18.slack.com/)
+2018-04-12 16:28:56		______
+2018-04-12 16:28:56		# Review
+2018-04-12 16:28:56		### Week 13-14 : 04/02/2018 ~ 04/09/2018
+2018-04-12 16:28:56		Q1. A macro is a program called at loadtime to expand smaller things to bigger things, give two examples why this is useful.
+2018-04-12 16:28:56		Q2a. Languages such as C and assembly language have rudimentary text based macro systems, how do these macros work? How do these macros methods handle the scoope varilbles? Do these macro systems have access to the semantics of the underlying language?
+2018-04-12 16:28:56		Q2b. In the following code, there is a problem in `msg`, what is the problem?
+2018-04-12 16:28:56		    #define LOG(msg) ({ \
+2018-04-12 16:28:56		        int state = get_log_state(); \
+2018-04-12 16:28:56		        if (state > 0) { \
+2018-04-12 16:28:56		            printf("log(%d): %s\n", state, msg); \
+2018-04-12 16:28:56		        } \
+2018-04-12 16:28:56		    })
+2018-04-12 16:28:56		Q2c. The problem of 2b could be fixed with hygeninc macros variables. Explain how.
+2018-04-12 16:28:56		    
+2018-04-12 16:28:56		Q3a. In C pre-processing macro system, what is the following used for?
+2018-04-12 16:28:56		    #define M (x*x+2*x+1)
+2018-04-12 16:28:56		    #define BUFFER_SIZE 1024
+2018-04-12 16:28:56		    #define min(X, Y)  ((X) < (Y) ? (X) : (Y))
+2018-04-12 16:28:56		    
+2018-04-12 16:28:56		Q3b. `#define min(X, Y)` suffers from the repearted computation problems. Explain when is such repeated computation a problem?
+2018-04-12 16:28:56		Q4. Lisp is a language where programs are expressed as lists. How does the defmacro exploit this?
+2018-04-12 16:28:56		Q5. In the example of Macros in Julia,
+2018-04-12 16:28:56		    macro has(typename, pairs...)
+2018-04-12 16:28:56		        name = esc(symbol(string(typename,0))) # hygiene
+2018-04-12 16:28:56		        x    = esc(symbol("x"))                # hygiene 
+2018-04-12 16:28:56		        ones = [  x.args[1]  for x in pairs ]
+2018-04-12 16:28:56		        twos = [  x.args[2]  for x in pairs ]
+2018-04-12 16:28:56		        sets = [ :($x.$y=$y) for y in ones  ]
+2018-04-12 16:28:56		        :(type $(typename)
+2018-04-12 16:28:56		         $(ones...)
+2018-04-12 16:28:56		          end;
+2018-04-12 16:28:56		          function $(name)(; $(pairs...) )
+2018-04-12 16:28:56		        $x = $(typename)($(twos...))
+2018-04-12 16:28:56		        $(sets...)
+2018-04-12 16:28:56		        $x
+2018-04-12 16:28:56		          end)
+2018-04-12 16:28:56		    end
+2018-04-12 16:28:56		    
+2018-04-12 16:28:56		    @has aa bb=1 cc=10+1
+2018-04-12 16:28:56		    
+2018-04-12 16:28:56		    begin
+2018-04-12 16:28:56		        type aa # /Users/timm/gits/timm/15/jl/one.jl, line 18:
+2018-04-12 16:28:56		            bb
+2018-04-12 16:28:56		        cc
+2018-04-12 16:28:56		        end
+2018-04-12 16:28:56		        function aa0() # /Users/timm/gits/timm/15/jl/one.jl, line 21:
+2018-04-12 16:28:56		        aa(1,10 + 1)
+2018-04-12 16:28:56		        end
+2018-04-12 16:28:56		    end
+2018-04-12 16:28:56		    someFun(x::Any) = println(1000000)
+2018-04-12 16:28:56		    someFun(x::aa)  = println(x.bb)
+2018-04-12 16:28:56		    
+2018-04-12 16:28:56		    x    = aa0()
+2018-04-12 16:28:56		    x.bb = 200
+2018-04-12 16:28:56		Explain how to get the results when we call
+2018-04-12 16:28:56		    someFun(22)
+2018-04-12 16:28:56		    someFun(x)
+2018-04-12 16:28:56		    
+2018-04-12 16:28:56		Q6. In the following example,
+2018-04-12 16:28:56		    {
+2018-04-12 16:28:56		      "animals": [
+2018-04-12 16:28:56		        { "animalName": "beatles", "legNum": "six" },
+2018-04-12 16:28:56		        { "animalName": "horses", "legNum": "four" },
+2018-04-12 16:28:56		        { "animalName": "spiders", "legNum": "eight" },
+2018-04-12 16:28:56		        { "animalName": "snakes", "legNum": "zero" }
+2018-04-12 16:28:56		      ],
+2018-04-12 16:28:56		      "name": function () {
+2018-04-12 16:28:56		        return this.animalName + " " + this.legNum;
+2018-04-12 16:28:56		      }
+2018-04-12 16:28:56		    }
+2018-04-12 16:28:56		    
+2018-04-12 16:28:56		What are these moustaches about? Why are they useful? What is the output of these moustahses:
+2018-04-12 16:28:56		    {{#beatles}}
+2018-04-12 16:28:56		     {{name}}
+2018-04-12 16:28:56		    {{/beatles}}
+2018-04-12 16:28:56		    {{#animals}}
+2018-04-12 16:28:56		     {{name}}
+2018-04-12 16:28:56		    {{/animals}}
+2018-04-12 16:28:56		In OO Version2 examples,
+2018-04-12 16:28:56		    (defun point2 ()
+2018-04-12 16:28:56		      (labels (
+2018-04-12 16:28:56		         (_sq  (z)      (* z z))
+2018-04-12 16:28:56		         (dist (self x2 y2)
+2018-04-12 16:28:56		           (let ((x1 (ask self 'x?))
+2018-04-12 16:28:56		                 (y1 (ask self 'y?)))
+2018-04-12 16:28:56		             (sqrt (+ (_sq (- x1 x2)) 
+2018-04-12 16:28:56		                      (_sq (- y1 y2)))))))
+2018-04-12 16:28:56		        (lambda (self z args)
+2018-04-12 16:28:56		          (case z
+2018-04-12 16:28:56		            (x?         (nth 0 (cdr self)))
+2018-04-12 16:28:56		            (y?         (nth 1 (cdr self)))
+2018-04-12 16:28:56		            (x!   (setf (nth 0 (cdr self)) (nth 0 args)))
+2018-04-12 16:28:56		            (y!   (setf (nth 1 (cdr self)) (nth 1 args)))
+2018-04-12 16:28:56		            (dist (dist self (first args) (second args)))
+2018-04-12 16:28:56		            (otherwise 
+2018-04-12 16:28:56		              (error "~a unknown" z))))))
+2018-04-12 16:28:56		Q7a. This is not a class instance language. Explain why. What would be needed to make it a class instance language?
+2018-04-12 16:28:56		Q7b. For the following code, what is the representations of `self`? How to generate this automatically?
+2018-04-12 16:28:56		    (x?         (nth 0 (cdr self)))
+2018-04-12 16:28:56		(y?         (nth 1 (cdr self)))
+2018-04-12 16:28:56		(x!   (setf (nth 0 (cdr self)) (nth 0 args)))
+2018-04-12 16:28:56		(y!   (setf (nth 1 (cdr self)) (nth 1 args)))
+2018-04-12 16:28:56		    
+2018-04-12 16:28:56		Q7c. What information is needed to auto generate the above code?
+2018-04-12 16:28:56		In OO Version3 examples,
+2018-04-12 16:28:56		    (defmacro defklass (klass lst &rest body)
+2018-04-12 16:28:56		      "template for klasses"
+2018-04-12 16:28:56		      `(defun ,klass ()
+2018-04-12 16:28:56		         (labels (,@body)
+2018-04-12 16:28:56		           (lambda (self %z args)  ; using %z is a hygiene cheat
+2018-04-12 16:28:56		             (case %z
+2018-04-12 16:28:56		               ,@(getsets lst)
+2018-04-12 16:28:56		               ,@(method-calls-with-n-args body)
+2018-04-12 16:28:56		               (otherwise 
+2018-04-12 16:28:56		                 (error "~a unknown" %z)))))))
+2018-04-12 16:28:56		Q8a. This is not an object language. Explain why. What would be needed to make it an object language?
+2018-04-12 16:28:56		Q8b. In English, describe what `getsets` does. Write the exact inputs seen by `getsets`.
+2018-04-12 16:28:56		Q8c. In English, describe what `method-calls-with-n-args` does. Write the exact inputs seen by `method-calls-with-n-args`.
+2018-04-12 16:28:56		Q9. In the following examples,
+2018-04-12 16:28:56		    (let ((a 1)
+2018-04-12 16:28:56		          (b 2)
+2018-04-12 16:28:56		          (c '(10 20 30 40)))
+2018-04-12 16:28:56		       (print '(a a b b))          
+2018-04-12 16:28:56		       (print `(a ,a b ,b))        
+2018-04-12 16:28:56		       (print `(a ,a b ,b c ,c))   
+2018-04-12 16:28:56		       (print `(a ,a b ,b c ,@c)))
+2018-04-12 16:28:56		What are the results of these `print`?
+2018-04-12 16:28:56		Q10. For the following three, describle the problem and advangeage of each approach.
+2018-04-12 16:28:56		    (defmacro Square-1 (X)
+2018-04-12 16:28:56		        `(* ,X ,X))
+2018-04-12 16:28:56		        
+2018-04-12 16:28:56		    (defmacro Square-2 (X)
+2018-04-12 16:28:56		        (* X X))
+2018-04-12 16:28:56		        
+2018-04-12 16:28:56		    (defmacro Square-3 (x)
+2018-04-12 16:28:56		    (let ((temp (gensym)))
+2018-04-12 16:28:56		      `(let ((,temp ,x))
+2018-04-12 16:28:56		          (* ,temp ,temp)))
+2018-04-12 16:28:56		        
+2018-04-12 16:28:56		Q11. In the nested slot access example,
+2018-04-12 16:28:56		    (defmacro ? (obj first-slot &rest more-slots)
+2018-04-12 16:28:56		      "From https://goo.gl/dqnmvH:"
+2018-04-12 16:28:56		      (if (null more-slots)
+2018-04-12 16:28:56		          `(slot-value ,obj ',first-slot)
+2018-04-12 16:28:56		          `(? (slot-value ,obj ',first-slot) ,@more-slots)))
+2018-04-12 16:28:56		        
+2018-04-12 16:28:56		How does this expand `(? obj a b c d)`?
+2018-04-12 16:28:56		``` 
+2018-05-01 09:24:34	MattGray	@timm studying for the final and I see the review11.md which I remember going over, but I can't find the google doc. Do you know where it is? 
+2018-05-01 10:50:41	patrick_xia	@MattGray review 11 has never been posted, so there is no google doc for this. However, you should expect prolog questions in the final so this review11 can be useful.
+2018-05-01 10:50:41		The link is here:
+2018-05-01 10:50:41		https://github.com/txt/plm18/blob/master/doc/review11.md [:+1:2]  (edited)
+2018-05-01 11:16:24	patrick_xia	!channel The final exam will cover all materials from the beginning (but mostly after midterm), it has 8 questions and many of them are similar to the review questions. Some of the questions have programming tasks related to the topics discussed in the class (Python, Prolog, Lisp, Kotlin, Smalltalk, etc.) 
+2018-05-01 11:17:37	cmthomp7	Are we doing all 8 questions or do we get to pick some amount? [:+1:1] 
+2018-05-01 11:18:32	patrick_xia	All questions are mandatory, you need to do all of them [:+1:4] 
+2018-05-01 16:21:58	riestell	is there a key for the midterm exam that we can use for reviewing? [:eyes:1] 
+2018-05-07 13:09:35		getting channel history...
+2018-01-09 16:36:41	-->		@timm has joined the channel 
+2018-01-09 16:36:54	-->		@hfernan has joined the channel 
+2018-01-09 17:09:06	-->		@Anastasia has joined the channel 
+2018-01-16 16:30:42	timm	https://docs.google.com/document/d/1o26-rnTNb_ietLh2zW6ylk-xM-sfyAPwtfwt5SWgRSU/edit?usp=sharing 
+2018-01-16 16:30:53	-->		@ajshryoc has joined the channel 
+2018-01-16 16:30:59	-->		@Jesse has joined the channel 
+2018-01-16 16:31:01	-->		@Wenting has joined the channel 
+2018-01-16 16:31:03	Jesse	Hello world [:earth_americas:1 :wave:1] 
+2018-01-16 16:31:07	Wenting	yep 
+2018-01-16 16:31:17	-->		@jfave has joined the channel 
+2018-01-16 16:31:21	-->		@SamuelHenderson has joined the channel 
+2018-01-16 16:31:24	-->		@cjhall3 has joined the channel 
+2018-01-16 16:31:25	-->		@AnthonySu has joined the channel 
+2018-01-16 16:31:29	-->		@patrick_xia has joined the channel 
+2018-01-16 16:31:31	-->		@MattGray has joined the channel 
+2018-01-16 16:31:36	-->		@RaymondWoods has joined the channel 
+2018-01-16 16:31:37	-->		@ThomasDickerson has joined the channel 
+2018-01-16 16:31:38	-->		@cmthomp7 has joined the channel 
+2018-01-16 16:31:42	-->		@kjandre2 has joined the channel 
+2018-01-16 16:31:45	-->		@wjglas has joined the channel 
+2018-01-16 16:31:48	-->		@adbishel has joined the channel 
+2018-01-16 16:31:49	-->		@gjabell has joined the channel 
+2018-01-16 16:31:51	-->		@ejgillia has joined the channel 
+2018-01-16 16:40:54	-->		@camara has joined the channel 
+2018-01-25 16:29:21	timm	this week: https://docs.google.com/document/d/1Dfpo1YgAvwJurxVK93b6BmzyoPlmDAb3eDjZxO9jgss/edit?usp=sharing 
+2018-01-30 16:35:20	timm	review3: 
+2018-01-30 16:36:00	timm	https://docs.google.com/document/d/1P2IV_0-J39l4bdXfbCguW0Y17ec9Fv2F1dIYQ0tKUCo/edit?usp=sharing 
+2018-02-06 15:15:57	timm	review4:
+2018-02-06 15:15:57		- questions: https://github.com/txt/plm18/blob/master/doc/review4.md
+2018-02-06 15:15:57		- answer space: https://docs.google.com/document/d/1MMPOQUrB6Rk30gZWHg-NG4x8qezAil0YhZKQub1ln28/edit?usp=sharing
+2018-02-06 15:15:57		txt/plm18
+2018-02-06 15:15:57		plm18 - programming languages and modeling, NCSU 2018 
+2018-02-13 14:26:49	timm	Review5
+2018-02-13 14:26:49		- questions: https://github.com/txt/plm18/blob/master/doc/review5.md
+2018-02-13 14:26:49		- answer space: https://docs.google.com/document/d/1yvb3P7glwVeSXTjJeC5RTVpYyqGAm-tYAu1UmhjYw6A/edit?usp=sharing
+2018-02-13 14:26:49		txt/plm18
+2018-02-13 14:26:49		plm18 - programming languages and modeling, NCSU 2018  (edited)
+2018-02-20 16:28:59	timm	feb20:
+2018-02-20 16:28:59		questions:
+2018-02-20 16:28:59		https://github.com/txt/plm18/blob/master/doc/review6.md
+2018-02-20 16:28:59		answer space: https://docs.google.com/document/d/1WRa_VjD9AnrIbzzWzxmBL_rvBy_LCj4yoJcWzBbK-z4/edit?usp=sharing
+2018-02-20 16:28:59		txt/plm18
+2018-02-20 16:28:59		plm18 - programming languages and modeling, NCSU 2018 
+2018-02-27 16:29:29	timm	questions: https://github.com/txt/plm18/blob/master/doc/review7.md
+2018-02-27 16:29:29		answer space: https://docs.google.com/document/d/1fXB991xujsVLfsfB4sERrd87MhZi4bmRVsjq0oszbtA/edit?usp=sharing
+2018-02-27 16:29:29		txt/plm18
+2018-02-27 16:29:29		plm18 - programming languages and modeling, NCSU 2018 
+2018-03-27 16:31:07	timm	answers: https://docs.google.com/document/d/1GjlkMvxVO4dGSzgMzAZkOBqx0ceSIUlR2kWUX0wzFH4/edit?usp=sharing 
+2018-03-27 16:31:36	timm	questionsL https://github.com/txt/plm18/blob/master/doc/review8.md
+2018-03-27 16:31:36		doc/review8.md
+2018-03-27 16:31:36		```
+2018-03-27 16:31:36		[home](http://tiny.cc/plm18) |
+2018-03-27 16:31:36		[copyright](https://github.com/txt/plm18/blob/master/LICENSE.md) &copy;2018, tim&commat;menzies.us
+2018-03-27 16:31:36		<br>
+2018-03-27 16:31:36		[<img width=900 src="https://raw.githubusercontent.com/txt/plm18/master/img/banner.png">](http://tiny.cc/plm18)<br>
+2018-03-27 16:31:36		[syllabus](https://github.com/txt/plm18/blob/master/doc/syllabus.md) |
+2018-03-27 16:31:36		[src](https://github.com/txt/plm18/tree/master/src) |
+2018-03-27 16:31:36		[submit](http://tiny.cc/plm18give) |
+2018-03-27 16:31:36		[chat](https://plm18.slack.com/)
+2018-03-27 16:31:36		______
+2018-03-27 16:31:36		# Review
+2018-03-27 16:31:36		### Week 8~10 : 03/01/2018 ~ 03/22/2018
+2018-03-27 16:31:36		Q1. Describe the operations of the lisp virtual machine. In what ways of these different to the operations provided by the Java virtual machine?
+2018-03-27 16:31:36		Q2. Kotlin and Java are two languages, how are they similar and different?
+2018-03-27 16:31:36		Q3. How are containers same and different to the JVM? When would containers be most useful?
+2018-03-27 16:31:36		Q4. How are serverless apps are same and different to containers? When would serverless apps be most useful?
+2018-03-27 16:31:36		Q5. List and explain 3 advantages and 3 disadvantages of serverless apps.
+2018-03-27 16:31:36		Q6a. What is polymorphism?
+2018-03-27 16:31:36		Q6b. Assuming polymorphism, in the simulation of ducks and cows that "quack" and "moo", describle the centralized controllers and the duck and cow class.
+2018-03-27 16:31:36		Q6c. The simulations have been extened, now there are humans that "sing", assuming polymorphism, what has to be changed in the centralized controllers?
+2018-03-27 16:31:36		In the following questions, assume there is a method call "ifTrue:ifFalse:". In polymorphic systems, control is pushed out to the leaf classes, here are the smalltalk definations of ifTrue: and ifFalse:
+2018-03-27 16:31:36		    ! Boolean methods !
+2018-03-27 16:31:36		    ifTrue: aBlock
+2018-03-27 16:31:36		        "inlined in the Compiler"
+2018-03-27 16:31:36		        ^ self ifTrue: aBlock ifFalse: []
+2018-03-27 16:31:36		    ifFalse: aBlock
+2018-03-27 16:31:36		        "inlined in the Compiler"
+2018-03-27 16:31:36		        ^ self ifTrue: [] ifFalse: aBlock
+2018-03-27 16:31:36		Q7. Assuming you have a random number generator, how would you code up "usually:" which two third of time act as "ifTrue:" ?
+2018-03-27 16:31:36		Here are some smalltalk code for iteration in an array, the method "value:value:" sends the values of each and (anotherCollection at: index) into aBlock,
+2018-03-27 16:31:36		    ! In IndexableCollection methods !
+2018-03-27 16:31:36		    with: anotherCollection do: aBlock
+2018-03-27 16:31:36		        "Calls aBlock with every value from self
+2018-03-27 16:31:36		        and with indetically-indexed value from anotherCollection"
+2018-03-27 16:31:36		        self withIndexDo: [ :each :index |
+2018-03-27 16:31:36		            aBlock value: each value: (anotherCollection at: index) ]
+2018-03-27 16:31:36		Q8a. What might blocks be called in lisp?
+2018-03-27 16:31:36		Q8b. Write the with do methods in Python, such that even numbered indexes of an array are printed.
+2018-03-27 16:31:36		Here are some smalltalk code for extracting or deleting items in a collection items
+2018-03-27 16:31:36		    ! Collection methods !
+2018-03-27 16:31:36		    reject: aBlock
+2018-03-27 16:31:36		        ^ self select: [ :each | (aBlock value: each) = false ]
+2018-03-27 16:31:36		    select: aBlock
+2018-03-27 16:31:36		        | stream |
+2018-03-27 16:31:36		        stream := self class new writeStream.
+2018-03-27 16:31:36		        self do: [ :each |
+2018-03-27 16:31:36		            (aBlock value: each) ifTrue: [
+2018-03-27 16:31:36		            stream nextPut: each ] ].
+2018-03-27 16:31:36		        ^ stream contents
+2018-03-27 16:31:36		Q9. Write equivalent Python iterators called "reject" and "select" such that reject is implemented as a special called selected.
+2018-03-27 16:31:36		Covert the following Kotlin code to Python:
+2018-03-27 16:31:36		Q10a.
+2018-03-27 16:31:36		    when (x) {
+2018-03-27 16:31:36		    1 -> print("x is 1")
+2018-03-27 16:31:36		    2 -> print("x is 2")
+2018-03-27 16:31:36		    3, 4 -> print("x is 3 or 4")
+2018-03-27 16:31:36		    in 5..10 -> print("x is 5, 6, 7, 8, 9, or 10")
+2018-03-27 16:31:36		    else -> print("x is out of range")
+2018-03-27 16:31:36		    }
+2018-03-27 16:31:36		Q10b.
+2018-03-27 16:31:36		    class Frame {
+2018-03-27 16:31:36		    var width: Int = 800
+2018-03-27 16:31:36		    var height: Int = 600
+2018-03-27 16:31:36		    val pixels: Int
+2018-03-27 16:31:36		    get() = width * height
+2018-03-27 16:31:36		    }
+2018-03-27 16:31:36		Q10c.
+2018-03-27 16:31:36		    val name = ship?.captain?.name ?: "unknown"
+2018-03-27 16:31:36		Q10d.
+2018-03-27 16:31:36		    str.removeSuffix(".txt")
+2018-03-27 16:31:36		    str.capitalize()
+2018-03-27 16:31:36		    str.substringAfterLast("/")
+2018-03-27 16:31:36		    str.replaceAfter(":", "classified")
+2018-03-27 16:31:36		``` 
+2018-04-03 16:29:50	timm	questions; https://github.com/txt/plm18/blob/master/doc/review9.md
+2018-04-03 16:29:50		answer space: https://docs.google.com/document/d/1-jLbSsiSamu2kn9_IQ_zCkB2PBsq-VUL_K-I3tKjnLA/edit?usp=sharing
+2018-04-03 16:29:50		doc/review9.md
+2018-04-03 16:29:50		```
+2018-04-03 16:29:50		[home](http://tiny.cc/plm18) |
+2018-04-03 16:29:50		[copyright](https://github.com/txt/plm18/blob/master/LICENSE.md) &copy;2018, tim&commat;menzies.us
+2018-04-03 16:29:50		<br>
+2018-04-03 16:29:50		[<img width=900 src="https://raw.githubusercontent.com/txt/plm18/master/img/banner.png">](http://tiny.cc/plm18)<br>
+2018-04-03 16:29:50		[syllabus](https://github.com/txt/plm18/blob/master/doc/syllabus.md) |
+2018-04-03 16:29:50		[src](https://github.com/txt/plm18/tree/master/src) |
+2018-04-03 16:29:50		[submit](http://tiny.cc/plm18give) |
+2018-04-03 16:29:50		[chat](https://plm18.slack.com/)
+2018-04-03 16:29:50		______
+2018-04-03 16:29:50		# Review
+2018-04-03 16:29:50		### Week 11 : 03/27/2018 ~ 03/29/2018
+2018-04-03 16:29:50		Q1. What is the difference between object-based system and class-based system?
+2018-04-03 16:29:50		Given an applciation with 1000000 objects, which might you prefer? Justify your answer.
+2018-04-03 16:29:50		Q2. There are two ways to build a DSL: External and Internal, briefly explain what they are and give an example for each of them.
+2018-04-03 16:29:50		Q3a. What is context manager? What do the following do? For each of 3b, 3c offer
+2018-04-03 16:29:50		another example where you might use this langauge feature.
+2018-04-03 16:29:50		Q3b.
+2018-04-03 16:29:50		    def duration():
+2018-04-03 16:29:50		        t1 = time.time()
+2018-04-03 16:29:50		        yield
+2018-04-03 16:29:50		        t2 = time.time()
+2018-04-03 16:29:50		        print("\n" + "-"  72)
+2018-04-03 16:29:50		        print("# Runtime: %.3f secs" % (t2-t1))
+2018-04-03 16:29:50		        
+2018-04-03 16:29:50		Q3c.
+2018-04-03 16:29:50		    def closing(thing):
+2018-04-03 16:29:50		        try:
+2018-04-03 16:29:50		            yield thing
+2018-04-03 16:29:50		        finally:
+2018-04-03 16:29:50		            thing.close()
+2018-04-03 16:29:50		            
+2018-04-03 16:29:50		Q3d. Are 3b, 3c examples of itnernal or external DSLs? Justify your answer.
+2018-04-03 16:29:50		In the following code:
+2018-04-03 16:29:50		      def step(i,dt,t,u,v):
+2018-04-03 16:29:50		        def saturday(x): return int(x) % 7 == 6
+2018-04-03 16:29:50		        v.C +=  dt(u.q - u.r)
+2018-04-03 16:29:50		        v.D +=  dt*(u.r - u.s)
+2018-04-03 16:29:50		        v.q  =  70  if saturday(t) else 0 
+2018-04-03 16:29:50		        v.s  =  u.D if saturday(t) else 0
+2018-04-03 16:29:50		        if t == 27: # special case (the day i forget)
+2018-04-03 16:29:50		          v.s = 0
+2018-04-03 16:29:50		Q4a. Draw the associated compartmental model
+2018-04-03 16:29:50		          
+2018-04-03 16:29:50		Q4b. How do we get the constants of dict?
+2018-04-03 16:29:50		Q4c. What are i, dt, t respectively?
+2018-04-03 16:29:50		Q4d. How to represent payload in the code?
+2018-04-03 16:29:50		Q4e. How to update the field of v?
+2018-04-03 16:29:50		Q4f. Is this an external or internal DSL?
+2018-04-03 16:29:50		Q5. For the following example, write a compartmental model in python.
+2018-04-03 16:29:50		```
+2018-04-03 16:29:50		a   +-----+  c  +-----+
+2018-04-03 16:29:50		---->|  B  |---->|  D  |--> e
+2018-04-03 16:29:50		^   +-----+     +-+---+    |
+2018-04-03 16:29:50		|                          |
+2018-04-03 16:29:50		+--------------------------+
+2018-04-03 16:29:50		f
+2018-04-03 16:29:50		B = contents of supermarket shelves
+2018-04-03 16:29:50		D = contents of tummy
+2018-04-03 16:29:50		a = restock rate of supermarket
+2018-04-03 16:29:50		c = buying rate of a student
+2018-04-03 16:29:50		e = garbage bags outside student housing
+2018-04-03 16:29:50		f = increases restocking for stuburbs with lottsa garbage
+2018-04-03 16:29:50		```
+2018-04-03 16:29:50		    
+2018-04-03 16:29:50		Q6. What is the difference between Stocks and Flows in Compartmental Modeling?
+2018-04-03 16:29:50		Q7. In Compartmental Modeling, what are auxillary variables used for?
+2018-04-03 16:29:50		Q8. Why would a stock need this?
+2018-04-03 16:29:50		      def restrain(i,x):
+2018-04-03 16:29:50		        return max(i.lo,
+2018-04-03 16:29:50		min(i.hi, x))
+2018-04-03 16:29:50		            
+2018-04-03 16:29:50		In class "model":
+2018-04-03 16:29:50		    class Model:
+2018-04-03 16:29:50		      def state(i):
+2018-04-03 16:29:50		        """To create a state vector, we create 
+2018-04-03 16:29:50		        one slot for each name in 'have'."""
+2018-04-03 16:29:50		        tmp=i.have()
+2018-04-03 16:29:50		        for k,v in tmp.has().items():
+2018-04-03 16:29:50		          v.name = k
+2018-04-03 16:29:50		        return tmp 
+2018-04-03 16:29:50		      def run(i,dt=1,tmax=30):
+2018-04-03 16:29:50		        """For time up to 'tmax', increment 't' 
+2018-04-03 16:29:50		           by 'dt' and 'step' the model."""
+2018-04-03 16:29:50		        t,b4 = 0, o()
+2018-04-03 16:29:50		        keep = []    ## 1
+2018-04-03 16:29:50		        state = i.state()
+2018-04-03 16:29:50		        for k,a in state.items(): 
+2018-04-03 16:29:50		          b4[k] = a.init
+2018-04-03 16:29:50		        keys  = sorted(state.keys(),  ## 3
+2018-04-03 16:29:50		                       key=lambda z: state[z].rank())
+2018-04-03 16:29:50		        keep = [["t"] +  keys,
+2018-04-03 16:29:50		                [0] + b4.asList(keys)]
+2018-04-03 16:29:50		        while t < tmax:
+2018-04-03 16:29:50		          now = b4.copy()
+2018-04-03 16:29:50		          i.step(dt,t,b4,now)
+2018-04-03 16:29:50		          for k in state.keys(): 
+2018-04-03 16:29:50		            now[k] = state[k].restrain(now[k]) ## 4
+2018-04-03 16:29:50		          keep += [[t] + now.asList(keys)] ## 2
+2018-04-03 16:29:50		          t += dt
+2018-04-03 16:29:50		          b4 = now
+2018-04-03 16:29:50		        return keep
+2018-04-03 16:29:50		Q9a. What is keep = []?
+2018-04-03 16:29:50		Q9b. What is happending here:
+2018-04-03 16:29:50		for k in state.keys():
+2018-04-03 16:29:50		now[k] = state[k].restrain(now[k]) ## 4
+2018-04-03 16:29:50		Q9c. What returns here:
+2018-04-03 16:29:50		      keep += [[t] + now.asList(keys)] ## 2
+2018-04-03 16:29:50		In the following code about "printm":
+2018-04-03 16:29:50		    def printm(matrix,less=True):
+2018-04-03 16:29:50		       """Print a list of list, only showing changes
+2018-04-03 16:29:50		       in each column (if less is True)."""
+2018-04-03 16:29:50		       def ditto(m,mark="."):
+2018-04-03 16:29:50		         def worker(lst):
+2018-04-03 16:29:50		           out = []
+2018-04-03 16:29:50		           for i,now in enumerate(lst):
+2018-04-03 16:29:50		             before = old.get(i,None) # get old it if exists
+2018-04-03 16:29:50		             out += [mark if before == now else now]
+2018-04-03 16:29:50		             old[i] = now # next time, 'now' is the 'old' value
+2018-04-03 16:29:50		           return out # the lst with ditto marks inserted
+2018-04-03 16:29:50		         old = {}
+2018-04-03 16:29:50		         return [worker(row) for row in m]
+2018-04-03 16:29:50		       matrix = ditto(matrix) if less else matrix
+2018-04-03 16:29:50		       s = [[str(e) for e in row] for row in matrix]
+2018-04-03 16:29:50		       lens = [max(map(len, col)) for col in zip(*s)]
+2018-04-03 16:29:50		       fmt = ' | '.join('{{:{}}}'.format(x) for x in lens)
+2018-04-03 16:29:50		       for row in [fmt.format(*row) for row in s]:
+2018-04-03 16:29:50		          print(row)
+2018-04-03 16:29:50		          
+2018-04-03 16:29:50		Q10. What do these two lines do:
+2018-04-03 16:29:50		       s = [[str(e) for e in row] for row in matrix]
+2018-04-03 16:29:50		       lens = [max(map(len, col)) for col in zip(*s)]
+2018-04-03 16:29:50		Q11. For Compartmental Models, why we do not try to debug complex emergent behavior?
+2018-04-03 16:29:50		Q12. Instead of debugging complex emergent behavior, what we can do?
+2018-04-03 16:29:50		Q13. Label the models below:
+2018-04-03 16:29:50		![cmnl](https://cloud.githubusercontent.com/assets/1433964/10382538/12b9265c-6df3-11e5-8572-7b60661e4464.jpg)
+2018-04-03 16:29:50		```  (edited)
+2018-04-12 16:28:56	timm	questions: https://github.com/txt/plm18/blob/master/doc/review10.md
+2018-04-12 16:28:56		answers: https://docs.google.com/document/d/1oF4oedMdwbUuNbBV3CvDNYgk703uKP8O6PLGovjEhw0/edit?usp=sharing
+2018-04-12 16:28:56		doc/review10.md
+2018-04-12 16:28:56		```
+2018-04-12 16:28:56		[home](http://tiny.cc/plm18) |
+2018-04-12 16:28:56		[copyright](https://github.com/txt/plm18/blob/master/LICENSE.md) &copy;2018, tim&commat;menzies.us
+2018-04-12 16:28:56		<br>
+2018-04-12 16:28:56		[<img width=900 src="https://raw.githubusercontent.com/txt/plm18/master/img/banner.png">](http://tiny.cc/plm18)<br>
+2018-04-12 16:28:56		[syllabus](https://github.com/txt/plm18/blob/master/doc/syllabus.md) |
+2018-04-12 16:28:56		[src](https://github.com/txt/plm18/tree/master/src) |
+2018-04-12 16:28:56		[submit](http://tiny.cc/plm18give) |
+2018-04-12 16:28:56		[chat](https://plm18.slack.com/)
+2018-04-12 16:28:56		______
+2018-04-12 16:28:56		# Review
+2018-04-12 16:28:56		### Week 13-14 : 04/02/2018 ~ 04/09/2018
+2018-04-12 16:28:56		Q1. A macro is a program called at loadtime to expand smaller things to bigger things, give two examples why this is useful.
+2018-04-12 16:28:56		Q2a. Languages such as C and assembly language have rudimentary text based macro systems, how do these macros work? How do these macros methods handle the scoope varilbles? Do these macro systems have access to the semantics of the underlying language?
+2018-04-12 16:28:56		Q2b. In the following code, there is a problem in `msg`, what is the problem?
+2018-04-12 16:28:56		    #define LOG(msg) ({ \
+2018-04-12 16:28:56		        int state = get_log_state(); \
+2018-04-12 16:28:56		        if (state > 0) { \
+2018-04-12 16:28:56		            printf("log(%d): %s\n", state, msg); \
+2018-04-12 16:28:56		        } \
+2018-04-12 16:28:56		    })
+2018-04-12 16:28:56		Q2c. The problem of 2b could be fixed with hygeninc macros variables. Explain how.
+2018-04-12 16:28:56		    
+2018-04-12 16:28:56		Q3a. In C pre-processing macro system, what is the following used for?
+2018-04-12 16:28:56		    #define M (x*x+2*x+1)
+2018-04-12 16:28:56		    #define BUFFER_SIZE 1024
+2018-04-12 16:28:56		    #define min(X, Y)  ((X) < (Y) ? (X) : (Y))
+2018-04-12 16:28:56		    
+2018-04-12 16:28:56		Q3b. `#define min(X, Y)` suffers from the repearted computation problems. Explain when is such repeated computation a problem?
+2018-04-12 16:28:56		Q4. Lisp is a language where programs are expressed as lists. How does the defmacro exploit this?
+2018-04-12 16:28:56		Q5. In the example of Macros in Julia,
+2018-04-12 16:28:56		    macro has(typename, pairs...)
+2018-04-12 16:28:56		        name = esc(symbol(string(typename,0))) # hygiene
+2018-04-12 16:28:56		        x    = esc(symbol("x"))                # hygiene 
+2018-04-12 16:28:56		        ones = [  x.args[1]  for x in pairs ]
+2018-04-12 16:28:56		        twos = [  x.args[2]  for x in pairs ]
+2018-04-12 16:28:56		        sets = [ :($x.$y=$y) for y in ones  ]
+2018-04-12 16:28:56		        :(type $(typename)
+2018-04-12 16:28:56		         $(ones...)
+2018-04-12 16:28:56		          end;
+2018-04-12 16:28:56		          function $(name)(; $(pairs...) )
+2018-04-12 16:28:56		        $x = $(typename)($(twos...))
+2018-04-12 16:28:56		        $(sets...)
+2018-04-12 16:28:56		        $x
+2018-04-12 16:28:56		          end)
+2018-04-12 16:28:56		    end
+2018-04-12 16:28:56		    
+2018-04-12 16:28:56		    @has aa bb=1 cc=10+1
+2018-04-12 16:28:56		    
+2018-04-12 16:28:56		    begin
+2018-04-12 16:28:56		        type aa # /Users/timm/gits/timm/15/jl/one.jl, line 18:
+2018-04-12 16:28:56		            bb
+2018-04-12 16:28:56		        cc
+2018-04-12 16:28:56		        end
+2018-04-12 16:28:56		        function aa0() # /Users/timm/gits/timm/15/jl/one.jl, line 21:
+2018-04-12 16:28:56		        aa(1,10 + 1)
+2018-04-12 16:28:56		        end
+2018-04-12 16:28:56		    end
+2018-04-12 16:28:56		    someFun(x::Any) = println(1000000)
+2018-04-12 16:28:56		    someFun(x::aa)  = println(x.bb)
+2018-04-12 16:28:56		    
+2018-04-12 16:28:56		    x    = aa0()
+2018-04-12 16:28:56		    x.bb = 200
+2018-04-12 16:28:56		Explain how to get the results when we call
+2018-04-12 16:28:56		    someFun(22)
+2018-04-12 16:28:56		    someFun(x)
+2018-04-12 16:28:56		    
+2018-04-12 16:28:56		Q6. In the following example,
+2018-04-12 16:28:56		    {
+2018-04-12 16:28:56		      "animals": [
+2018-04-12 16:28:56		        { "animalName": "beatles", "legNum": "six" },
+2018-04-12 16:28:56		        { "animalName": "horses", "legNum": "four" },
+2018-04-12 16:28:56		        { "animalName": "spiders", "legNum": "eight" },
+2018-04-12 16:28:56		        { "animalName": "snakes", "legNum": "zero" }
+2018-04-12 16:28:56		      ],
+2018-04-12 16:28:56		      "name": function () {
+2018-04-12 16:28:56		        return this.animalName + " " + this.legNum;
+2018-04-12 16:28:56		      }
+2018-04-12 16:28:56		    }
+2018-04-12 16:28:56		    
+2018-04-12 16:28:56		What are these moustaches about? Why are they useful? What is the output of these moustahses:
+2018-04-12 16:28:56		    {{#beatles}}
+2018-04-12 16:28:56		     {{name}}
+2018-04-12 16:28:56		    {{/beatles}}
+2018-04-12 16:28:56		    {{#animals}}
+2018-04-12 16:28:56		     {{name}}
+2018-04-12 16:28:56		    {{/animals}}
+2018-04-12 16:28:56		In OO Version2 examples,
+2018-04-12 16:28:56		    (defun point2 ()
+2018-04-12 16:28:56		      (labels (
+2018-04-12 16:28:56		         (_sq  (z)      (* z z))
+2018-04-12 16:28:56		         (dist (self x2 y2)
+2018-04-12 16:28:56		           (let ((x1 (ask self 'x?))
+2018-04-12 16:28:56		                 (y1 (ask self 'y?)))
+2018-04-12 16:28:56		             (sqrt (+ (_sq (- x1 x2)) 
+2018-04-12 16:28:56		                      (_sq (- y1 y2)))))))
+2018-04-12 16:28:56		        (lambda (self z args)
+2018-04-12 16:28:56		          (case z
+2018-04-12 16:28:56		            (x?         (nth 0 (cdr self)))
+2018-04-12 16:28:56		            (y?         (nth 1 (cdr self)))
+2018-04-12 16:28:56		            (x!   (setf (nth 0 (cdr self)) (nth 0 args)))
+2018-04-12 16:28:56		            (y!   (setf (nth 1 (cdr self)) (nth 1 args)))
+2018-04-12 16:28:56		            (dist (dist self (first args) (second args)))
+2018-04-12 16:28:56		            (otherwise 
+2018-04-12 16:28:56		              (error "~a unknown" z))))))
+2018-04-12 16:28:56		Q7a. This is not a class instance language. Explain why. What would be needed to make it a class instance language?
+2018-04-12 16:28:56		Q7b. For the following code, what is the representations of `self`? How to generate this automatically?
+2018-04-12 16:28:56		    (x?         (nth 0 (cdr self)))
+2018-04-12 16:28:56		(y?         (nth 1 (cdr self)))
+2018-04-12 16:28:56		(x!   (setf (nth 0 (cdr self)) (nth 0 args)))
+2018-04-12 16:28:56		(y!   (setf (nth 1 (cdr self)) (nth 1 args)))
+2018-04-12 16:28:56		    
+2018-04-12 16:28:56		Q7c. What information is needed to auto generate the above code?
+2018-04-12 16:28:56		In OO Version3 examples,
+2018-04-12 16:28:56		    (defmacro defklass (klass lst &rest body)
+2018-04-12 16:28:56		      "template for klasses"
+2018-04-12 16:28:56		      `(defun ,klass ()
+2018-04-12 16:28:56		         (labels (,@body)
+2018-04-12 16:28:56		           (lambda (self %z args)  ; using %z is a hygiene cheat
+2018-04-12 16:28:56		             (case %z
+2018-04-12 16:28:56		               ,@(getsets lst)
+2018-04-12 16:28:56		               ,@(method-calls-with-n-args body)
+2018-04-12 16:28:56		               (otherwise 
+2018-04-12 16:28:56		                 (error "~a unknown" %z)))))))
+2018-04-12 16:28:56		Q8a. This is not an object language. Explain why. What would be needed to make it an object language?
+2018-04-12 16:28:56		Q8b. In English, describe what `getsets` does. Write the exact inputs seen by `getsets`.
+2018-04-12 16:28:56		Q8c. In English, describe what `method-calls-with-n-args` does. Write the exact inputs seen by `method-calls-with-n-args`.
+2018-04-12 16:28:56		Q9. In the following examples,
+2018-04-12 16:28:56		    (let ((a 1)
+2018-04-12 16:28:56		          (b 2)
+2018-04-12 16:28:56		          (c '(10 20 30 40)))
+2018-04-12 16:28:56		       (print '(a a b b))          
+2018-04-12 16:28:56		       (print `(a ,a b ,b))        
+2018-04-12 16:28:56		       (print `(a ,a b ,b c ,c))   
+2018-04-12 16:28:56		       (print `(a ,a b ,b c ,@c)))
+2018-04-12 16:28:56		What are the results of these `print`?
+2018-04-12 16:28:56		Q10. For the following three, describle the problem and advangeage of each approach.
+2018-04-12 16:28:56		    (defmacro Square-1 (X)
+2018-04-12 16:28:56		        `(* ,X ,X))
+2018-04-12 16:28:56		        
+2018-04-12 16:28:56		    (defmacro Square-2 (X)
+2018-04-12 16:28:56		        (* X X))
+2018-04-12 16:28:56		        
+2018-04-12 16:28:56		    (defmacro Square-3 (x)
+2018-04-12 16:28:56		    (let ((temp (gensym)))
+2018-04-12 16:28:56		      `(let ((,temp ,x))
+2018-04-12 16:28:56		          (* ,temp ,temp)))
+2018-04-12 16:28:56		        
+2018-04-12 16:28:56		Q11. In the nested slot access example,
+2018-04-12 16:28:56		    (defmacro ? (obj first-slot &rest more-slots)
+2018-04-12 16:28:56		      "From https://goo.gl/dqnmvH:"
+2018-04-12 16:28:56		      (if (null more-slots)
+2018-04-12 16:28:56		          `(slot-value ,obj ',first-slot)
+2018-04-12 16:28:56		          `(? (slot-value ,obj ',first-slot) ,@more-slots)))
+2018-04-12 16:28:56		        
+2018-04-12 16:28:56		How does this expand `(? obj a b c d)`?
+2018-04-12 16:28:56		``` 
+2018-05-01 09:24:34	MattGray	@timm studying for the final and I see the review11.md which I remember going over, but I can't find the google doc. Do you know where it is? 
+2018-05-01 10:50:41	patrick_xia	@MattGray review 11 has never been posted, so there is no google doc for this. However, you should expect prolog questions in the final so this review11 can be useful.
+2018-05-01 10:50:41		The link is here:
+2018-05-01 10:50:41		https://github.com/txt/plm18/blob/master/doc/review11.md [:+1:2]  (edited)
+2018-05-01 11:16:24	patrick_xia	!channel The final exam will cover all materials from the beginning (but mostly after midterm), it has 8 questions and many of them are similar to the review questions. Some of the questions have programming tasks related to the topics discussed in the class (Python, Prolog, Lisp, Kotlin, Smalltalk, etc.) 
+2018-05-01 11:17:37	cmthomp7	Are we doing all 8 questions or do we get to pick some amount? [:+1:1] 
+2018-05-01 11:18:32	patrick_xia	All questions are mandatory, you need to do all of them [:+1:4] 
+2018-05-01 16:21:58	riestell	is there a key for the midterm exam that we can use for reviewing? [:eyes:1] 
+2018-05-01 22:31:10	patrick_xia	Here is a link of midterm paper with partial solution:
+2018-05-01 22:31:10		https://goo.gl/MVDHhs [:+1::skin-tone-4:1]  (edited)
+2018-05-05 13:19:44	AlexPhelps	@AlexPhelps uploaded a file: https://plm18.slack.com/files/U8PM7EEBS/FAJUQBJ7L/reviews.zip (Reviews.zip) and commented: So all the reviews are still editable, so in case someone edits something they shouldn't, I downloaded all the Answers and Questions and put them in one spot.  They're just pdf saved versions of the pages :slightly_smiling_face:.  Thought I would share and hopefully save some of you some time downloading. 
+2018-05-05 13:59:34	jamazzol	Thanks man! 
+2018-05-05 14:53:13	adbishel	Does anyone have any answers for the latter half of Review 11? Prolog is proving to be a little confusing for me. 
+2018-05-05 19:37:41	SamuelHenderson	@SamuelHenderson uploaded a file: https://plm18.slack.com/files/U8QH3R8A2/FAJ9N2XTJ/final_review_sheet.pdf (Final Review Sheet.pdf) and commented: I compiled all of the questions and answers into one file, supplemented or fixed at times by myself. This also includes answers to review 11, though I strongly recommend downloading swipl and trying them out yourself! 
+2018-05-05 19:39:49		@SamuelHenderson commented on @SamuelHenderson’s file https://plm18.slack.com/files/U8QH3R8A2/FAJ9N2XTJ/final_review_sheet.pdf (Final Review Sheet.pdf): For Review 11, Q13, the query is mystery([1,2,3], A). Didn't notice I accidentally removed it. 
+2018-05-06 20:28:04	ThomasDickerson	Correct me if I'm wrong, because I didn't do this question on the midterm, but I think Q6c is wrong in the review. I worked out the given answer, and it parsed to z - 2x + 3y. I think the correct lambda fuction would be (lambda (x y z) ( - (  2 x ) (  3 y ) ( z ) ) ) [:eyes:9] 
+2018-05-06 20:28:25	ThomasDickerson	But again, let me know if I'm wrong here, LISP definitely isn't my strongest suit! 
+2018-05-07 09:45:11	timm	(lambda (x y z) (+ (*  -2  x) (*  3  y)   z)) 
+2018-05-07 11:26:00	MattGray	Reviewing some prolog, want to make sure I understand what this is doing line by line:
+2018-05-07 11:26:00		countTo(X) :- countUpTo(1,X). %defines countTo referring to some other predicate countUpTo
+2018-05-07 11:26:00		countUpTo(Value, Limit) :- Value = Limit, writeln(Value), !. %writes out Value and ends any recursion/backtracking if Value = Limit (the ! ends any recursion, right?)
+2018-05-07 11:26:00		countUpTo(Value, Limit) :- Value \= Limit, writeln(Value), %writes out value and recurses after incrementing NextValue if Value doesn't equal limit
+2018-05-07 11:26:00		    NextValue is Value+1,
+2018-05-07 11:26:00		    countUpTo(NextValue, Limit). 
+2018-05-07 11:27:43	hfernan	Sidebar that might help you, there's a browser editor for prolog with a debugger that lets you see recursive calls step by step https://swish.swi-prolog.org/ 
+2018-05-07 11:35:45	MattGray	Thank you! I've been using the terminal repl, but that's a bit more friendly 
+2018-05-07 12:53:49	AlexPhelps	@AlexPhelps uploaded a file: https://plm18.slack.com/files/U8PM7EEBS/FAK2CBNL9/image.png (image.png) and commented: Dr. Menzies,
+2018-05-07 12:53:49		I believe that the lambda function for that question can only be written in two ways.  I have written a short LISP program to show the two, as well as the one provided above.  I have used the values of x = 1, y = 2, and z = 3.  Taking LISP out of the equation, (1*2) - (2 * 3) - (3) = -7, so I used this to check my lambda functions.  Let me know if you agree :slightly_smiling_face:
+2018-05-07 12:53:49		Thanks,
+2018-05-07 12:53:49		Alex 
+2018-05-07 13:16:56	patrick_xia	I believe Thomas is right, the answer of Q6c parsed to z - 2x + 3y, not 2x - 3y - z, the question has been fixed 
+2018-05-07 14:45:55	timm	between(I,_,K) :- K is I.
+2018-05-07 14:45:55		between(I,J, K) :- I < J, between(I+1,J,K).
+2018-05-07 14:45:55		countTo(X) :- forall(between(1,X,C),  writeln(C)).
+2018-05-07 14:45:55		|: ^D% user://1 compiled 0.00 sec, 3 clauses
+2018-05-07 14:45:55		true.
+2018-05-07 14:45:55		?- countTo(10).
+2018-05-07 14:45:55		1
+2018-05-07 14:45:55		2
+2018-05-07 14:45:55		3
+2018-05-07 14:45:55		4
+2018-05-07 14:45:55		5
+2018-05-07 14:45:55		6
+2018-05-07 14:45:55		7
+2018-05-07 14:45:55		8
+2018-05-07 14:45:55		9
+2018-05-07 14:45:55		10
+2018-05-07 14:45:55		true. 
+2018-05-07 14:47:47	timm	(lambda (x y z) (+ (\* -2  x) (\*  3  y)   z)) 
+2018-05-07 14:48:35	timm	my previous lambda , the "*" got eaten by slack markdown. Lets try this...
+2018-05-07 14:48:35		            (lambda (x y z) (+ (* -2  x) (*  3  y)   z)) 
+2018-05-07 14:48:52	timm	Nope. still eating the "*" 
+2018-05-07 14:49:20	timm	@timm uploaded a file: https://plm18.slack.com/files/U8N7K9BF0/FAKQRM7CM/-.lisp (Untitled) 
+2018-05-07 14:49:25	timm	That's better 
+2018-05-07 14:49:39	timm	now, as to...
+2018-05-07 14:49:39		> I believe that the lambda function for that question can only be written in two ways 
+2018-05-07 14:51:05	timm	@timm uploaded a file: https://plm18.slack.com/files/U8N7K9BF0/FAK0878FJ/-.lisp (Untitled) 
+2018-05-07 15:01:24	AlexPhelps	Good point.  Fell into the "only"/"just" trap.  I should have said "I believe the order and signs can be represented in these two ways"
+2018-05-07 15:01:24		Although in the new snippets you have posted, if you want to use the + at the beginning, you have to negate z at the end:
+2018-05-07 15:01:24		`(lambda (x y z) (+ (* -2 x) (* 3 y) (- z))` 
+2018-05-07 15:04:15	aawasth	Is it too late to get points back on the midterm  
+2018-05-07 15:10:48	patrick_xia	@aawasth I am in the office this afternoon, you can stop by if have questions about midterm points. 
+2018-05-07 15:15:38	dgrao2	what time will you be in your office until? 
+2018-05-07 15:20:03	patrick_xia	5:30 
+2018-05-07 15:20:27	patrick_xia	after that we can set up additional appointments 
+2018-05-07 16:44:06	jfave	This site has great material w/ examples on the basics of prolog! http://www.ablmcc.edu.hk/~scy/prolog/pro02.htm#Prog03 

@@ -1,0 +1,1143 @@
+2018-03-16 14:31:31		getting channel history...
+2018-01-08 13:58:44	-->		@jesse has joined the channel 
+2018-01-08 13:58:45	-->		@jkayani has joined the channel 
+2018-01-08 13:58:45	-->		@gjabell has joined the channel 
+2018-01-10 13:20:22	jesse	Any suggestions for games? the usual thing I go for is long jrpgs which seem like a bad choice for this sort of assignment. 
+2018-01-10 13:20:59	gjabell	Have you played portal 
+2018-01-10 13:21:05	jesse	yup 
+2018-01-10 13:21:57	jesse	I'm maybe halfway through Hollow Knight so I dont think i can use that one 
+2018-01-10 13:22:42	jesse	Great games for you guys could be Transistor, Undertale, or Bastion... But they do cost money 
+2018-01-10 13:24:45	jesse	maybe ill play Journey on my playstation. 
+2018-01-10 13:25:45	gjabell	I have some DRM free games I can send you 
+2018-01-10 13:26:13	jesse	Oh, Enter the Gungeon is another good one for you guys if youre into arcade games 
+2018-01-10 13:27:22	jesse	What games do ya have? 
+2018-01-10 13:29:12	jesse	xD Tux Racer anyone? 
+2018-01-10 13:29:16	gjabell	https://drive.google.com/folderview?id=1S7W_peo0pLWh-rg6uZF8b3ZWwl5OtUnS 
+2018-01-10 13:29:34	gjabell	Free games yo 
+2018-01-10 13:38:05	jesse	those all look pretty good. do you have a favorite? 
+2018-01-10 13:38:38	gjabell	tbh haven't played any of them except limbo xD 
+2018-01-10 13:38:47	gjabell	it's good, trine is supposed to be good 
+2018-01-10 13:39:05	gjabell	the end is nigh is kinda like super meat boy if you've played that 
+2018-01-10 13:39:26	gjabell	I think limbo trine and gone home are all supposed to be reasonably short so if you don't want a super long game those might be good 
+2018-01-10 13:39:35	gjabell	particularly limbo 
+2018-01-10 13:40:18	gjabell	yep, all of those are under 6 hours according to howlongtobeat 
+2018-01-10 13:40:25	gjabell	limbo and gone home around 2-3 
+2018-01-10 13:40:37	jesse	I'm not sure "gone home" would run well on my laptop. 
+2018-01-10 13:41:05	jesse	id probably go for either limbo or trine 
+2018-01-10 13:41:12	gjabell	limbo should be fine I think 
+2018-01-10 13:41:19	gjabell	it's pretty low end 
+2018-01-10 13:42:41	jesse	Sounds good. Thanks!! The installer probably wont work well for me on linux but I dont mind dropping a few bucks on steam. 
+2018-01-10 13:43:16	gjabell	I can get a linux instalkler if you want 
+2018-01-10 13:43:26	gjabell	or even mac if you really want a challenge xD 
+2018-01-10 13:44:04	gjabell	@gjabell uploaded a file: https://sturgill-operators.slack.com/files/U5AUU7HHA/F8RPVUK1C/limbo-linux-2014-06-18.sh (Limbo-Linux-2014-06-18.sh) 
+2018-01-10 13:44:09	gjabell	boink 
+2018-01-10 13:44:12	jesse	xD thanks!! 
+2018-01-10 13:46:15	gjabell	np 
+2018-01-10 14:29:03	jkayani	Def. going to try Limbo now - thanks for the Linux installer man 
+2018-01-10 14:29:15	gjabell	np 
+2018-01-10 14:29:27	gjabell	I have some other drm free games from humble bundle, if anyone wants an installer 
+2018-01-10 14:30:41	gjabell	@gjabell uploaded a file: https://sturgill-operators.slack.com/files/U5AUU7HHA/F8RQR9T9C/games.png (games) 
+2018-01-10 14:39:44	jesse	i haven't heard of any of those lol 
+2018-01-10 14:41:13	gjabell	yeah most of them are garbage I think 
+2018-01-10 14:42:13	jesse	what kinds of games do you normally play?  
+2018-01-10 14:42:55	jesse	or prefer to play 
+2018-01-10 14:42:56	gjabell	fps or rpg typically 
+2018-01-10 14:42:59	gjabell	kinda depends 
+2018-01-10 14:46:05	jesse	@jesse uploaded a file: https://sturgill-operators.slack.com/files/U3VPX29FW/F8R3BKP1B/screenshot_20180110-144533.png (Screenshot_20180110-144533.png) and commented: I think this was pretty accurate 
+2018-01-10 14:46:51	jesse	that was from the survey they had us take 
+2018-01-10 14:47:13	gjabell	I forgot to save mine xD 
+2018-01-10 14:47:18	gjabell	it was all over the place though lol 
+2018-01-10 14:49:25	jesse	yeah, i mightve been more balanced, but ive been itching for a good story.  
+2018-01-10 15:00:04	gjabell	did you plug your pi into your wall or the wifi router in your apartment 
+2018-01-10 15:00:26	jesse	my wall 
+2018-01-10 15:00:31	gjabell	ok 
+2018-01-10 15:00:33	jesse	wait 
+2018-01-10 15:01:00	jesse	...idk.. its in my room so i think its just a wall plug 
+2018-01-10 15:01:04	gjabell	yeah 
+2018-01-10 15:01:10	gjabell	the router is in the living room 
+2018-01-10 15:07:22	gjabell	hfs it works 
+2018-01-10 15:55:41	jesse	awesome!! do you understand why? If I had a router in charlotte, and follow the same steps, would it work? 
+2018-01-10 15:56:01	gjabell	not 100% sure why state is handing out public ips 
+2018-01-10 15:56:29	gjabell	normally you can get a public ip from your ISP, so if you have your own ISP in charlotte and plug in your router, the WAN address on the router should be a public IP 
+2018-01-10 15:56:43	gjabell	worth noting that it won't necessarily be a static ip, but you can use ddns to fix that 
+2018-01-10 15:57:07	gjabell	technically you don't even need a router; whatever is plugged into the modem will be given a public ip 
+2018-01-10 15:57:10	jesse	not gonna lie. im half worried a bill will be mailed to me haha 
+2018-01-10 15:57:17	gjabell	xD 
+2018-01-10 15:57:27	gjabell	if state's giving us public ips I don't think we'll be billed 
+2018-01-10 15:58:52	jesse	also, i restarted my system a few times and the ip stayed the same. even over the course of a few days.  Do you know when the ip would change? 
+2018-01-10 15:59:21	gjabell	it might not, it could be that the IP is tied to your device's mac address, or maybe to the port in your room 
+2018-01-10 15:59:45	gjabell	but if you were using a domain to point to it, it would probably be a good idea to use ddns just in case it did, since we don't know if they are static or not 
+2018-01-10 16:00:09	jesse	also, we should probably be in a private chat.... i could see someone reading our messages and being confused. [:heart:1] 
+2018-01-10 16:00:27	gjabell	typically if it's not static it's being assigned via dhcp, which has a specific lease time, so even if you restart you'll probably ge tthe same ip 
+2018-01-10 16:00:27	gjabell	lol true 
+2018-01-10 21:59:42	jkayani	^ that's right, DHCP offers you an IP address for a certain lease time. Thanks CSC401 
+2018-01-10 22:00:53	gjabell	XD 
+2018-01-10 22:11:30	jkayani	@gjabell Your LIMBO binary is apparently for 32 bit systems, which don't seem to be supported out of the box in Arch: https://askubuntu.com/questions/133389/no-such-file-or-directory-but-the-file-exists
+2018-01-10 22:11:30		No such file or directory? But the file exists!
+2018-01-10 22:11:30		I've downloaded a game (Shank) but the bin file doesn't run. The error that is shown when I try to launch the executable is: bash: ./shank-linux-120720110-1-bin: No such file or directory 
+2018-01-10 22:14:31	jkayani	But it's easy to fix: https://wiki.archlinux.org/index.php/multilib 
+2018-01-10 22:28:27	jkayani	I kinda just installed all the 32 bit libs lol - wasn't sure which ones this game needed 
+2018-01-10 22:38:59	gjabell	Oh rip 
+2018-01-10 23:33:51	jkayani	Also I fucking LOVE it so thanks 
+2018-01-10 23:45:10	-->		@Anam has joined the channel 
+2018-01-10 23:45:10	-->		@justinirene has joined the channel 
+2018-01-10 23:49:29	jkayani	@gjabell Do you have a  macOS installer by chance? One of my friends really digs the game 
+2018-01-10 23:50:33	jkayani	The Linux version has these files in the limbo folder: `limbo_mac_boot.pkg  limbo_mac_runtime.pkg`, and they're both binary .pkg files which I thought would be macOS installers, but they don't work 
+2018-01-11 10:23:52	gjabell	sure 
+2018-01-11 10:25:10	gjabell	@gjabell uploaded a file: https://sturgill-operators.slack.com/files/U5AUU7HHA/F8SF8QBNK/limbo_installer.dmg (LIMBO_installer.dmg) 
+2018-01-11 14:25:26	jesse	So for game log 1 that we are submitting by the 17th, we need to have 2 entries right? 1 game in 2   45min sessions. Or do we just need the first part of the log? 
+2018-01-11 14:25:43	gjabell	the whole thing I belive 
+2018-01-11 14:25:49	gjabell	believe* 
+2018-01-11 14:25:54	jesse	roger that. thanks 
+2018-01-11 14:25:57	gjabell	np 
+2018-01-11 20:50:11	jkayani	Thanks Galen 
+2018-01-11 20:50:16	jkayani	^for the mac version 
+2018-01-11 20:50:24	gjabell	NP  
+2018-01-21 15:18:25	<--		@jesse has left the channel 
+2018-01-21 15:18:35	-->		@jesse has joined the channel 
+2018-01-22 12:15:43	jkayani	For us *nix bois: `2018-01-22 12:10:42,140 INFO  [Thread-36] stencyl.sw.util.StreamGobbler: [haxelib] Uncaught exception - load.c(237) : Failed to load library : /home/josh/.local/share/stencyl/plaf/neko-linux/regexp.ndll (libpcre.so.3: cannot open shared object file: No such file or directory)` 
+2018-01-22 12:17:50	jkayani	Looking inside `/lib/` I already have a `libpcre.so.1` 
+2018-01-22 12:17:53	gjabell	installing lib32-pcre doesn't seem to fix it 
+2018-01-22 12:18:12	jkayani	Maybe I should try symlinking the one I have to `libpcre.so.3`? 
+2018-01-22 12:18:18	jkayani	Shitty hack, but I maen 
+2018-01-22 12:18:57	jesse	no such thing as a bad hack :slightly_smiling_face: 
+2018-01-22 12:40:16	jkayani	@jkayani shared a file: https://sturgill-operators.slack.com/files/U3WBH0F7G/F7R0CT08P/test.jpg (test.jpg) and commented: when Dr. Heckman tells me to write tests before writing code: 
+2018-01-22 12:40:16		@jkayani commented on @mrgray4?s file https://sturgill-operators.slack.com/files/U3WBH0F7G/F7R0CT08P/test.jpg (test.jpg): still relevant 
+2018-01-22 21:27:37	gjabell	we have to turn in our team info by wednesday at 8pm just fyi 
+2018-01-22 21:54:01	jkayani	Yeah I'm going to send Ryan an invite 
+2018-01-22 21:55:34	gjabell	sounds good 
+2018-01-22 21:58:38	jkayani	Should we fork this channel into 2 because we're in separate groups? 
+2018-01-22 22:03:53	gjabell	might be a good plan yea 
+2018-01-22 22:05:30	jesse	my group has our own groupme... we could use this chat as a general purpose game design thing and go to our own chats for group-specific things. 
+2018-01-22 22:09:30	jkayani	Yeah, group me has a web app. Cool with you Galen? 
+2018-01-22 22:15:50	gjabell	sure thing 
+2018-01-23 00:44:55	jkayani	What's your email/phone for GroupMe? 
+2018-01-23 10:29:44	gjabell	8282805677 
+2018-01-23 11:40:17	jkayani	I think I added you and Ryan 
+2018-01-23 11:41:01	jkayani	@jkayani uploaded a file: https://sturgill-operators.slack.com/files/U3VP4JQPL/F8WKR2GQY/screenshot_20180123-113907.png (Screenshot_20180123-113907.png) and commented: But this happened too so idk 
+2018-01-23 11:41:33	gjabell	xD 
+2018-01-23 11:41:36	gjabell	I got it 
+2018-01-23 22:08:59	jkayani	Seems like PLM and this class are merging together lol - maybe we should just beat them to it and merge the Slack channels too? 
+2018-01-23 22:09:14	jkayani	Also, no Python today 
+2018-01-24 08:37:37	gjabell	might as well xD
+2018-01-24 08:37:37		yeah, I guess snow > python lol 
+2018-02-03 20:51:00	jkayani	Any suggestions for a game to play for the next game log? 
+2018-02-03 20:52:15	gjabell	what genre 
+2018-02-03 20:52:22	jesse	i played "digital: a love story". it was free and on the teachers list. 
+2018-02-03 20:52:53	gjabell	how was it 
+2018-02-03 20:53:42	jkayani	Dude I was just about to start that one 
+2018-02-03 20:53:45	jkayani	Lol 
+2018-02-03 20:54:05	jesse	not bad. it was frustrating at one point but i beat it in 3 hours... it wouldve been 2 if I didnt get stuck 
+2018-02-03 20:54:28	jesse	also dont listen to the games sound track... its really scratchy 
+2018-02-03 20:54:44	jesse	but otherwise a good story 
+2018-02-03 20:55:18	jkayani	I'll probably listen to a Daft Punk album while going through iti 
+2018-02-03 20:55:38	gjabell	Josh have you played either of the portal games? 
+2018-02-03 20:55:57	jesse	good choice. i listened to the undertale soundtrack to keep the eight bit vibe. 
+2018-02-03 20:56:08	jkayani	I haven't, and I've heard good things about them 
+2018-02-03 20:56:15	jkayani	Are they on Linux though? 
+2018-02-03 20:56:23	gjabell	Yeah they are steamplay 
+2018-02-03 20:56:45	gjabell	They aren't free but if you get the chance to pick them up for cheap they are a no brainer 
+2018-02-03 20:56:55	gjabell	Plus portal 1 is pretty short 
+2018-02-03 20:56:57	jesse	portal 1 can be beat in a couple hours and is well worth it 
+2018-02-03 20:57:05	gjabell	Maybe 2-3 hours first run thru 
+2018-02-03 20:58:06	jesse	portal 2 is a lot longer 
+2018-02-03 20:58:15	jesse	but still realllyy good 
+2018-02-03 20:58:41	jesse	id do portal 1 if youre playing on ur laptop josh 
+2018-02-03 20:58:56	jesse	portal 2 is a lil more graphics intensive 
+2018-02-03 20:59:05	jkayani	Oh I'm doing Digital Love story or whatever for this one, maybe in the future I'll try Poral 
+2018-02-03 20:59:19	gjabell	Yeah 
+2018-02-03 20:59:33	gjabell	Keep an eye our for sales ,you can generally get both for ~5$ 
+2018-02-26 17:43:26	jkayani	@jesse Mind playtesting our game? I'll happily return the favor 
+2018-02-26 19:39:53	jesse	yeah I can do that. We are good on playtesters i think. 
+2018-02-26 19:40:18	jesse	I'll be playtesting justins game after class on wednesday, want me to playtest yours then too? 
+2018-02-26 19:40:57	jkayani	Yeah, that should be fine. I'll set up a Doc or something for you to take notes in or whatever, and send you the executable then 
+2018-02-26 19:41:25	jkayani	Ah wait I should be there in person for this 
+2018-02-26 19:41:30	gjabell	Meh 
+2018-02-26 19:41:34	jkayani	Lol 
+2018-02-26 19:42:00	gjabell	I playtested Jesse's remotely so it should be OK 
+2018-02-27 08:46:41	jesse	if you guys just want me to do it remotely, could you send me the docs link/game today? if you'd rather be there, Wednesday is still good. 
+2018-02-27 08:47:22	jkayani	Yeah I'll send it later today 
+2018-02-27 08:47:31	jkayani	Thanks again 
+2018-02-27 08:47:45	jesse	sounds good.  
+2018-02-27 16:24:24	jkayani	@jesse https://drive.google.com/open?id=1OguDWgPbmPOZ2Qu7IyeEWBMX5PAC3YE5 - here's the playtesting stuff 
+2018-02-27 16:25:32	jesse	I'll try to get this in tonight. but if not, I'll definitely get to it by tomorrow's class. 
+2018-02-27 16:26:44	gjabell	all good, it isn't due until friday now so we've got sometime 
+2018-02-27 16:26:47	gjabell	some time * 
+2018-02-27 16:27:22	jesse	its okay to just talk to me. im right behind you haha 
+2018-02-27 17:52:22	jkayani	Thanks a lot Jesse, really appreciate it! 
+2018-02-27 20:00:20	jesse	@jesse uploaded a file: https://sturgill-operators.slack.com/files/U3VPX29FW/F9FTQJGPN/responses.txt (responses.txt) 
+2018-02-27 20:00:39	jesse	You guys' google docs didn't have permissions so I wrote up my responses in a text file. 
+2018-02-27 20:01:01	jkayani	Welp I'm a moron - thanks for getting it done anyway 
+2018-02-27 20:01:07	jesse	:stuck_out_tongue: 
+2018-02-27 20:01:31	jesse	you guys' game is much better than ours. I'm jealous. 
+2018-02-27 20:03:06	jesse	ours has invisible walls because the level editor in stencyl is super buggy 
+2018-02-27 20:03:19	jkayani	Lol you can thank Galen for that 
+2018-02-27 20:05:10	gjabell	thanks for the playtest! 
+2018-02-27 20:05:23	jesse	:+1::skin-tone-2: 
+2018-02-27 20:12:22	jesse	lemme know if ya need more data 
+2018-03-01 22:00:06	jkayani	@jesse What upgrade did you buy in the shop when you played our game? 
+2018-03-03 10:27:15	jesse	Did I not respond to this question? 
+2018-03-03 10:27:43	jesse	I remember replying. sorry 
+2018-03-03 10:29:45	jesse	I tried upgrading all 3 on 3 different runs of the game. 
+2018-03-03 10:30:49	gjabell	damn, you played through it multiple times? that's some dedication xD 
+2018-03-03 10:31:00	gjabell	not sure I've even played it all the way through multiple times... 
+2018-03-03 10:39:05	jesse	lol. yeah I guess I didn't need to 
+2018-03-03 10:39:34	gjabell	well, thanks for putting so much time into ours xD 
+2018-03-03 12:01:05	jkayani	Lol it's fine, thanks for doing all that though 
+2018-03-03 12:04:22	jesse	you guys are welcome. thanks galen for playing our game. 
+2018-03-03 12:05:12	gjabell	Np 
+2018-03-16 14:38:10		getting channel history...
+2018-01-08 13:58:44	-->		@jesse has joined the channel 
+2018-01-08 13:58:45	-->		@jkayani has joined the channel 
+2018-01-08 13:58:45	-->		@gjabell has joined the channel 
+2018-01-10 13:20:22	jesse	Any suggestions for games? the usual thing I go for is long jrpgs which seem like a bad choice for this sort of assignment. 
+2018-01-10 13:20:59	gjabell	Have you played portal 
+2018-01-10 13:21:05	jesse	yup 
+2018-01-10 13:21:57	jesse	I'm maybe halfway through Hollow Knight so I dont think i can use that one 
+2018-01-10 13:22:42	jesse	Great games for you guys could be Transistor, Undertale, or Bastion... But they do cost money 
+2018-01-10 13:24:45	jesse	maybe ill play Journey on my playstation. 
+2018-01-10 13:25:45	gjabell	I have some DRM free games I can send you 
+2018-01-10 13:26:13	jesse	Oh, Enter the Gungeon is another good one for you guys if youre into arcade games 
+2018-01-10 13:27:22	jesse	What games do ya have? 
+2018-01-10 13:29:12	jesse	xD Tux Racer anyone? 
+2018-01-10 13:29:16	gjabell	https://drive.google.com/folderview?id=1S7W_peo0pLWh-rg6uZF8b3ZWwl5OtUnS 
+2018-01-10 13:29:34	gjabell	Free games yo 
+2018-01-10 13:38:05	jesse	those all look pretty good. do you have a favorite? 
+2018-01-10 13:38:38	gjabell	tbh haven't played any of them except limbo xD 
+2018-01-10 13:38:47	gjabell	it's good, trine is supposed to be good 
+2018-01-10 13:39:05	gjabell	the end is nigh is kinda like super meat boy if you've played that 
+2018-01-10 13:39:26	gjabell	I think limbo trine and gone home are all supposed to be reasonably short so if you don't want a super long game those might be good 
+2018-01-10 13:39:35	gjabell	particularly limbo 
+2018-01-10 13:40:18	gjabell	yep, all of those are under 6 hours according to howlongtobeat 
+2018-01-10 13:40:25	gjabell	limbo and gone home around 2-3 
+2018-01-10 13:40:37	jesse	I'm not sure "gone home" would run well on my laptop. 
+2018-01-10 13:41:05	jesse	id probably go for either limbo or trine 
+2018-01-10 13:41:12	gjabell	limbo should be fine I think 
+2018-01-10 13:41:19	gjabell	it's pretty low end 
+2018-01-10 13:42:41	jesse	Sounds good. Thanks!! The installer probably wont work well for me on linux but I dont mind dropping a few bucks on steam. 
+2018-01-10 13:43:16	gjabell	I can get a linux instalkler if you want 
+2018-01-10 13:43:26	gjabell	or even mac if you really want a challenge xD 
+2018-01-10 13:44:04	gjabell	@gjabell uploaded a file: https://sturgill-operators.slack.com/files/U5AUU7HHA/F8RPVUK1C/limbo-linux-2014-06-18.sh (Limbo-Linux-2014-06-18.sh) 
+2018-01-10 13:44:09	gjabell	boink 
+2018-01-10 13:44:12	jesse	xD thanks!! 
+2018-01-10 13:46:15	gjabell	np 
+2018-01-10 14:29:03	jkayani	Def. going to try Limbo now - thanks for the Linux installer man 
+2018-01-10 14:29:15	gjabell	np 
+2018-01-10 14:29:27	gjabell	I have some other drm free games from humble bundle, if anyone wants an installer 
+2018-01-10 14:30:41	gjabell	@gjabell uploaded a file: https://sturgill-operators.slack.com/files/U5AUU7HHA/F8RQR9T9C/games.png (games) 
+2018-01-10 14:39:44	jesse	i haven't heard of any of those lol 
+2018-01-10 14:41:13	gjabell	yeah most of them are garbage I think 
+2018-01-10 14:42:13	jesse	what kinds of games do you normally play?  
+2018-01-10 14:42:55	jesse	or prefer to play 
+2018-01-10 14:42:56	gjabell	fps or rpg typically 
+2018-01-10 14:42:59	gjabell	kinda depends 
+2018-01-10 14:46:05	jesse	@jesse uploaded a file: https://sturgill-operators.slack.com/files/U3VPX29FW/F8R3BKP1B/screenshot_20180110-144533.png (Screenshot_20180110-144533.png) and commented: I think this was pretty accurate 
+2018-01-10 14:46:51	jesse	that was from the survey they had us take 
+2018-01-10 14:47:13	gjabell	I forgot to save mine xD 
+2018-01-10 14:47:18	gjabell	it was all over the place though lol 
+2018-01-10 14:49:25	jesse	yeah, i mightve been more balanced, but ive been itching for a good story.  
+2018-01-10 15:00:04	gjabell	did you plug your pi into your wall or the wifi router in your apartment 
+2018-01-10 15:00:26	jesse	my wall 
+2018-01-10 15:00:31	gjabell	ok 
+2018-01-10 15:00:33	jesse	wait 
+2018-01-10 15:01:00	jesse	...idk.. its in my room so i think its just a wall plug 
+2018-01-10 15:01:04	gjabell	yeah 
+2018-01-10 15:01:10	gjabell	the router is in the living room 
+2018-01-10 15:07:22	gjabell	hfs it works 
+2018-01-10 15:55:41	jesse	awesome!! do you understand why? If I had a router in charlotte, and follow the same steps, would it work? 
+2018-01-10 15:56:01	gjabell	not 100% sure why state is handing out public ips 
+2018-01-10 15:56:29	gjabell	normally you can get a public ip from your ISP, so if you have your own ISP in charlotte and plug in your router, the WAN address on the router should be a public IP 
+2018-01-10 15:56:43	gjabell	worth noting that it won't necessarily be a static ip, but you can use ddns to fix that 
+2018-01-10 15:57:07	gjabell	technically you don't even need a router; whatever is plugged into the modem will be given a public ip 
+2018-01-10 15:57:10	jesse	not gonna lie. im half worried a bill will be mailed to me haha 
+2018-01-10 15:57:17	gjabell	xD 
+2018-01-10 15:57:27	gjabell	if state's giving us public ips I don't think we'll be billed 
+2018-01-10 15:58:52	jesse	also, i restarted my system a few times and the ip stayed the same. even over the course of a few days.  Do you know when the ip would change? 
+2018-01-10 15:59:21	gjabell	it might not, it could be that the IP is tied to your device's mac address, or maybe to the port in your room 
+2018-01-10 15:59:45	gjabell	but if you were using a domain to point to it, it would probably be a good idea to use ddns just in case it did, since we don't know if they are static or not 
+2018-01-10 16:00:09	jesse	also, we should probably be in a private chat.... i could see someone reading our messages and being confused. [:heart:1] 
+2018-01-10 16:00:27	gjabell	typically if it's not static it's being assigned via dhcp, which has a specific lease time, so even if you restart you'll probably ge tthe same ip 
+2018-01-10 16:00:27	gjabell	lol true 
+2018-01-10 21:59:42	jkayani	^ that's right, DHCP offers you an IP address for a certain lease time. Thanks CSC401 
+2018-01-10 22:00:53	gjabell	XD 
+2018-01-10 22:11:30	jkayani	@gjabell Your LIMBO binary is apparently for 32 bit systems, which don't seem to be supported out of the box in Arch: https://askubuntu.com/questions/133389/no-such-file-or-directory-but-the-file-exists
+2018-01-10 22:11:30		No such file or directory? But the file exists!
+2018-01-10 22:11:30		I've downloaded a game (Shank) but the bin file doesn't run. The error that is shown when I try to launch the executable is: bash: ./shank-linux-120720110-1-bin: No such file or directory 
+2018-01-10 22:14:31	jkayani	But it's easy to fix: https://wiki.archlinux.org/index.php/multilib 
+2018-01-10 22:28:27	jkayani	I kinda just installed all the 32 bit libs lol - wasn't sure which ones this game needed 
+2018-01-10 22:38:59	gjabell	Oh rip 
+2018-01-10 23:33:51	jkayani	Also I fucking LOVE it so thanks 
+2018-01-10 23:45:10	-->		@Anam has joined the channel 
+2018-01-10 23:45:10	-->		@justinirene has joined the channel 
+2018-01-10 23:49:29	jkayani	@gjabell Do you have a  macOS installer by chance? One of my friends really digs the game 
+2018-01-10 23:50:33	jkayani	The Linux version has these files in the limbo folder: `limbo_mac_boot.pkg  limbo_mac_runtime.pkg`, and they're both binary .pkg files which I thought would be macOS installers, but they don't work 
+2018-01-11 10:23:52	gjabell	sure 
+2018-01-11 10:25:10	gjabell	@gjabell uploaded a file: https://sturgill-operators.slack.com/files/U5AUU7HHA/F8SF8QBNK/limbo_installer.dmg (LIMBO_installer.dmg) 
+2018-01-11 14:25:26	jesse	So for game log 1 that we are submitting by the 17th, we need to have 2 entries right? 1 game in 2   45min sessions. Or do we just need the first part of the log? 
+2018-01-11 14:25:43	gjabell	the whole thing I belive 
+2018-01-11 14:25:49	gjabell	believe* 
+2018-01-11 14:25:54	jesse	roger that. thanks 
+2018-01-11 14:25:57	gjabell	np 
+2018-01-11 20:50:11	jkayani	Thanks Galen 
+2018-01-11 20:50:16	jkayani	^for the mac version 
+2018-01-11 20:50:24	gjabell	NP  
+2018-01-21 15:18:25	<--		@jesse has left the channel 
+2018-01-21 15:18:35	-->		@jesse has joined the channel 
+2018-01-22 12:15:43	jkayani	For us *nix bois: `2018-01-22 12:10:42,140 INFO  [Thread-36] stencyl.sw.util.StreamGobbler: [haxelib] Uncaught exception - load.c(237) : Failed to load library : /home/josh/.local/share/stencyl/plaf/neko-linux/regexp.ndll (libpcre.so.3: cannot open shared object file: No such file or directory)` 
+2018-01-22 12:17:50	jkayani	Looking inside `/lib/` I already have a `libpcre.so.1` 
+2018-01-22 12:17:53	gjabell	installing lib32-pcre doesn't seem to fix it 
+2018-01-22 12:18:12	jkayani	Maybe I should try symlinking the one I have to `libpcre.so.3`? 
+2018-01-22 12:18:18	jkayani	Shitty hack, but I maen 
+2018-01-22 12:18:57	jesse	no such thing as a bad hack :slightly_smiling_face: 
+2018-01-22 12:40:16	jkayani	@jkayani shared a file: https://sturgill-operators.slack.com/files/U3WBH0F7G/F7R0CT08P/test.jpg (test.jpg) and commented: when Dr. Heckman tells me to write tests before writing code: 
+2018-01-22 12:40:16		@jkayani commented on @mrgray4?s file https://sturgill-operators.slack.com/files/U3WBH0F7G/F7R0CT08P/test.jpg (test.jpg): still relevant 
+2018-01-22 21:27:37	gjabell	we have to turn in our team info by wednesday at 8pm just fyi 
+2018-01-22 21:54:01	jkayani	Yeah I'm going to send Ryan an invite 
+2018-01-22 21:55:34	gjabell	sounds good 
+2018-01-22 21:58:38	jkayani	Should we fork this channel into 2 because we're in separate groups? 
+2018-01-22 22:03:53	gjabell	might be a good plan yea 
+2018-01-22 22:05:30	jesse	my group has our own groupme... we could use this chat as a general purpose game design thing and go to our own chats for group-specific things. 
+2018-01-22 22:09:30	jkayani	Yeah, group me has a web app. Cool with you Galen? 
+2018-01-22 22:15:50	gjabell	sure thing 
+2018-01-23 00:44:55	jkayani	What's your email/phone for GroupMe? 
+2018-01-23 10:29:44	gjabell	8282805677 
+2018-01-23 11:40:17	jkayani	I think I added you and Ryan 
+2018-01-23 11:41:01	jkayani	@jkayani uploaded a file: https://sturgill-operators.slack.com/files/U3VP4JQPL/F8WKR2GQY/screenshot_20180123-113907.png (Screenshot_20180123-113907.png) and commented: But this happened too so idk 
+2018-01-23 11:41:33	gjabell	xD 
+2018-01-23 11:41:36	gjabell	I got it 
+2018-01-23 22:08:59	jkayani	Seems like PLM and this class are merging together lol - maybe we should just beat them to it and merge the Slack channels too? 
+2018-01-23 22:09:14	jkayani	Also, no Python today 
+2018-01-24 08:37:37	gjabell	might as well xD
+2018-01-24 08:37:37		yeah, I guess snow > python lol 
+2018-02-03 20:51:00	jkayani	Any suggestions for a game to play for the next game log? 
+2018-02-03 20:52:15	gjabell	what genre 
+2018-02-03 20:52:22	jesse	i played "digital: a love story". it was free and on the teachers list. 
+2018-02-03 20:52:53	gjabell	how was it 
+2018-02-03 20:53:42	jkayani	Dude I was just about to start that one 
+2018-02-03 20:53:45	jkayani	Lol 
+2018-02-03 20:54:05	jesse	not bad. it was frustrating at one point but i beat it in 3 hours... it wouldve been 2 if I didnt get stuck 
+2018-02-03 20:54:28	jesse	also dont listen to the games sound track... its really scratchy 
+2018-02-03 20:54:44	jesse	but otherwise a good story 
+2018-02-03 20:55:18	jkayani	I'll probably listen to a Daft Punk album while going through iti 
+2018-02-03 20:55:38	gjabell	Josh have you played either of the portal games? 
+2018-02-03 20:55:57	jesse	good choice. i listened to the undertale soundtrack to keep the eight bit vibe. 
+2018-02-03 20:56:08	jkayani	I haven't, and I've heard good things about them 
+2018-02-03 20:56:15	jkayani	Are they on Linux though? 
+2018-02-03 20:56:23	gjabell	Yeah they are steamplay 
+2018-02-03 20:56:45	gjabell	They aren't free but if you get the chance to pick them up for cheap they are a no brainer 
+2018-02-03 20:56:55	gjabell	Plus portal 1 is pretty short 
+2018-02-03 20:56:57	jesse	portal 1 can be beat in a couple hours and is well worth it 
+2018-02-03 20:57:05	gjabell	Maybe 2-3 hours first run thru 
+2018-02-03 20:58:06	jesse	portal 2 is a lot longer 
+2018-02-03 20:58:15	jesse	but still realllyy good 
+2018-02-03 20:58:41	jesse	id do portal 1 if youre playing on ur laptop josh 
+2018-02-03 20:58:56	jesse	portal 2 is a lil more graphics intensive 
+2018-02-03 20:59:05	jkayani	Oh I'm doing Digital Love story or whatever for this one, maybe in the future I'll try Poral 
+2018-02-03 20:59:19	gjabell	Yeah 
+2018-02-03 20:59:33	gjabell	Keep an eye our for sales ,you can generally get both for ~5$ 
+2018-02-26 17:43:26	jkayani	@jesse Mind playtesting our game? I'll happily return the favor 
+2018-02-26 19:39:53	jesse	yeah I can do that. We are good on playtesters i think. 
+2018-02-26 19:40:18	jesse	I'll be playtesting justins game after class on wednesday, want me to playtest yours then too? 
+2018-02-26 19:40:57	jkayani	Yeah, that should be fine. I'll set up a Doc or something for you to take notes in or whatever, and send you the executable then 
+2018-02-26 19:41:25	jkayani	Ah wait I should be there in person for this 
+2018-02-26 19:41:30	gjabell	Meh 
+2018-02-26 19:41:34	jkayani	Lol 
+2018-02-26 19:42:00	gjabell	I playtested Jesse's remotely so it should be OK 
+2018-02-27 08:46:41	jesse	if you guys just want me to do it remotely, could you send me the docs link/game today? if you'd rather be there, Wednesday is still good. 
+2018-02-27 08:47:22	jkayani	Yeah I'll send it later today 
+2018-02-27 08:47:31	jkayani	Thanks again 
+2018-02-27 08:47:45	jesse	sounds good.  
+2018-02-27 16:24:24	jkayani	@jesse https://drive.google.com/open?id=1OguDWgPbmPOZ2Qu7IyeEWBMX5PAC3YE5 - here's the playtesting stuff 
+2018-02-27 16:25:32	jesse	I'll try to get this in tonight. but if not, I'll definitely get to it by tomorrow's class. 
+2018-02-27 16:26:44	gjabell	all good, it isn't due until friday now so we've got sometime 
+2018-02-27 16:26:47	gjabell	some time * 
+2018-02-27 16:27:22	jesse	its okay to just talk to me. im right behind you haha 
+2018-02-27 17:52:22	jkayani	Thanks a lot Jesse, really appreciate it! 
+2018-02-27 20:00:20	jesse	@jesse uploaded a file: https://sturgill-operators.slack.com/files/U3VPX29FW/F9FTQJGPN/responses.txt (responses.txt) 
+2018-02-27 20:00:39	jesse	You guys' google docs didn't have permissions so I wrote up my responses in a text file. 
+2018-02-27 20:01:01	jkayani	Welp I'm a moron - thanks for getting it done anyway 
+2018-02-27 20:01:07	jesse	:stuck_out_tongue: 
+2018-02-27 20:01:31	jesse	you guys' game is much better than ours. I'm jealous. 
+2018-02-27 20:03:06	jesse	ours has invisible walls because the level editor in stencyl is super buggy 
+2018-02-27 20:03:19	jkayani	Lol you can thank Galen for that 
+2018-02-27 20:05:10	gjabell	thanks for the playtest! 
+2018-02-27 20:05:23	jesse	:+1::skin-tone-2: 
+2018-02-27 20:12:22	jesse	lemme know if ya need more data 
+2018-03-01 22:00:06	jkayani	@jesse What upgrade did you buy in the shop when you played our game? 
+2018-03-03 10:27:15	jesse	Did I not respond to this question? 
+2018-03-03 10:27:43	jesse	I remember replying. sorry 
+2018-03-03 10:29:45	jesse	I tried upgrading all 3 on 3 different runs of the game. 
+2018-03-03 10:30:49	gjabell	damn, you played through it multiple times? that's some dedication xD 
+2018-03-03 10:31:00	gjabell	not sure I've even played it all the way through multiple times... 
+2018-03-03 10:39:05	jesse	lol. yeah I guess I didn't need to 
+2018-03-03 10:39:34	gjabell	well, thanks for putting so much time into ours xD 
+2018-03-03 12:01:05	jkayani	Lol it's fine, thanks for doing all that though 
+2018-03-03 12:04:22	jesse	you guys are welcome. thanks galen for playing our game. 
+2018-03-03 12:05:12	gjabell	Np 
+2018-03-16 15:00:22		getting channel history...
+2018-01-08 13:58:44	-->		@jesse has joined the channel 
+2018-01-08 13:58:45	-->		@jkayani has joined the channel 
+2018-01-08 13:58:45	-->		@gjabell has joined the channel 
+2018-01-10 13:20:22	jesse	Any suggestions for games? the usual thing I go for is long jrpgs which seem like a bad choice for this sort of assignment. 
+2018-01-10 13:20:59	gjabell	Have you played portal 
+2018-01-10 13:21:05	jesse	yup 
+2018-01-10 13:21:57	jesse	I'm maybe halfway through Hollow Knight so I dont think i can use that one 
+2018-01-10 13:22:42	jesse	Great games for you guys could be Transistor, Undertale, or Bastion... But they do cost money 
+2018-01-10 13:24:45	jesse	maybe ill play Journey on my playstation. 
+2018-01-10 13:25:45	gjabell	I have some DRM free games I can send you 
+2018-01-10 13:26:13	jesse	Oh, Enter the Gungeon is another good one for you guys if youre into arcade games 
+2018-01-10 13:27:22	jesse	What games do ya have? 
+2018-01-10 13:29:12	jesse	xD Tux Racer anyone? 
+2018-01-10 13:29:16	gjabell	https://drive.google.com/folderview?id=1S7W_peo0pLWh-rg6uZF8b3ZWwl5OtUnS 
+2018-01-10 13:29:34	gjabell	Free games yo 
+2018-01-10 13:38:05	jesse	those all look pretty good. do you have a favorite? 
+2018-01-10 13:38:38	gjabell	tbh haven't played any of them except limbo xD 
+2018-01-10 13:38:47	gjabell	it's good, trine is supposed to be good 
+2018-01-10 13:39:05	gjabell	the end is nigh is kinda like super meat boy if you've played that 
+2018-01-10 13:39:26	gjabell	I think limbo trine and gone home are all supposed to be reasonably short so if you don't want a super long game those might be good 
+2018-01-10 13:39:35	gjabell	particularly limbo 
+2018-01-10 13:40:18	gjabell	yep, all of those are under 6 hours according to howlongtobeat 
+2018-01-10 13:40:25	gjabell	limbo and gone home around 2-3 
+2018-01-10 13:40:37	jesse	I'm not sure "gone home" would run well on my laptop. 
+2018-01-10 13:41:05	jesse	id probably go for either limbo or trine 
+2018-01-10 13:41:12	gjabell	limbo should be fine I think 
+2018-01-10 13:41:19	gjabell	it's pretty low end 
+2018-01-10 13:42:41	jesse	Sounds good. Thanks!! The installer probably wont work well for me on linux but I dont mind dropping a few bucks on steam. 
+2018-01-10 13:43:16	gjabell	I can get a linux instalkler if you want 
+2018-01-10 13:43:26	gjabell	or even mac if you really want a challenge xD 
+2018-01-10 13:44:04	gjabell	@gjabell uploaded a file: https://sturgill-operators.slack.com/files/U5AUU7HHA/F8RPVUK1C/limbo-linux-2014-06-18.sh (Limbo-Linux-2014-06-18.sh) 
+2018-01-10 13:44:09	gjabell	boink 
+2018-01-10 13:44:12	jesse	xD thanks!! 
+2018-01-10 13:46:15	gjabell	np 
+2018-01-10 14:29:03	jkayani	Def. going to try Limbo now - thanks for the Linux installer man 
+2018-01-10 14:29:15	gjabell	np 
+2018-01-10 14:29:27	gjabell	I have some other drm free games from humble bundle, if anyone wants an installer 
+2018-01-10 14:30:41	gjabell	@gjabell uploaded a file: https://sturgill-operators.slack.com/files/U5AUU7HHA/F8RQR9T9C/games.png (games) 
+2018-01-10 14:39:44	jesse	i haven't heard of any of those lol 
+2018-01-10 14:41:13	gjabell	yeah most of them are garbage I think 
+2018-01-10 14:42:13	jesse	what kinds of games do you normally play?  
+2018-01-10 14:42:55	jesse	or prefer to play 
+2018-01-10 14:42:56	gjabell	fps or rpg typically 
+2018-01-10 14:42:59	gjabell	kinda depends 
+2018-01-10 14:46:05	jesse	@jesse uploaded a file: https://sturgill-operators.slack.com/files/U3VPX29FW/F8R3BKP1B/screenshot_20180110-144533.png (Screenshot_20180110-144533.png) and commented: I think this was pretty accurate 
+2018-01-10 14:46:51	jesse	that was from the survey they had us take 
+2018-01-10 14:47:13	gjabell	I forgot to save mine xD 
+2018-01-10 14:47:18	gjabell	it was all over the place though lol 
+2018-01-10 14:49:25	jesse	yeah, i mightve been more balanced, but ive been itching for a good story.  
+2018-01-10 15:00:04	gjabell	did you plug your pi into your wall or the wifi router in your apartment 
+2018-01-10 15:00:26	jesse	my wall 
+2018-01-10 15:00:31	gjabell	ok 
+2018-01-10 15:00:33	jesse	wait 
+2018-01-10 15:01:00	jesse	...idk.. its in my room so i think its just a wall plug 
+2018-01-10 15:01:04	gjabell	yeah 
+2018-01-10 15:01:10	gjabell	the router is in the living room 
+2018-01-10 15:07:22	gjabell	hfs it works 
+2018-01-10 15:55:41	jesse	awesome!! do you understand why? If I had a router in charlotte, and follow the same steps, would it work? 
+2018-01-10 15:56:01	gjabell	not 100% sure why state is handing out public ips 
+2018-01-10 15:56:29	gjabell	normally you can get a public ip from your ISP, so if you have your own ISP in charlotte and plug in your router, the WAN address on the router should be a public IP 
+2018-01-10 15:56:43	gjabell	worth noting that it won't necessarily be a static ip, but you can use ddns to fix that 
+2018-01-10 15:57:07	gjabell	technically you don't even need a router; whatever is plugged into the modem will be given a public ip 
+2018-01-10 15:57:10	jesse	not gonna lie. im half worried a bill will be mailed to me haha 
+2018-01-10 15:57:17	gjabell	xD 
+2018-01-10 15:57:27	gjabell	if state's giving us public ips I don't think we'll be billed 
+2018-01-10 15:58:52	jesse	also, i restarted my system a few times and the ip stayed the same. even over the course of a few days.  Do you know when the ip would change? 
+2018-01-10 15:59:21	gjabell	it might not, it could be that the IP is tied to your device's mac address, or maybe to the port in your room 
+2018-01-10 15:59:45	gjabell	but if you were using a domain to point to it, it would probably be a good idea to use ddns just in case it did, since we don't know if they are static or not 
+2018-01-10 16:00:09	jesse	also, we should probably be in a private chat.... i could see someone reading our messages and being confused. [:heart:1] 
+2018-01-10 16:00:27	gjabell	typically if it's not static it's being assigned via dhcp, which has a specific lease time, so even if you restart you'll probably ge tthe same ip 
+2018-01-10 16:00:27	gjabell	lol true 
+2018-01-10 21:59:42	jkayani	^ that's right, DHCP offers you an IP address for a certain lease time. Thanks CSC401 
+2018-01-10 22:00:53	gjabell	XD 
+2018-01-10 22:11:30	jkayani	@gjabell Your LIMBO binary is apparently for 32 bit systems, which don't seem to be supported out of the box in Arch: https://askubuntu.com/questions/133389/no-such-file-or-directory-but-the-file-exists
+2018-01-10 22:11:30		No such file or directory? But the file exists!
+2018-01-10 22:11:30		I've downloaded a game (Shank) but the bin file doesn't run. The error that is shown when I try to launch the executable is: bash: ./shank-linux-120720110-1-bin: No such file or directory 
+2018-01-10 22:14:31	jkayani	But it's easy to fix: https://wiki.archlinux.org/index.php/multilib 
+2018-01-10 22:28:27	jkayani	I kinda just installed all the 32 bit libs lol - wasn't sure which ones this game needed 
+2018-01-10 22:38:59	gjabell	Oh rip 
+2018-01-10 23:33:51	jkayani	Also I fucking LOVE it so thanks 
+2018-01-10 23:45:10	-->		@Anam has joined the channel 
+2018-01-10 23:45:10	-->		@justinirene has joined the channel 
+2018-01-10 23:49:29	jkayani	@gjabell Do you have a  macOS installer by chance? One of my friends really digs the game 
+2018-01-10 23:50:33	jkayani	The Linux version has these files in the limbo folder: `limbo_mac_boot.pkg  limbo_mac_runtime.pkg`, and they're both binary .pkg files which I thought would be macOS installers, but they don't work 
+2018-01-11 10:23:52	gjabell	sure 
+2018-01-11 10:25:10	gjabell	@gjabell uploaded a file: https://sturgill-operators.slack.com/files/U5AUU7HHA/F8SF8QBNK/limbo_installer.dmg (LIMBO_installer.dmg) 
+2018-01-11 14:25:26	jesse	So for game log 1 that we are submitting by the 17th, we need to have 2 entries right? 1 game in 2   45min sessions. Or do we just need the first part of the log? 
+2018-01-11 14:25:43	gjabell	the whole thing I belive 
+2018-01-11 14:25:49	gjabell	believe* 
+2018-01-11 14:25:54	jesse	roger that. thanks 
+2018-01-11 14:25:57	gjabell	np 
+2018-01-11 20:50:11	jkayani	Thanks Galen 
+2018-01-11 20:50:16	jkayani	^for the mac version 
+2018-01-11 20:50:24	gjabell	NP  
+2018-01-21 15:18:25	<--		@jesse has left the channel 
+2018-01-21 15:18:35	-->		@jesse has joined the channel 
+2018-01-22 12:15:43	jkayani	For us *nix bois: `2018-01-22 12:10:42,140 INFO  [Thread-36] stencyl.sw.util.StreamGobbler: [haxelib] Uncaught exception - load.c(237) : Failed to load library : /home/josh/.local/share/stencyl/plaf/neko-linux/regexp.ndll (libpcre.so.3: cannot open shared object file: No such file or directory)` 
+2018-01-22 12:17:50	jkayani	Looking inside `/lib/` I already have a `libpcre.so.1` 
+2018-01-22 12:17:53	gjabell	installing lib32-pcre doesn't seem to fix it 
+2018-01-22 12:18:12	jkayani	Maybe I should try symlinking the one I have to `libpcre.so.3`? 
+2018-01-22 12:18:18	jkayani	Shitty hack, but I maen 
+2018-01-22 12:18:57	jesse	no such thing as a bad hack :slightly_smiling_face: 
+2018-01-22 12:40:16	jkayani	@jkayani shared a file: https://sturgill-operators.slack.com/files/U3WBH0F7G/F7R0CT08P/test.jpg (test.jpg) and commented: when Dr. Heckman tells me to write tests before writing code: 
+2018-01-22 12:40:16		@jkayani commented on @mrgray4?s file https://sturgill-operators.slack.com/files/U3WBH0F7G/F7R0CT08P/test.jpg (test.jpg): still relevant 
+2018-01-22 21:27:37	gjabell	we have to turn in our team info by wednesday at 8pm just fyi 
+2018-01-22 21:54:01	jkayani	Yeah I'm going to send Ryan an invite 
+2018-01-22 21:55:34	gjabell	sounds good 
+2018-01-22 21:58:38	jkayani	Should we fork this channel into 2 because we're in separate groups? 
+2018-01-22 22:03:53	gjabell	might be a good plan yea 
+2018-01-22 22:05:30	jesse	my group has our own groupme... we could use this chat as a general purpose game design thing and go to our own chats for group-specific things. 
+2018-01-22 22:09:30	jkayani	Yeah, group me has a web app. Cool with you Galen? 
+2018-01-22 22:15:50	gjabell	sure thing 
+2018-01-23 00:44:55	jkayani	What's your email/phone for GroupMe? 
+2018-01-23 10:29:44	gjabell	8282805677 
+2018-01-23 11:40:17	jkayani	I think I added you and Ryan 
+2018-01-23 11:41:01	jkayani	@jkayani uploaded a file: https://sturgill-operators.slack.com/files/U3VP4JQPL/F8WKR2GQY/screenshot_20180123-113907.png (Screenshot_20180123-113907.png) and commented: But this happened too so idk 
+2018-01-23 11:41:33	gjabell	xD 
+2018-01-23 11:41:36	gjabell	I got it 
+2018-01-23 22:08:59	jkayani	Seems like PLM and this class are merging together lol - maybe we should just beat them to it and merge the Slack channels too? 
+2018-01-23 22:09:14	jkayani	Also, no Python today 
+2018-01-24 08:37:37	gjabell	might as well xD
+2018-01-24 08:37:37		yeah, I guess snow > python lol 
+2018-02-03 20:51:00	jkayani	Any suggestions for a game to play for the next game log? 
+2018-02-03 20:52:15	gjabell	what genre 
+2018-02-03 20:52:22	jesse	i played "digital: a love story". it was free and on the teachers list. 
+2018-02-03 20:52:53	gjabell	how was it 
+2018-02-03 20:53:42	jkayani	Dude I was just about to start that one 
+2018-02-03 20:53:45	jkayani	Lol 
+2018-02-03 20:54:05	jesse	not bad. it was frustrating at one point but i beat it in 3 hours... it wouldve been 2 if I didnt get stuck 
+2018-02-03 20:54:28	jesse	also dont listen to the games sound track... its really scratchy 
+2018-02-03 20:54:44	jesse	but otherwise a good story 
+2018-02-03 20:55:18	jkayani	I'll probably listen to a Daft Punk album while going through iti 
+2018-02-03 20:55:38	gjabell	Josh have you played either of the portal games? 
+2018-02-03 20:55:57	jesse	good choice. i listened to the undertale soundtrack to keep the eight bit vibe. 
+2018-02-03 20:56:08	jkayani	I haven't, and I've heard good things about them 
+2018-02-03 20:56:15	jkayani	Are they on Linux though? 
+2018-02-03 20:56:23	gjabell	Yeah they are steamplay 
+2018-02-03 20:56:45	gjabell	They aren't free but if you get the chance to pick them up for cheap they are a no brainer 
+2018-02-03 20:56:55	gjabell	Plus portal 1 is pretty short 
+2018-02-03 20:56:57	jesse	portal 1 can be beat in a couple hours and is well worth it 
+2018-02-03 20:57:05	gjabell	Maybe 2-3 hours first run thru 
+2018-02-03 20:58:06	jesse	portal 2 is a lot longer 
+2018-02-03 20:58:15	jesse	but still realllyy good 
+2018-02-03 20:58:41	jesse	id do portal 1 if youre playing on ur laptop josh 
+2018-02-03 20:58:56	jesse	portal 2 is a lil more graphics intensive 
+2018-02-03 20:59:05	jkayani	Oh I'm doing Digital Love story or whatever for this one, maybe in the future I'll try Poral 
+2018-02-03 20:59:19	gjabell	Yeah 
+2018-02-03 20:59:33	gjabell	Keep an eye our for sales ,you can generally get both for ~5$ 
+2018-02-26 17:43:26	jkayani	@jesse Mind playtesting our game? I'll happily return the favor 
+2018-02-26 19:39:53	jesse	yeah I can do that. We are good on playtesters i think. 
+2018-02-26 19:40:18	jesse	I'll be playtesting justins game after class on wednesday, want me to playtest yours then too? 
+2018-02-26 19:40:57	jkayani	Yeah, that should be fine. I'll set up a Doc or something for you to take notes in or whatever, and send you the executable then 
+2018-02-26 19:41:25	jkayani	Ah wait I should be there in person for this 
+2018-02-26 19:41:30	gjabell	Meh 
+2018-02-26 19:41:34	jkayani	Lol 
+2018-02-26 19:42:00	gjabell	I playtested Jesse's remotely so it should be OK 
+2018-02-27 08:46:41	jesse	if you guys just want me to do it remotely, could you send me the docs link/game today? if you'd rather be there, Wednesday is still good. 
+2018-02-27 08:47:22	jkayani	Yeah I'll send it later today 
+2018-02-27 08:47:31	jkayani	Thanks again 
+2018-02-27 08:47:45	jesse	sounds good.  
+2018-02-27 16:24:24	jkayani	@jesse https://drive.google.com/open?id=1OguDWgPbmPOZ2Qu7IyeEWBMX5PAC3YE5 - here's the playtesting stuff 
+2018-02-27 16:25:32	jesse	I'll try to get this in tonight. but if not, I'll definitely get to it by tomorrow's class. 
+2018-02-27 16:26:44	gjabell	all good, it isn't due until friday now so we've got sometime 
+2018-02-27 16:26:47	gjabell	some time * 
+2018-02-27 16:27:22	jesse	its okay to just talk to me. im right behind you haha 
+2018-02-27 17:52:22	jkayani	Thanks a lot Jesse, really appreciate it! 
+2018-02-27 20:00:20	jesse	@jesse uploaded a file: https://sturgill-operators.slack.com/files/U3VPX29FW/F9FTQJGPN/responses.txt (responses.txt) 
+2018-02-27 20:00:39	jesse	You guys' google docs didn't have permissions so I wrote up my responses in a text file. 
+2018-02-27 20:01:01	jkayani	Welp I'm a moron - thanks for getting it done anyway 
+2018-02-27 20:01:07	jesse	:stuck_out_tongue: 
+2018-02-27 20:01:31	jesse	you guys' game is much better than ours. I'm jealous. 
+2018-02-27 20:03:06	jesse	ours has invisible walls because the level editor in stencyl is super buggy 
+2018-02-27 20:03:19	jkayani	Lol you can thank Galen for that 
+2018-02-27 20:05:10	gjabell	thanks for the playtest! 
+2018-02-27 20:05:23	jesse	:+1::skin-tone-2: 
+2018-02-27 20:12:22	jesse	lemme know if ya need more data 
+2018-03-01 22:00:06	jkayani	@jesse What upgrade did you buy in the shop when you played our game? 
+2018-03-03 10:27:15	jesse	Did I not respond to this question? 
+2018-03-03 10:27:43	jesse	I remember replying. sorry 
+2018-03-03 10:29:45	jesse	I tried upgrading all 3 on 3 different runs of the game. 
+2018-03-03 10:30:49	gjabell	damn, you played through it multiple times? that's some dedication xD 
+2018-03-03 10:31:00	gjabell	not sure I've even played it all the way through multiple times... 
+2018-03-03 10:39:05	jesse	lol. yeah I guess I didn't need to 
+2018-03-03 10:39:34	gjabell	well, thanks for putting so much time into ours xD 
+2018-03-03 12:01:05	jkayani	Lol it's fine, thanks for doing all that though 
+2018-03-03 12:04:22	jesse	you guys are welcome. thanks galen for playing our game. 
+2018-03-03 12:05:12	gjabell	Np 
+2018-04-09 22:06:24		getting channel history...
+2018-01-08 13:58:44	-->		@jesse has joined the channel 
+2018-01-08 13:58:45	-->		@jkayani has joined the channel 
+2018-01-08 13:58:45	-->		@gjabell has joined the channel 
+2018-01-10 13:20:22	jesse	Any suggestions for games? the usual thing I go for is long jrpgs which seem like a bad choice for this sort of assignment. 
+2018-01-10 13:20:59	gjabell	Have you played portal 
+2018-01-10 13:21:05	jesse	yup 
+2018-01-10 13:21:57	jesse	I'm maybe halfway through Hollow Knight so I dont think i can use that one 
+2018-01-10 13:22:42	jesse	Great games for you guys could be Transistor, Undertale, or Bastion... But they do cost money 
+2018-01-10 13:24:45	jesse	maybe ill play Journey on my playstation. 
+2018-01-10 13:25:45	gjabell	I have some DRM free games I can send you 
+2018-01-10 13:26:13	jesse	Oh, Enter the Gungeon is another good one for you guys if youre into arcade games 
+2018-01-10 13:27:22	jesse	What games do ya have? 
+2018-01-10 13:29:12	jesse	xD Tux Racer anyone? 
+2018-01-10 13:29:16	gjabell	https://drive.google.com/folderview?id=1S7W_peo0pLWh-rg6uZF8b3ZWwl5OtUnS 
+2018-01-10 13:29:34	gjabell	Free games yo 
+2018-01-10 13:38:05	jesse	those all look pretty good. do you have a favorite? 
+2018-01-10 13:38:38	gjabell	tbh haven't played any of them except limbo xD 
+2018-01-10 13:38:47	gjabell	it's good, trine is supposed to be good 
+2018-01-10 13:39:05	gjabell	the end is nigh is kinda like super meat boy if you've played that 
+2018-01-10 13:39:26	gjabell	I think limbo trine and gone home are all supposed to be reasonably short so if you don't want a super long game those might be good 
+2018-01-10 13:39:35	gjabell	particularly limbo 
+2018-01-10 13:40:18	gjabell	yep, all of those are under 6 hours according to howlongtobeat 
+2018-01-10 13:40:25	gjabell	limbo and gone home around 2-3 
+2018-01-10 13:40:37	jesse	I'm not sure "gone home" would run well on my laptop. 
+2018-01-10 13:41:05	jesse	id probably go for either limbo or trine 
+2018-01-10 13:41:12	gjabell	limbo should be fine I think 
+2018-01-10 13:41:19	gjabell	it's pretty low end 
+2018-01-10 13:42:41	jesse	Sounds good. Thanks!! The installer probably wont work well for me on linux but I dont mind dropping a few bucks on steam. 
+2018-01-10 13:43:16	gjabell	I can get a linux instalkler if you want 
+2018-01-10 13:43:26	gjabell	or even mac if you really want a challenge xD 
+2018-01-10 13:44:04	gjabell	@gjabell uploaded a file: https://sturgill-operators.slack.com/files/U5AUU7HHA/F8RPVUK1C/limbo-linux-2014-06-18.sh (Limbo-Linux-2014-06-18.sh) 
+2018-01-10 13:44:09	gjabell	boink 
+2018-01-10 13:44:12	jesse	xD thanks!! 
+2018-01-10 13:46:15	gjabell	np 
+2018-01-10 14:29:03	jkayani	Def. going to try Limbo now - thanks for the Linux installer man 
+2018-01-10 14:29:15	gjabell	np 
+2018-01-10 14:29:27	gjabell	I have some other drm free games from humble bundle, if anyone wants an installer 
+2018-01-10 14:30:41	gjabell	@gjabell uploaded a file: https://sturgill-operators.slack.com/files/U5AUU7HHA/F8RQR9T9C/games.png (games) 
+2018-01-10 14:39:44	jesse	i haven't heard of any of those lol 
+2018-01-10 14:41:13	gjabell	yeah most of them are garbage I think 
+2018-01-10 14:42:13	jesse	what kinds of games do you normally play?  
+2018-01-10 14:42:55	jesse	or prefer to play 
+2018-01-10 14:42:56	gjabell	fps or rpg typically 
+2018-01-10 14:42:59	gjabell	kinda depends 
+2018-01-10 14:46:05	jesse	@jesse uploaded a file: https://sturgill-operators.slack.com/files/U3VPX29FW/F8R3BKP1B/screenshot_20180110-144533.png (Screenshot_20180110-144533.png) and commented: I think this was pretty accurate 
+2018-01-10 14:46:51	jesse	that was from the survey they had us take 
+2018-01-10 14:47:13	gjabell	I forgot to save mine xD 
+2018-01-10 14:47:18	gjabell	it was all over the place though lol 
+2018-01-10 14:49:25	jesse	yeah, i mightve been more balanced, but ive been itching for a good story.  
+2018-01-10 15:00:04	gjabell	did you plug your pi into your wall or the wifi router in your apartment 
+2018-01-10 15:00:26	jesse	my wall 
+2018-01-10 15:00:31	gjabell	ok 
+2018-01-10 15:00:33	jesse	wait 
+2018-01-10 15:01:00	jesse	...idk.. its in my room so i think its just a wall plug 
+2018-01-10 15:01:04	gjabell	yeah 
+2018-01-10 15:01:10	gjabell	the router is in the living room 
+2018-01-10 15:07:22	gjabell	hfs it works 
+2018-01-10 15:55:41	jesse	awesome!! do you understand why? If I had a router in charlotte, and follow the same steps, would it work? 
+2018-01-10 15:56:01	gjabell	not 100% sure why state is handing out public ips 
+2018-01-10 15:56:29	gjabell	normally you can get a public ip from your ISP, so if you have your own ISP in charlotte and plug in your router, the WAN address on the router should be a public IP 
+2018-01-10 15:56:43	gjabell	worth noting that it won't necessarily be a static ip, but you can use ddns to fix that 
+2018-01-10 15:57:07	gjabell	technically you don't even need a router; whatever is plugged into the modem will be given a public ip 
+2018-01-10 15:57:10	jesse	not gonna lie. im half worried a bill will be mailed to me haha 
+2018-01-10 15:57:17	gjabell	xD 
+2018-01-10 15:57:27	gjabell	if state's giving us public ips I don't think we'll be billed 
+2018-01-10 15:58:52	jesse	also, i restarted my system a few times and the ip stayed the same. even over the course of a few days.  Do you know when the ip would change? 
+2018-01-10 15:59:21	gjabell	it might not, it could be that the IP is tied to your device's mac address, or maybe to the port in your room 
+2018-01-10 15:59:45	gjabell	but if you were using a domain to point to it, it would probably be a good idea to use ddns just in case it did, since we don't know if they are static or not 
+2018-01-10 16:00:09	jesse	also, we should probably be in a private chat.... i could see someone reading our messages and being confused. [:heart:1] 
+2018-01-10 16:00:27	gjabell	typically if it's not static it's being assigned via dhcp, which has a specific lease time, so even if you restart you'll probably ge tthe same ip 
+2018-01-10 16:00:27	gjabell	lol true 
+2018-01-10 21:59:42	jkayani	^ that's right, DHCP offers you an IP address for a certain lease time. Thanks CSC401 
+2018-01-10 22:00:53	gjabell	XD 
+2018-01-10 22:11:30	jkayani	@gjabell Your LIMBO binary is apparently for 32 bit systems, which don't seem to be supported out of the box in Arch: https://askubuntu.com/questions/133389/no-such-file-or-directory-but-the-file-exists
+2018-01-10 22:11:30		No such file or directory? But the file exists!
+2018-01-10 22:11:30		I've downloaded a game (Shank) but the bin file doesn't run. The error that is shown when I try to launch the executable is: bash: ./shank-linux-120720110-1-bin: No such file or directory 
+2018-01-10 22:14:31	jkayani	But it's easy to fix: https://wiki.archlinux.org/index.php/multilib 
+2018-01-10 22:28:27	jkayani	I kinda just installed all the 32 bit libs lol - wasn't sure which ones this game needed 
+2018-01-10 22:38:59	gjabell	Oh rip 
+2018-01-10 23:33:51	jkayani	Also I fucking LOVE it so thanks 
+2018-01-10 23:45:10	-->		@Anam has joined the channel 
+2018-01-10 23:45:10	-->		@justinirene has joined the channel 
+2018-01-10 23:49:29	jkayani	@gjabell Do you have a  macOS installer by chance? One of my friends really digs the game 
+2018-01-10 23:50:33	jkayani	The Linux version has these files in the limbo folder: `limbo_mac_boot.pkg  limbo_mac_runtime.pkg`, and they're both binary .pkg files which I thought would be macOS installers, but they don't work 
+2018-01-11 10:23:52	gjabell	sure 
+2018-01-11 10:25:10	gjabell	@gjabell uploaded a file: https://sturgill-operators.slack.com/files/U5AUU7HHA/F8SF8QBNK/limbo_installer.dmg (LIMBO_installer.dmg) 
+2018-01-11 14:25:26	jesse	So for game log 1 that we are submitting by the 17th, we need to have 2 entries right? 1 game in 2   45min sessions. Or do we just need the first part of the log? 
+2018-01-11 14:25:43	gjabell	the whole thing I belive 
+2018-01-11 14:25:49	gjabell	believe* 
+2018-01-11 14:25:54	jesse	roger that. thanks 
+2018-01-11 14:25:57	gjabell	np 
+2018-01-11 20:50:11	jkayani	Thanks Galen 
+2018-01-11 20:50:16	jkayani	^for the mac version 
+2018-01-11 20:50:24	gjabell	NP  
+2018-01-21 15:18:25	<--		@jesse has left the channel 
+2018-01-21 15:18:35	-->		@jesse has joined the channel 
+2018-01-22 12:15:43	jkayani	For us *nix bois: `2018-01-22 12:10:42,140 INFO  [Thread-36] stencyl.sw.util.StreamGobbler: [haxelib] Uncaught exception - load.c(237) : Failed to load library : /home/josh/.local/share/stencyl/plaf/neko-linux/regexp.ndll (libpcre.so.3: cannot open shared object file: No such file or directory)` 
+2018-01-22 12:17:50	jkayani	Looking inside `/lib/` I already have a `libpcre.so.1` 
+2018-01-22 12:17:53	gjabell	installing lib32-pcre doesn't seem to fix it 
+2018-01-22 12:18:12	jkayani	Maybe I should try symlinking the one I have to `libpcre.so.3`? 
+2018-01-22 12:18:18	jkayani	Shitty hack, but I maen 
+2018-01-22 12:18:57	jesse	no such thing as a bad hack :slightly_smiling_face: 
+2018-01-22 12:40:16	jkayani	@jkayani shared a file: https://sturgill-operators.slack.com/files/U3WBH0F7G/F7R0CT08P/test.jpg (test.jpg) and commented: when Dr. Heckman tells me to write tests before writing code: 
+2018-01-22 12:40:16		@jkayani commented on @mrgray4?s file https://sturgill-operators.slack.com/files/U3WBH0F7G/F7R0CT08P/test.jpg (test.jpg): still relevant 
+2018-01-22 21:27:37	gjabell	we have to turn in our team info by wednesday at 8pm just fyi 
+2018-01-22 21:54:01	jkayani	Yeah I'm going to send Ryan an invite 
+2018-01-22 21:55:34	gjabell	sounds good 
+2018-01-22 21:58:38	jkayani	Should we fork this channel into 2 because we're in separate groups? 
+2018-01-22 22:03:53	gjabell	might be a good plan yea 
+2018-01-22 22:05:30	jesse	my group has our own groupme... we could use this chat as a general purpose game design thing and go to our own chats for group-specific things. 
+2018-01-22 22:09:30	jkayani	Yeah, group me has a web app. Cool with you Galen? 
+2018-01-22 22:15:50	gjabell	sure thing 
+2018-01-23 00:44:55	jkayani	What's your email/phone for GroupMe? 
+2018-01-23 10:29:44	gjabell	8282805677 
+2018-01-23 11:40:17	jkayani	I think I added you and Ryan 
+2018-01-23 11:41:01	jkayani	@jkayani uploaded a file: https://sturgill-operators.slack.com/files/U3VP4JQPL/F8WKR2GQY/screenshot_20180123-113907.png (Screenshot_20180123-113907.png) and commented: But this happened too so idk 
+2018-01-23 11:41:33	gjabell	xD 
+2018-01-23 11:41:36	gjabell	I got it 
+2018-01-23 22:08:59	jkayani	Seems like PLM and this class are merging together lol - maybe we should just beat them to it and merge the Slack channels too? 
+2018-01-23 22:09:14	jkayani	Also, no Python today 
+2018-01-24 08:37:37	gjabell	might as well xD
+2018-01-24 08:37:37		yeah, I guess snow > python lol 
+2018-02-03 20:51:00	jkayani	Any suggestions for a game to play for the next game log? 
+2018-02-03 20:52:15	gjabell	what genre 
+2018-02-03 20:52:22	jesse	i played "digital: a love story". it was free and on the teachers list. 
+2018-02-03 20:52:53	gjabell	how was it 
+2018-02-03 20:53:42	jkayani	Dude I was just about to start that one 
+2018-02-03 20:53:45	jkayani	Lol 
+2018-02-03 20:54:05	jesse	not bad. it was frustrating at one point but i beat it in 3 hours... it wouldve been 2 if I didnt get stuck 
+2018-02-03 20:54:28	jesse	also dont listen to the games sound track... its really scratchy 
+2018-02-03 20:54:44	jesse	but otherwise a good story 
+2018-02-03 20:55:18	jkayani	I'll probably listen to a Daft Punk album while going through iti 
+2018-02-03 20:55:38	gjabell	Josh have you played either of the portal games? 
+2018-02-03 20:55:57	jesse	good choice. i listened to the undertale soundtrack to keep the eight bit vibe. 
+2018-02-03 20:56:08	jkayani	I haven't, and I've heard good things about them 
+2018-02-03 20:56:15	jkayani	Are they on Linux though? 
+2018-02-03 20:56:23	gjabell	Yeah they are steamplay 
+2018-02-03 20:56:45	gjabell	They aren't free but if you get the chance to pick them up for cheap they are a no brainer 
+2018-02-03 20:56:55	gjabell	Plus portal 1 is pretty short 
+2018-02-03 20:56:57	jesse	portal 1 can be beat in a couple hours and is well worth it 
+2018-02-03 20:57:05	gjabell	Maybe 2-3 hours first run thru 
+2018-02-03 20:58:06	jesse	portal 2 is a lot longer 
+2018-02-03 20:58:15	jesse	but still realllyy good 
+2018-02-03 20:58:41	jesse	id do portal 1 if youre playing on ur laptop josh 
+2018-02-03 20:58:56	jesse	portal 2 is a lil more graphics intensive 
+2018-02-03 20:59:05	jkayani	Oh I'm doing Digital Love story or whatever for this one, maybe in the future I'll try Poral 
+2018-02-03 20:59:19	gjabell	Yeah 
+2018-02-03 20:59:33	gjabell	Keep an eye our for sales ,you can generally get both for ~5$ 
+2018-02-26 17:43:26	jkayani	@jesse Mind playtesting our game? I'll happily return the favor 
+2018-02-26 19:39:53	jesse	yeah I can do that. We are good on playtesters i think. 
+2018-02-26 19:40:18	jesse	I'll be playtesting justins game after class on wednesday, want me to playtest yours then too? 
+2018-02-26 19:40:57	jkayani	Yeah, that should be fine. I'll set up a Doc or something for you to take notes in or whatever, and send you the executable then 
+2018-02-26 19:41:25	jkayani	Ah wait I should be there in person for this 
+2018-02-26 19:41:30	gjabell	Meh 
+2018-02-26 19:41:34	jkayani	Lol 
+2018-02-26 19:42:00	gjabell	I playtested Jesse's remotely so it should be OK 
+2018-02-27 08:46:41	jesse	if you guys just want me to do it remotely, could you send me the docs link/game today? if you'd rather be there, Wednesday is still good. 
+2018-02-27 08:47:22	jkayani	Yeah I'll send it later today 
+2018-02-27 08:47:31	jkayani	Thanks again 
+2018-02-27 08:47:45	jesse	sounds good.  
+2018-02-27 16:24:24	jkayani	@jesse https://drive.google.com/open?id=1OguDWgPbmPOZ2Qu7IyeEWBMX5PAC3YE5 - here's the playtesting stuff 
+2018-02-27 16:25:32	jesse	I'll try to get this in tonight. but if not, I'll definitely get to it by tomorrow's class. 
+2018-02-27 16:26:44	gjabell	all good, it isn't due until friday now so we've got sometime 
+2018-02-27 16:26:47	gjabell	some time * 
+2018-02-27 16:27:22	jesse	its okay to just talk to me. im right behind you haha 
+2018-02-27 17:52:22	jkayani	Thanks a lot Jesse, really appreciate it! 
+2018-02-27 20:00:20	jesse	@jesse uploaded a file: https://sturgill-operators.slack.com/files/U3VPX29FW/F9FTQJGPN/responses.txt (responses.txt) 
+2018-02-27 20:00:39	jesse	You guys' google docs didn't have permissions so I wrote up my responses in a text file. 
+2018-02-27 20:01:01	jkayani	Welp I'm a moron - thanks for getting it done anyway 
+2018-02-27 20:01:07	jesse	:stuck_out_tongue: 
+2018-02-27 20:01:31	jesse	you guys' game is much better than ours. I'm jealous. 
+2018-02-27 20:03:06	jesse	ours has invisible walls because the level editor in stencyl is super buggy 
+2018-02-27 20:03:19	jkayani	Lol you can thank Galen for that 
+2018-02-27 20:05:10	gjabell	thanks for the playtest! 
+2018-02-27 20:05:23	jesse	:+1::skin-tone-2: 
+2018-02-27 20:12:22	jesse	lemme know if ya need more data 
+2018-03-01 22:00:06	jkayani	@jesse What upgrade did you buy in the shop when you played our game? 
+2018-03-03 10:27:15	jesse	Did I not respond to this question? 
+2018-03-03 10:27:43	jesse	I remember replying. sorry 
+2018-03-03 10:29:45	jesse	I tried upgrading all 3 on 3 different runs of the game. 
+2018-03-03 10:30:49	gjabell	damn, you played through it multiple times? that's some dedication xD 
+2018-03-03 10:31:00	gjabell	not sure I've even played it all the way through multiple times... 
+2018-03-03 10:39:05	jesse	lol. yeah I guess I didn't need to 
+2018-03-03 10:39:34	gjabell	well, thanks for putting so much time into ours xD 
+2018-03-03 12:01:05	jkayani	Lol it's fine, thanks for doing all that though 
+2018-03-03 12:04:22	jesse	you guys are welcome. thanks galen for playing our game. 
+2018-03-03 12:05:12	gjabell	Np 
+2018-03-17 09:37:40	jesse	Hey, have we had any more research participation opportunities than just the one that was rescheduled?
+2018-03-17 09:37:40		I heard even that one they refused to take names so a lot of the people who took it probably wont be able to get credit or something. 
+2018-03-17 09:38:30	jesse	i thought about making a piazza post about it, but i figured id come off mean lol. 
+2018-03-17 09:39:51	jesse	also Game Log 3 was supposed to be due March 15th.... and yet the assignment was never released... 
+2018-04-09 22:19:59	<--		@gjabell has left the channel 
+2018-04-17 18:41:53		getting channel history...
+2018-01-08 13:58:44	-->		@jesse has joined the channel 
+2018-01-08 13:58:45	-->		@jkayani has joined the channel 
+2018-01-08 13:58:45	-->		@gjabell has joined the channel 
+2018-01-10 13:20:22	jesse	Any suggestions for games? the usual thing I go for is long jrpgs which seem like a bad choice for this sort of assignment. 
+2018-01-10 13:20:59	gjabell	Have you played portal 
+2018-01-10 13:21:05	jesse	yup 
+2018-01-10 13:21:57	jesse	I'm maybe halfway through Hollow Knight so I dont think i can use that one 
+2018-01-10 13:22:42	jesse	Great games for you guys could be Transistor, Undertale, or Bastion... But they do cost money 
+2018-01-10 13:24:45	jesse	maybe ill play Journey on my playstation. 
+2018-01-10 13:25:45	gjabell	I have some DRM free games I can send you 
+2018-01-10 13:26:13	jesse	Oh, Enter the Gungeon is another good one for you guys if youre into arcade games 
+2018-01-10 13:27:22	jesse	What games do ya have? 
+2018-01-10 13:29:12	jesse	xD Tux Racer anyone? 
+2018-01-10 13:29:16	gjabell	https://drive.google.com/folderview?id=1S7W_peo0pLWh-rg6uZF8b3ZWwl5OtUnS 
+2018-01-10 13:29:34	gjabell	Free games yo 
+2018-01-10 13:38:05	jesse	those all look pretty good. do you have a favorite? 
+2018-01-10 13:38:38	gjabell	tbh haven't played any of them except limbo xD 
+2018-01-10 13:38:47	gjabell	it's good, trine is supposed to be good 
+2018-01-10 13:39:05	gjabell	the end is nigh is kinda like super meat boy if you've played that 
+2018-01-10 13:39:26	gjabell	I think limbo trine and gone home are all supposed to be reasonably short so if you don't want a super long game those might be good 
+2018-01-10 13:39:35	gjabell	particularly limbo 
+2018-01-10 13:40:18	gjabell	yep, all of those are under 6 hours according to howlongtobeat 
+2018-01-10 13:40:25	gjabell	limbo and gone home around 2-3 
+2018-01-10 13:40:37	jesse	I'm not sure "gone home" would run well on my laptop. 
+2018-01-10 13:41:05	jesse	id probably go for either limbo or trine 
+2018-01-10 13:41:12	gjabell	limbo should be fine I think 
+2018-01-10 13:41:19	gjabell	it's pretty low end 
+2018-01-10 13:42:41	jesse	Sounds good. Thanks!! The installer probably wont work well for me on linux but I dont mind dropping a few bucks on steam. 
+2018-01-10 13:43:16	gjabell	I can get a linux instalkler if you want 
+2018-01-10 13:43:26	gjabell	or even mac if you really want a challenge xD 
+2018-01-10 13:44:04	gjabell	@gjabell uploaded a file: https://sturgill-operators.slack.com/files/U5AUU7HHA/F8RPVUK1C/limbo-linux-2014-06-18.sh (Limbo-Linux-2014-06-18.sh) 
+2018-01-10 13:44:09	gjabell	boink 
+2018-01-10 13:44:12	jesse	xD thanks!! 
+2018-01-10 13:46:15	gjabell	np 
+2018-01-10 14:29:03	jkayani	Def. going to try Limbo now - thanks for the Linux installer man 
+2018-01-10 14:29:15	gjabell	np 
+2018-01-10 14:29:27	gjabell	I have some other drm free games from humble bundle, if anyone wants an installer 
+2018-01-10 14:30:41	gjabell	@gjabell uploaded a file: https://sturgill-operators.slack.com/files/U5AUU7HHA/F8RQR9T9C/games.png (games) 
+2018-01-10 14:39:44	jesse	i haven't heard of any of those lol 
+2018-01-10 14:41:13	gjabell	yeah most of them are garbage I think 
+2018-01-10 14:42:13	jesse	what kinds of games do you normally play?  
+2018-01-10 14:42:55	jesse	or prefer to play 
+2018-01-10 14:42:56	gjabell	fps or rpg typically 
+2018-01-10 14:42:59	gjabell	kinda depends 
+2018-01-10 14:46:05	jesse	@jesse uploaded a file: https://sturgill-operators.slack.com/files/U3VPX29FW/F8R3BKP1B/screenshot_20180110-144533.png (Screenshot_20180110-144533.png) and commented: I think this was pretty accurate 
+2018-01-10 14:46:51	jesse	that was from the survey they had us take 
+2018-01-10 14:47:13	gjabell	I forgot to save mine xD 
+2018-01-10 14:47:18	gjabell	it was all over the place though lol 
+2018-01-10 14:49:25	jesse	yeah, i mightve been more balanced, but ive been itching for a good story.  
+2018-01-10 15:00:04	gjabell	did you plug your pi into your wall or the wifi router in your apartment 
+2018-01-10 15:00:26	jesse	my wall 
+2018-01-10 15:00:31	gjabell	ok 
+2018-01-10 15:00:33	jesse	wait 
+2018-01-10 15:01:00	jesse	...idk.. its in my room so i think its just a wall plug 
+2018-01-10 15:01:04	gjabell	yeah 
+2018-01-10 15:01:10	gjabell	the router is in the living room 
+2018-01-10 15:07:22	gjabell	hfs it works 
+2018-01-10 15:55:41	jesse	awesome!! do you understand why? If I had a router in charlotte, and follow the same steps, would it work? 
+2018-01-10 15:56:01	gjabell	not 100% sure why state is handing out public ips 
+2018-01-10 15:56:29	gjabell	normally you can get a public ip from your ISP, so if you have your own ISP in charlotte and plug in your router, the WAN address on the router should be a public IP 
+2018-01-10 15:56:43	gjabell	worth noting that it won't necessarily be a static ip, but you can use ddns to fix that 
+2018-01-10 15:57:07	gjabell	technically you don't even need a router; whatever is plugged into the modem will be given a public ip 
+2018-01-10 15:57:10	jesse	not gonna lie. im half worried a bill will be mailed to me haha 
+2018-01-10 15:57:17	gjabell	xD 
+2018-01-10 15:57:27	gjabell	if state's giving us public ips I don't think we'll be billed 
+2018-01-10 15:58:52	jesse	also, i restarted my system a few times and the ip stayed the same. even over the course of a few days.  Do you know when the ip would change? 
+2018-01-10 15:59:21	gjabell	it might not, it could be that the IP is tied to your device's mac address, or maybe to the port in your room 
+2018-01-10 15:59:45	gjabell	but if you were using a domain to point to it, it would probably be a good idea to use ddns just in case it did, since we don't know if they are static or not 
+2018-01-10 16:00:09	jesse	also, we should probably be in a private chat.... i could see someone reading our messages and being confused. [:heart:1] 
+2018-01-10 16:00:27	gjabell	typically if it's not static it's being assigned via dhcp, which has a specific lease time, so even if you restart you'll probably ge tthe same ip 
+2018-01-10 16:00:27	gjabell	lol true 
+2018-01-10 21:59:42	jkayani	^ that's right, DHCP offers you an IP address for a certain lease time. Thanks CSC401 
+2018-01-10 22:00:53	gjabell	XD 
+2018-01-10 22:11:30	jkayani	@gjabell Your LIMBO binary is apparently for 32 bit systems, which don't seem to be supported out of the box in Arch: https://askubuntu.com/questions/133389/no-such-file-or-directory-but-the-file-exists
+2018-01-10 22:11:30		No such file or directory? But the file exists!
+2018-01-10 22:11:30		I've downloaded a game (Shank) but the bin file doesn't run. The error that is shown when I try to launch the executable is: bash: ./shank-linux-120720110-1-bin: No such file or directory 
+2018-01-10 22:14:31	jkayani	But it's easy to fix: https://wiki.archlinux.org/index.php/multilib 
+2018-01-10 22:28:27	jkayani	I kinda just installed all the 32 bit libs lol - wasn't sure which ones this game needed 
+2018-01-10 22:38:59	gjabell	Oh rip 
+2018-01-10 23:33:51	jkayani	Also I fucking LOVE it so thanks 
+2018-01-10 23:45:10	-->		@Anam has joined the channel 
+2018-01-10 23:45:10	-->		@justinirene has joined the channel 
+2018-01-10 23:49:29	jkayani	@gjabell Do you have a  macOS installer by chance? One of my friends really digs the game 
+2018-01-10 23:50:33	jkayani	The Linux version has these files in the limbo folder: `limbo_mac_boot.pkg  limbo_mac_runtime.pkg`, and they're both binary .pkg files which I thought would be macOS installers, but they don't work 
+2018-01-11 10:23:52	gjabell	sure 
+2018-01-11 10:25:10	gjabell	@gjabell uploaded a file: https://sturgill-operators.slack.com/files/U5AUU7HHA/F8SF8QBNK/limbo_installer.dmg (LIMBO_installer.dmg) 
+2018-01-11 14:25:26	jesse	So for game log 1 that we are submitting by the 17th, we need to have 2 entries right? 1 game in 2   45min sessions. Or do we just need the first part of the log? 
+2018-01-11 14:25:43	gjabell	the whole thing I belive 
+2018-01-11 14:25:49	gjabell	believe* 
+2018-01-11 14:25:54	jesse	roger that. thanks 
+2018-01-11 14:25:57	gjabell	np 
+2018-01-11 20:50:11	jkayani	Thanks Galen 
+2018-01-11 20:50:16	jkayani	^for the mac version 
+2018-01-11 20:50:24	gjabell	NP  
+2018-01-21 15:18:25	<--		@jesse has left the channel 
+2018-01-21 15:18:35	-->		@jesse has joined the channel 
+2018-01-22 12:15:43	jkayani	For us *nix bois: `2018-01-22 12:10:42,140 INFO  [Thread-36] stencyl.sw.util.StreamGobbler: [haxelib] Uncaught exception - load.c(237) : Failed to load library : /home/josh/.local/share/stencyl/plaf/neko-linux/regexp.ndll (libpcre.so.3: cannot open shared object file: No such file or directory)` 
+2018-01-22 12:17:50	jkayani	Looking inside `/lib/` I already have a `libpcre.so.1` 
+2018-01-22 12:17:53	gjabell	installing lib32-pcre doesn't seem to fix it 
+2018-01-22 12:18:12	jkayani	Maybe I should try symlinking the one I have to `libpcre.so.3`? 
+2018-01-22 12:18:18	jkayani	Shitty hack, but I maen 
+2018-01-22 12:18:57	jesse	no such thing as a bad hack :slightly_smiling_face: 
+2018-01-22 12:40:16	jkayani	@jkayani shared a file: https://sturgill-operators.slack.com/files/U3WBH0F7G/F7R0CT08P/test.jpg (test.jpg) and commented: when Dr. Heckman tells me to write tests before writing code: 
+2018-01-22 12:40:16		@jkayani commented on @mrgray4?s file https://sturgill-operators.slack.com/files/U3WBH0F7G/F7R0CT08P/test.jpg (test.jpg): still relevant 
+2018-01-22 21:27:37	gjabell	we have to turn in our team info by wednesday at 8pm just fyi 
+2018-01-22 21:54:01	jkayani	Yeah I'm going to send Ryan an invite 
+2018-01-22 21:55:34	gjabell	sounds good 
+2018-01-22 21:58:38	jkayani	Should we fork this channel into 2 because we're in separate groups? 
+2018-01-22 22:03:53	gjabell	might be a good plan yea 
+2018-01-22 22:05:30	jesse	my group has our own groupme... we could use this chat as a general purpose game design thing and go to our own chats for group-specific things. 
+2018-01-22 22:09:30	jkayani	Yeah, group me has a web app. Cool with you Galen? 
+2018-01-22 22:15:50	gjabell	sure thing 
+2018-01-23 00:44:55	jkayani	What's your email/phone for GroupMe? 
+2018-01-23 10:29:44	gjabell	8282805677 
+2018-01-23 11:40:17	jkayani	I think I added you and Ryan 
+2018-01-23 11:41:01	jkayani	@jkayani uploaded a file: https://sturgill-operators.slack.com/files/U3VP4JQPL/F8WKR2GQY/screenshot_20180123-113907.png (Screenshot_20180123-113907.png) and commented: But this happened too so idk 
+2018-01-23 11:41:33	gjabell	xD 
+2018-01-23 11:41:36	gjabell	I got it 
+2018-01-23 22:08:59	jkayani	Seems like PLM and this class are merging together lol - maybe we should just beat them to it and merge the Slack channels too? 
+2018-01-23 22:09:14	jkayani	Also, no Python today 
+2018-01-24 08:37:37	gjabell	might as well xD
+2018-01-24 08:37:37		yeah, I guess snow > python lol 
+2018-02-03 20:51:00	jkayani	Any suggestions for a game to play for the next game log? 
+2018-02-03 20:52:15	gjabell	what genre 
+2018-02-03 20:52:22	jesse	i played "digital: a love story". it was free and on the teachers list. 
+2018-02-03 20:52:53	gjabell	how was it 
+2018-02-03 20:53:42	jkayani	Dude I was just about to start that one 
+2018-02-03 20:53:45	jkayani	Lol 
+2018-02-03 20:54:05	jesse	not bad. it was frustrating at one point but i beat it in 3 hours... it wouldve been 2 if I didnt get stuck 
+2018-02-03 20:54:28	jesse	also dont listen to the games sound track... its really scratchy 
+2018-02-03 20:54:44	jesse	but otherwise a good story 
+2018-02-03 20:55:18	jkayani	I'll probably listen to a Daft Punk album while going through iti 
+2018-02-03 20:55:38	gjabell	Josh have you played either of the portal games? 
+2018-02-03 20:55:57	jesse	good choice. i listened to the undertale soundtrack to keep the eight bit vibe. 
+2018-02-03 20:56:08	jkayani	I haven't, and I've heard good things about them 
+2018-02-03 20:56:15	jkayani	Are they on Linux though? 
+2018-02-03 20:56:23	gjabell	Yeah they are steamplay 
+2018-02-03 20:56:45	gjabell	They aren't free but if you get the chance to pick them up for cheap they are a no brainer 
+2018-02-03 20:56:55	gjabell	Plus portal 1 is pretty short 
+2018-02-03 20:56:57	jesse	portal 1 can be beat in a couple hours and is well worth it 
+2018-02-03 20:57:05	gjabell	Maybe 2-3 hours first run thru 
+2018-02-03 20:58:06	jesse	portal 2 is a lot longer 
+2018-02-03 20:58:15	jesse	but still realllyy good 
+2018-02-03 20:58:41	jesse	id do portal 1 if youre playing on ur laptop josh 
+2018-02-03 20:58:56	jesse	portal 2 is a lil more graphics intensive 
+2018-02-03 20:59:05	jkayani	Oh I'm doing Digital Love story or whatever for this one, maybe in the future I'll try Poral 
+2018-02-03 20:59:19	gjabell	Yeah 
+2018-02-03 20:59:33	gjabell	Keep an eye our for sales ,you can generally get both for ~5$ 
+2018-02-26 17:43:26	jkayani	@jesse Mind playtesting our game? I'll happily return the favor 
+2018-02-26 19:39:53	jesse	yeah I can do that. We are good on playtesters i think. 
+2018-02-26 19:40:18	jesse	I'll be playtesting justins game after class on wednesday, want me to playtest yours then too? 
+2018-02-26 19:40:57	jkayani	Yeah, that should be fine. I'll set up a Doc or something for you to take notes in or whatever, and send you the executable then 
+2018-02-26 19:41:25	jkayani	Ah wait I should be there in person for this 
+2018-02-26 19:41:30	gjabell	Meh 
+2018-02-26 19:41:34	jkayani	Lol 
+2018-02-26 19:42:00	gjabell	I playtested Jesse's remotely so it should be OK 
+2018-02-27 08:46:41	jesse	if you guys just want me to do it remotely, could you send me the docs link/game today? if you'd rather be there, Wednesday is still good. 
+2018-02-27 08:47:22	jkayani	Yeah I'll send it later today 
+2018-02-27 08:47:31	jkayani	Thanks again 
+2018-02-27 08:47:45	jesse	sounds good.  
+2018-02-27 16:24:24	jkayani	@jesse https://drive.google.com/open?id=1OguDWgPbmPOZ2Qu7IyeEWBMX5PAC3YE5 - here's the playtesting stuff 
+2018-02-27 16:25:32	jesse	I'll try to get this in tonight. but if not, I'll definitely get to it by tomorrow's class. 
+2018-02-27 16:26:44	gjabell	all good, it isn't due until friday now so we've got sometime 
+2018-02-27 16:26:47	gjabell	some time * 
+2018-02-27 16:27:22	jesse	its okay to just talk to me. im right behind you haha 
+2018-02-27 17:52:22	jkayani	Thanks a lot Jesse, really appreciate it! 
+2018-02-27 20:00:20	jesse	@jesse uploaded a file: https://sturgill-operators.slack.com/files/U3VPX29FW/F9FTQJGPN/responses.txt (responses.txt) 
+2018-02-27 20:00:39	jesse	You guys' google docs didn't have permissions so I wrote up my responses in a text file. 
+2018-02-27 20:01:01	jkayani	Welp I'm a moron - thanks for getting it done anyway 
+2018-02-27 20:01:07	jesse	:stuck_out_tongue: 
+2018-02-27 20:01:31	jesse	you guys' game is much better than ours. I'm jealous. 
+2018-02-27 20:03:06	jesse	ours has invisible walls because the level editor in stencyl is super buggy 
+2018-02-27 20:03:19	jkayani	Lol you can thank Galen for that 
+2018-02-27 20:05:10	gjabell	thanks for the playtest! 
+2018-02-27 20:05:23	jesse	:+1::skin-tone-2: 
+2018-02-27 20:12:22	jesse	lemme know if ya need more data 
+2018-03-01 22:00:06	jkayani	@jesse What upgrade did you buy in the shop when you played our game? 
+2018-03-03 10:27:15	jesse	Did I not respond to this question? 
+2018-03-03 10:27:43	jesse	I remember replying. sorry 
+2018-03-03 10:29:45	jesse	I tried upgrading all 3 on 3 different runs of the game. 
+2018-03-03 10:30:49	gjabell	damn, you played through it multiple times? that's some dedication xD 
+2018-03-03 10:31:00	gjabell	not sure I've even played it all the way through multiple times... 
+2018-03-03 10:39:05	jesse	lol. yeah I guess I didn't need to 
+2018-03-03 10:39:34	gjabell	well, thanks for putting so much time into ours xD 
+2018-03-03 12:01:05	jkayani	Lol it's fine, thanks for doing all that though 
+2018-03-03 12:04:22	jesse	you guys are welcome. thanks galen for playing our game. 
+2018-03-03 12:05:12	gjabell	Np 
+2018-03-17 09:37:40	jesse	Hey, have we had any more research participation opportunities than just the one that was rescheduled?
+2018-03-17 09:37:40		I heard even that one they refused to take names so a lot of the people who took it probably wont be able to get credit or something. 
+2018-03-17 09:38:30	jesse	i thought about making a piazza post about it, but i figured id come off mean lol. 
+2018-03-17 09:39:51	jesse	also Game Log 3 was supposed to be due March 15th.... and yet the assignment was never released... 
+2018-04-09 22:19:59	<--		@gjabell has left the channel 
+2018-04-19 16:43:47		getting channel history...
+2018-01-08 13:58:44	-->		@jesse has joined the channel 
+2018-01-08 13:58:45	-->		@jkayani has joined the channel 
+2018-01-08 13:58:45	-->		@gjabell has joined the channel 
+2018-01-10 13:20:22	jesse	Any suggestions for games? the usual thing I go for is long jrpgs which seem like a bad choice for this sort of assignment. 
+2018-01-10 13:20:59	gjabell	Have you played portal 
+2018-01-10 13:21:05	jesse	yup 
+2018-01-10 13:21:57	jesse	I'm maybe halfway through Hollow Knight so I dont think i can use that one 
+2018-01-10 13:22:42	jesse	Great games for you guys could be Transistor, Undertale, or Bastion... But they do cost money 
+2018-01-10 13:24:45	jesse	maybe ill play Journey on my playstation. 
+2018-01-10 13:25:45	gjabell	I have some DRM free games I can send you 
+2018-01-10 13:26:13	jesse	Oh, Enter the Gungeon is another good one for you guys if youre into arcade games 
+2018-01-10 13:27:22	jesse	What games do ya have? 
+2018-01-10 13:29:12	jesse	xD Tux Racer anyone? 
+2018-01-10 13:29:16	gjabell	https://drive.google.com/folderview?id=1S7W_peo0pLWh-rg6uZF8b3ZWwl5OtUnS 
+2018-01-10 13:29:34	gjabell	Free games yo 
+2018-01-10 13:38:05	jesse	those all look pretty good. do you have a favorite? 
+2018-01-10 13:38:38	gjabell	tbh haven't played any of them except limbo xD 
+2018-01-10 13:38:47	gjabell	it's good, trine is supposed to be good 
+2018-01-10 13:39:05	gjabell	the end is nigh is kinda like super meat boy if you've played that 
+2018-01-10 13:39:26	gjabell	I think limbo trine and gone home are all supposed to be reasonably short so if you don't want a super long game those might be good 
+2018-01-10 13:39:35	gjabell	particularly limbo 
+2018-01-10 13:40:18	gjabell	yep, all of those are under 6 hours according to howlongtobeat 
+2018-01-10 13:40:25	gjabell	limbo and gone home around 2-3 
+2018-01-10 13:40:37	jesse	I'm not sure "gone home" would run well on my laptop. 
+2018-01-10 13:41:05	jesse	id probably go for either limbo or trine 
+2018-01-10 13:41:12	gjabell	limbo should be fine I think 
+2018-01-10 13:41:19	gjabell	it's pretty low end 
+2018-01-10 13:42:41	jesse	Sounds good. Thanks!! The installer probably wont work well for me on linux but I dont mind dropping a few bucks on steam. 
+2018-01-10 13:43:16	gjabell	I can get a linux instalkler if you want 
+2018-01-10 13:43:26	gjabell	or even mac if you really want a challenge xD 
+2018-01-10 13:44:04	gjabell	@gjabell uploaded a file: https://sturgill-operators.slack.com/files/U5AUU7HHA/F8RPVUK1C/limbo-linux-2014-06-18.sh (Limbo-Linux-2014-06-18.sh) 
+2018-01-10 13:44:09	gjabell	boink 
+2018-01-10 13:44:12	jesse	xD thanks!! 
+2018-01-10 13:46:15	gjabell	np 
+2018-01-10 14:29:03	jkayani	Def. going to try Limbo now - thanks for the Linux installer man 
+2018-01-10 14:29:15	gjabell	np 
+2018-01-10 14:29:27	gjabell	I have some other drm free games from humble bundle, if anyone wants an installer 
+2018-01-10 14:30:41	gjabell	@gjabell uploaded a file: https://sturgill-operators.slack.com/files/U5AUU7HHA/F8RQR9T9C/games.png (games) 
+2018-01-10 14:39:44	jesse	i haven't heard of any of those lol 
+2018-01-10 14:41:13	gjabell	yeah most of them are garbage I think 
+2018-01-10 14:42:13	jesse	what kinds of games do you normally play?  
+2018-01-10 14:42:55	jesse	or prefer to play 
+2018-01-10 14:42:56	gjabell	fps or rpg typically 
+2018-01-10 14:42:59	gjabell	kinda depends 
+2018-01-10 14:46:05	jesse	@jesse uploaded a file: https://sturgill-operators.slack.com/files/U3VPX29FW/F8R3BKP1B/screenshot_20180110-144533.png (Screenshot_20180110-144533.png) and commented: I think this was pretty accurate 
+2018-01-10 14:46:51	jesse	that was from the survey they had us take 
+2018-01-10 14:47:13	gjabell	I forgot to save mine xD 
+2018-01-10 14:47:18	gjabell	it was all over the place though lol 
+2018-01-10 14:49:25	jesse	yeah, i mightve been more balanced, but ive been itching for a good story.  
+2018-01-10 15:00:04	gjabell	did you plug your pi into your wall or the wifi router in your apartment 
+2018-01-10 15:00:26	jesse	my wall 
+2018-01-10 15:00:31	gjabell	ok 
+2018-01-10 15:00:33	jesse	wait 
+2018-01-10 15:01:00	jesse	...idk.. its in my room so i think its just a wall plug 
+2018-01-10 15:01:04	gjabell	yeah 
+2018-01-10 15:01:10	gjabell	the router is in the living room 
+2018-01-10 15:07:22	gjabell	hfs it works 
+2018-01-10 15:55:41	jesse	awesome!! do you understand why? If I had a router in charlotte, and follow the same steps, would it work? 
+2018-01-10 15:56:01	gjabell	not 100% sure why state is handing out public ips 
+2018-01-10 15:56:29	gjabell	normally you can get a public ip from your ISP, so if you have your own ISP in charlotte and plug in your router, the WAN address on the router should be a public IP 
+2018-01-10 15:56:43	gjabell	worth noting that it won't necessarily be a static ip, but you can use ddns to fix that 
+2018-01-10 15:57:07	gjabell	technically you don't even need a router; whatever is plugged into the modem will be given a public ip 
+2018-01-10 15:57:10	jesse	not gonna lie. im half worried a bill will be mailed to me haha 
+2018-01-10 15:57:17	gjabell	xD 
+2018-01-10 15:57:27	gjabell	if state's giving us public ips I don't think we'll be billed 
+2018-01-10 15:58:52	jesse	also, i restarted my system a few times and the ip stayed the same. even over the course of a few days.  Do you know when the ip would change? 
+2018-01-10 15:59:21	gjabell	it might not, it could be that the IP is tied to your device's mac address, or maybe to the port in your room 
+2018-01-10 15:59:45	gjabell	but if you were using a domain to point to it, it would probably be a good idea to use ddns just in case it did, since we don't know if they are static or not 
+2018-01-10 16:00:09	jesse	also, we should probably be in a private chat.... i could see someone reading our messages and being confused. [:heart:1] 
+2018-01-10 16:00:27	gjabell	typically if it's not static it's being assigned via dhcp, which has a specific lease time, so even if you restart you'll probably ge tthe same ip 
+2018-01-10 16:00:27	gjabell	lol true 
+2018-01-10 21:59:42	jkayani	^ that's right, DHCP offers you an IP address for a certain lease time. Thanks CSC401 
+2018-01-10 22:00:53	gjabell	XD 
+2018-01-10 22:11:30	jkayani	@gjabell Your LIMBO binary is apparently for 32 bit systems, which don't seem to be supported out of the box in Arch: https://askubuntu.com/questions/133389/no-such-file-or-directory-but-the-file-exists
+2018-01-10 22:11:30		No such file or directory? But the file exists!
+2018-01-10 22:11:30		I've downloaded a game (Shank) but the bin file doesn't run. The error that is shown when I try to launch the executable is: bash: ./shank-linux-120720110-1-bin: No such file or directory 
+2018-01-10 22:14:31	jkayani	But it's easy to fix: https://wiki.archlinux.org/index.php/multilib 
+2018-01-10 22:28:27	jkayani	I kinda just installed all the 32 bit libs lol - wasn't sure which ones this game needed 
+2018-01-10 22:38:59	gjabell	Oh rip 
+2018-01-10 23:33:51	jkayani	Also I fucking LOVE it so thanks 
+2018-01-10 23:45:10	-->		@Anam has joined the channel 
+2018-01-10 23:45:10	-->		@justinirene has joined the channel 
+2018-01-10 23:49:29	jkayani	@gjabell Do you have a  macOS installer by chance? One of my friends really digs the game 
+2018-01-10 23:50:33	jkayani	The Linux version has these files in the limbo folder: `limbo_mac_boot.pkg  limbo_mac_runtime.pkg`, and they're both binary .pkg files which I thought would be macOS installers, but they don't work 
+2018-01-11 10:23:52	gjabell	sure 
+2018-01-11 10:25:10	gjabell	@gjabell uploaded a file: https://sturgill-operators.slack.com/files/U5AUU7HHA/F8SF8QBNK/limbo_installer.dmg (LIMBO_installer.dmg) 
+2018-01-11 14:25:26	jesse	So for game log 1 that we are submitting by the 17th, we need to have 2 entries right? 1 game in 2   45min sessions. Or do we just need the first part of the log? 
+2018-01-11 14:25:43	gjabell	the whole thing I belive 
+2018-01-11 14:25:49	gjabell	believe* 
+2018-01-11 14:25:54	jesse	roger that. thanks 
+2018-01-11 14:25:57	gjabell	np 
+2018-01-11 20:50:11	jkayani	Thanks Galen 
+2018-01-11 20:50:16	jkayani	^for the mac version 
+2018-01-11 20:50:24	gjabell	NP  
+2018-01-21 15:18:25	<--		@jesse has left the channel 
+2018-01-21 15:18:35	-->		@jesse has joined the channel 
+2018-01-22 12:15:43	jkayani	For us *nix bois: `2018-01-22 12:10:42,140 INFO  [Thread-36] stencyl.sw.util.StreamGobbler: [haxelib] Uncaught exception - load.c(237) : Failed to load library : /home/josh/.local/share/stencyl/plaf/neko-linux/regexp.ndll (libpcre.so.3: cannot open shared object file: No such file or directory)` 
+2018-01-22 12:17:50	jkayani	Looking inside `/lib/` I already have a `libpcre.so.1` 
+2018-01-22 12:17:53	gjabell	installing lib32-pcre doesn't seem to fix it 
+2018-01-22 12:18:12	jkayani	Maybe I should try symlinking the one I have to `libpcre.so.3`? 
+2018-01-22 12:18:18	jkayani	Shitty hack, but I maen 
+2018-01-22 12:18:57	jesse	no such thing as a bad hack :slightly_smiling_face: 
+2018-01-22 12:40:16	jkayani	@jkayani shared a file: https://sturgill-operators.slack.com/files/U3WBH0F7G/F7R0CT08P/test.jpg (test.jpg) and commented: when Dr. Heckman tells me to write tests before writing code: 
+2018-01-22 12:40:16		@jkayani commented on @mrgray4?s file https://sturgill-operators.slack.com/files/U3WBH0F7G/F7R0CT08P/test.jpg (test.jpg): still relevant 
+2018-01-22 21:27:37	gjabell	we have to turn in our team info by wednesday at 8pm just fyi 
+2018-01-22 21:54:01	jkayani	Yeah I'm going to send Ryan an invite 
+2018-01-22 21:55:34	gjabell	sounds good 
+2018-01-22 21:58:38	jkayani	Should we fork this channel into 2 because we're in separate groups? 
+2018-01-22 22:03:53	gjabell	might be a good plan yea 
+2018-01-22 22:05:30	jesse	my group has our own groupme... we could use this chat as a general purpose game design thing and go to our own chats for group-specific things. 
+2018-01-22 22:09:30	jkayani	Yeah, group me has a web app. Cool with you Galen? 
+2018-01-22 22:15:50	gjabell	sure thing 
+2018-01-23 00:44:55	jkayani	What's your email/phone for GroupMe? 
+2018-01-23 10:29:44	gjabell	8282805677 
+2018-01-23 11:40:17	jkayani	I think I added you and Ryan 
+2018-01-23 11:41:01	jkayani	@jkayani uploaded a file: https://sturgill-operators.slack.com/files/U3VP4JQPL/F8WKR2GQY/screenshot_20180123-113907.png (Screenshot_20180123-113907.png) and commented: But this happened too so idk 
+2018-01-23 11:41:33	gjabell	xD 
+2018-01-23 11:41:36	gjabell	I got it 
+2018-01-23 22:08:59	jkayani	Seems like PLM and this class are merging together lol - maybe we should just beat them to it and merge the Slack channels too? 
+2018-01-23 22:09:14	jkayani	Also, no Python today 
+2018-01-24 08:37:37	gjabell	might as well xD
+2018-01-24 08:37:37		yeah, I guess snow > python lol 
+2018-02-03 20:51:00	jkayani	Any suggestions for a game to play for the next game log? 
+2018-02-03 20:52:15	gjabell	what genre 
+2018-02-03 20:52:22	jesse	i played "digital: a love story". it was free and on the teachers list. 
+2018-02-03 20:52:53	gjabell	how was it 
+2018-02-03 20:53:42	jkayani	Dude I was just about to start that one 
+2018-02-03 20:53:45	jkayani	Lol 
+2018-02-03 20:54:05	jesse	not bad. it was frustrating at one point but i beat it in 3 hours... it wouldve been 2 if I didnt get stuck 
+2018-02-03 20:54:28	jesse	also dont listen to the games sound track... its really scratchy 
+2018-02-03 20:54:44	jesse	but otherwise a good story 
+2018-02-03 20:55:18	jkayani	I'll probably listen to a Daft Punk album while going through iti 
+2018-02-03 20:55:38	gjabell	Josh have you played either of the portal games? 
+2018-02-03 20:55:57	jesse	good choice. i listened to the undertale soundtrack to keep the eight bit vibe. 
+2018-02-03 20:56:08	jkayani	I haven't, and I've heard good things about them 
+2018-02-03 20:56:15	jkayani	Are they on Linux though? 
+2018-02-03 20:56:23	gjabell	Yeah they are steamplay 
+2018-02-03 20:56:45	gjabell	They aren't free but if you get the chance to pick them up for cheap they are a no brainer 
+2018-02-03 20:56:55	gjabell	Plus portal 1 is pretty short 
+2018-02-03 20:56:57	jesse	portal 1 can be beat in a couple hours and is well worth it 
+2018-02-03 20:57:05	gjabell	Maybe 2-3 hours first run thru 
+2018-02-03 20:58:06	jesse	portal 2 is a lot longer 
+2018-02-03 20:58:15	jesse	but still realllyy good 
+2018-02-03 20:58:41	jesse	id do portal 1 if youre playing on ur laptop josh 
+2018-02-03 20:58:56	jesse	portal 2 is a lil more graphics intensive 
+2018-02-03 20:59:05	jkayani	Oh I'm doing Digital Love story or whatever for this one, maybe in the future I'll try Poral 
+2018-02-03 20:59:19	gjabell	Yeah 
+2018-02-03 20:59:33	gjabell	Keep an eye our for sales ,you can generally get both for ~5$ 
+2018-02-26 17:43:26	jkayani	@jesse Mind playtesting our game? I'll happily return the favor 
+2018-02-26 19:39:53	jesse	yeah I can do that. We are good on playtesters i think. 
+2018-02-26 19:40:18	jesse	I'll be playtesting justins game after class on wednesday, want me to playtest yours then too? 
+2018-02-26 19:40:57	jkayani	Yeah, that should be fine. I'll set up a Doc or something for you to take notes in or whatever, and send you the executable then 
+2018-02-26 19:41:25	jkayani	Ah wait I should be there in person for this 
+2018-02-26 19:41:30	gjabell	Meh 
+2018-02-26 19:41:34	jkayani	Lol 
+2018-02-26 19:42:00	gjabell	I playtested Jesse's remotely so it should be OK 
+2018-02-27 08:46:41	jesse	if you guys just want me to do it remotely, could you send me the docs link/game today? if you'd rather be there, Wednesday is still good. 
+2018-02-27 08:47:22	jkayani	Yeah I'll send it later today 
+2018-02-27 08:47:31	jkayani	Thanks again 
+2018-02-27 08:47:45	jesse	sounds good.  
+2018-02-27 16:24:24	jkayani	@jesse https://drive.google.com/open?id=1OguDWgPbmPOZ2Qu7IyeEWBMX5PAC3YE5 - here's the playtesting stuff 
+2018-02-27 16:25:32	jesse	I'll try to get this in tonight. but if not, I'll definitely get to it by tomorrow's class. 
+2018-02-27 16:26:44	gjabell	all good, it isn't due until friday now so we've got sometime 
+2018-02-27 16:26:47	gjabell	some time * 
+2018-02-27 16:27:22	jesse	its okay to just talk to me. im right behind you haha 
+2018-02-27 17:52:22	jkayani	Thanks a lot Jesse, really appreciate it! 
+2018-02-27 20:00:20	jesse	@jesse uploaded a file: https://sturgill-operators.slack.com/files/U3VPX29FW/F9FTQJGPN/responses.txt (responses.txt) 
+2018-02-27 20:00:39	jesse	You guys' google docs didn't have permissions so I wrote up my responses in a text file. 
+2018-02-27 20:01:01	jkayani	Welp I'm a moron - thanks for getting it done anyway 
+2018-02-27 20:01:07	jesse	:stuck_out_tongue: 
+2018-02-27 20:01:31	jesse	you guys' game is much better than ours. I'm jealous. 
+2018-02-27 20:03:06	jesse	ours has invisible walls because the level editor in stencyl is super buggy 
+2018-02-27 20:03:19	jkayani	Lol you can thank Galen for that 
+2018-02-27 20:05:10	gjabell	thanks for the playtest! 
+2018-02-27 20:05:23	jesse	:+1::skin-tone-2: 
+2018-02-27 20:12:22	jesse	lemme know if ya need more data 
+2018-03-01 22:00:06	jkayani	@jesse What upgrade did you buy in the shop when you played our game? 
+2018-03-03 10:27:15	jesse	Did I not respond to this question? 
+2018-03-03 10:27:43	jesse	I remember replying. sorry 
+2018-03-03 10:29:45	jesse	I tried upgrading all 3 on 3 different runs of the game. 
+2018-03-03 10:30:49	gjabell	damn, you played through it multiple times? that's some dedication xD 
+2018-03-03 10:31:00	gjabell	not sure I've even played it all the way through multiple times... 
+2018-03-03 10:39:05	jesse	lol. yeah I guess I didn't need to 
+2018-03-03 10:39:34	gjabell	well, thanks for putting so much time into ours xD 
+2018-03-03 12:01:05	jkayani	Lol it's fine, thanks for doing all that though 
+2018-03-03 12:04:22	jesse	you guys are welcome. thanks galen for playing our game. 
+2018-03-03 12:05:12	gjabell	Np 
+2018-03-17 09:37:40	jesse	Hey, have we had any more research participation opportunities than just the one that was rescheduled?
+2018-03-17 09:37:40		I heard even that one they refused to take names so a lot of the people who took it probably wont be able to get credit or something. 
+2018-03-17 09:38:30	jesse	i thought about making a piazza post about it, but i figured id come off mean lol. 
+2018-03-17 09:39:51	jesse	also Game Log 3 was supposed to be due March 15th.... and yet the assignment was never released... 
+2018-04-09 22:19:59	<--		@gjabell has left the channel 

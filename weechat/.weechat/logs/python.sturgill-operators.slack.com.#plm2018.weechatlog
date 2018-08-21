@@ -1,0 +1,649 @@
+2018-03-16 14:38:10		getting channel history...
+2018-02-04 12:53:59	jkayani	Same 
+2018-02-04 12:55:18	jesse	gotcha. thank you guys. 
+2018-02-04 12:55:35	gjabell	np 
+2018-02-04 12:57:23	jesse	would i print that letter multiple times? 
+2018-02-04 12:57:53	gjabell	print it in the sample function you mean? because sample should just yield 
+2018-02-04 12:58:00	gjabell	I don't think anything needs to actually print 
+2018-02-04 12:58:04	jesse	sorry i mean yield... 
+2018-02-04 12:58:24	gjabell	sort of 
+2018-02-04 12:58:38	gjabell	you need to yield x samples where x is the 'enough' parameter 
+2018-02-04 12:59:14	gjabell	so the samples will be different each iteration but in theory they should statistically model the probabilities of the letters based on the input 
+2018-02-04 12:59:45	jesse	cuz i'm yielding the letter in descended sorted order.. but the result is that each letter is only yielded once which means s2 is only getting one of each letter.... 
+2018-02-04 12:59:57	jesse	what do I do with enough? 
+2018-02-04 13:00:33	jesse	should I multiply enough by the probability of each letter? 
+2018-02-04 13:00:33	gjabell	mine is a loop that generates 'enough' random letters 
+2018-02-04 13:00:40	gjabell	based on the probability of each letter 
+2018-02-04 13:00:56	gjabell	maybe, I just used a function from the standard library :P 
+2018-02-04 13:01:15	gjabell	https://docs.python.org/3/library/random.html?highlight=random#random.sample 
+2018-02-04 13:03:21	jesse	why are you randomizing it? 
+2018-02-04 13:03:42	gjabell	not sure, I guess it doesn't specity 
+2018-02-04 13:03:45	gjabell	specify* 
+2018-02-04 13:03:51	jkayani	They have a function for that 
+2018-02-04 13:03:54	gjabell	honestly I just figured we should be using random since we have a random seed 
+2018-02-04 13:03:57	jkayani	Damn I wrote my own weird thing 
+2018-02-04 13:04:10	gjabell	plus sample makes me think random sample 
+2018-02-04 13:04:16	gjabell	esp since we have the prob 
+2018-02-04 13:04:23	gjabell	yeah xD I'm lazy lol 
+2018-02-04 13:04:30	jkayani	No that's much smarter 
+2018-02-04 13:05:04	jkayani	I picked a random number and checked whether it was in the right "range" for any of the proabilities, and if so, picked randomly among the keys (characters) that had that probability 
+2018-02-04 13:06:04	gjabell	ah 
+2018-02-04 13:06:22	jesse	finally passed. that makes since but I'm not spending any more time on this assignment 
+2018-02-04 13:06:30	jesse	sense* 
+2018-02-04 13:07:37	jkayani	But wait, how did you use `random.sample()`? Did you "flatten" the counts dict. and then pass it along? 
+2018-02-04 13:08:06	jkayani	It just says it takes a "set" or "population sequence" 
+2018-02-04 13:08:17	jesse	i didn't randomize it at all 
+2018-02-04 13:08:28	jkayani	@gjabell 
+2018-02-04 13:10:29	gjabell	``` 
+2018-02-04 13:10:33	gjabell	```weights = [i.prob(x) for x in i.counts.keys()]
+2018-02-04 13:10:33		    for k in random.choices(list(i.counts.keys()), weights=weights, k=enough):
+2018-02-04 13:10:33		      yield k``` [:+1:1] 
+2018-02-04 13:10:39	gjabell	that was my sample func 
+2018-02-04 13:10:49	gjabell	although the last two lines are indented wrong lol 
+2018-02-04 15:40:30	mrgray4	just read through y'alls convo, slept in wayyyyyy too much haha. So read through and I think I understand what's going on in the HW2 code (wow Tim shorthands the heck out of everything, it's not bad but it takes getting used to. I guess that's python culture?) 
+2018-02-04 15:40:47	mrgray4	But the one thing I don't completely get is what i.adds (keeping track of inits??) in the sym object 
+2018-02-04 15:41:18	mrgray4	My best guess is keeping track of the adds that are done? But "best" is quite an overstatement, I'm not too sure 
+2018-02-04 15:42:11	jkayani	adds is for adding a list of chars, aka a string 
+2018-02-04 15:42:35	mrgray4	That's the def adds I think, why is it defined in the constructor? 
+2018-02-04 15:43:06	jkayani	It's called there 
+2018-02-04 15:43:12	mrgray4	OH 
+2018-02-04 15:43:19	mrgray4	duh 
+2018-02-04 15:43:21	mrgray4	whoops lol 
+2018-02-04 15:43:38	mrgray4	For some reason my brain was reading an equals sign/assignment between i.adds and the parens 
+2018-02-04 15:43:43	mrgray4	thank you :slightly_smiling_face: 
+2018-02-04 15:43:58	jkayani	Tim makes a lot of typos 
+2018-02-04 15:44:30	mrgray4	during class oh my word he sure does. Yeah that dunder mistake was pretty easy to spot thankfully because it was right under another dunder 
+2018-02-04 15:45:43	jkayani	Yeah idk why those are even there 
+2018-02-04 15:46:32	jkayani	But no I mean look at literally anything he types, and I bet you can find at least 10 errors. Really interesting 
+2018-02-04 15:46:45	gjabell	proof of concept mostly 
+2018-02-04 15:47:21	gjabell	yeah I feel like he just doesn't proofread stuff 
+2018-02-04 15:47:28	jesse	dunders don't seem like a good feature to me... remember in C how there was one assignment full of macros that made the code very difficult to read. I'm worried that dunders does that to code. but idk. 
+2018-02-04 15:47:29	gjabell	maybe it's because he's australian 
+2018-02-04 15:48:01	gjabell	idk the dunders can be nice I think, since it's essentially like a more powerful overload 
+2018-02-04 15:48:15	gjabell	it's like being able to overload toString in java, and assignments in c++ 
+2018-02-04 15:48:41	jkayani	Yeah it reminds me of C++ style overload where you can do operator overload 
+2018-02-04 15:48:54	gjabell	ideally you shouldn't ever really have to use dunders unless you are writing code to be used in other code I think 
+2018-02-04 16:06:58	mrgray4	Yep. I like them in a code-golf kind of way. They're pretty but I'd rarely use them in production unless I was making a data structure or something of that like where the built in operators were very natural to use 
+2018-02-10 09:11:04	jesse	For this PLM hw, are we supposed to make our own fsm? or expand upon his? 
+2018-02-10 09:14:55	mrgray4	The latter I?m fairly certain.  
+2018-02-10 09:15:04	mrgray4	Haven?t read it yet though 
+2018-02-10 09:15:12	mrgray4	But he talked about adding certain states 
+2018-02-10 09:15:29	mrgray4	Or quitting? 
+2018-02-10 09:15:40	mrgray4	Can?t remember. I?ve mentally checked out since Thursday  
+2018-02-10 09:16:04	gjabell	P sure we take the one he has, add more states, payload passthrough, and nonlocal exits 
+2018-02-10 09:28:00	jesse	its a lil weird, his instructions say to add states but I don't think he specifies which states to add. I'll look a lil more into it later. 
+2018-02-10 09:29:32	gjabell	I think we add states for being home and at school 
+2018-02-10 09:29:48	gjabell	To a supermachine that includes the other ones 
+2018-02-10 09:32:26	jesse	i know he mentioned that in class but there isn't anything written about being home or at school. 
+2018-02-10 09:33:11	gjabell	I think it says in the instructions doc 
+2018-02-10 09:34:23	jesse	I've been looking in the hw3.txt.. the most recent in the homework channel of plm 
+2018-02-10 09:34:49	gjabell	Hmm
+2018-02-10 09:34:49		Where did I see that then lol 
+2018-02-10 09:34:53	gjabell	Let me try and find it 
+2018-02-10 09:37:24	gjabell	Well now I'm confused xD 
+2018-02-10 09:37:29	jesse	xD 
+2018-02-10 09:37:54	jesse	these 495 teachers are great 
+2018-02-10 09:38:14	gjabell	Ikr 
+2018-02-10 12:27:08	jesse	I'm trying to follow the instructions he gave. I created a NestedState with an onEntry and onExit which just calls the superclasses methods, but I'm not quite sure what to do next. 
+2018-02-10 12:28:00	jesse	I'm thinking that we are supposed to make an FSM that uses that nested state somehow 
+2018-02-10 16:01:07	jkayani	My question is where does the nested machine come from? Like how is an instance of Machine passed to the NestedState so we can call `Machine.run()`? Does `State` need to have a `nestedMachine` instance variable too?  (edited)
+2018-02-10 16:08:34	jesse	I had the same questions... I have no answer 
+2018-02-11 11:47:49	gjabell	anyone know why we're supposed to use a struct for the payload? 
+2018-02-11 11:48:37	jkayani	No 
+2018-02-11 11:48:39	jkayani	Lol 
+2018-02-11 11:48:56	jkayani	I just used the o object he said was functionally a struct 
+2018-02-11 11:48:59	jesse	dunno. it seems like a global variable would do just fine. I guess he just thinks we should know how to make a class called struct 
+2018-02-11 11:49:13	gjabell	I mean, there is a struct class in python already 
+2018-02-11 11:49:21	gjabell	but it's for packing and unpacking bytes xD 
+2018-02-11 11:49:28	jkayani	Yeah exactly 
+2018-02-11 11:49:43	gjabell	this class xD 
+2018-02-11 11:51:56	mrgray4	so far he hasn't graded too hard on the "why" component. as long as it passes his little tests. first homework I just completely ignored the guidelines and got a 10/10 
+2018-02-11 11:52:10	mrgray4	By completely ignored, I mean used stuff we hadn't talked about explicitly for that hw 
+2018-02-11 11:53:17	gjabell	yeah 
+2018-02-11 11:53:29	gjabell	hopefully it'll be that way on the project too lol 
+2018-02-11 12:11:56	mrgray4	From what he said about not giving a hoot about the pythonista stuff he has shown us, I'm 99.9% sure that's the case :slightly_smiling_face: 
+2018-02-11 12:40:50	jkayani	The funny thing about this homework is the starter file already passes the test 
+2018-02-11 12:41:16	gjabell	lol 
+2018-02-11 12:42:17	jkayani	Anyone have any thoughts on the nested machine? Should the constructor be expanded to allow a Machine instance to be passed in? 
+2018-02-11 12:42:58	gjabell	I figured we could just subclass state and use its model to run the machine 
+2018-02-11 12:43:06	jkayani	Oh OK 
+2018-02-11 12:43:08	gjabell	but I might not be understanding it correctly 
+2018-02-11 12:43:46	jkayani	So we'd be running the same machine in the machine, instead of running any arbitrary machine in the machine 
+2018-02-11 12:44:11	gjabell	I guess so, honestly the whole thing is not explained very well [:+1:1] 
+2018-02-11 12:44:38	jkayani	My opinion on literally everything about PLM [:+1:1] 
+2018-02-11 12:44:43	gjabell	^ 
+2018-02-11 12:44:53	jkayani	I like Menzies, but I don't think anyone can deny that fact 
+2018-02-11 12:45:09	gjabell	yeah 
+2018-02-11 12:46:17	gjabell	actually looking at the hw3 spec it looks like we should pass in a machine 
+2018-02-11 14:18:35	mrgray4	@gjabell you meant the nested machine is passed in via the model right? 
+2018-02-11 14:18:41	mrgray4	the m instance var I mean 
+2018-02-11 14:20:13	gjabell	I think they need to be separate, otherwise you end up calling the outer machine's run method a bunch 
+2018-02-11 14:20:26	mrgray4	hmm okay 
+2018-02-11 14:20:28	gjabell	although I guess it depends how your write it 
+2018-02-11 14:20:47	gjabell	I just added another param to the State's __init__ method that was a machine to be passed in 
+2018-02-11 14:21:11	mrgray4	I was thinking that or add it to the nested machnine init 
+2018-02-11 14:21:31	mrgray4	Also another q, where Thing subclasses object, is that just o? why is it called object? 
+2018-02-11 14:21:32	gjabell	and it defaults to None in the state method of Machine 
+2018-02-11 14:22:05	gjabell	the issue with putting it in the nested machine init is that it breaks the use of the state method in Machine
+2018-02-11 14:22:05		ie you can't use it generally 
+2018-02-11 14:22:24	gjabell	Object is a built in class in python 
+2018-02-11 14:22:30	gjabell	like Object in java 
+2018-02-11 14:22:35	gjabell	I think at least 
+2018-02-11 14:22:46	gjabell	so Thing subclasses the object base class, and o subclasses Thing 
+2018-02-11 14:23:01	gjabell	technically you don't need the object subclass, it could just be Thing() 
+2018-02-11 14:23:07	mrgray4	Aaah. Thanks :slightly_smiling_face: 
+2018-02-11 14:23:15	gjabell	but I think there are benefits of using object, since it gains some additional methods 
+2018-02-11 14:23:38	gjabell	np xD
+2018-02-11 14:23:38		not sure if I did everything correctly so let me know if you find some oddness 
+2018-02-11 14:24:18	mrgray4	Will do, gonna take a break for a while because I've been doing work all morning, just getting a look over it all now so I can agonize over it while grocery shopping :smile: [:laughing:1] 
+2018-02-11 14:37:56	jkayani	Yeah I think I did something similar to Galen to get it working 
+2018-02-11 16:10:49	jkayani	Why do they ask us to increment the payload on each onEntry() method of the state, when we could just increment it in the step() method before calling onEntry()? 
+2018-02-11 16:12:24	jkayani	Oh I guess so that it counts the number of states visited, not the number of transitions taken. 
+2018-02-11 16:36:24	gjabell	you could probably do it either way 
+2018-02-11 16:36:30	gjabell	as long as you put it in the right plac 
+2018-02-11 16:36:31	gjabell	e 
+2018-02-11 17:17:00	jesse	how can I know that I did this correctly? 
+2018-02-11 17:21:12	gjabell	We can only guess xD 
+2018-02-11 17:22:02	jesse	i gotcha. 
+2018-02-11 17:22:28	gjabell	I think if it can do all the stuff specified and it has a 'pass' from the test it's probably good lol 
+2018-02-11 17:22:38	gjabell	At least that's how I'm choosing to interpret it 
+2018-02-11 17:29:42	jesse	I think my solution does most of what is required, but I'm not using the NestedState class at all.... where was I supposed to run that? 
+2018-02-11 17:31:59	gjabell	I just made two machines, with a nestedstate in the outer one, and the second machine inside the nestedstate 
+2018-02-11 17:32:32	gjabell	So it went into the nestedstate immediately, ran through until it hit the payload limit, broke back out into the outer machine, and ran until it exited 
+2018-02-11 17:33:14	jesse	do you have a NestedMachine object? 
+2018-02-11 17:34:02	gjabell	It's a subclass of state for me 
+2018-02-11 17:41:33	jesse	im still pretty confused... but I think I may have reached the point where I have spent too much time trying to understand this and need to move on other assignments. I'll just submit what I have. Thank you guys for your help. 
+2018-02-11 18:12:34	gjabell	I think we're all confused haha 
+2018-02-11 18:24:47	jesse	good thing it's our last homework 
+2018-02-11 18:25:00	mrgray4	all the marks! 
+2018-02-11 18:39:22	mrgray4	okay here's my interpretation so far for each step of the thing:
+2018-02-11 18:39:22		1 - make the nested state. this state calls m.run whenever it has hit onentry. when you include the payload stuff, this keeps track of the number of transitions made
+2018-02-11 18:39:22		2 - the payload, some object to keep track of transitions made. idk what the struct is, I just made a struct def that returns an instance of payload with the count set to whatever the parameter is lol
+2018-02-11 18:39:22		3 - non-local exit thing. I'm defining an error exception for reaching too many state transitions (15 transitions according to the hw3 doc) and I'm going to raise this whenever the machine run def detects the payload going over a count of 15 (which with the nested state, should happen because run keeps getting called?)
+2018-02-11 18:39:22		extra: I think I'm gonna pass the payload in via the onEntry method and increment it there, after the onEntry method the run method can detect whether it's pass the boundary 
+2018-02-11 18:39:38	mrgray4	how does that sound !channel 
+2018-02-11 18:40:06	mrgray4	that's my translations from Menzienese to English 
+2018-02-11 18:40:14	mrgray4	no guarantee on accuracy 
+2018-02-11 18:41:31	mrgray4	one addendum is I may need to put the checks in the state.step method 
+2018-02-11 18:41:47	mrgray4	I'm having trouble looking at where the actual transitioning is being done, it's confusing, surprise 
+2018-02-11 18:41:59	gjabell	that sounds like a reasonable interpretation xD
+2018-02-11 18:41:59		I think the nested state is basically a wrapper around an entire machine, so it should probably only call m.run once, and then the machine inside it takes over, but that might not be correct 
+2018-02-11 18:42:24	mrgray4	What part of the doc makes you think that out of curiosity 
+2018-02-11 18:42:34	mrgray4	I may be incorrect (too) xD 
+2018-02-11 18:42:46	gjabell	also not sure if this is correct either but I just made the payload a variable inside of the machine, rather than passing it around
+2018-02-11 18:42:46		and since the states have access to the machine they can just find the payload and increment it 
+2018-02-11 18:42:49	gjabell	hmm let me check 
+2018-02-11 18:44:11	gjabell	not sure if I have much rational for it, but the text says the onEntry method of the nestedstate should call run on the machine
+2018-02-11 18:44:11		and since running the machine causes it to transition through all of its states, it would need the machine to complete before the nestedstate calls run again 
+2018-02-11 18:44:42	gjabell	obviously the nestedstate will call run each time it is entered, so if the outer machine with the nested states transitions to the nestedstate multiple times, it will run the inner machine to completion for each time it is entered 
+2018-02-11 18:44:48	gjabell	which might be the same thing your saying, not sure 
+2018-02-11 18:46:13	gjabell	also I don't think you need checks in the step method but I could be wrong
+2018-02-11 18:46:13		since nothing except the very outer run method is catching the exception, if you throw the exception in any of the onEntry methods it should push it all the way up to the top 
+2018-02-11 18:47:27	mrgray4	Hmm okay. I'll plug away for a while and see what happens 
+2018-02-11 18:47:42	mrgray4	?\_(?)_/? 
+2018-02-11 19:35:51	mrgray4	almost an hour of grasping at straws later: went with just tracking count in the run method, never used nested state,e and I'm done 
+2018-02-11 19:36:05	mrgray4	do I care? yes. is that amount of caring much smaller? definitely yes. [:100:1] 
+2018-02-27 08:48:57	jesse	hey so does anyone wanna study for the plm test today? 
+2018-02-27 08:49:45	jesse	i can do any time before plm :P 
+2018-02-27 09:22:21	gjabell	I'd be down 
+2018-02-27 09:30:20	jesse	any preference on when? 
+2018-02-27 09:31:20	gjabell	I'll be back on centennial around 10:15, I'm free until around 3
+2018-02-27 09:31:20		If you want to come to my apt I can make us some tea 
+2018-02-27 09:34:16	jesse	Sure! 
+2018-02-27 09:35:07	gjabell	I'll let you know when I'm back and you can come over whenever after that 
+2018-02-27 10:11:51	gjabell	Back, whenever you want to come over 
+2018-02-27 10:12:27	jesse	gotcha. I'll probably head over soon then. Where do ya live again? 
+2018-02-27 10:13:28	gjabell	Sounds good
+2018-02-27 10:13:28		Grove 
+2018-02-27 10:20:22	jesse	I'm at the front entrance  
+2018-02-27 10:20:51	gjabell	Kk 
+2018-02-28 21:11:46	jkayani	So it seems we have to remember the AWK stuff 
+2018-02-28 21:11:48	jkayani	Darn. 
+2018-02-28 21:12:20	jesse	:disappointed: 
+2018-02-28 21:13:00	mrgray4	I got up this morning to study. Then realized I had about 5hrs worth of GEP work and ethics stuff to do. Haven?t studied yet but almost done with my gep work :-). :-( 
+2018-02-28 21:13:43	jkayani	I mean I'd be kinda surprised if he grilled us on AWK since it doesn't seem that important to the class, but it's in review1.md so 
+2018-02-28 21:14:17	gjabell	at least it's pretty simple 
+2018-02-28 21:14:38	gjabell	plus I doubt we'll have to pull AWK code out of our ass 
+2018-02-28 21:14:47	gjabell	because that would be uncomfortable for everyone involved 
+2018-02-28 21:14:53	mrgray4	Darn I keep some stored up there 
+2018-02-28 21:14:54	jkayani	Hahaha - so just remember it's pattern + action 
+2018-02-28 21:14:58	mrgray4	for safe keeping  
+2018-02-28 21:15:52	gjabell	xD 
+2018-02-28 21:16:06	gjabell	pattern is true action is print, right? 
+2018-02-28 21:16:18	jkayani	Yeah action's def. print 
+2018-02-28 21:16:26	jkayani	Pattern is true? Meaning like if something evaluates to true? 
+2018-02-28 21:17:37	gjabell	I think it's more if you don't specify a condition it will always do the action 
+2018-02-28 21:18:08	jkayani	Oh OK 
+2018-03-21 14:20:11		getting channel history...
+2018-02-04 12:53:59	jkayani	Same 
+2018-02-04 12:55:18	jesse	gotcha. thank you guys. 
+2018-02-04 12:55:35	gjabell	np 
+2018-02-04 12:57:23	jesse	would i print that letter multiple times? 
+2018-02-04 12:57:53	gjabell	print it in the sample function you mean? because sample should just yield 
+2018-02-04 12:58:00	gjabell	I don't think anything needs to actually print 
+2018-02-04 12:58:04	jesse	sorry i mean yield... 
+2018-02-04 12:58:24	gjabell	sort of 
+2018-02-04 12:58:38	gjabell	you need to yield x samples where x is the 'enough' parameter 
+2018-02-04 12:59:14	gjabell	so the samples will be different each iteration but in theory they should statistically model the probabilities of the letters based on the input 
+2018-02-04 12:59:45	jesse	cuz i'm yielding the letter in descended sorted order.. but the result is that each letter is only yielded once which means s2 is only getting one of each letter.... 
+2018-02-04 12:59:57	jesse	what do I do with enough? 
+2018-02-04 13:00:33	jesse	should I multiply enough by the probability of each letter? 
+2018-02-04 13:00:33	gjabell	mine is a loop that generates 'enough' random letters 
+2018-02-04 13:00:40	gjabell	based on the probability of each letter 
+2018-02-04 13:00:56	gjabell	maybe, I just used a function from the standard library :P 
+2018-02-04 13:01:15	gjabell	https://docs.python.org/3/library/random.html?highlight=random#random.sample 
+2018-02-04 13:03:21	jesse	why are you randomizing it? 
+2018-02-04 13:03:42	gjabell	not sure, I guess it doesn't specity 
+2018-02-04 13:03:45	gjabell	specify* 
+2018-02-04 13:03:51	jkayani	They have a function for that 
+2018-02-04 13:03:54	gjabell	honestly I just figured we should be using random since we have a random seed 
+2018-02-04 13:03:57	jkayani	Damn I wrote my own weird thing 
+2018-02-04 13:04:10	gjabell	plus sample makes me think random sample 
+2018-02-04 13:04:16	gjabell	esp since we have the prob 
+2018-02-04 13:04:23	gjabell	yeah xD I'm lazy lol 
+2018-02-04 13:04:30	jkayani	No that's much smarter 
+2018-02-04 13:05:04	jkayani	I picked a random number and checked whether it was in the right "range" for any of the proabilities, and if so, picked randomly among the keys (characters) that had that probability 
+2018-02-04 13:06:04	gjabell	ah 
+2018-02-04 13:06:22	jesse	finally passed. that makes since but I'm not spending any more time on this assignment 
+2018-02-04 13:06:30	jesse	sense* 
+2018-02-04 13:07:37	jkayani	But wait, how did you use `random.sample()`? Did you "flatten" the counts dict. and then pass it along? 
+2018-02-04 13:08:06	jkayani	It just says it takes a "set" or "population sequence" 
+2018-02-04 13:08:17	jesse	i didn't randomize it at all 
+2018-02-04 13:08:28	jkayani	@gjabell 
+2018-02-04 13:10:29	gjabell	``` 
+2018-02-04 13:10:33	gjabell	```weights = [i.prob(x) for x in i.counts.keys()]
+2018-02-04 13:10:33		    for k in random.choices(list(i.counts.keys()), weights=weights, k=enough):
+2018-02-04 13:10:33		      yield k``` [:+1:1] 
+2018-02-04 13:10:39	gjabell	that was my sample func 
+2018-02-04 13:10:49	gjabell	although the last two lines are indented wrong lol 
+2018-02-04 15:40:30	mrgray4	just read through y'alls convo, slept in wayyyyyy too much haha. So read through and I think I understand what's going on in the HW2 code (wow Tim shorthands the heck out of everything, it's not bad but it takes getting used to. I guess that's python culture?) 
+2018-02-04 15:40:47	mrgray4	But the one thing I don't completely get is what i.adds (keeping track of inits??) in the sym object 
+2018-02-04 15:41:18	mrgray4	My best guess is keeping track of the adds that are done? But "best" is quite an overstatement, I'm not too sure 
+2018-02-04 15:42:11	jkayani	adds is for adding a list of chars, aka a string 
+2018-02-04 15:42:35	mrgray4	That's the def adds I think, why is it defined in the constructor? 
+2018-02-04 15:43:06	jkayani	It's called there 
+2018-02-04 15:43:12	mrgray4	OH 
+2018-02-04 15:43:19	mrgray4	duh 
+2018-02-04 15:43:21	mrgray4	whoops lol 
+2018-02-04 15:43:38	mrgray4	For some reason my brain was reading an equals sign/assignment between i.adds and the parens 
+2018-02-04 15:43:43	mrgray4	thank you :slightly_smiling_face: 
+2018-02-04 15:43:58	jkayani	Tim makes a lot of typos 
+2018-02-04 15:44:30	mrgray4	during class oh my word he sure does. Yeah that dunder mistake was pretty easy to spot thankfully because it was right under another dunder 
+2018-02-04 15:45:43	jkayani	Yeah idk why those are even there 
+2018-02-04 15:46:32	jkayani	But no I mean look at literally anything he types, and I bet you can find at least 10 errors. Really interesting 
+2018-02-04 15:46:45	gjabell	proof of concept mostly 
+2018-02-04 15:47:21	gjabell	yeah I feel like he just doesn't proofread stuff 
+2018-02-04 15:47:28	jesse	dunders don't seem like a good feature to me... remember in C how there was one assignment full of macros that made the code very difficult to read. I'm worried that dunders does that to code. but idk. 
+2018-02-04 15:47:29	gjabell	maybe it's because he's australian 
+2018-02-04 15:48:01	gjabell	idk the dunders can be nice I think, since it's essentially like a more powerful overload 
+2018-02-04 15:48:15	gjabell	it's like being able to overload toString in java, and assignments in c++ 
+2018-02-04 15:48:41	jkayani	Yeah it reminds me of C++ style overload where you can do operator overload 
+2018-02-04 15:48:54	gjabell	ideally you shouldn't ever really have to use dunders unless you are writing code to be used in other code I think 
+2018-02-04 16:06:58	mrgray4	Yep. I like them in a code-golf kind of way. They're pretty but I'd rarely use them in production unless I was making a data structure or something of that like where the built in operators were very natural to use 
+2018-02-10 09:11:04	jesse	For this PLM hw, are we supposed to make our own fsm? or expand upon his? 
+2018-02-10 09:14:55	mrgray4	The latter I?m fairly certain.  
+2018-02-10 09:15:04	mrgray4	Haven?t read it yet though 
+2018-02-10 09:15:12	mrgray4	But he talked about adding certain states 
+2018-02-10 09:15:29	mrgray4	Or quitting? 
+2018-02-10 09:15:40	mrgray4	Can?t remember. I?ve mentally checked out since Thursday  
+2018-02-10 09:16:04	gjabell	P sure we take the one he has, add more states, payload passthrough, and nonlocal exits 
+2018-02-10 09:28:00	jesse	its a lil weird, his instructions say to add states but I don't think he specifies which states to add. I'll look a lil more into it later. 
+2018-02-10 09:29:32	gjabell	I think we add states for being home and at school 
+2018-02-10 09:29:48	gjabell	To a supermachine that includes the other ones 
+2018-02-10 09:32:26	jesse	i know he mentioned that in class but there isn't anything written about being home or at school. 
+2018-02-10 09:33:11	gjabell	I think it says in the instructions doc 
+2018-02-10 09:34:23	jesse	I've been looking in the hw3.txt.. the most recent in the homework channel of plm 
+2018-02-10 09:34:49	gjabell	Hmm
+2018-02-10 09:34:49		Where did I see that then lol 
+2018-02-10 09:34:53	gjabell	Let me try and find it 
+2018-02-10 09:37:24	gjabell	Well now I'm confused xD 
+2018-02-10 09:37:29	jesse	xD 
+2018-02-10 09:37:54	jesse	these 495 teachers are great 
+2018-02-10 09:38:14	gjabell	Ikr 
+2018-02-10 12:27:08	jesse	I'm trying to follow the instructions he gave. I created a NestedState with an onEntry and onExit which just calls the superclasses methods, but I'm not quite sure what to do next. 
+2018-02-10 12:28:00	jesse	I'm thinking that we are supposed to make an FSM that uses that nested state somehow 
+2018-02-10 16:01:07	jkayani	My question is where does the nested machine come from? Like how is an instance of Machine passed to the NestedState so we can call `Machine.run()`? Does `State` need to have a `nestedMachine` instance variable too?  (edited)
+2018-02-10 16:08:34	jesse	I had the same questions... I have no answer 
+2018-02-11 11:47:49	gjabell	anyone know why we're supposed to use a struct for the payload? 
+2018-02-11 11:48:37	jkayani	No 
+2018-02-11 11:48:39	jkayani	Lol 
+2018-02-11 11:48:56	jkayani	I just used the o object he said was functionally a struct 
+2018-02-11 11:48:59	jesse	dunno. it seems like a global variable would do just fine. I guess he just thinks we should know how to make a class called struct 
+2018-02-11 11:49:13	gjabell	I mean, there is a struct class in python already 
+2018-02-11 11:49:21	gjabell	but it's for packing and unpacking bytes xD 
+2018-02-11 11:49:28	jkayani	Yeah exactly 
+2018-02-11 11:49:43	gjabell	this class xD 
+2018-02-11 11:51:56	mrgray4	so far he hasn't graded too hard on the "why" component. as long as it passes his little tests. first homework I just completely ignored the guidelines and got a 10/10 
+2018-02-11 11:52:10	mrgray4	By completely ignored, I mean used stuff we hadn't talked about explicitly for that hw 
+2018-02-11 11:53:17	gjabell	yeah 
+2018-02-11 11:53:29	gjabell	hopefully it'll be that way on the project too lol 
+2018-02-11 12:11:56	mrgray4	From what he said about not giving a hoot about the pythonista stuff he has shown us, I'm 99.9% sure that's the case :slightly_smiling_face: 
+2018-02-11 12:40:50	jkayani	The funny thing about this homework is the starter file already passes the test 
+2018-02-11 12:41:16	gjabell	lol 
+2018-02-11 12:42:17	jkayani	Anyone have any thoughts on the nested machine? Should the constructor be expanded to allow a Machine instance to be passed in? 
+2018-02-11 12:42:58	gjabell	I figured we could just subclass state and use its model to run the machine 
+2018-02-11 12:43:06	jkayani	Oh OK 
+2018-02-11 12:43:08	gjabell	but I might not be understanding it correctly 
+2018-02-11 12:43:46	jkayani	So we'd be running the same machine in the machine, instead of running any arbitrary machine in the machine 
+2018-02-11 12:44:11	gjabell	I guess so, honestly the whole thing is not explained very well [:+1:1] 
+2018-02-11 12:44:38	jkayani	My opinion on literally everything about PLM [:+1:1] 
+2018-02-11 12:44:43	gjabell	^ 
+2018-02-11 12:44:53	jkayani	I like Menzies, but I don't think anyone can deny that fact 
+2018-02-11 12:45:09	gjabell	yeah 
+2018-02-11 12:46:17	gjabell	actually looking at the hw3 spec it looks like we should pass in a machine 
+2018-02-11 14:18:35	mrgray4	@gjabell you meant the nested machine is passed in via the model right? 
+2018-02-11 14:18:41	mrgray4	the m instance var I mean 
+2018-02-11 14:20:13	gjabell	I think they need to be separate, otherwise you end up calling the outer machine's run method a bunch 
+2018-02-11 14:20:26	mrgray4	hmm okay 
+2018-02-11 14:20:28	gjabell	although I guess it depends how your write it 
+2018-02-11 14:20:47	gjabell	I just added another param to the State's __init__ method that was a machine to be passed in 
+2018-02-11 14:21:11	mrgray4	I was thinking that or add it to the nested machnine init 
+2018-02-11 14:21:31	mrgray4	Also another q, where Thing subclasses object, is that just o? why is it called object? 
+2018-02-11 14:21:32	gjabell	and it defaults to None in the state method of Machine 
+2018-02-11 14:22:05	gjabell	the issue with putting it in the nested machine init is that it breaks the use of the state method in Machine
+2018-02-11 14:22:05		ie you can't use it generally 
+2018-02-11 14:22:24	gjabell	Object is a built in class in python 
+2018-02-11 14:22:30	gjabell	like Object in java 
+2018-02-11 14:22:35	gjabell	I think at least 
+2018-02-11 14:22:46	gjabell	so Thing subclasses the object base class, and o subclasses Thing 
+2018-02-11 14:23:01	gjabell	technically you don't need the object subclass, it could just be Thing() 
+2018-02-11 14:23:07	mrgray4	Aaah. Thanks :slightly_smiling_face: 
+2018-02-11 14:23:15	gjabell	but I think there are benefits of using object, since it gains some additional methods 
+2018-02-11 14:23:38	gjabell	np xD
+2018-02-11 14:23:38		not sure if I did everything correctly so let me know if you find some oddness 
+2018-02-11 14:24:18	mrgray4	Will do, gonna take a break for a while because I've been doing work all morning, just getting a look over it all now so I can agonize over it while grocery shopping :smile: [:laughing:1] 
+2018-02-11 14:37:56	jkayani	Yeah I think I did something similar to Galen to get it working 
+2018-02-11 16:10:49	jkayani	Why do they ask us to increment the payload on each onEntry() method of the state, when we could just increment it in the step() method before calling onEntry()? 
+2018-02-11 16:12:24	jkayani	Oh I guess so that it counts the number of states visited, not the number of transitions taken. 
+2018-02-11 16:36:24	gjabell	you could probably do it either way 
+2018-02-11 16:36:30	gjabell	as long as you put it in the right plac 
+2018-02-11 16:36:31	gjabell	e 
+2018-02-11 17:17:00	jesse	how can I know that I did this correctly? 
+2018-02-11 17:21:12	gjabell	We can only guess xD 
+2018-02-11 17:22:02	jesse	i gotcha. 
+2018-02-11 17:22:28	gjabell	I think if it can do all the stuff specified and it has a 'pass' from the test it's probably good lol 
+2018-02-11 17:22:38	gjabell	At least that's how I'm choosing to interpret it 
+2018-02-11 17:29:42	jesse	I think my solution does most of what is required, but I'm not using the NestedState class at all.... where was I supposed to run that? 
+2018-02-11 17:31:59	gjabell	I just made two machines, with a nestedstate in the outer one, and the second machine inside the nestedstate 
+2018-02-11 17:32:32	gjabell	So it went into the nestedstate immediately, ran through until it hit the payload limit, broke back out into the outer machine, and ran until it exited 
+2018-02-11 17:33:14	jesse	do you have a NestedMachine object? 
+2018-02-11 17:34:02	gjabell	It's a subclass of state for me 
+2018-02-11 17:41:33	jesse	im still pretty confused... but I think I may have reached the point where I have spent too much time trying to understand this and need to move on other assignments. I'll just submit what I have. Thank you guys for your help. 
+2018-02-11 18:12:34	gjabell	I think we're all confused haha 
+2018-02-11 18:24:47	jesse	good thing it's our last homework 
+2018-02-11 18:25:00	mrgray4	all the marks! 
+2018-02-11 18:39:22	mrgray4	okay here's my interpretation so far for each step of the thing:
+2018-02-11 18:39:22		1 - make the nested state. this state calls m.run whenever it has hit onentry. when you include the payload stuff, this keeps track of the number of transitions made
+2018-02-11 18:39:22		2 - the payload, some object to keep track of transitions made. idk what the struct is, I just made a struct def that returns an instance of payload with the count set to whatever the parameter is lol
+2018-02-11 18:39:22		3 - non-local exit thing. I'm defining an error exception for reaching too many state transitions (15 transitions according to the hw3 doc) and I'm going to raise this whenever the machine run def detects the payload going over a count of 15 (which with the nested state, should happen because run keeps getting called?)
+2018-02-11 18:39:22		extra: I think I'm gonna pass the payload in via the onEntry method and increment it there, after the onEntry method the run method can detect whether it's pass the boundary 
+2018-02-11 18:39:38	mrgray4	how does that sound !channel 
+2018-02-11 18:40:06	mrgray4	that's my translations from Menzienese to English 
+2018-02-11 18:40:14	mrgray4	no guarantee on accuracy 
+2018-02-11 18:41:31	mrgray4	one addendum is I may need to put the checks in the state.step method 
+2018-02-11 18:41:47	mrgray4	I'm having trouble looking at where the actual transitioning is being done, it's confusing, surprise 
+2018-02-11 18:41:59	gjabell	that sounds like a reasonable interpretation xD
+2018-02-11 18:41:59		I think the nested state is basically a wrapper around an entire machine, so it should probably only call m.run once, and then the machine inside it takes over, but that might not be correct 
+2018-02-11 18:42:24	mrgray4	What part of the doc makes you think that out of curiosity 
+2018-02-11 18:42:34	mrgray4	I may be incorrect (too) xD 
+2018-02-11 18:42:46	gjabell	also not sure if this is correct either but I just made the payload a variable inside of the machine, rather than passing it around
+2018-02-11 18:42:46		and since the states have access to the machine they can just find the payload and increment it 
+2018-02-11 18:42:49	gjabell	hmm let me check 
+2018-02-11 18:44:11	gjabell	not sure if I have much rational for it, but the text says the onEntry method of the nestedstate should call run on the machine
+2018-02-11 18:44:11		and since running the machine causes it to transition through all of its states, it would need the machine to complete before the nestedstate calls run again 
+2018-02-11 18:44:42	gjabell	obviously the nestedstate will call run each time it is entered, so if the outer machine with the nested states transitions to the nestedstate multiple times, it will run the inner machine to completion for each time it is entered 
+2018-02-11 18:44:48	gjabell	which might be the same thing your saying, not sure 
+2018-02-11 18:46:13	gjabell	also I don't think you need checks in the step method but I could be wrong
+2018-02-11 18:46:13		since nothing except the very outer run method is catching the exception, if you throw the exception in any of the onEntry methods it should push it all the way up to the top 
+2018-02-11 18:47:27	mrgray4	Hmm okay. I'll plug away for a while and see what happens 
+2018-02-11 18:47:42	mrgray4	?\_(?)_/? 
+2018-02-11 19:35:51	mrgray4	almost an hour of grasping at straws later: went with just tracking count in the run method, never used nested state,e and I'm done 
+2018-02-11 19:36:05	mrgray4	do I care? yes. is that amount of caring much smaller? definitely yes. [:100:1] 
+2018-02-27 08:48:57	jesse	hey so does anyone wanna study for the plm test today? 
+2018-02-27 08:49:45	jesse	i can do any time before plm :P 
+2018-02-27 09:22:21	gjabell	I'd be down 
+2018-02-27 09:30:20	jesse	any preference on when? 
+2018-02-27 09:31:20	gjabell	I'll be back on centennial around 10:15, I'm free until around 3
+2018-02-27 09:31:20		If you want to come to my apt I can make us some tea 
+2018-02-27 09:34:16	jesse	Sure! 
+2018-02-27 09:35:07	gjabell	I'll let you know when I'm back and you can come over whenever after that 
+2018-02-27 10:11:51	gjabell	Back, whenever you want to come over 
+2018-02-27 10:12:27	jesse	gotcha. I'll probably head over soon then. Where do ya live again? 
+2018-02-27 10:13:28	gjabell	Sounds good
+2018-02-27 10:13:28		Grove 
+2018-02-27 10:20:22	jesse	I'm at the front entrance  
+2018-02-27 10:20:51	gjabell	Kk 
+2018-02-28 21:11:46	jkayani	So it seems we have to remember the AWK stuff 
+2018-02-28 21:11:48	jkayani	Darn. 
+2018-02-28 21:12:20	jesse	:disappointed: 
+2018-02-28 21:13:00	mrgray4	I got up this morning to study. Then realized I had about 5hrs worth of GEP work and ethics stuff to do. Haven?t studied yet but almost done with my gep work :-). :-( 
+2018-02-28 21:13:43	jkayani	I mean I'd be kinda surprised if he grilled us on AWK since it doesn't seem that important to the class, but it's in review1.md so 
+2018-02-28 21:14:17	gjabell	at least it's pretty simple 
+2018-02-28 21:14:38	gjabell	plus I doubt we'll have to pull AWK code out of our ass 
+2018-02-28 21:14:47	gjabell	because that would be uncomfortable for everyone involved 
+2018-02-28 21:14:53	mrgray4	Darn I keep some stored up there 
+2018-02-28 21:14:54	jkayani	Hahaha - so just remember it's pattern + action 
+2018-02-28 21:14:58	mrgray4	for safe keeping  
+2018-02-28 21:15:52	gjabell	xD 
+2018-02-28 21:16:06	gjabell	pattern is true action is print, right? 
+2018-02-28 21:16:18	jkayani	Yeah action's def. print 
+2018-02-28 21:16:26	jkayani	Pattern is true? Meaning like if something evaluates to true? 
+2018-02-28 21:17:37	gjabell	I think it's more if you don't specify a condition it will always do the action 
+2018-02-28 21:18:08	jkayani	Oh OK 
+2018-04-09 22:06:24		getting channel history...
+2018-02-04 12:53:59	jkayani	Same 
+2018-02-04 12:55:18	jesse	gotcha. thank you guys. 
+2018-02-04 12:55:35	gjabell	np 
+2018-02-04 12:57:23	jesse	would i print that letter multiple times? 
+2018-02-04 12:57:53	gjabell	print it in the sample function you mean? because sample should just yield 
+2018-02-04 12:58:00	gjabell	I don't think anything needs to actually print 
+2018-02-04 12:58:04	jesse	sorry i mean yield... 
+2018-02-04 12:58:24	gjabell	sort of 
+2018-02-04 12:58:38	gjabell	you need to yield x samples where x is the 'enough' parameter 
+2018-02-04 12:59:14	gjabell	so the samples will be different each iteration but in theory they should statistically model the probabilities of the letters based on the input 
+2018-02-04 12:59:45	jesse	cuz i'm yielding the letter in descended sorted order.. but the result is that each letter is only yielded once which means s2 is only getting one of each letter.... 
+2018-02-04 12:59:57	jesse	what do I do with enough? 
+2018-02-04 13:00:33	jesse	should I multiply enough by the probability of each letter? 
+2018-02-04 13:00:33	gjabell	mine is a loop that generates 'enough' random letters 
+2018-02-04 13:00:40	gjabell	based on the probability of each letter 
+2018-02-04 13:00:56	gjabell	maybe, I just used a function from the standard library :P 
+2018-02-04 13:01:15	gjabell	https://docs.python.org/3/library/random.html?highlight=random#random.sample 
+2018-02-04 13:03:21	jesse	why are you randomizing it? 
+2018-02-04 13:03:42	gjabell	not sure, I guess it doesn't specity 
+2018-02-04 13:03:45	gjabell	specify* 
+2018-02-04 13:03:51	jkayani	They have a function for that 
+2018-02-04 13:03:54	gjabell	honestly I just figured we should be using random since we have a random seed 
+2018-02-04 13:03:57	jkayani	Damn I wrote my own weird thing 
+2018-02-04 13:04:10	gjabell	plus sample makes me think random sample 
+2018-02-04 13:04:16	gjabell	esp since we have the prob 
+2018-02-04 13:04:23	gjabell	yeah xD I'm lazy lol 
+2018-02-04 13:04:30	jkayani	No that's much smarter 
+2018-02-04 13:05:04	jkayani	I picked a random number and checked whether it was in the right "range" for any of the proabilities, and if so, picked randomly among the keys (characters) that had that probability 
+2018-02-04 13:06:04	gjabell	ah 
+2018-02-04 13:06:22	jesse	finally passed. that makes since but I'm not spending any more time on this assignment 
+2018-02-04 13:06:30	jesse	sense* 
+2018-02-04 13:07:37	jkayani	But wait, how did you use `random.sample()`? Did you "flatten" the counts dict. and then pass it along? 
+2018-02-04 13:08:06	jkayani	It just says it takes a "set" or "population sequence" 
+2018-02-04 13:08:17	jesse	i didn't randomize it at all 
+2018-02-04 13:08:28	jkayani	@gjabell 
+2018-02-04 13:10:29	gjabell	``` 
+2018-02-04 13:10:33	gjabell	```weights = [i.prob(x) for x in i.counts.keys()]
+2018-02-04 13:10:33		    for k in random.choices(list(i.counts.keys()), weights=weights, k=enough):
+2018-02-04 13:10:33		      yield k``` [:+1:1] 
+2018-02-04 13:10:39	gjabell	that was my sample func 
+2018-02-04 13:10:49	gjabell	although the last two lines are indented wrong lol 
+2018-02-04 15:40:30	mrgray4	just read through y'alls convo, slept in wayyyyyy too much haha. So read through and I think I understand what's going on in the HW2 code (wow Tim shorthands the heck out of everything, it's not bad but it takes getting used to. I guess that's python culture?) 
+2018-02-04 15:40:47	mrgray4	But the one thing I don't completely get is what i.adds (keeping track of inits??) in the sym object 
+2018-02-04 15:41:18	mrgray4	My best guess is keeping track of the adds that are done? But "best" is quite an overstatement, I'm not too sure 
+2018-02-04 15:42:11	jkayani	adds is for adding a list of chars, aka a string 
+2018-02-04 15:42:35	mrgray4	That's the def adds I think, why is it defined in the constructor? 
+2018-02-04 15:43:06	jkayani	It's called there 
+2018-02-04 15:43:12	mrgray4	OH 
+2018-02-04 15:43:19	mrgray4	duh 
+2018-02-04 15:43:21	mrgray4	whoops lol 
+2018-02-04 15:43:38	mrgray4	For some reason my brain was reading an equals sign/assignment between i.adds and the parens 
+2018-02-04 15:43:43	mrgray4	thank you :slightly_smiling_face: 
+2018-02-04 15:43:58	jkayani	Tim makes a lot of typos 
+2018-02-04 15:44:30	mrgray4	during class oh my word he sure does. Yeah that dunder mistake was pretty easy to spot thankfully because it was right under another dunder 
+2018-02-04 15:45:43	jkayani	Yeah idk why those are even there 
+2018-02-04 15:46:32	jkayani	But no I mean look at literally anything he types, and I bet you can find at least 10 errors. Really interesting 
+2018-02-04 15:46:45	gjabell	proof of concept mostly 
+2018-02-04 15:47:21	gjabell	yeah I feel like he just doesn't proofread stuff 
+2018-02-04 15:47:28	jesse	dunders don't seem like a good feature to me... remember in C how there was one assignment full of macros that made the code very difficult to read. I'm worried that dunders does that to code. but idk. 
+2018-02-04 15:47:29	gjabell	maybe it's because he's australian 
+2018-02-04 15:48:01	gjabell	idk the dunders can be nice I think, since it's essentially like a more powerful overload 
+2018-02-04 15:48:15	gjabell	it's like being able to overload toString in java, and assignments in c++ 
+2018-02-04 15:48:41	jkayani	Yeah it reminds me of C++ style overload where you can do operator overload 
+2018-02-04 15:48:54	gjabell	ideally you shouldn't ever really have to use dunders unless you are writing code to be used in other code I think 
+2018-02-04 16:06:58	mrgray4	Yep. I like them in a code-golf kind of way. They're pretty but I'd rarely use them in production unless I was making a data structure or something of that like where the built in operators were very natural to use 
+2018-02-10 09:11:04	jesse	For this PLM hw, are we supposed to make our own fsm? or expand upon his? 
+2018-02-10 09:14:55	mrgray4	The latter I?m fairly certain.  
+2018-02-10 09:15:04	mrgray4	Haven?t read it yet though 
+2018-02-10 09:15:12	mrgray4	But he talked about adding certain states 
+2018-02-10 09:15:29	mrgray4	Or quitting? 
+2018-02-10 09:15:40	mrgray4	Can?t remember. I?ve mentally checked out since Thursday  
+2018-02-10 09:16:04	gjabell	P sure we take the one he has, add more states, payload passthrough, and nonlocal exits 
+2018-02-10 09:28:00	jesse	its a lil weird, his instructions say to add states but I don't think he specifies which states to add. I'll look a lil more into it later. 
+2018-02-10 09:29:32	gjabell	I think we add states for being home and at school 
+2018-02-10 09:29:48	gjabell	To a supermachine that includes the other ones 
+2018-02-10 09:32:26	jesse	i know he mentioned that in class but there isn't anything written about being home or at school. 
+2018-02-10 09:33:11	gjabell	I think it says in the instructions doc 
+2018-02-10 09:34:23	jesse	I've been looking in the hw3.txt.. the most recent in the homework channel of plm 
+2018-02-10 09:34:49	gjabell	Hmm
+2018-02-10 09:34:49		Where did I see that then lol 
+2018-02-10 09:34:53	gjabell	Let me try and find it 
+2018-02-10 09:37:24	gjabell	Well now I'm confused xD 
+2018-02-10 09:37:29	jesse	xD 
+2018-02-10 09:37:54	jesse	these 495 teachers are great 
+2018-02-10 09:38:14	gjabell	Ikr 
+2018-02-10 12:27:08	jesse	I'm trying to follow the instructions he gave. I created a NestedState with an onEntry and onExit which just calls the superclasses methods, but I'm not quite sure what to do next. 
+2018-02-10 12:28:00	jesse	I'm thinking that we are supposed to make an FSM that uses that nested state somehow 
+2018-02-10 16:01:07	jkayani	My question is where does the nested machine come from? Like how is an instance of Machine passed to the NestedState so we can call `Machine.run()`? Does `State` need to have a `nestedMachine` instance variable too?  (edited)
+2018-02-10 16:08:34	jesse	I had the same questions... I have no answer 
+2018-02-11 11:47:49	gjabell	anyone know why we're supposed to use a struct for the payload? 
+2018-02-11 11:48:37	jkayani	No 
+2018-02-11 11:48:39	jkayani	Lol 
+2018-02-11 11:48:56	jkayani	I just used the o object he said was functionally a struct 
+2018-02-11 11:48:59	jesse	dunno. it seems like a global variable would do just fine. I guess he just thinks we should know how to make a class called struct 
+2018-02-11 11:49:13	gjabell	I mean, there is a struct class in python already 
+2018-02-11 11:49:21	gjabell	but it's for packing and unpacking bytes xD 
+2018-02-11 11:49:28	jkayani	Yeah exactly 
+2018-02-11 11:49:43	gjabell	this class xD 
+2018-02-11 11:51:56	mrgray4	so far he hasn't graded too hard on the "why" component. as long as it passes his little tests. first homework I just completely ignored the guidelines and got a 10/10 
+2018-02-11 11:52:10	mrgray4	By completely ignored, I mean used stuff we hadn't talked about explicitly for that hw 
+2018-02-11 11:53:17	gjabell	yeah 
+2018-02-11 11:53:29	gjabell	hopefully it'll be that way on the project too lol 
+2018-02-11 12:11:56	mrgray4	From what he said about not giving a hoot about the pythonista stuff he has shown us, I'm 99.9% sure that's the case :slightly_smiling_face: 
+2018-02-11 12:40:50	jkayani	The funny thing about this homework is the starter file already passes the test 
+2018-02-11 12:41:16	gjabell	lol 
+2018-02-11 12:42:17	jkayani	Anyone have any thoughts on the nested machine? Should the constructor be expanded to allow a Machine instance to be passed in? 
+2018-02-11 12:42:58	gjabell	I figured we could just subclass state and use its model to run the machine 
+2018-02-11 12:43:06	jkayani	Oh OK 
+2018-02-11 12:43:08	gjabell	but I might not be understanding it correctly 
+2018-02-11 12:43:46	jkayani	So we'd be running the same machine in the machine, instead of running any arbitrary machine in the machine 
+2018-02-11 12:44:11	gjabell	I guess so, honestly the whole thing is not explained very well [:+1:1] 
+2018-02-11 12:44:38	jkayani	My opinion on literally everything about PLM [:+1:1] 
+2018-02-11 12:44:43	gjabell	^ 
+2018-02-11 12:44:53	jkayani	I like Menzies, but I don't think anyone can deny that fact 
+2018-02-11 12:45:09	gjabell	yeah 
+2018-02-11 12:46:17	gjabell	actually looking at the hw3 spec it looks like we should pass in a machine 
+2018-02-11 14:18:35	mrgray4	@gjabell you meant the nested machine is passed in via the model right? 
+2018-02-11 14:18:41	mrgray4	the m instance var I mean 
+2018-02-11 14:20:13	gjabell	I think they need to be separate, otherwise you end up calling the outer machine's run method a bunch 
+2018-02-11 14:20:26	mrgray4	hmm okay 
+2018-02-11 14:20:28	gjabell	although I guess it depends how your write it 
+2018-02-11 14:20:47	gjabell	I just added another param to the State's __init__ method that was a machine to be passed in 
+2018-02-11 14:21:11	mrgray4	I was thinking that or add it to the nested machnine init 
+2018-02-11 14:21:31	mrgray4	Also another q, where Thing subclasses object, is that just o? why is it called object? 
+2018-02-11 14:21:32	gjabell	and it defaults to None in the state method of Machine 
+2018-02-11 14:22:05	gjabell	the issue with putting it in the nested machine init is that it breaks the use of the state method in Machine
+2018-02-11 14:22:05		ie you can't use it generally 
+2018-02-11 14:22:24	gjabell	Object is a built in class in python 
+2018-02-11 14:22:30	gjabell	like Object in java 
+2018-02-11 14:22:35	gjabell	I think at least 
+2018-02-11 14:22:46	gjabell	so Thing subclasses the object base class, and o subclasses Thing 
+2018-02-11 14:23:01	gjabell	technically you don't need the object subclass, it could just be Thing() 
+2018-02-11 14:23:07	mrgray4	Aaah. Thanks :slightly_smiling_face: 
+2018-02-11 14:23:15	gjabell	but I think there are benefits of using object, since it gains some additional methods 
+2018-02-11 14:23:38	gjabell	np xD
+2018-02-11 14:23:38		not sure if I did everything correctly so let me know if you find some oddness 
+2018-02-11 14:24:18	mrgray4	Will do, gonna take a break for a while because I've been doing work all morning, just getting a look over it all now so I can agonize over it while grocery shopping :smile: [:laughing:1] 
+2018-02-11 14:37:56	jkayani	Yeah I think I did something similar to Galen to get it working 
+2018-02-11 16:10:49	jkayani	Why do they ask us to increment the payload on each onEntry() method of the state, when we could just increment it in the step() method before calling onEntry()? 
+2018-02-11 16:12:24	jkayani	Oh I guess so that it counts the number of states visited, not the number of transitions taken. 
+2018-02-11 16:36:24	gjabell	you could probably do it either way 
+2018-02-11 16:36:30	gjabell	as long as you put it in the right plac 
+2018-02-11 16:36:31	gjabell	e 
+2018-02-11 17:17:00	jesse	how can I know that I did this correctly? 
+2018-02-11 17:21:12	gjabell	We can only guess xD 
+2018-02-11 17:22:02	jesse	i gotcha. 
+2018-02-11 17:22:28	gjabell	I think if it can do all the stuff specified and it has a 'pass' from the test it's probably good lol 
+2018-02-11 17:22:38	gjabell	At least that's how I'm choosing to interpret it 
+2018-02-11 17:29:42	jesse	I think my solution does most of what is required, but I'm not using the NestedState class at all.... where was I supposed to run that? 
+2018-02-11 17:31:59	gjabell	I just made two machines, with a nestedstate in the outer one, and the second machine inside the nestedstate 
+2018-02-11 17:32:32	gjabell	So it went into the nestedstate immediately, ran through until it hit the payload limit, broke back out into the outer machine, and ran until it exited 
+2018-02-11 17:33:14	jesse	do you have a NestedMachine object? 
+2018-02-11 17:34:02	gjabell	It's a subclass of state for me 
+2018-02-11 17:41:33	jesse	im still pretty confused... but I think I may have reached the point where I have spent too much time trying to understand this and need to move on other assignments. I'll just submit what I have. Thank you guys for your help. 
+2018-02-11 18:12:34	gjabell	I think we're all confused haha 
+2018-02-11 18:24:47	jesse	good thing it's our last homework 
+2018-02-11 18:25:00	mrgray4	all the marks! 
+2018-02-11 18:39:22	mrgray4	okay here's my interpretation so far for each step of the thing:
+2018-02-11 18:39:22		1 - make the nested state. this state calls m.run whenever it has hit onentry. when you include the payload stuff, this keeps track of the number of transitions made
+2018-02-11 18:39:22		2 - the payload, some object to keep track of transitions made. idk what the struct is, I just made a struct def that returns an instance of payload with the count set to whatever the parameter is lol
+2018-02-11 18:39:22		3 - non-local exit thing. I'm defining an error exception for reaching too many state transitions (15 transitions according to the hw3 doc) and I'm going to raise this whenever the machine run def detects the payload going over a count of 15 (which with the nested state, should happen because run keeps getting called?)
+2018-02-11 18:39:22		extra: I think I'm gonna pass the payload in via the onEntry method and increment it there, after the onEntry method the run method can detect whether it's pass the boundary 
+2018-02-11 18:39:38	mrgray4	how does that sound !channel 
+2018-02-11 18:40:06	mrgray4	that's my translations from Menzienese to English 
+2018-02-11 18:40:14	mrgray4	no guarantee on accuracy 
+2018-02-11 18:41:31	mrgray4	one addendum is I may need to put the checks in the state.step method 
+2018-02-11 18:41:47	mrgray4	I'm having trouble looking at where the actual transitioning is being done, it's confusing, surprise 
+2018-02-11 18:41:59	gjabell	that sounds like a reasonable interpretation xD
+2018-02-11 18:41:59		I think the nested state is basically a wrapper around an entire machine, so it should probably only call m.run once, and then the machine inside it takes over, but that might not be correct 
+2018-02-11 18:42:24	mrgray4	What part of the doc makes you think that out of curiosity 
+2018-02-11 18:42:34	mrgray4	I may be incorrect (too) xD 
+2018-02-11 18:42:46	gjabell	also not sure if this is correct either but I just made the payload a variable inside of the machine, rather than passing it around
+2018-02-11 18:42:46		and since the states have access to the machine they can just find the payload and increment it 
+2018-02-11 18:42:49	gjabell	hmm let me check 
+2018-02-11 18:44:11	gjabell	not sure if I have much rational for it, but the text says the onEntry method of the nestedstate should call run on the machine
+2018-02-11 18:44:11		and since running the machine causes it to transition through all of its states, it would need the machine to complete before the nestedstate calls run again 
+2018-02-11 18:44:42	gjabell	obviously the nestedstate will call run each time it is entered, so if the outer machine with the nested states transitions to the nestedstate multiple times, it will run the inner machine to completion for each time it is entered 
+2018-02-11 18:44:48	gjabell	which might be the same thing your saying, not sure 
+2018-02-11 18:46:13	gjabell	also I don't think you need checks in the step method but I could be wrong
+2018-02-11 18:46:13		since nothing except the very outer run method is catching the exception, if you throw the exception in any of the onEntry methods it should push it all the way up to the top 
+2018-02-11 18:47:27	mrgray4	Hmm okay. I'll plug away for a while and see what happens 
+2018-02-11 18:47:42	mrgray4	?\_(?)_/? 
+2018-02-11 19:35:51	mrgray4	almost an hour of grasping at straws later: went with just tracking count in the run method, never used nested state,e and I'm done 
+2018-02-11 19:36:05	mrgray4	do I care? yes. is that amount of caring much smaller? definitely yes. [:100:1] 
+2018-02-27 08:48:57	jesse	hey so does anyone wanna study for the plm test today? 
+2018-02-27 08:49:45	jesse	i can do any time before plm :P 
+2018-02-27 09:22:21	gjabell	I'd be down 
+2018-02-27 09:30:20	jesse	any preference on when? 
+2018-02-27 09:31:20	gjabell	I'll be back on centennial around 10:15, I'm free until around 3
+2018-02-27 09:31:20		If you want to come to my apt I can make us some tea 
+2018-02-27 09:34:16	jesse	Sure! 
+2018-02-27 09:35:07	gjabell	I'll let you know when I'm back and you can come over whenever after that 
+2018-02-27 10:11:51	gjabell	Back, whenever you want to come over 
+2018-02-27 10:12:27	jesse	gotcha. I'll probably head over soon then. Where do ya live again? 
+2018-02-27 10:13:28	gjabell	Sounds good
+2018-02-27 10:13:28		Grove 
+2018-02-27 10:20:22	jesse	I'm at the front entrance  
+2018-02-27 10:20:51	gjabell	Kk 
+2018-02-28 21:11:46	jkayani	So it seems we have to remember the AWK stuff 
+2018-02-28 21:11:48	jkayani	Darn. 
+2018-02-28 21:12:20	jesse	:disappointed: 
+2018-02-28 21:13:00	mrgray4	I got up this morning to study. Then realized I had about 5hrs worth of GEP work and ethics stuff to do. Haven?t studied yet but almost done with my gep work :-). :-( 
+2018-02-28 21:13:43	jkayani	I mean I'd be kinda surprised if he grilled us on AWK since it doesn't seem that important to the class, but it's in review1.md so 
+2018-02-28 21:14:17	gjabell	at least it's pretty simple 
+2018-02-28 21:14:38	gjabell	plus I doubt we'll have to pull AWK code out of our ass 
+2018-02-28 21:14:47	gjabell	because that would be uncomfortable for everyone involved 
+2018-02-28 21:14:53	mrgray4	Darn I keep some stored up there 
+2018-02-28 21:14:54	jkayani	Hahaha - so just remember it's pattern + action 
+2018-02-28 21:14:58	mrgray4	for safe keeping  
+2018-02-28 21:15:52	gjabell	xD 
+2018-02-28 21:16:06	gjabell	pattern is true action is print, right? 
+2018-02-28 21:16:18	jkayani	Yeah action's def. print 
+2018-02-28 21:16:26	jkayani	Pattern is true? Meaning like if something evaluates to true? 
+2018-02-28 21:17:37	gjabell	I think it's more if you don't specify a condition it will always do the action 
+2018-02-28 21:18:08	jkayani	Oh OK 
+2018-04-09 22:19:44	<--		@gjabell has left the channel 

@@ -1,0 +1,214 @@
+2018-04-19 13:08:14	&Galen	better lol
+2018-04-19 13:08:40	--	Jesse has changed the topic to "Healthy Procrastination"
+2018-04-19 13:08:57	&Galen	xd
+2018-04-19 13:11:01	&Galen	hmm
+2018-04-20 16:04:51	~Jesse	the twine project is a huge pain. I hope your team has started by now. :P 
+2018-04-20 16:05:03	&Galen	rip
+2018-04-20 16:05:05	&Galen	we haven't
+2018-04-20 16:19:48	~Jesse	our team spent 4 hours in the library today. one of which was on her phone the whole time. another persons sole job was to copy and paste things into twine, and somehow was confused the whole time.
+2018-04-20 16:19:48		and another person who came up with the whole idea of the story, couldnt really explain that idea.. and was mostly criticizing the stuff I would write. And we had to change enough from the design so that our story makes absolutely no sense now.
+2018-04-20 16:21:05	&Galen	good shit
+2018-04-20 16:21:16	&Galen	sounds like a productive 4 hours xD
+2018-04-20 16:26:40	~Jesse	xD not really.  idk why people can't just try to work, and verbalize their blocks of they have any.
+2018-04-20 16:26:52	~Jesse	if*
+2018-04-20 16:27:47	&Galen	cause people are inept
+2018-04-20 18:39:37	~Jesse	So ya know how I said I had written my last email about the PLM essay? XD
+2018-04-20 18:43:20	~Jesse	Someone told me that Laurie Williams was the CSC department head rather than Dr. Adams... so I emailed her lol. 
+2018-04-20 18:50:44	&Galen	xD
+2018-04-20 18:50:45	&Galen	nice
+2018-04-20 19:01:55	~Jesse	I also found out that for an assignment to be due on exam week, it 'must be approved by BOTH the csc department AND the dean of the college'
+2018-04-20 19:02:08	~Jesse	Dr. Adams left that part out in her email xD
+2018-04-20 19:03:15	&Galen	lol xD
+2018-04-20 19:03:20	&Galen	rather convenient
+2018-04-20 19:04:12	~Jesse	That should teach them to make an essay 9pt font xD
+2018-04-20 19:04:28	&Galen	xD
+2018-04-20 19:04:33	&Galen	I just really don't want to write it
+2018-04-20 19:04:38	&Galen	and idk who the fuck else would
+2018-04-20 19:04:49	~Jesse	Matt's excited to write it.
+2018-04-20 19:04:58	&Galen	but why
+2018-04-20 19:05:00	~Jesse	jk. hes been playing video games for the past few weeks
+2018-04-20 19:05:04	&Galen	lol xD
+2018-04-20 20:57:50	~Jesse	lol and then he asked me to help him install arch... and  then 2 days later he was like " alright, time to get windows instead"
+2018-04-20 20:58:10	&Galen	:(
+2018-04-20 21:01:16	~Jesse	I cant imagine building a pc is that hard... ive looked into it, and with like, 7 components and cables, Idk what the complicated part is... unless something jacks up.
+2018-04-20 21:02:01	&Galen	it's really not
+2018-04-20 21:02:14	&Galen	plus they make it super easy these days because it's really hard to put things in the wrong places
+2018-04-20 21:05:28	~Jesse	matt mustve been looking at the motherboard asking "so where do I install firefox?" xD
+2018-04-20 21:05:28		Im probably gonna take longer when I actually get around to makin somethin. lol
+2018-04-20 21:05:41	&Galen	xD
+2018-04-20 21:05:51	&Galen	maybe but 8 hours seems like a bit much lol
+2018-04-20 21:06:42	~Jesse	well there was a few hours that he just left all the parts out and left to go get food.
+2018-04-20 21:06:49	&Galen	oh
+2018-04-21 09:59:16	~Jesse	Do ya think I can DOS attack my Pi? or is that still illegal?
+2018-04-21 10:01:04	&Galen	If it's yours it's probably fine
+2018-04-21 10:01:17	&Galen	Idk if you have enough resources to do it tho
+2018-04-21 10:01:28	&Galen	I feel like you need a few computers at least
+2018-04-21 10:03:52	~Jesse	... so what you're saying is that you want in? xD. I actually don't know how much goes into DOS attacks. I assume it's not just a :
+2018-04-21 10:04:02	~Jesse	while true: curl jessesimpsoncodes.com
+2018-04-21 10:06:54	&Galen	XD
+2018-04-21 10:06:54		Not really sure either, I think it's just making a shitload of requests as fast as possible
+2018-04-21 10:11:21	~Jesse	One website was telling me that ping would work fine, but I tried it and it returned the message that I was only allowed to send packets of 84 bytes max.
+2018-04-21 10:17:55	&Galen	Well youd need a bunch of computers doing it to actually make a difference
+2018-04-21 10:18:38	~Jesse	I figured since it's a raspberry pi, it would be easier lol.
+2018-04-21 10:19:03	~Jesse	If pings are only 84 bytes, I would need a TON of tmux windows running ping xD
+2018-04-21 10:19:18	&Galen	Yeah xD
+2018-04-21 10:19:28	&Galen	Bunch of spun up VMs lol
+2018-04-21 10:19:29	~Jesse	or ya know, a multithreaded program, but tmux is probably less complex
+2018-04-21 10:22:59	&Galen	I think you'd actually have to spin up a bunch of containers or something, otherwise it'd take too long xD
+2018-04-22 12:27:20	&Galen	that sucks
+2018-04-22 12:27:23	&Galen	fair tho
+2018-04-22 12:28:09	&Galen	we still need to do our presentation too tho
+2018-04-22 12:29:02	~Jesse	what sucks more is that I'm not even the one who came up with the idea. It was a mix of the other two members' ideas and it's just awful.
+2018-04-22 12:29:18	&Galen	rip
+2018-04-22 12:29:44	&Galen	josh and I were working on hours yesterday and we ended up with something completely different than the original plan xD
+2018-04-22 12:31:26	~Jesse	We were gonna have a murder mystery, and they wanted one route where our character was the murderer.. and it really just turned into us writing a bunch of violent ways to kill the other players without any reason or build up... I kinda wanna delete that part of the story since it doesn't make any sense and the teachers probably won't appreciate the violence.
+2018-04-22 12:31:38	&Galen	lol
+2018-04-22 12:31:39	&Galen	yeah
+2018-04-22 12:31:48	~Jesse	And we wrote through that route first, so that's all we have.
+2018-04-22 12:31:55	&Galen	rip
+2018-04-22 12:32:37	&Galen	we didn't expand on ours too much when we made our design doc so it wasn't to hard to change
+2018-04-22 12:33:50	~Jesse	are you gonna update your design doc?
+2018-04-22 12:33:56	&Galen	prolly not
+2018-04-22 12:33:57	&Galen	lol
+2018-04-22 12:35:56	~Jesse	sweet. i didnt want to change mine either
+2018-04-22 12:36:07	&Galen	I'm not super worried about the grade for this project
+2018-04-22 12:36:34	&Galen	the 90-100 grading requirements are pretty lax anyways
+2018-04-22 12:37:10	&Galen	one of the requirements is 'has an ending' lol
+2018-04-22 12:37:37	~Jesse	yeah. Even still, writing assignments in general are just painful.
+2018-04-22 12:37:48	&Galen	yep
+2018-04-22 12:37:52	&Galen	our writing is terrible
+2018-04-22 12:40:24	~Jesse	saaaammmee. In ours, it seems like the time period the story takes place has changed from the beginning of the story to halfway through. Cuz one person in our group wanted it to relate to a real life event that only he knows what happened.
+2018-04-22 12:40:41	&Galen	seems good
+2018-04-22 12:40:47	~Jesse	it's just awful
+2018-04-22 12:41:12	~Jesse	our characters have dumb names too.. like Jadwiga, Vetschyv, and Yegor.
+2018-04-22 12:41:56	&Galen	wat
+2018-04-22 12:42:13	~Jesse	halfway through the story, you just realize that Yegor is your fiancee... cuz it isn't explained or relevant anywhere else in the story.
+2018-04-22 12:42:24	&Galen	lol
+2018-04-22 12:42:26	&Galen	dafuq
+2018-04-22 12:43:18	~Jesse	oh and our characters from the 1400's occasionally use modern slang.
+2018-04-22 12:43:43	&Galen	wait why the hell are they from the 1400s
+2018-04-22 12:43:48	~Jesse	Luckily, we are killing all of these characters.
+2018-04-22 12:43:55	~Jesse	cuz one moron in our group wanted it that way.
+2018-04-22 12:44:08	~Jesse	and couldn't explain how to write the story...
+2018-04-22 12:44:51	&Galen	why doesn't he write everything then
+2018-04-22 12:45:00	~Jesse	last project, we were all on my idea, so this time, I would've felt bad if I took the lead again... but I really regret not taking over everything.
+2018-04-22 12:45:32	&Galen	yeah...
+2018-04-22 12:46:04	&Galen	just gotta take charge and say fuck it xD
+2018-04-22 12:46:16	~Jesse	yeah, he should be writing stuff, but instead, hes just criticizing everything I write that is based off his dumb idea.
+2018-04-22 12:46:34	&Galen	lol
+2018-04-22 12:46:46	&Galen	just tell him you aren't writing anything anymore and he needs to write the rest
+2018-04-22 12:47:12	~Jesse	I'm not that kind to myself.
+2018-04-22 12:47:51	&Galen	do it fam
+2018-04-22 12:47:55	&Galen	fuck em
+2018-04-22 12:48:01	~Jesse	eww thats gross.
+2018-04-22 12:48:14	&Galen	well
+2018-04-22 12:48:16	&Galen	not in that way xD
+2018-04-22 12:48:26	~Jesse	xD
+2018-04-22 12:56:52	~Jesse	i think I'm gonna do some gymnastics today, so if you want to study, it would have to be either now until 3:30ish or after 7.
+2018-04-22 12:57:19	&Galen	ok, maybe later then
+2018-04-22 12:57:31	~Jesse	okay
+2018-04-22 12:57:56	&Galen	I need to finish some projects first, since PLM isn't for a week or so :P
+2018-04-22 13:05:06	~Jesse	yeah. all i have left is the plm essay (which i wanna get an email back from dr. williams first) and the game design project (which sucks)
+2018-04-22 13:05:06		so that just leaves studying.
+2018-04-22 13:05:20	&Galen	yeah
+2018-04-22 13:05:30	&Galen	I've got those two and my comp sec hw
+2018-04-22 13:05:48	~Jesse	ahh but thats just a couple problems!!
+2018-04-22 13:05:53	~Jesse	xD
+2018-04-22 13:05:57	&Galen	xD
+2018-04-22 13:06:01	&Galen	I only need two more lol
+2018-04-22 20:12:19	~Jesse	hey, did dr. menzies say anywhere whether the essay was per group or per individual? it seems another student was asking about this.
+2018-04-22 20:12:35	&Galen	Nope
+2018-04-22 20:12:45	&Galen	As per usual we are very much in the dark
+2018-04-22 20:12:59	&Galen	On both who's supposed to do it and what it's supposed to be about xD
+2018-04-22 20:15:52	~Jesse	I'm planning on calling a few numbers tomorrow about trying to get the essay removed. The problem is, there aren't many numbers I can call. There isn't exactly a 'Department of Rules and Regulations' that I can phone up... but sure enough, theres a department for students disobeying regulations...
+2018-04-22 20:17:05	~Jesse	The more I'm learning about this crap, the more I'm disgusted at ncsu's structure.
+2018-04-22 20:25:10	&Galen	XD
+2018-04-22 20:25:14	&Galen	Yea it's bs
+2018-04-22 20:27:19	&Galen	Also were you aware that this wonderful essay of which we know nothing is worth 15% of our grade? :)
+2018-04-22 20:27:59	~Jesse	Yeah. I mentioned that in my email to Dr. Laurie Williams... but from what all my peers say, she never answers her emails.
+2018-04-22 20:29:25	&Galen	Rip
+2018-04-22 20:29:39	~Jesse	If you want, you could help contact people and complain with me :)
+2018-04-22 20:29:43	&Galen	It's just bs that on top of styding for exams I also have to worry about this pos essay
+2018-04-22 20:31:02	~Jesse	You should contact Dr. Adams, and say that it's a violation on the principle that the assignment has to be approved by the csc department head as well as the dean.
+2018-04-22 20:31:44	~Jesse	As well as mention that moving the assignment back to this upcoming week will be a violation unless once again approved by the head of the computer science department.
+2018-04-22 20:31:46	&Galen	I feel like She'll just brush it off like she did you tho
+2018-04-22 20:32:17	&Galen	What we really need is to get everyone in the class to agree that we think it's dumb
+2018-04-22 20:32:17	~Jesse	She might, but it would at least make her see that it isn't just me with a problem with this.
+2018-04-22 20:32:44	&Galen	It's pretty unlikely that we are going to get outside help I think BC the admins couldnt care less
+2018-04-22 20:32:53	~Jesse	I'd also like a person who's graduating to complain about the fact that the assignment is now due on the CSC Graduation Date.
+2018-04-22 20:33:05	&Galen	But if we get everyone in the class to voice their concerns to Menzies he'd probably be a lot more likely to call it off
+2018-04-22 20:33:09	&Galen	Hmm ueab
+2018-04-22 20:33:19	&Galen	Idk if anyone in the class is a grad tho
+2018-04-22 20:33:39	~Jesse	I'm pretty sure both of my group members are... but they don't really wanna fight this.
+2018-04-22 20:34:37	&Galen	Oh
+2018-04-22 20:34:42	~Jesse	The problem with having everyone voice their concerns to menzies is that menzies brushes it off and not enough people care to fight it any more
+2018-04-22 20:35:12	&Galen	If we bring it up in class and literally the whole class agrees it'll force him to listen
+2018-04-22 20:35:36	~Jesse	He'll just say that he pushed it back twice already.
+2018-04-22 20:36:04	~Jesse	And I don't really want to be the one to point this out.
+2018-04-22 20:36:08	&Galen	Then we get everyone to agree not to do it
+2018-04-22 20:36:29	~Jesse	I don't think anyone would agree to that.
+2018-04-22 20:37:12	&Galen	I guess
+2018-04-22 20:37:12		It's a nice thought tho
+2018-04-22 20:38:36	~Jesse	yeah. I'll see where I get tomorrow with calling the department of registration and records... maybe dr. williams will contact me back.. idk. 
+2018-04-22 20:38:51	&Galen	Yeah
+2018-04-22 20:39:10	~Jesse	I hope Dr. Adams doesn't contact me back and make things awkward again.
+2018-04-22 20:39:48	~Jesse	I hate that she felt she had the authority to make a decision herself.
+2018-04-22 20:40:35	&Galen	Yeah
+2018-04-23 09:45:35	&Galen	so apparently we don't have PLM this week, and instead need to meet with tim in our groups to talk about our projects...
+2018-04-23 09:45:46	&Galen	also game design test 2 grades are out
+2018-04-23 09:58:26	~Jesse	I did not see the grades. I'm glad we don't have class, but I'm kinda mad we have to meet with him.
+2018-04-23 09:59:40	&Galen	hmmm... mine show up, might be that they are still putting them in
+2018-04-23 09:59:43	&Galen	yeah, same
+2018-04-23 09:59:55	&Galen	I just really hope my team comes with bc otherwise it's going to be awkward lol
+2018-04-23 10:01:23	~Jesse	shoot yeah. I imagine so. Hope menzies doesn't hold a grudge against ya.
+2018-04-23 10:01:57	&Galen	That and also outing my team for not doing anything xD
+2018-04-23 10:02:17	~Jesse	oh you went to menzies for that?
+2018-04-23 10:02:21	&Galen	No
+2018-04-23 10:02:22	~Jesse	Nice!
+2018-04-23 10:02:23	~Jesse	oh
+2018-04-23 10:02:37	&Galen	But if they don't come with me I'll probably just tell him they didn't do any of the work
+2018-04-23 10:02:54	&Galen	Although at least that way I'd have a good excuse for why my project was shit lol
+2018-04-23 10:05:53	&Galen	well looks like at least 1 is going to be there
+2018-04-23 10:05:55	&Galen	so that's good lol
+2018-04-23 10:27:27	~Jesse	xD nice. I haven't messaged my group yet.
+2018-04-23 10:27:43	~Jesse	or looked at the time slots.
+2018-04-23 10:29:27	&Galen	it looks like they are only T/Th 3-520pm
+2018-04-23 10:37:32	~Jesse	that's good. hopefully I can get in on Tuesday. Do you know what we need to talk to menzies about? it seems kinda vague.
+2018-04-23 10:49:03	&Galen	I think we just tell him about what abstractions we made and why
+2018-04-23 10:49:09	&Galen	pretty much just walk him through our project
+2018-04-23 10:55:53	~Jesse	ok so its not anything about the paper.
+2018-04-23 10:55:57	&Galen	nope
+2018-04-23 14:23:09	~Jesse	So, Dr. Menzies might be our savior in this paper. he says he will "consult with the csc ugrad office regarding the policy".
+2018-04-23 14:23:37	&Galen	did you send him an email?
+2018-04-23 14:23:42	~Jesse	I slacked him
+2018-04-23 14:23:49	&Galen	dude
+2018-04-23 14:23:50	&Galen	sweet
+2018-04-23 14:25:49	~Jesse	It still appalls me that we don't have any sort of person or group of people I can report our teacher to. If this were a more serious scenario, ncsu wouldn't care at all. 
+2018-04-23 14:25:59	&Galen	yep
+2018-04-23 15:58:00	~Jesse	you should complain and get your group members to complain.
+2018-04-23 15:59:27	&Galen	I'll see if I can get them on board
+2018-04-23 16:08:14	~Jesse	you should complain too galen. :)
+2018-04-23 16:16:59	&Galen	I'll mention it on thurs when we have our meeting
+2018-04-23 16:23:45	~Jesse	thanks
+2018-04-23 16:24:01	~Jesse	a slack message too would be wonderful :)
+2018-04-23 16:24:24	~Jesse	cuz the sooner people message him, the more likely he'll be able to change something.
+2018-04-23 16:33:27	&Galen	yeah
+2018-04-23 16:33:57	&Galen	I kinda don't want to piss him off until he grades my thing tho cause I already bitched at him about the grading lol
+2018-04-23 16:40:05	~Jesse	I gotcha, but it would still be a huge help for him to know you think this essay is BS.
+2018-04-23 16:48:02	&Galen	yea ik
+2018-04-23 23:31:47	~Jesse	seeing all these messages has made me happier than ive been in months lol. thats kinda sad.
+2018-04-24 08:15:16	~Jesse	I was gonna give up like 8 times haha.
+2018-04-24 08:16:19	~Jesse	Matts Response: Ahh good. Now I have time to play video games.
+2018-04-24 10:56:53	~Jesse	it seems to pass. maybe it just overheated or something.
+2018-04-24 10:57:06	&Galen	hmm
+2018-04-24 10:57:10	&Galen	yeah could be
+2018-04-24 10:57:23	&Galen	probably don't need to worry about it unless it keeps happening
+2018-04-24 10:59:22	~Jesse	yeah. It usually happens once a week and happened a lot more when I had memory heavy processes running (like elasticsearch for research)
+2018-04-24 10:59:40	&Galen	ah
+2018-04-24 10:59:44	&Galen	that's kinda weird
+2018-05-13 15:14:42	~Jesse	Stow is pretty nice. I was even able to link my own config directory right inside my dotfiles directory. I don't think I'll put it on git though.
+2018-05-15 14:53:08	~Jesse	so none of my computer parts came with the mail in rebates that their websites said they offered xD.  except for one, which looked like a gift card to some vegan restaurant lol
+2018-05-15 14:53:37	~Jesse	that isn't in North Carolina
+2018-05-15 14:54:08	~Jesse	I'm not even mad cuz it's just funny
+2018-05-16 08:35:34	~Jesse	Hey Galen, are you awake?
+2018-05-16 09:47:31	~Jesse	i had questions, but since my computer works, I guess I dont have any questions anymore. I just need to wait on the wifi adapter and the fans... and the wifi adapter has been out of stock xD

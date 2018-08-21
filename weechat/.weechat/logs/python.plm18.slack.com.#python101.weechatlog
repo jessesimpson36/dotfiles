@@ -1,0 +1,83 @@
+2018-04-19 16:43:47		getting channel history...
+2018-01-25 17:15:34	-->		@timm has joined the channel 
+2018-01-25 17:15:44	-->		@Anastasia has joined the channel 
+2018-01-25 17:15:45	-->		@asuh has joined the channel 
+2018-01-25 17:15:47	-->		@Wenting has joined the channel 
+2018-01-25 17:15:47	-->		@gcwatts has joined the channel 
+2018-01-25 17:15:48	-->		@vtrenich has joined the channel 
+2018-01-25 17:15:49	-->		@AnthonySu has joined the channel 
+2018-01-25 17:15:49	-->		@schan3 has joined the channel 
+2018-01-25 17:15:49	-->		@jwstanl3 has joined the channel 
+2018-01-25 17:15:50	-->		@jfave has joined the channel 
+2018-01-25 17:15:50	-->		@hfernan has joined the channel 
+2018-01-25 17:15:51	-->		@bcmorri3 has joined the channel 
+2018-01-25 17:15:51	-->		@Dan.Grochmal has joined the channel 
+2018-01-25 17:15:53	-->		@snturner has joined the channel 
+2018-01-25 17:15:53	-->		@riestell has joined the channel 
+2018-01-25 17:15:57	-->		@SamuelHenderson has joined the channel 
+2018-01-25 17:15:57	-->		@cmthomp7 has joined the channel 
+2018-01-25 17:15:58	-->		@Connor has joined the channel 
+2018-01-25 17:15:58	-->		@wjglas has joined the channel 
+2018-01-25 17:15:59	-->		@MattGray has joined the channel 
+2018-01-25 17:16:11	Dan.Grochmal	How to create objects 
+2018-01-25 17:16:11	MattGray	List comprehension syntax and how to make the most use of it 
+2018-01-25 17:16:16	bcmorri3	Using dictionaries. 
+2018-01-25 17:16:17	AnthonySu	duck type, flexible syntax, veeeeeeeeeeery slow. 
+2018-01-25 17:16:18	vtrenich	how to open and read from/write to files 
+2018-01-25 17:16:20	jamazzol	how to create a class 
+2018-01-25 17:16:21	Wenting	inheritance 
+2018-01-25 17:16:21	jkayani	What does `[2:]` do 
+2018-01-25 17:16:30	Connor	How scalable it is 
+2018-01-25 17:16:32	asuh	python's main method 
+2018-01-25 17:16:39	riestell	is making an objects __init__ with **kwordargs an okay/proper thing to do? 
+2018-01-25 17:16:39	kjandre2	subclasses 
+2018-01-25 17:16:41	ejgillia	Multiprocessing  
+2018-01-25 17:16:42	hfernan	how to use packages 
+2018-01-25 17:16:43	camara	how fast is it 
+2018-01-25 17:16:45	schan3	how to unit test in python 
+2018-01-25 17:16:51	cmthomp7	how to be most efficient 
+2018-01-25 17:16:51	Jesse	lambda functions [:+1:2] 
+2018-01-25 17:16:53	Jamacle2	What do I need or want to know but don't? [:+1:4] 
+2018-01-25 17:16:53	Anastasia	Is the ternary operator supported???? 
+2018-01-25 17:16:54	jfave	Closures 
+2018-01-25 17:16:59	riestell	read single key from stdin 
+2018-01-25 17:17:02	RaymondWoods	tuples 
+2018-01-25 17:17:03	ThomasDickerson	Are there built in ways to decide whether my regular lists will be ArrayLists or LinkedLists to improve efficiency given a certain problem 
+2018-01-25 17:17:11	Kenny	asynchronous handling 
+2018-01-25 17:17:16	GradyStewart	how to utilize regular expressions within python 
+2018-01-25 17:17:18	gjabell	best practices for large projects 
+2018-01-25 17:17:19	cnkeesee	macros 
+2018-01-25 17:17:20	schan3	Exceptions 
+2018-01-25 17:17:21	gcwatts	GUIs? 
+2018-01-25 17:17:27	Jesse	difference between tuple vs dictionary 
+2018-01-25 17:17:29	MattGray	basic OOP would sum up a few above messages  (edited)
+2018-01-25 17:17:33	schan3	How to do regular expression in python 
+2018-01-25 17:17:36	cjhall3	is __init__ run automatically 
+2018-01-25 17:17:38	ajshryoc	Built in data structures 
+2018-01-25 17:17:41	dgrao2	important library functions 
+2018-01-25 17:17:42	adbishel	Is there a switch/case? 
+2018-01-25 17:18:15	MattGray	dictionary comprehensions 
+2018-01-25 17:19:01	Dax	types and casting 
+2018-01-25 17:44:58	AlexPhelps	https://www.codecademy.com/learn/learn-python
+2018-01-25 17:44:58		For learning Python, I highly recommend this website.  You will need an account (free) but it has interactive tutorials all in browser.  It's pretty great, and offers step by step teaching.  It teaches through Python 2, however, so you will note some things will be slightly different between those lessons and Python 3.  The main differences in the lessons (if I remember correctly) are:
+2018-01-25 17:44:58		- range function
+2018-01-25 17:44:58		- printing (print is a function in Python 3)
+2018-01-25 17:44:58		- rawinput() became input() in Python 3
+2018-01-25 17:44:58		I used this to learn Python a few summers ago for work and was very pleased with how straightforward it was.
+2018-01-25 17:44:58		Learn Python
+2018-01-25 17:44:58		Codecademy is the easiest way to learn how to code. It's interactive, fun, and you can do it with your friends. [:+1:1] 
+2018-01-25 19:44:29	Anastasia	https://www.coursera.org/specializations/python
+2018-01-25 19:44:29		This one teaches python 3.  All 5 of the python courses with homework submissions are free for a week, after that you can just audit (just watching videos) the courses for free. They are super easy and the teacher is adorable. Play it 2x speed though.
+2018-01-25 19:44:29		Python for Everybody | Coursera
+2018-01-25 19:44:29		Python for Everybody from University of Michigan. This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program ... [:+1:1] 
+2018-01-26 09:59:07	ejgillia	If you already know another language (which we all do) a full course is probably overkill. This is a very concise reference of 70% of the functionality you will need https://learnxinyminutes.com/docs/python3/ [:+1:3] 
+2018-01-30 17:40:03	timm	https://rszalski.github.io/magicmethods/
+2018-01-30 17:40:03		A Guide to Python's Magic Methods ? rafekettler.com
+2018-01-30 17:40:03		A guide to all the Magic Methods in Python 
+2018-02-02 20:58:59	timm	http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html
+2018-02-02 20:58:59		30 Python Language Features and Tricks You May Not Know About
+2018-02-02 20:58:59		A list of Python tips and tricks. See how many of them you already know. Coding, mathematics, and problem solving - by Sahand Saba. 
+2018-02-06 16:35:22	adbishel	In class the other day you mentioned special functions that began with a dunder such as the `__iadd(i, x)` function in the last homework. What were these called and why are they special again? 
+2018-02-06 16:38:27	SamuelHenderson	https://www.python-course.eu/python3_magic_methods.php 
+2018-02-06 16:38:42	SamuelHenderson	From the course homepage 
+2018-02-06 16:40:00	adbishel	That?s what they were, thanks! 

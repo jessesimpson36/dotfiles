@@ -1,0 +1,41 @@
+2018-03-16 14:45:27		getting channel history...
+2017-02-20 14:08:16	chrisaben	@chrisaben uploaded a file: https://sturgill-operators.slack.com/files/U3VPK7W13/F477KRHFA/inside.java (Inside.java) 
+2017-02-20 14:14:44	chrisaben	its definitely a problem in checking if they are actually inside 
+2017-02-20 14:14:56	chrisaben	i wrote up a serial version with the same code and got the same results 
+2017-02-20 14:17:42	chrisaben	which comparatively looks exactly the same...so maybe it's being read incorrectly? 
+2017-02-20 14:20:54	jesse	I don't see a problem checking if they are inside. I'm thinking there may be a problem in the situation where the counter has to check if the point has already been counted... but I'm not sure. I'm still lookin at it. 
+2017-02-20 14:23:55	jesse	I was also wondering if the workerNum started at 0 or 1. 
+2017-02-20 14:24:39	chrisaben	Its not the workers, I removed all of that in a different version and get the same result 
+2017-02-20 14:24:59	chrisaben	I dont have any threads other than main running in this version and its the exact same issue 
+2017-02-20 14:25:14	chrisaben	it starts at 0, but it didnt change anything 
+2017-02-20 14:25:27	chrisaben	here, Ill send you the serial version since its very slim 
+2017-02-20 14:26:38	chrisaben	@chrisaben uploaded a file: https://sturgill-operators.slack.com/files/U3VPK7W13/F48K5LCB0/insideserial.java (InsideSerial.java) 
+2017-02-20 14:31:26	jesse	I can't actually run this program. Ill try starting it up in eclipse 
+2017-02-20 14:31:58	chrisaben	yea, remove the package statement, it should work 
+2017-02-20 14:32:19	chrisaben	you also dont need the throws clause on main, thats left over from the parallel version 
+2017-02-20 14:43:35	jesse	the only thing I can think of is maybe processing line by line and have the lines be processed into ints... not doing that could be screwing things up. 
+2017-02-20 14:43:51	jesse	thats how my circle processor works 
+2017-02-20 14:44:11	chrisaben	I tried that but didnt see any noticeable different last time. Ill try it again and see 
+2017-02-20 14:44:15	chrisaben	thanks for taking a looking 
+2017-02-20 14:45:19	chrisaben	same result :confused: 
+2017-02-20 14:58:20	jesse	everything else looks identical to my code. and even when I modify your code to look more like mine, it continues to misbehave. 
+2017-02-20 14:58:33	chrisaben	-_- i dont get it 
+2017-02-20 15:01:26	chrisaben	You're using an array list too? 
+2017-02-20 15:01:36	jesse	yes 
+2017-02-20 15:01:37	chrisaben	everything that is static is static in your code as well? 
+2017-02-20 15:01:44	chrisaben	I legit cant think of anything haha 
+2017-02-20 15:02:15	jesse	INSIDE THE INSIDE FUNCTION 
+2017-02-20 15:02:20	chrisaben	YOU FOUND IT????? 
+2017-02-20 15:02:28	jesse	dy = y - c.y 
+2017-02-20 15:02:47	chrisaben	OMFG 
+2017-02-20 15:02:49	jesse	not x - c.y 
+2017-02-20 15:02:50	chrisaben	asdfasdfalskdfjasdf 
+2017-02-20 15:04:55	chrisaben	its working now X 
+2017-02-20 15:04:56	chrisaben	D 
+2017-02-20 15:04:57	chrisaben	XD 
+2017-02-20 15:05:23	chrisaben	I spent 2 hours, I had the program finished except for that 1 little typo so long ago 
+2017-02-20 15:05:41	jesse	ya know, I checked that part of my code so many times but couldnt see it. 
+2017-02-20 15:07:03	chrisaben	I glossed over that and looked over the return statement like 10 times at least 
+2017-02-20 15:07:14	chrisaben	I figured it was so much more complex than it actually was lol 
+2017-02-20 15:07:57	jesse	lol yeah. well, I'm gonna get started looking over automata. good luck 
+2017-02-20 15:08:31	chrisaben	thanks again man :heart: 

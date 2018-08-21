@@ -1,0 +1,659 @@
+2018-04-09 21:57:45	~jesse	This is from my command line :)
+2018-04-09 21:57:51	&Galen	:D
+2018-04-09 21:58:03	~jesse	I was being an idiot for a moment..
+2018-04-09 21:58:12	&Galen	now I gotta figure out how to connect to weechat on my phone, then i'll be set lol
+2018-04-09 21:58:16	&Galen	I know the feeling xD
+2018-04-09 21:58:36	~jesse	xD just ssh into your computer
+2018-04-09 21:58:46	&Galen	eh...
+2018-04-09 21:59:03	&Galen	I would rather not make my computer publically available, even over ssh xD
+2018-04-09 22:00:03	~jesse	good point
+2018-04-09 22:02:32	~jesse	I'm trying to get weechat to get rid of heckman hackers.
+2018-04-09 22:02:37	~jesse	are you not fine with riot?
+2018-04-09 22:02:48	~jesse	i think the phone app is pretty good
+2018-04-09 22:03:05	&Galen	yeah, it's not bad
+2018-04-09 22:03:15	&Galen	I just like the idea of everything being in one place lo
+2018-04-09 22:03:17	&Galen	lol
+2018-04-09 22:03:27	&Galen	although I guess after PLM I won't really have any other slack things
+2018-04-09 22:03:37	&Galen	esp if we start using this instead of heckman's hackers
+2018-04-09 22:08:22	~jesse	sorry about that
+2018-04-09 22:08:30	~jesse	I learned the part command...
+2018-04-09 22:08:39	&Galen	no problem
+2018-04-09 22:08:39	&Galen	xD
+2018-04-09 22:09:08	&Galen	what's the diff between leave and part?
+2018-04-09 22:09:12	&Galen	or is there one?
+2018-04-09 22:10:12	~jesse	i dont think there is a difference. ones just an alias of the other
+2018-04-09 22:10:19	&Galen	ah ok
+2018-04-09 22:10:31	&Galen	so should we try to get some other people on here?
+2018-04-09 22:10:47	~jesse	you can set a parting message. but I dont want people to know I left lol.
+2018-04-09 22:10:53	&Galen	ah, nice
+2018-04-09 22:16:48	~jesse	and yeah. We can add ppl. I'm gonna try to be a little selective of who I add since I'm not sure yet how much my pi will be able to handle. My guess is it won't really matter
+2018-04-09 22:17:07	&Galen	yeah that's fair
+2018-04-09 22:17:14	&Galen	I'd be more concerned about media storage
+2018-04-09 22:17:44	~jesse	if people post pictures or videos?
+2018-04-09 22:17:47	&Galen	yeah
+2018-04-09 22:18:09	~jesse	there might be a setting to auto-delete old messages
+2018-04-09 22:18:25	&Galen	good point, I guess that'd be in the config file
+2018-04-09 22:22:30	~jesse	I like that we can both have our own servers and still connect to eachother.
+2018-04-09 22:22:38	&Galen	yeah ik this is super neat xD
+2018-04-09 22:22:46	&Galen	plus we could connect to other servers
+2018-04-09 22:23:12	~jesse	yeah, but I can't imagine something like this being all that popular
+2018-04-09 22:23:25	&Galen	idk the applications for the protocol are pretty great
+2018-04-09 22:23:31	&Galen	cause it's decentralized
+2018-04-09 22:23:43	&Galen	which in general is a better model than centalization
+2018-04-09 22:24:44	~jesse	nahhh... I think the whole internet should reside on one ginormous server. Nothing wrong could possibly happen. 
+2018-04-09 22:24:58	&Galen	XD
+2018-04-09 22:25:07	&Galen	One server
+2018-04-09 22:25:07		No backups
+2018-04-09 22:25:07		Let's go
+2018-04-09 22:25:54	~jesse	xD
+2018-04-09 22:26:45	~jesse	and we can have Windows on a separate partition too! theres no way windows would do anything to harm other partitions on the same hard drive!
+2018-04-09 22:27:05	&Galen	Eww
+2018-04-10 10:33:04	&Galen	they are becoming more popular, partly people just don't have the capabilities to stream 4k lol
+2018-04-10 10:35:10	&Galen	so the invites you sent me yesterday won't go away, because they are for invalid rooms xD
+2018-04-10 10:35:14	&Galen	so I can't decline or accept them lol
+2018-04-10 10:35:37	~jesse	:( im sorry.
+2018-04-10 10:35:46	~jesse	I probably sent 8 of them too
+2018-04-10 10:35:47	&Galen	it's all good haha
+2018-04-10 10:35:50	&Galen	nah just 2 atm
+2018-04-10 10:35:57	~jesse	I would check the web client
+2018-04-10 10:36:08	~jesse	i think you can remove them through that
+2018-04-10 10:36:09	&Galen	weird thing is they don't show up on my phone
+2018-04-10 10:36:14	&Galen	that's what they show up on haha
+2018-04-10 10:57:11	~jesse	i think i try too hard on these game logs lol
+2018-04-10 10:57:20	&Galen	probably xD
+2018-04-10 11:45:46	~jesse	alright. it ended up being around 1200 words lol. I had to refrain myself from trying too hard and blabbing about world mythology xD
+2018-04-10 11:45:55	&Galen	lol xD
+2018-04-10 11:52:48	~jesse	Do you know if theres any way to integrate twine with version control?
+2018-04-10 11:52:58	&Galen	not off the top of my head
+2018-04-10 11:53:16	&Galen	but they are all text files so worst case you could export it into a folder and use git with that
+2018-04-10 11:54:19	~jesse	I gotcha, I think making everyone able to work on the project was the real bottleneck on the last project.
+2018-04-10 11:54:28	&Galen	yeah
+2018-04-10 11:54:35	&Galen	we ended up having to not work at the same time
+2018-04-10 11:54:54	&Galen	we still used git bc it was convenient but if multiple people tried working at once we'd end up with ridiculous merge conflicts
+2018-04-10 12:00:49	~jesse	I made my team members say they are working on it in groupme before they start and say they stopped whenever they stopped
+2018-04-10 12:01:04	&Galen	yeah that's pretty much what we did too
+2018-04-10 12:01:12	&Galen	worked out alright once we figured it out xD
+2018-04-10 12:01:54	~jesse	Stencyl was just so buggy though. it kept making invisible walls in our levels that we had to design our level around.
+2018-04-10 12:02:02	&Galen	yeah
+2018-04-10 12:02:06	&Galen	it's pretty shit
+2018-04-10 12:47:47	~jesse	have you figured out a way in python to not have ModuleNotFoundErrors? I've been trying to add my project directory to my system path, but thats a really hacky way to do it cuz anyone working in python has to change their sys path within every script that calls it.
+2018-04-10 12:48:12	&Galen	for the project?
+2018-04-10 12:48:21	&Galen	also where is it calling ModuleNotFound?
+2018-04-10 12:48:25	~jesse	yup. or any python file
+2018-04-10 12:49:01	&Galen	sounds like it's probably not importing things correctly
+2018-04-10 12:49:23	~jesse	i'm trying to run something in test/test.py  but it has to import things from src/model/cards.py. 
+2018-04-10 12:49:50	&Galen	what does your import statement look like?
+2018-04-10 12:52:41	~jesse	import src.model.cards  I'm trying to get away from relative paths though
+2018-04-10 12:52:58	&Galen	why
+2018-04-10 12:53:54	&Galen	the other thing you could do if you wanted to do stuff with the path is use virtualenv
+2018-04-10 12:54:08	&Galen	push it to git, then everyone just source it when they work on the project
+2018-04-10 12:54:47	~jesse	because it was giving me other errors and is very frustrating if you're reformating the directory structure
+2018-04-10 12:54:53	&Galen	fair enough
+2018-04-10 12:57:40	~jesse	Does this not give you problems? Every time I have to add or move a file, I end up scratching my head for an hour or two trying to find out how to fetch things from other directories... and being able to run that program from any directory. 
+2018-04-10 12:58:15	&Galen	we've been using a flat directory stucture, which probably isn't best practice but does work well with imports xD
+2018-04-10 12:58:31	&Galen	everything is just 'from .package_name import whateverthefuckwewanttouse'
+2018-04-10 12:58:52	&Galen	also pretty sure virtualenv would solve your problem with setting a path
+2018-04-10 13:00:15	~jesse	I guess it would, but then Menzies would have to run the virtual env in order to run the program. And I don't trust that he can do that.
+2018-04-10 13:00:44	&Galen	xD that's fair, but if you put it in the README I imagine it'd be fine
+2018-04-10 13:01:03	&Galen	plus if you use any external packages it would actually make it easier on the graders since you wouldn't need to pip them separately
+2018-04-10 13:02:12	~jesse	yeah I guess that's true.
+2018-04-10 13:02:31	&Galen	we have one in ours, although I'm pretty sure I'm the only one that actually uses it
+2018-04-10 13:09:59	~jesse	I suddenly love virtual environments noww.. but I'd have to make a readme for setting it up :(
+2018-04-10 13:10:09	&Galen	xD
+2018-04-10 13:10:21	&Galen	if you push it to git you only need to set it up once
+2018-04-10 13:10:29	&Galen	after that all you have to do is source the activate script
+2018-04-10 13:11:55	~jesse	well the activate script has some system-specific stuff.
+2018-04-10 13:12:22	&Galen	ah, fair enough
+2018-04-10 13:12:30	&Galen	should be pretty simple to enumerate tho
+2018-04-10 16:37:37	&Galen	hmm, sounds familiar xD
+2018-04-10 17:10:48	~jesse	I missed that lol.
+2018-04-10 17:12:35	~Jesse	ah. since he brought up lisp, I've been switching to my raspberry pi stuff and my website that isn't working lol.
+2018-04-10 17:13:07	&Galen	still not?
+2018-04-10 17:13:25	&Galen	hmm yeah broken for me too
+2018-04-10 17:13:56	&Galen	you ran that command right?
+2018-04-10 17:16:38	~Jesse	i did. forgot the command, but I know I ran it. I'm thinking the issue is in the caddy service file.
+2018-04-10 17:16:48	&Galen	ok
+2018-04-10 17:16:57	&Galen	could be, try stopping the server and running it by hand
+2018-04-10 17:17:18	&Galen	probably need to run it as root tho otherwise it won't have access to the files
+2018-04-10 20:50:45	~Jesse	hey I'm lookin at game design now and I think I described negative reinforcement badly to you. I think what I had said was that it is a removal of positive stimulus, but it is actually removal of negative stimulus. (aka you put on sunscreen to remove the possibility of getting sun burned)
+2018-04-10 20:52:52	&Galen	ah ok, so the negative part describes the removal
+2018-04-10 20:56:27	~Jesse	removal of negative stimulus... so it's a good thing.
+2018-04-10 20:56:43	&Galen	kinda weird lol
+2018-04-10 20:56:49	&Galen	but I guess it makes sense
+2018-04-10 20:57:05	~Jesse	removal of positive stimulus isn't actually any term. but giving a negative stimulus is a punishment
+2018-04-10 20:57:13	&Galen	ah ok
+2018-04-10 20:57:16	&Galen	that makes sense
+2018-04-10 20:57:24	&Galen	I should probably study some more lol
+2018-04-10 20:57:43	~Jesse	eh.. not really, I tried to study some more and didn't get anything out of it
+2018-04-10 20:57:49	&Galen	lol xD
+2018-04-10 20:58:32	&Galen	I'm thinking maybe look at some of the terms / guest lecturers
+2018-04-10 21:01:12	~Jesse	yeah maybe I should too. at least for the guest lectures. 
+2018-04-10 21:01:46	&Galen	I'm not really worried about any of it but I'll probably miss some stupid stuff from those or something
+2018-04-10 21:07:47	~Jesse	yeahh I didn't get anything by going over the guest lecture. I'm gonna either do work or play with my pi lol
+2018-04-10 21:09:02	&Galen	there's only one correct choice there :)
+2018-04-10 21:11:06	~Jesse	money to get more pi's to play with ... or play with pi....
+2018-04-10 21:11:21	&Galen	oh that kind of work xD
+2018-04-10 21:11:30	&Galen	hmm...money to buy a server more like :)
+2018-04-10 21:12:09	~Jesse	if you just had a laptop, and you had money to drop on either a server or a desktop, which would ya go for.
+2018-04-10 21:12:13	~Jesse	?
+2018-04-10 21:12:25	&Galen	depends what you need it for I'd say
+2018-04-10 21:12:38	&Galen	if you wanted to play more games def a desktop
+2018-04-10 21:13:01	&Galen	if you didn't a server wouldn't be bad since if you needed more processing power than your laptop you could always spin up a vm and do it on the server
+2018-04-10 21:13:15	&Galen	alternatively, if you didn't mind running both games and services on the desktop you could just run both
+2018-04-10 21:13:39	&Galen	but the problem with that is you probably want windows for games, and you couldn't really run windows and linux at the same time with good results
+2018-04-10 21:15:32	~Jesse	I've already determined that I don't want windows (unless I soley wanted something to game on and do nothing else).
+2018-04-10 21:16:10	&Galen	yeah that's fair
+2018-04-10 21:16:32	&Galen	you can get secondhand enterprise servers for pretty cheap tho, if you don't mind a little bit o noise
+2018-04-10 21:16:43	&Galen	so you could maybe get both a server and a desktop
+2018-04-10 21:17:18	~Jesse	and I've got a ps4 so it's not that big a deal if I can't game on it.
+2018-04-10 21:17:24	&Galen	oh yeah good point
+2018-04-10 21:21:35	~Jesse	I think I'd prefer to have a desktop, and just run services on it if I wanted anything. sides, the only thing that can't be run on my raspberry pi is gitlab lol
+2018-04-10 21:21:57	&Galen	that's fair lol
+2018-04-10 21:22:13	&Galen	plus you wouldn't need a crazy gpu if you weren't gaming
+2018-04-10 21:22:37	~Jesse	I'd have to spend the price of a full computer if I want a gpu lol
+2018-04-10 21:22:52	&Galen	yeah tru exD
+2018-04-10 21:23:17	&Galen	plus if you wanted to game you could always get a gpu later on
+2018-04-10 21:25:28	~Jesse	yeah. I'd also kinda like to not have to plug in my laptop to my tv every time i get back from lectures lol
+2018-04-10 21:26:35	~Jesse	so do you have any other ideas why my website isn't showing up?
+2018-04-10 21:27:53	&Galen	oh right forgot about that
+2018-04-10 21:27:54	&Galen	hmm
+2018-04-10 21:29:13	&Galen	you might try stopping the service, running it manually and see if any errors are printed
+2018-04-10 21:29:19	~Jesse	I keep thinking its something wrong with the caddy file, and how we aren't specifying port 80 or something.
+2018-04-10 21:29:25	&Galen	or if there's anything when you do systemctl status caddy
+2018-04-10 21:30:18	~Jesse	no errors running manually but the website still fails
+2018-04-10 21:31:04	~Jesse	wait..
+2018-04-10 21:32:06	~Jesse	where should root be pointing? should it be to the html directory?
+2018-04-10 21:34:39	~Jesse	nah i don't think thats the issue
+2018-04-10 21:29:38	&Galen	eh...I don't think that should be an issue, it shouldn't be serving on port 80 anyways
+2018-04-10 21:29:43	&Galen	everything should be redirected to 443
+2018-04-10 21:30:47	&Galen	and you haven't restarted the computer or anything since you ran that command right?
+2018-04-10 21:31:17	&Galen	what's weird is that it still works for me
+2018-04-10 21:31:20	&Galen	on my comuter
+2018-04-10 21:31:28	&Galen	although I'm thinking it might be cached or something
+2018-04-10 21:32:11	&Galen	ok now it breaks
+2018-04-10 21:32:37	&Galen	wait nm it's just down lol
+2018-04-10 21:41:47	~Jesse	i mightve restarted it 
+2018-04-10 21:42:09	~Jesse	check on your computer if its up
+2018-04-10 21:42:23	~Jesse	pleaaasssssseeeee :)
+2018-04-10 21:42:59	&Galen	loads for me lol
+2018-04-10 21:43:15	~Jesse	so for you, it loaded, then failed to load, and then loaded?
+2018-04-10 21:43:30	&Galen	yea I think it was failing bc you took the server down tho
+2018-04-10 21:43:36	~Jesse	yeah
+2018-04-10 21:43:46	&Galen	it doesn't work on my phone tho
+2018-04-10 21:44:01	&Galen	on either network
+2018-04-10 21:44:12	~Jesse	is your phone connected to something different than your desktop?
+2018-04-10 21:44:20	&Galen	same network
+2018-04-10 21:44:54	~Jesse	would a cache only be in effect if my server is up?
+2018-04-10 21:45:19	&Galen	nah it'll be client side
+2018-04-10 21:45:47	&Galen	but I'm guessing my computer is caching it since it doesn't work anywhere else
+2018-04-10 21:46:24	~Jesse	yeah thats why im scratchin my head right now. if it was just your local cache, then the website would load fine if the server was taken down right?
+2018-04-10 21:47:24	&Galen	in theory yeah
+2018-04-10 21:49:30	&Galen	this is really weird
+2018-04-10 21:49:38	&Galen	there's also like no info online for some reason
+2018-04-10 21:49:49	&Galen	https://caddy.community/t/caddy-service-on-raspberry-pi-3/2567/13
+2018-04-10 21:50:07	&Galen	this thing says something about hostname not being set properly but that really doesn't make any sense
+2018-04-10 21:53:36	&Galen	ok, you might try uncommenting the lines at the bottom of the file
+2018-04-10 21:53:44	&Galen	specifically AmbientCapabilities=CAP_NET_BIND_SERVICE
+2018-04-10 21:53:46	&Galen	that one
+2018-04-10 21:58:19	~Jesse	all of them or just that one
+2018-04-10 21:58:38	~Jesse	(out of the group of 3 things)
+2018-04-10 21:58:55	&Galen	idk, try just that one and if it doesn't work maybe the others? xD
+2018-04-10 22:00:51	~Jesse	neither of them worked
+2018-04-10 22:01:44	&Galen	ok how about changing the PrivateDevices thing to false?
+2018-04-10 22:02:47	~Jesse	it was already false
+2018-04-10 22:02:55	&Galen	rip
+2018-04-10 22:03:08	~Jesse	i was lookin at that though since it was mentioning raspberry pis
+2018-04-10 22:03:16	&Galen	yeah
+2018-04-10 22:03:46	&Galen	what are the permissons on /etc/ssl/caddy?
+2018-04-10 22:03:50	&Galen	and the files inside
+2018-04-10 22:04:51	~Jesse	drwxr-xr-x   4 www-data root      4096 Apr  9 23:23 caddy
+2018-04-10 22:05:23	~Jesse	the files inside are owned by www-data
+2018-04-10 22:05:31	&Galen	ok that should be fine I think
+2018-04-10 22:06:15	~Jesse	do we know that the caddy file will work with multiple hostnames?
+2018-04-10 22:06:28	&Galen	when you tried running it manually before, did you run it as root or pi?
+2018-04-10 22:06:41	&Galen	not 100% but it should work, you can try commenting out the matrix stuff if you want
+2018-04-10 22:06:58	~Jesse	but then we won't be able to message eachother lol
+2018-04-10 22:07:13	~Jesse	and I ran as pi but I did run as root yesterday
+2018-04-10 22:07:23	&Galen	ok
+2018-04-10 22:09:12	~Jesse	not sure if it matters, but when I ran it as root:
+2018-04-10 22:09:13	~Jesse	Activating privacy features... 2018/04/11 02:08:38 [jessesimpsoncodes.com] failed to get certificate: acme: Error 429 - urn:ietf:params:acme:error:rateLimited - Error finalizing order :: too many certificates already issued for exact set of domains: jessesimpsoncodes.com: see https://letsencrypt.org/docs/rate-limits/
+2018-04-10 22:09:55	~Jesse	although it doesn't give me that message when I'm pi
+2018-04-10 22:10:13	~Jesse	so I guess it's on a user basis... 
+2018-04-10 22:08:27	&Galen	this is a dumb question, but have you tried restarting it?
+2018-04-10 22:10:28	&Galen	ah rip
+2018-04-10 22:10:41	&Galen	nah it's because you've maxed out the number of certificates you can request per week or whatever
+2018-04-10 22:11:13	&Galen	ok this is also a bit of a crappy fix, but since your site doesn't actually have anything that needs encrypting, you could run your base website over http isntead of https
+2018-04-10 22:11:17	&Galen	and just keep the https for matrix
+2018-04-10 22:11:54	~Jesse	i think i tried that
+2018-04-10 22:12:19	&Galen	what happened?
+2018-04-10 22:13:21	~Jesse	same error
+2018-04-10 22:13:37	~Jesse	idk why it's trying to securely connect to an http site.
+2018-04-10 22:13:27	&Galen	ok
+2018-04-10 22:13:38	&Galen	try changing the url of your website to http://jessesimpsoncodes.com
+2018-04-10 22:13:45	&Galen	and change the tls thing from tls [email] to tls off
+2018-04-10 22:13:48	&Galen	and rerun
+2018-04-10 22:13:57	&Galen	also don't run as root
+2018-04-10 22:16:41	~Jesse	the url keeps changing to https
+2018-04-10 22:16:51	~Jesse	and then fails
+2018-04-10 22:16:52	&Galen	yeah you'll probably need to clear your history / cache
+2018-04-10 22:17:10	&Galen	ok I get a 404 on mine
+2018-04-10 22:17:17	&Galen	can you send your caddyfile?
+2018-04-10 22:23:40	~Jesse	im an idiot lol. i the downloads dir on my computer is different from my pi
+2018-04-10 22:24:21	~Jesse	File upload: Caddyfile.txt https://matrix.jessesimpsoncodes.com/_matrix/media/v1/download/matrix.jessesimpsoncodes.com/PLGxIslYwZlPjdyxqQWhFIzu
+2018-04-10 22:24:40	&Galen	lol xD
+2018-04-10 22:24:44	&Galen	that url lol
+2018-04-10 22:25:38	~Jesse	xD
+2018-04-10 22:26:57	&Galen	what happens if you add :80 after the url?
+2018-04-10 22:27:07	&Galen	http://jessesimpsoncodes.com:80
+2018-04-10 22:27:31	~Jesse	it redirects to https:// and fails
+2018-04-10 22:27:39	&Galen	I mean add it to the config
+2018-04-10 22:28:42	~Jesse	same behavior
+2018-04-10 22:28:53	&Galen	works for me
+2018-04-10 22:29:01	&Galen	try using incognit
+2018-04-10 22:29:04	&Galen	incognito*
+2018-04-10 22:30:22	~Jesse	that works
+2018-04-10 22:30:39	&Galen	weee
+2018-04-10 22:30:55	~Jesse	:) I don't really mind that it doesn't use https
+2018-04-10 22:30:57	&Galen	not the best solution but I've no idea why it isn't working otherwise lol
+2018-04-10 22:31:04	&Galen	yeah it shouldn't really matter xD
+2018-04-10 22:31:10	~Jesse	yeah I was feelin pretty dumb.
+2018-04-10 22:31:22	&Galen	you're telling me lol
+2018-04-10 22:33:24	~Jesse	yeayy i just set up kodi.jessesimpsoncodes.com
+2018-04-11 14:49:25	~Jesse	I figured out why I need to click enter twice in ncmpcpp to play a song. the first time I press it, it adds it to the queue, and the second time changes the song.  idk why it restarts the current song though when i add songs to the queue
+2018-04-12 16:47:31	~Jesse	looks like I got at most a 79, at worst 69 on the game design test :(  but I'll get 5 points of extra credit.
+2018-04-13 09:34:28	&Galen	Did they already release the scores?
+2018-04-13 09:51:02	&Galen	Looks like I'm around a 79 not counting the first two questions
+2018-04-13 09:51:12	&Galen	Although there were some answers I disagreed with
+2018-04-13 10:51:33	~Jesse	hey galen, I've got a puppy on my lap :D
+2018-04-13 10:53:53	&Galen	:D
+2018-04-13 10:55:03	~Jesse	they released the review, I just added up my score on my own.  but yeah, 69 without the first 2 questions.
+2018-04-13 10:59:00	&Galen	ah, ok that's what I did too
+2018-04-13 10:59:08	&Galen	I think I got rather lucky on this test lo
+2018-04-13 10:59:18	&Galen	probably shouldn't have gotten as many points as I did
+2018-04-13 10:59:49	~Jesse	I feel like I deserved more... specifically 5 points more for the extra credit question that was stolen from me xD
+2018-04-13 11:00:24	~Jesse	also, didn't like that they asked about specific games. One of my friends wrote about Mario Kart on the question about Super Mario Bros.
+2018-04-13 11:01:27	~Jesse	As if I would know what Galatea is.
+2018-04-13 11:06:12	&Galen	Lol yeah
+2018-04-13 11:06:30	&Galen	To be fair we were supposed to play Galatea before one of the classes
+2018-04-13 11:07:39	~Jesse	But they should be accomodating for students who don't go to class!!!
+2018-04-13 11:07:41	~Jesse	xD
+2018-04-13 11:07:54	~Jesse	didn't know that
+2018-04-13 11:12:14	&Galen	Rip xD
+2018-04-13 11:22:14	&Galen	so I figured out how to set up continuous integration on gitlab, and it's super cool xD
+2018-04-13 11:22:58	~Jesse	I thought you did that a while ago. Are you now reaping the benefits of it?
+2018-04-13 11:23:10	&Galen	yeah I finally got it to work :P
+2018-04-13 11:23:17	&Galen	only took me hours of my time lol
+2018-04-13 11:23:38	&Galen	the main issue I was having was getting the database stuff to work
+2018-04-13 11:23:50	&Galen	bc my tests need things to be in the databases so I was trying to seed them
+2018-04-13 11:23:54	~Jesse	nice! I hope it saves you time in the future.
+2018-04-13 11:24:12	&Galen	long story short it didn't work so I just end up putting stuff in the database before the test runs lol xD
+2018-04-13 11:24:16	&Galen	hopefully yewah
+2018-04-13 11:24:24	&Galen	at the very least I have a decent idea of how it works lol
+2018-04-13 11:26:34	&Galen	have you checked out gitea yet?
+2018-04-13 11:55:50	~Jesse	I have not. I've been busy playing with my parent's new puppy and writing up the proposal for ENG 331
+2018-04-13 11:56:09	&Galen	Good reasons not to :)
+2018-04-13 11:56:11	~Jesse	how long did you make your proposal?
+2018-04-13 11:56:14	&Galen	Well, the puppy at least ;)
+2018-04-13 11:56:23	~Jesse	right?
+2018-04-13 11:56:28	&Galen	Umm I think it was around 16 pages?
+2018-04-13 11:56:35	&Galen	But that was with appendices
+2018-04-13 11:57:35	~Jesse	the examples my teacher showed were all around 16 pages... the rubric says around 10 pages, but to be honest, I might just stop around 6 or 7... unless I have enough content to just keep going.
+2018-04-13 11:57:55	&Galen	Wait nm mine was 26
+2018-04-13 11:58:03	&Galen	But again that was with a fair bit extra
+2018-04-13 11:58:07	~Jesse	xD whaaaaaaatttt
+2018-04-13 11:58:22	&Galen	You could always just add more random stuff xD or format it to make it longer lol
+2018-04-13 11:58:40	&Galen	Mine was longer partly BC I had a lot of lists that were indented lol
+2018-04-13 11:58:54	~Jesse	Good choice lol
+2018-04-13 12:07:25	~Jesse	even still though. 26 pages is a ton. You mustve really wanted an A.  Personally, I hate writing enough to where I would gladly take a C on this assignment.
+2018-04-13 12:09:10	&Galen	Honestly I just kinda kept writing lol
+2018-04-13 12:09:43	&Galen	I think everyone got As because she ran out of time to grade stuff lol
+2018-04-13 12:12:20	~Jesse	lol We only have 1 assignment graded. (and a few forum posts graded).
+2018-04-13 12:13:01	~Jesse	There should be a rule about assignments needing to be graded before finals.
+2018-04-13 12:13:21	&Galen	Rip
+2018-04-13 12:13:32	&Galen	Pretty sure that means you'll all be getting As xD
+2018-04-13 12:14:24	~Jesse	maybe. 
+2018-04-14 16:42:41	~Jesse	Galen, I'm ashamed of the piece of crap proposal I have written. xD
+2018-04-14 16:43:05	&Galen	xD
+2018-04-14 16:43:16	&Galen	at least you're done :D
+2018-04-14 16:43:36	~Jesse	Yeah. I should probably read through it once to be sure I'm not a complete imbecile haha
+2018-04-14 16:43:48	&Galen	eh
+2018-04-14 16:43:53	&Galen	I usually don't xD
+2018-04-14 16:44:11	~Jesse	xD I won't change anything, I'll just feel bad about myself.
+2018-04-14 16:44:41	&Galen	rip
+2018-04-14 16:44:45	&Galen	don't do it then xD
+2018-04-14 16:50:09	~Jesse	ya know, rereading through it.. it wasn't that bad. It was like other proposals, I fell asleep in the first sentence and didnt read the rest.
+2018-04-14 16:50:16	&Galen	xD
+2018-04-14 16:50:19	&Galen	that's how it should be
+2018-04-14 16:57:21	&Galen	have you all started on your game design project yet?
+2018-04-14 16:57:32	~Jesse	We have a game design project?
+2018-04-14 16:57:43	&Galen	xD
+2018-04-14 16:57:44	~Jesse	jk. I haven't started. I've been focusing on everything else
+2018-04-14 16:57:52	&Galen	k I feel better now lol
+2018-04-14 16:58:00	&Galen	I should probably do the game log tho lol
+2018-04-14 16:58:28	~Jesse	I've vaguely thought about setting up a google docs that we can copy and paste into twine for version control.
+2018-04-14 16:58:35	~Jesse	I have completed the game log tho
+2018-04-14 17:01:12	~Jesse	I also need more work to be done on the plm. 
+2018-04-14 17:01:24	&Galen	yeah....
+2018-04-14 17:01:51	~Jesse	you sound like you haven't started lol
+2018-04-14 17:02:19	&Galen	neither of my group members have pushed code in a month :(
+2018-04-14 17:03:28	~Jesse	ouch. Sure wish teachers actually looked at the commit history
+2018-04-14 17:03:39	~Jesse	or the google docs history.
+2018-04-14 17:03:47	&Galen	yep
+2018-04-14 17:03:59	&Galen	one of them said he was going to push some ui code on wednesday
+2018-04-14 17:04:09	&Galen	it's now saturday and they aren't responding on slack
+2018-04-14 17:04:18	&Galen	cause, ya know
+2018-04-14 17:04:32	&Galen	projects worth 50% of our grade should always be randomly assigned teams
+2018-04-14 17:04:40	&Galen	otherwise things would be too easy
+2018-04-14 17:05:59	~Jesse	:(  I feel bad that I haven't contributed much to my project. I've made a ton of changes and changed them back so it looks like I haven't done much. At the same time, I've done more than one other of my group members. 
+2018-04-14 17:06:11	&Galen	rip
+2018-04-14 17:06:23	&Galen	at least you know you've been contributing even if it doesn't look like that
+2018-04-14 17:08:27	~Jesse	yeah, and I don't think my teammates are judging me too much... but I still feel bad.
+2018-04-14 17:09:16	&Galen	yeah idk just kinda fuck this class at this point
+2018-04-14 17:09:26	&Galen	at least it hasn't been very hard
+2018-04-14 17:11:54	~Jesse	Woohoo! i'm done with ENG 331 now!!
+2018-04-14 17:12:03	&Galen	:D
+2018-04-14 17:12:04	&Galen	congrats
+2018-04-14 17:13:20	&Galen	time for server stuff :)
+2018-04-14 17:15:32	~Jesse	Thanks. As for Menzies class, I see value in a few of the lectures hes given us.. which is a lot more than I can say about other classes I've taken.. but that being said, it's definitely not enough to warrant the expenses of college.
+2018-04-14 17:15:48	&Galen	I guess that's fair
+2018-04-14 17:16:00	&Galen	I just liked it a lot better when it was low key and there weren't assignments lol
+2018-04-14 17:16:03	~Jesse	And screw server stuff, i'm playing with that puppy tonight :)
+2018-04-14 17:16:19	&Galen	:)
+2018-04-14 17:19:20	~Jesse	yeah. Honestly, I think projects and homeworks should be done moreso for the sake of curiosity rather than a grade. But it's difficult to write a 30 page proposal when you don't have data to blab about lol.
+2018-04-14 17:19:34	&Galen	yeah exactly
+2018-04-14 17:20:24	&Galen	idk I would have loved to have some assignments to learn more about lisp or clojure or any of the other things he talkked about
+2018-04-14 17:21:01	~Jesse	I wonder how many people would benefit from gradeless class structures though. For sure you and I would, but a lot of students are lazy and uninterested in CS..
+2018-04-14 17:21:10	~Jesse	And yeah, I wouldve liked that too
+2018-04-14 17:21:55	&Galen	yeah idk
+2018-04-14 17:22:12	~Jesse	or maybe if he had assignments on taking code and abstracting elements out of it.
+2018-04-14 17:22:19	&Galen	I do think that projects are waaaaaay more valuble than lectures tho
+2018-04-14 17:22:27	&Galen	most of the time lectures just don't do anything for me
+2018-04-14 17:22:34	~Jesse	agreed.
+2018-04-14 17:22:43	~Jesse	lectures are valuable to those who hate CS though.
+2018-04-14 17:22:44	&Galen	honestly I think the only lectures that I've really felt were useful and I enjoyed were sturgill's
+2018-04-14 17:23:07	~Jesse	yeah, but he went over too much at once I felt... 
+2018-04-14 17:23:18	&Galen	That's fair
+2018-04-14 17:23:30	&Galen	His classes are probably the best I've taken here tho
+2018-04-14 17:23:48	&Galen	I feel like I really learned the material BC of all the daily assignments
+2018-04-14 17:23:55	&Galen	Plus his projects were good imo
+2018-04-14 17:24:37	~Jesse	By far. I really respect Dr. Kowolenkos class though. lectures were BS, and homeworks/tests were BS, but we had one project in there that was super valuable and it almost makes me proud to talk about.
+2018-04-14 17:24:51	&Galen	That's good
+2018-04-14 17:25:03	&Galen	I wish I'd taken more classes like that
+2018-04-14 17:26:18	~Jesse	to be fair, we only really worked on that project for 3 weeks lol.
+2018-04-14 19:30:45	&Galen	pretty much any company that is large enough and has some kind of online software probably pays pretty well
+2018-04-14 19:30:59	&Galen	it's a bit like QA, except you don't have to fix it xD
+2018-04-14 19:31:21	~Jesse	xD thats  a funny way to look at it.
+2018-04-14 19:31:48	&Galen	one of my roommate's brothers does stuff like that for deutschebank I think and he loves it
+2018-04-14 19:32:08	&Galen	you jsut essentially get paid to break other people's stuff, without repercussions
+2018-04-14 19:33:48	~Jesse	sounds fun. I wonder if it gets old or routine after a while. Im kinda hitting the point now with my research where Im just doing the same thing, writing webscrapers, putting it in a db, and occasionally some django frontend.
+2018-04-14 19:34:06	&Galen	idk, that's a good question
+2018-04-14 19:34:19	~Jesse	not gonna lie though, sometimes its nice to just be doing the routine rather than doing new things.
+2018-04-14 19:34:23	&Galen	I imagine that it stays pretty fluid since the same bugs probably don't come up that often tho
+2018-04-14 19:34:30	&Galen	yeah true
+2018-04-16 21:07:35	~Jesse	So the Insert key on keyboards triggers vim's insert mode. That's honestly the best use I've seen for that dumb button lol.
+2018-04-16 21:17:28	&Galen	XD
+2018-04-16 21:17:28		That's actually pretty cool
+2018-04-16 21:21:57	~Jesse	Galen, the more I'm being forced to research alternative medicine, the more I think it's all just BS. 
+2018-04-16 21:22:30	&Galen	lol xD
+2018-04-16 21:22:35	&Galen	alternative medicine as in what
+2018-04-16 21:22:54	~Jesse	As in using Kudzu roots to treat alcoholism.
+2018-04-16 21:23:11	&Galen	oh
+2018-04-16 21:23:14	&Galen	yeah, pretty much
+2018-04-16 21:23:28	&Galen	the only 'alternative medicine' that I know works is oil of oregano lo.
+2018-04-16 21:23:31	&Galen	lol*
+2018-04-16 21:23:37	~Jesse	whats that do?
+2018-04-16 21:24:21	&Galen	basically if you are sick it makes you not sick xD
+2018-04-16 21:24:54	~Jesse	I've heard peppermint oil is supposed to help with headaches. I have some, and I can say.. it smells good. Cant say for sure whether it helps or not, but I sure do like the smell.
+2018-04-16 21:25:01	&Galen	lol xD
+2018-04-16 21:25:04	&Galen	seems reasonable
+2018-04-16 21:25:57	~Jesse	and yeah thats another thing... most alternative medicines are used to treat everything. Pain, depression, anxiety, 'sickness'. I even read somewhere that vitamin A and D can treat Batten Disease.
+2018-04-16 21:27:06	&Galen	yeah
+2018-04-16 21:30:17	~Jesse	Itd be a good thing for pain management or symptom treatment though. Just wish they could stay consistent. Also, every time I click a link of an herbal remedies page talking about a 'Database of Herbal Remedies', it's either an html page or a PDF of a table... These aren't databases Galen!!! 
+2018-04-16 21:31:41	&Galen	lol xD
+2018-04-16 21:31:55	&Galen	people just hear buzzwords and imitate them
+2018-04-16 21:32:53	~Jesse	"It would have been too difficult to set up a searchable database" 
+2018-04-16 21:33:00	~Jesse	actual quote from the site owner
+2018-04-16 21:33:15	~Jesse	DATABASES BY DEFAULT ARE SEARCHABLE!!
+2018-04-16 21:33:28	&Galen	lol
+2018-04-16 21:33:35	&Galen	'computer science'
+2018-04-16 21:43:11	~Jesse	Rant part 2: Another website is selling CD's of what looks to be a Windows XP program with decorative buttons with information on herbs. Once again, they call it a database.
+2018-04-16 21:45:19	&Galen	loool
+2018-04-16 21:48:16	~Jesse	from that, can we assume that people who use alternative medicines don't have the capacity to 'Google'? or are they still using AOL?
+2018-04-16 21:49:13	&Galen	nah I think we can assume that like 90% of the population has no idea how computers work
+2018-04-16 21:53:28	~Jesse	That can't be true. cuz more than 90% of people view porn!!
+2018-04-16 21:53:44	&Galen	xD
+2018-04-16 21:53:57	&Galen	maybe they use their smart tvs
+2018-04-16 21:55:39	~Jesse	...you watch too much porn to think of using a smart tv for that.
+2018-04-16 21:55:57	&Galen	lol
+2018-04-16 21:56:28	&Galen	if it's smart it might as well be porn-capable, otherwise what's the point?
+2018-04-16 21:58:44	~Jesse	I guess intelligence is just how much sex-content there is on a system.
+2018-04-16 21:59:06	&Galen	makes sense
+2018-04-16 22:00:17	~Jesse	crap... I've been doing college wrong all this time...
+2018-04-16 22:00:43	&Galen	pretty much everything is about sex if you really get down to it
+2018-04-16 22:02:55	~Jesse	But Galen, asexual people exist! does that mean those people don't have a consciousness?
+2018-04-16 22:03:08	&Galen	no, it means they don't have souls
+2018-04-16 22:03:13	&Galen	much like redheads ;)
+2018-04-16 22:03:19	~Jesse	XD
+2018-04-17 13:13:48	~Jesse	Hey Galen, do you wanna study for either our Game Design or PLM final? I suddenly have time today, that I can't spend on too many other things.
+2018-04-17 15:53:34	&Galen	Hey, sorry, got this late lol
+2018-04-17 15:53:58	&Galen	I honestly probably won't start studying for those until finals week xD I have a fair bit of stuff before then
+2018-04-17 15:54:06	~Jesse	yeah your name appeared red so I figured your server was down.
+2018-04-17 15:55:05	~Jesse	And I gotcha. I've been working on a few other things, but if everything goes well, I should be able to begin studying this weekend. I don't feel ready at all for philosophy, game design, or PLM.
+2018-04-17 15:55:40	&Galen	Ah
+2018-04-17 15:55:40		Nah it should be up, I was away tho I guess
+2018-04-17 15:55:40		Yeah same, I don't tend to study too far in advance most of the time
+2018-04-17 15:56:07	&Galen	I'll def be down to study together once it gets closer tho
+2018-04-17 15:58:54	~Jesse	cool. from next thursday up until the game design test, I think I'm gonna be in charlotte since I don't have any exams or classes during that period. But if you wanted to study with me during that time for game design, we could message or call.
+2018-04-17 15:59:17	&Galen	OK cool, that sounds good to me
+2018-04-17 16:37:25	~Jesse	Do you think someone should try to argue this regulation for menzies class? https://grad.ncsu.edu/events/last-week-of-classes-april-24-28/
+2018-04-17 16:41:17	~Jesse	that may just be for grad classes, but I thought somewhere they put that regulation in undergrad as well.
+2018-04-17 16:42:28	&Galen	Ooh
+2018-04-17 16:42:38	&Galen	That would be sweet
+2018-04-17 16:42:50	~Jesse	https://studentservices.ncsu.edu/calendars/academic/#terms
+2018-04-17 16:43:08	~Jesse	I don't really wanna be the guy to do this... xD
+2018-04-17 16:43:29	&Galen	To be fair he extended it because we asked...so I'm not sure if it'd fly
+2018-04-17 16:44:00	~Jesse	but even at the old due date it was during the last week of classes.. once again, against the regulation.
+2018-04-17 16:45:07	&Galen	I think this whole class is against regulation
+2018-04-17 16:45:27	~Jesse	Should I try to email someone? I don't even know who I would email though.
+2018-04-17 16:45:39	&Galen	The admins probably
+2018-04-17 16:49:28	~Jesse	I still don't know who that would be. If you give me an email address to someone other than the prof, I'll send it. I kinda want it to be semi-anonymous.
+2018-04-17 16:49:45	&Galen	Barbara adams maybe
+2018-04-17 16:49:59	~Jesse	well crap, I don't really wanna email her either  lol
+2018-04-17 16:50:06	&Galen	XD
+2018-04-17 16:50:21	&Galen	You could do Dr Marini but I feel like Adams would care more
+2018-04-17 17:06:52	&Galen	Tell matt, he'd probably be willing to bring it up
+2018-04-17 17:11:32	~Jesse	I made an email for Dr. Adams. I think I'm gonna wait till the end of class to send it.
+2018-04-17 17:12:17	&Galen	Yeah
+2018-04-17 17:13:00	&Galen	She'll probably ask if you've brought it up with Tim tho
+2018-04-17 17:13:29	&Galen	Sorry I mean timm
+2018-04-17 17:13:48	~Jesse	In my email, I explained that I was uncomfortable with confronting him.
+2018-04-17 17:14:05	&Galen	What should actually happen is that he should drop the essay and keep the extra credit
+2018-04-17 17:14:26	~Jesse	wonder if he'll just make the due date friday lol.
+2018-04-17 17:14:53	~Jesse	I don't think hes that evil. But Dr. Adams will probably say screw you and do your essay jesse.
+2018-04-17 17:15:04	&Galen	BC it's probably reasonable for him to have extra credit due then since it's not required, just not the essay
+2018-04-17 17:15:04	&Galen	Ah, nicr
+2018-04-17 17:15:41	&Galen	yeah, considering he doesn't listen to what we have to say I doubt it'd be a very productive discussion with him anyways
+2018-04-17 17:17:10	~Jesse	right.. but I don't want to tell adams that since I want her to think I have a positive image of my professor.
+2018-04-17 17:17:45	~Jesse	I just said i was uncomfortable with confronting him because I didn't want him to see me poorly as a student.
+2018-04-17 17:17:47	&Galen	well...if you say you aren't comfortable bringing it up with him I'd say that probably doesn't put him in a very positive light xD
+2018-04-17 17:17:52	&Galen	that's fair I guess
+2018-04-17 17:18:11	&Galen	could also get someone else to bring it up and when he dismisses it, which he will, jump on that and go to dr adams
+2018-04-17 17:18:38	&Galen	that way we have precident for him not responding to us, and he doesn't get to make up a counterargument
+2018-04-17 17:19:08	~Jesse	Would you like to volunteer yourself to bring it up to Menzies?
+2018-04-17 17:19:47	~Jesse	It sounds like youre volunteering yourself xD
+2018-04-17 17:20:06	~Jesse	You can do it mr. ordinary!!!!
+2018-04-17 17:20:13	&Galen	Not really, since I probably am already in his bad books from last time :P
+2018-04-17 17:20:13		And I think he'd see it as me just trying to get even
+2018-04-17 17:20:13		But matt might be willing to bring it up in class or something, esp since Menzies probably still likes him xD
+2018-04-17 17:20:16	&Galen	Lol xD
+2018-04-17 17:21:01	~Jesse	I like that we're conspiring about manipulating matt xD
+2018-04-17 17:21:44	&Galen	XD not so much manipulating, I just know that he doesn't mind confronting people
+2018-04-17 17:22:36	&Galen	Plus he's the only other person I know in that class other than you, Grady and josh and I don't think either of them care that much
+2018-04-17 17:23:12	~Jesse	Grady is in this class? maybe im thinking of a different grady i know.
+2018-04-17 17:23:22	&Galen	Could be
+2018-04-17 17:23:26	~Jesse	Dude with a magicians hand tattooed on his arm?
+2018-04-17 17:23:33	&Galen	He was in my group in software eng last semester
+2018-04-17 17:23:47	&Galen	Mmm don't think so, probably someone else
+2018-04-17 17:23:52	~Jesse	oh I know that grady. I was thinking of another grady.
+2018-04-17 17:24:23	~Jesse	or maybe I just jacked up the magician guy's name.
+2018-04-17 17:24:54	&Galen	XD I don't think I know anyone with a magician tattoo, so idk
+2018-04-17 17:26:34	~Jesse	Thats a shame. Hes very similar to Josh in the way that he always seems overly relaxed all the time while still being omniscient.
+2018-04-17 17:26:57	&Galen	XD that's a good way to describe josh
+2018-04-17 17:31:17	~Jesse	xD yeah. too bad hes in with the NSA
+2018-04-17 17:31:36	&Galen	^
+2018-04-17 21:01:15	~Jesse	I looked into gitea, but their documentation wasn't good enough for me to get passed a bug I was having that caused the program to not start :P  I'm looking into Huginne now. Maybe I can try to use it to monitor deals on computer parts or something.
+2018-04-17 22:56:55	~Jesse	you said you set up docker right? Apparently that makes setting up Huginne a lot easier. 
+2018-04-17 22:57:38	&Galen	I have a docker VM running gitlab-runner
+2018-04-17 22:57:49	&Galen	other than that I'm not running any services with docker, just lcoal stuff
+2018-04-17 22:58:14	~Jesse	is docker an os?
+2018-04-17 22:58:37	&Galen	no, it's a container system
+2018-04-17 22:58:47	~Jesse	it seemed like a package manager when I was looking into it
+2018-04-17 22:58:56	&Galen	it's a bit of both I guess
+2018-04-17 22:59:13	&Galen	basically, a container is like a VM that runs directly on the host's kernel
+2018-04-17 22:59:26	&Galen	rather than emulating the entire hardware stack
+2018-04-17 22:59:47	&Galen	which is nice because it is pretty much bare-metal performance, since it's essentially running as a user process
+2018-04-17 23:00:40	&Galen	docker is a specific implementation of containers that are designed to run a specific piece of software in each container (as opposed to something like lxc, which is what I run in my lab, which is designed to run it's own namespace, so it functions pretty similarly to a separate linux install but is still logically partitioned)
+2018-04-17 23:01:06	&Galen	with docker, you can define 'dockerfiles', which is basically just a spec on how to build a container
+2018-04-17 23:01:38	&Galen	so you make a dockerfile that contains logic to install and run a piece of software, then you hand the dockerfile off to the docker daemon, and it pulls the necessary components and spins up a container
+2018-04-17 23:01:55	&Galen	which means it's super easy to use docker to distribute software and make sure things are consistent
+2018-04-17 23:02:19	&Galen	and it also makes installing software easier bc you don't really need to know how to install it, you can just pull a dockerfile and run it
+2018-04-17 23:02:37	&Galen	it's sort of like having a bash script that does all of your installs but more robust and platform independent
+2018-04-17 23:03:02	&Galen	what's also nice is that all the logic and dependencies are contained in the docker image, which you can remove after you're done with it
+2018-04-17 23:03:12	&Galen	so it doesn't end up polluting your system with a bunch of dependencies
+2018-04-17 23:03:16	~Jesse	That sounds kinda neat. dependency management across alll these git repos and programming projects is screwing up things lol. 
+2018-04-17 23:03:35	&Galen	xD yeah it's a pretty neat sys
+2018-04-17 23:04:07	&Galen	it works really well with the gitlab ci because you don't have to pre install all the dependencies and stuff on the base system
+2018-04-17 23:04:15	~Jesse	oh you want to install firefox... you'll have to also install porn-hub2.6 on your computer... sure hope you don't have the updated version of that xD
+2018-04-17 23:04:25	&Galen	you can just say, 'here's docker images that have my dependencies, pull them and run my code'
+2018-04-17 23:04:38	&Galen	lol xD
+2018-04-17 23:04:46	&Galen	sudo pacman -S porn-hub
+2018-04-17 23:05:11	~Jesse	*goes and checks if that's a real package*
+2018-04-17 23:05:18	&Galen	lol
+2018-04-17 23:05:22	~Jesse	it's not
+2018-04-17 23:05:25	&Galen	rip
+2018-04-17 23:05:27	~Jesse	good.
+2018-04-17 23:05:33	&Galen	guess I know what our project over the summer is xD
+2018-04-17 23:05:59	&Galen	did you get anything back from dr. adams?
+2018-04-17 23:06:55	~Jesse	Maybe we should make it so that people have to submit answers to P vs NP before the program can work... This is how we can solve PvNP
+2018-04-17 23:07:16	~Jesse	and nope
+2018-04-17 23:07:30	&Galen	lol xD
+2018-04-17 23:07:33	~Jesse	I honestly don't think shes gonna give a crap.
+2018-04-17 23:07:41	&Galen	maybe not, we'll see tho
+2018-04-17 23:07:51	&Galen	if you sent it around plm time she probably already went home
+2018-04-17 23:08:02	&Galen	I imagine she'll at least have the courtesy to send you a response
+2018-04-17 23:10:41	&Galen	also I've been working on a dotfile templater if you want to check it out / help improve it at some point
+2018-04-17 23:14:36	~Jesse	yeah sure dude. i'm taking a test right now, so I won't play with it yet
+2018-04-17 23:16:05	&Galen	oh rip, what class?
+2018-04-17 23:16:15	~Jesse	PHI 340
+2018-04-17 23:16:26	~Jesse	I only need a 16% I think
+2018-04-17 23:16:33	~Jesse	so I don't care too much
+2018-04-17 23:16:33	&Galen	also yeah, no hurry, figure you might be able to make some use of it, or at least give me some design ideas :)
+2018-04-17 23:16:35	&Galen	oh lol xD
+2018-04-17 23:16:37	&Galen	nice
+2018-04-17 23:18:36	&Galen	https://git.galenabell.com/gjabell/pydots
+2018-04-17 23:18:52	&Galen	when you feel like looking at some incomplete code xD
+2018-04-18 16:15:05	~Jesse	you seeing this crap? new due date is may 10th... a day after final exams are done.
+2018-04-18 16:17:01	~Jesse	i guess thats not a bad solution. But it still shouldnt be allowed since thats during a time that the class should have ended.
+2018-04-18 16:17:44	~Jesse	wo... they just deleted the message lol
+2018-04-18 16:18:42	~Jesse	it would have given them a day to grade all of our papers lol
+2018-04-18 16:18:56	~Jesse	cuz all grades have to be in on the 11th
+2018-04-19 11:47:41	~Jesse	Dr. adams told me that it wasnt a violation and pointed out the specific rule which was worded differently from the ncsu calendar.
+2018-04-19 11:47:41		it made for an awkward phone call lol, but she was nice.
+2018-04-19 11:48:15	&Galen	Ah
+2018-04-19 11:48:15		That's good at least
+2018-04-19 11:51:02	~Jesse	yeah. she kinda gave me the option to say "hey make it due before exam week" but I wouldnt do that to ya lol.
+2018-04-19 12:00:17	&Galen	Lol xD I appreciate it
+2018-04-19 12:26:31	&Galen	do you know if images work on your server?
+2018-04-19 12:26:38	&Galen	my mom tried sending me an image and it didn't go through
+2018-04-19 12:27:05	~Jesse	everything is visible through riot.
+2018-04-19 12:27:14	~Jesse	idk about the web interface
+2018-04-19 12:27:18	&Galen	hmm
+2018-04-19 12:27:23	&Galen	she sent it to me with the app
+2018-04-19 12:28:21	~Jesse	weird. If ya want, I can give her a username through my raspberry pi. I feel like that would eat at your soul though haha.
+2018-04-19 12:28:32	&Galen	xD a little yea
+2018-04-19 12:28:45	&Galen	it's not a big deal but I want to try and fix it if it's a bad config on my end lol
+2018-04-19 12:28:52	&Galen	are you using sqlite or postgres for your db?
+2018-04-19 12:30:48	~Jesse	im not sure how to check lol. I have some postgres stuff so unless it's named template0 or template1 then maybe sqlite?
+2018-04-19 12:31:09	&Galen	prolly sqlite, I Think that's the default
+2018-04-19 12:31:22	&Galen	so unless you specifically decided to go postgres I'm guessing that's what you have
+2018-04-19 12:31:24	~Jesse	thats a shame, I'm so used to postgres
+2018-04-19 12:31:29	&Galen	which is the same as mine, so I guess that's not it...
+2018-04-19 12:31:31	&Galen	xD
+2018-04-19 12:31:42	~Jesse	i may have made it postgres somewhere.
+2018-04-19 12:31:43	&Galen	you can always change it, I think I might soon cause I like pg better too lol
+2018-04-19 12:32:34	~Jesse	its sqlite3
+2018-04-19 12:32:45	&Galen	ok
+2018-04-19 12:33:10	~Jesse	I wonder if I can find my texts in the db
+2018-04-19 12:34:24	&Galen	prolly, unless they are end-2-end encrypted
+2018-04-19 12:36:18	~Jesse	the passwords are encrypted so thats good.
+2018-04-19 12:36:32	~Jesse	I had to be sure I didn't accidently phish you xD
+2018-04-19 12:36:37	&Galen	I would hope so xD
+2018-04-19 12:36:52	&Galen	is my password on your server tho?
+2018-04-19 12:37:01	&Galen	cause I'd imagine it's only on mine
+2018-04-19 12:37:12	&Galen	also it's unfortunate this doesn't support two factor
+2018-04-19 12:37:48	&Galen	also I found a neat website
+2018-04-19 12:38:04	&Galen	http://wttr.in/Raleigh?lang=en
+2018-04-19 12:38:06	~Jesse	nah your pw is not on mine. 
+2018-04-19 12:38:09	&Galen	ok
+2018-04-19 12:38:14	&Galen	that's probably good lol
+2018-04-19 12:38:15	~Jesse	and yeah I've seen that.
+2018-04-19 12:38:23	&Galen	what's cool is you can curl it
+2018-04-19 12:38:27	&Galen	since it's all text
+2018-04-19 12:38:51	&Galen	so I found a script for weechat yesterday that lets me type '/weather' and it'll open a new buffer with the weather inside :)
+2018-04-19 12:39:58	&Galen	weird
+2018-04-19 12:40:05	&Galen	so I can see images just fine if I upload them,
+2018-04-19 12:40:11	&Galen	can you try sending me one?
+2018-04-19 12:40:29	~Jesse	an image?
+2018-04-19 12:40:34	&Galen	yea
+2018-04-19 12:41:51	~Jesse	https://matrix.jessesimpsoncodes.com/_matrix/media/v1/download/matrix.jessesimpsoncodes.com/LWSNpOKUHBfrPTQmmaZxFKpo/IMG_20170716_144103.jpg
+2018-04-19 12:42:03	&Galen	lol xD
+2018-04-19 12:42:07	&Galen	yaeh that works for me
+2018-04-19 12:42:14	&Galen	weird, must just be on my mom's end
+2018-04-19 12:42:23	&Galen	maybe it's because she has an iphone or something
+2018-04-19 12:43:15	~Jesse	Also, I'm not sure that any information is being stored on the pi. I can't find any messages.
+2018-04-19 12:43:30	&Galen	well it's got to be there somewhere
+2018-04-19 12:43:33	~Jesse	but i guess it wouldn't make sense otherwise...
+2018-04-19 12:47:47	~Jesse	Do you think the chat information would be under 'events'?
+2018-04-19 12:48:19	&Galen	might be
+2018-04-19 12:50:05	~Jesse	I found the messages. They're under event_search.
+2018-04-19 12:50:12	&Galen	weird
+2018-04-19 12:50:23	~Jesse	it's stored in plaintext. so josh could log into my pi and get it all
+2018-04-19 12:50:43	&Galen	yeah
+2018-04-19 12:50:48	&Galen	but that's what e2e is for
+2018-04-19 12:52:33	~Jesse	yeah. I wasn't sure if they had that built in or not. 
+2018-04-19 12:52:46	&Galen	it is built in but you have to enable it for the room
+2018-04-19 12:53:36	~Jesse	riot will say (not encrypted), but I'm wondering if that only encrypts it from riot ->  matrix  and matrix -> riot rather than just matrix to itself.
+2018-04-19 12:54:02	~Jesse	I guess if riot is just a front-end, then it wouldn't matter.
+2018-04-19 12:54:33	&Galen	well, if it's over https then the traffic from riot will be encrypted with the server's public key before it is sent over the network, then the server will decrypt it, store it, parse it etc.
+2018-04-19 12:55:03	&Galen	and it will be sent encrypted from the server to your phone / webapp on the other end, and decrypted locally so you can see it
+2018-04-19 12:55:16	&Galen	but if it isn't e2e encrypted than the server will still have the plaintext version
+2018-04-19 12:55:40	&Galen	if it's e2e, all of that will still happen but the message will first be encrypted with the e2e key before it is encrypted and sent over the network
+2018-04-19 12:55:53	&Galen	and the server doesn't know the key so it stays encrypted on the server
+2018-04-19 12:56:16	&Galen	then when it gets to your phone it gets decrypted from the server, and then the e2e gets decrypted so you can read it
+2018-04-19 12:56:38	~Jesse	Yeah, and I guess Josh shouldn't be able to get into my Pi unless he had my ssh key, so it shouldn't matter...  
+2018-04-19 12:56:58	&Galen	as long as your pi is secure then no one except you would be able to read the messages
+2018-04-19 12:57:17	&Galen	if you wanted to be truly secure you'd use e2e but that seems fairly unnecessary since you control the server
+2018-04-19 12:57:33	&Galen	so as long as no one can get in you wouldn't be leaking anything
+2018-04-19 12:57:45	~Jesse	But if 2 users on my system want to talk to eachother, I could see it all (muahahaha)
+2018-04-19 12:57:52	&Galen	yep :D
+2018-04-19 12:57:59	&Galen	unless they were e2e
+2018-04-19 12:58:02	~Jesse	:D I'm okay with this.
+2018-04-19 12:58:30	~Jesse	I doubt anyone but me is gonna actually use my chatserver lol.
+2018-04-19 12:58:38	&Galen	probably not
+2018-04-19 12:58:40	~Jesse	also did you just make 2 new rooms?
+2018-04-19 12:58:42	&Galen	also ignore those invites
+2018-04-19 12:58:48	&Galen	I didn't mean to do that
+2018-04-19 12:59:01	&Galen	apparently if I click on your name in the sidebar it invites you to a private channel xD
+2018-04-19 12:59:50	&Galen	also it's kinda neat, on riot it'll show you people's power levels
+2018-04-19 12:59:57	&Galen	so we both show up as power level 100s
+2018-04-19 13:00:09	~Jesse	what do power levels do?
+2018-04-19 13:00:19	&Galen	I think it's just admin / non-admin
+2018-04-19 13:00:28	~Jesse	are we both admin?
+2018-04-19 13:00:35	&Galen	I would hope so
+2018-04-19 13:00:53	 *	Galen invited @_neb_wikipedia:matrix.org to join
+2018-04-19 13:01:11	-->	_neb_wikipedia (@_neb_wikipedia:matrix.org) joined the room.
+2018-04-19 13:04:56	<--	Jesse left the room.
+2018-04-19 13:07:12	&Galen	for me it changed from Jesse to the wiki bots name + Jesse, so I changed it back
+2018-04-19 13:07:18	&Galen	but I guess it changed it for you too lol
+2018-04-19 13:07:36	~Jesse	check if it's Galen now lol
+2018-04-19 13:07:41	&Galen	yep xD

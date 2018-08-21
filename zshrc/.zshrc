@@ -20,3 +20,4 @@ compinit
 alias ls="ls --color=auto"
 # End of lines added by compinstall
 #
+source /home/jesse/Applications/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh

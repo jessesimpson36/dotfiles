@@ -9,7 +9,7 @@
 #
 # Please see http://i3wm.org/docs/userguide.html for a complete reference!
 
-set $mod Mod4
+set $mod Mod1
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
@@ -128,11 +128,7 @@ bindsym $mod+r mode "resize"
 #Jesse Editted
 exec --no-startup-id compton --config /home/jesse/.config/compton.conf
 exec --no-startup-id polybar jesse
-
-# scratch pad
-bindsym $mod+Shift+minus move scratchpad
-bindsym $mod+minus scratchpad show
-
+exec --no-startup-id feh --bg-scale ~/Pictures/arch.jpg
 
 
 # disables title bar for i3-gaps

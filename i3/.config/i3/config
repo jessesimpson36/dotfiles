@@ -126,7 +126,7 @@ mode "resize" {
 bindsym $mod+r mode "resize"
 
 #Jesse Editted
-exec --no-startup-id compton --config /home/jesse/.config/compton.conf
+exec --no-startup-id compton
 exec --no-startup-id polybar jesse
 exec --no-startup-id feh --bg-scale ~/Pictures/arch.jpg
 

@@ -59,6 +59,7 @@ map <S-Tab> :s/^    /<CR>
 map <C-_> :s/^/# <CR>
 set clipboard=unnamedplus
 set tabstop=4
+set expandtab shiftwidth=4 softtabstop=4
 set mouse=a
 set number
 set expandtab

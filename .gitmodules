@@ -1,0 +1,3 @@
+[submodule "weechat-matrix-protocol-script"]
+	path = weechat-matrix-protocol-script
+	url = ./weechat/.weechat/lua/weechat-matrix-protocol-script/

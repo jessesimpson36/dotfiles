@@ -1,0 +1,23 @@
+[global_config]
+  borderless = True
+  enabled_plugins = LaunchpadCodeURLHandler, APTURLHandler, LaunchpadBugURLHandler
+[keybindings]
+  copy = <Primary>c
+  help = <Primary><Shift><Alt>p
+  paste = <Primary>v
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_color = "#ffffdd"
+    cursor_color = "#aaaaaa"
+    font = Noto Sans Mono 11
+    foreground_color = "#000000"
+    show_titlebar = False

@@ -16,3 +16,7 @@ export PATH=/home/jesse/.gem/ruby/2.5.0/bin:/usr/lib/ruby/gems/2.5.0/bin:$PATH
 export PYTHONIOENCODING=utf8
 #PATH=$PATH:~/.local/bin
 export PYTHONPATH="${PYTHONPATH}:./"
+export http_proxy=''
+export https_proxy=''
+export ftp_proxy=''
+export socks_proxy=''

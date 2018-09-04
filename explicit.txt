@@ -1,216 +1,64 @@
-alacritty-git 0.1.0.809.g1adb5cb-1
-alsa-utils 1.1.6-1
-cjson 1.7.7-1
-compton 0.1_beta2.5-11
-coreutils 8.29-1
-cpupower 4.18-1
-cryptsetup 2.0.4-1
-dconf-editor 3.28.0-1
-define 1.74-2
-devhelp 3.28.1-1
-device-mapper 2.02.181-1
-dhcpcd 7.0.7-1
-dialog 1:1.3_20180621-1
-diffutils 3.6-1
-docker 1:18.06.0-1
-dotnet-sdk 2.1.300-2
-e2fsprogs 1.44.4-1
-elementary-icon-theme 4.3.1-1
-evince 3.28.2-1
-feh 2.27.1-1
-fetchmirrors 0.6-3
-fiddler 4.6.20171.26113-1
-file 5.33-3
-filesystem 2018.8-1
-findutils 4.6.0-2
-firefox 61.0.2-1
-fish 2.7.1-1
-five-or-more 3.28.0+2+gfabc580-1
-flashplugin 30.0.0.154-1
-flex 2.6.4-1
-four-in-a-row 3.28.0+3+g52208eb-1
-gawk 4.2.1-1
-gcc 8.2.0-2
-gcc-libs 8.2.0-2
-gdb 8.1.1-1
-gedit 3.28.1-2
-gedit-code-assistance 3.16.0+4+gd19b879-1
-gettext 0.19.8.1-2
-gimp 2.10.6-1
-git 2.18.0-1
-glibc 2.28-4
-gnome-builder 3.28.4+24+gb86f10bfc-1
-gnome-chess 3.28.1-1
-gnome-code-assistance 3.16.1+12+g5418ece-1
-gnome-devel-docs 3.28.0-1
-gnome-klotski 3.22.3+1+gf33083d-1
-gnome-latex 3.30.2-1
-gnome-mahjongg 3.22.0+1+g55799c1-1
-gnome-mines 3.28.0+3+g1a1f835-2
-gnome-multi-writer 3.28.0-1
-gnome-nettool 3.8.1+205+g8550eef-2
-gnome-nibbles 3.24.1-1
-gnome-packagekit 3.28.0-1
-gnome-recipes 2.0.2-2
-gnome-robots 3.22.3+2+g985e8e4-1
-gnome-settings-daemon 3.28.1-1
-gnome-sound-recorder 3.28.1-1
-gnome-sudoku 3.28.0+6+g46f2f85-1
-gnome-taquin 3.28.0-1
-gnome-tetravex 3.22.0+4+g817dbf6-1
-gnome-tweaks 3.28.1-2
-gnome-usage 3.28.0-1
-gnome-weather 3.26.0-1
-go 2:1.10.3-1
-google-musicmanager 1.0.467.4929_r0-2
-gparted 0.32.0-1
-grep 3.1-1
-groff 1.22.3-7
-grub 2:2.02-7
-gvfs 1.36.2-3
-gvim 8.1.0279-1
-gzip 1.9-1
-hitori 3.22.4-1
-htop 2.2.0-2
-i3-gaps 4.15.0.1-2
-i3lock 2.10-1
-i3status 2.12-1
-iagno 3.28.0-1
-inetutils 1.9.4-5
-intellij-idea-community-edition 2:2018.2.2-1
-iproute2 4.18.0-1
-iputils 20180629.f6aac8d-2
-jdk8-openjdk 8.u181-1
-jfsutils 1.1.15-5
-jre8-openjdk 8.u181-1
-jre8-openjdk-headless 8.u181-1
-kodi 17.6-8
-kodi-standalone-service 1.94-1
-less 530-1
-libreoffice-fresh 6.1.0-2
-libtool 2.4.6+42+gb88cebd5-1
-licenses 20171006-1
-light 1.1.2-1
-lightdm-gtk-greeter 1:2.0.5-1
-lightdm-gtk-greeter-settings 1.2.2-3
-lightsoff 3.28.0+1+g2167aa4-1
-linux 4.18.5.arch1-1
-linux-headers 4.18.5.arch1-1
-logrotate 3.14.0-1
-lsof 4.91-1
-lua-cjson 2.1.0-3
-lvm2 2.02.181-1
-lxc 1:3.0.2-1
-lxc-templates 3.0.0-2
-lynx 2.8.9-1
-m4 1.4.18-1
-make 4.2.1-2
-man-db 2.8.4-1
-man-pages 4.16-2
-mate-notification-daemon 1.20.1-1
-mdadm 4.0-1
-mesa 18.1.7-1
-mkpdf 0.3.0-1
-mongodb 4.0.0-1
-mongodb-tools 4.0.0-2
-mons 0.8.2-1
-mopidy 2.1.0-5
-mopidy-gmusic 3.0.0-1
-mp3info 0.8.5a-7
-mpd 0.20.21-1
-mplayer 38101-2
-mullvad 67-1
-mutt 1.10.1-1
-nano 2.9.8-1
-nautilus 3.28.1-1
-nautilus-sendto 3.8.6+13+gff9b88f-1
-ncmpcpp 0.8.2-3
-neovim 0.3.1-1
-net-tools 1.60.20180212git-1
-netctl 1.18-1
-network-manager-applet 1.8.16-1
-networkmanager 1.12.3dev+1+g0a3755c17-1
-networkmanager-openvpn 1.8.4-1
-nmap 7.70-2
-npm 6.4.0-1
-nuget 2.14-2
-numix-circle-icon-theme-git 0.r21.1e063b7-1
-numix-icon-theme-git 0.r1974.f71f55adb-1
-openjdk8-doc 8.u181-1
-openjdk8-src 8.u181-1
-os-prober 1.76-1
-pacman 5.1.1-1
-pantheon-music 0.4.2.r434.1091a852-1
-pass 1.7.3-1
-patch 2.7.6-1
-pavucontrol 1:3.0+23+g335c26c-1
-pciutils 3.6.1-1
-pcmciautils 018-7
-perl 5.28.0-1
-pkgconf 1.5.3-1
-polari 3.28.1-1
-polybar 3.2.1-1
-pulseaudio 12.2-2
-pycharm-community-edition 2018.2.2-1
-python 3.7.0-3
-python-pip 18.0-1
-python36 3.6.6-1
-qt4 4.8.7-25
-quadrapassel 3.22.0-1
-radarr 0.2.0.1120-1
-ranger 1.9.1-3
-reiserfsprogs 3.6.27-1
-rider 1:2018.2-1
-rofi-dmenu 1-1
-rtv 1.24.0-2
-s-nail 14.9.11-1
-screenfetch 3.8.0-2
-scrot 0.8.18-1
-sed 4.5-1
-shadow 4.6-1
-sonarr 2.0.0.5228-2
-steam 1.0.0.55-1
-steam-native-runtime 1.0.0.54-5
-stow 2.2.2-5
-sudo 1.8.23-2
-swell-foop 3.28.0+5+g097a72c-1
-sysfsutils 2.1.0-10
-sysprof 3.28.1-1
-systemd 239.0-2
-systemd-sysvcompat 239.0-2
-tali 3.22.0-1
-tar 1.30-1
-terminator 1.91-6
-terminology 1.2.1-1
-texinfo 6.5-1
-tmux 2.7-1
-tracker 2.1.2-1
-transmission-cli 2.94-1
-transmission-gtk 2.94-1
-tree 1.7.0-2
-ttf-dejavu 2.37-2
-ttf-liberation 2.00.1-7
-ttf-ubuntu-font-family 0.83-3
-unrar 1:5.6.5-1
-unscd 0.52-1
-unzip 6.0-12
-usbutils 010-1
-util-linux 2.32.1-2
-vi 1:070224-3
-vinagre 3.22.0+19+g5f615ff-1
-visual-studio-code-bin 1.26.1-2
-vlc 3.0.3.r1-2
-vundle 0.10.2-2
-w3m 0.5.3.git20180125-1
-weechat 2.2-2
-wget 1.19.5-1
-which 2.21-2
-wpa_actiond 1.4-3
-wpa_supplicant 1:2.6-12
-xdg-user-dirs 0.17-1
-xf86-input-libinput 0.28.0-1
-xf86-video-intel 1:2.99.917+831+ge7bfc906-1
-xfsprogs 4.17.0-1
-xsel 1.2.0.20160929-1
-xterm 335-1
-yelp 3.28.1-1
+alacritty-git 
+alsa-utils 
+cjson 
+compton 
+define 
+evince 
+feh 
+firefox 
+fish 
+gawk 
+gcc 
+gcc-libs 
+gdb 
+git 
+google-musicmanager 
+grep 
+gvim 
+gzip 
+htop 
+i3-gaps 
+i3lock 
+i3status 
+less 
+lua-cjson 
+make 
+mons 
+mopidy 
+mopidy-gmusic 
+mp3info 
+mpd 
+mplayer 
+mullvad 
+mutt 
+ncmpcpp 
+network-manager-applet 
+networkmanager 
+pass 
+pavucontrol 
+polybar 
+pulseaudio 
+pycharm-community-edition 
+python 
+ranger 
+rofi-dmenu 
+rtv 
+screenfetch 
+scrot 
+steam 
+steam-native-runtime 
+stow 
+sudo 
+tar 
+tmux 
+tree 
+ttf-ubuntu-font-family 
+unzip 
+usbutils 
+vi 
+visual-studio-code-bin 
+vundle 
+w3m 
+weechat 
+wget 
+which 

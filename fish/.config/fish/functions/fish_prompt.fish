@@ -36,7 +36,45 @@ function fish_prompt --description 'Write out the prompt'
                 set -g __fish_prompt_cwd (set_color $fish_color_cwd)
             end
 
-            printf '\n[%s] %s%s@%s %s%s %s(%s)%s \f\r> ' (date "+%H:%M:%S") "$__fish_color_blue" $USER (prompt_hostname) "$__fish_prompt_cwd" "$PWD" "$__fish_color_status" "$stat" "$__fish_prompt_normal"
+            printf '[%s]%s%s > ' (date "+%H:%M:%S") "$__fish_prompt_cwd" "$__fish_prompt_normal"
 
+
+    end
+end
+
+
+function fish_right_prompt -d "Write out the right prompt"
+    set -l exit_code $status
+    set -l is_git_repository (git rev-parse --is-inside-work-tree ^/dev/null)
+
+    set_color normal
+
+    # Print the current directory. Replace $HOME with ~.
+    echo -n (pwd | sed -e "s|^$HOME|~|")
+
+    # Print the current git branch name or shortened commit hash in colour.
+    #
+    # Green means the working directory is clean.
+    # Yellow means all changed files have been staged.
+    # Red means there are changed files that are not yet staged.
+    #
+    # Untracked files are ignored.
+    if test -n "$is_git_repository"
+        echo -n ":"
+
+        set -l branch (git symbolic-ref --short HEAD ^/dev/null; or git show-ref --head -s --abbrev | head -n1 ^/dev/null)
+
+        git diff-files --quiet --ignore-submodules ^/dev/null; or set -l has_unstaged_files
+        git diff-index --quiet --ignore-submodules --cached HEAD ^/dev/null; or set -l has_staged_files
+
+        if set -q has_unstaged_files
+            set_color red
+        else if set -q has_staged_files
+            set_color yellow
+        else
+            set_color green
+        end
+        echo -n $branch
+        set_color green
     end
 end

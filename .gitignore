@@ -2,3 +2,4 @@ mutt/
 config/
 weechat/.weechat/logs/
 weechat/.weechat/weechat.log
+vim/.vim/plugged/

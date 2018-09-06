@@ -51,7 +51,7 @@ font-3 = FontAwesome5Free:style=solid
 
 modules-left = i3
 modules-center = mpd
-modules-right = volume memory cpu wlan eth battery date powermenu
+modules-right = volume eth battery date powermenu
 
 tray-position = right
 tray-padding = 2

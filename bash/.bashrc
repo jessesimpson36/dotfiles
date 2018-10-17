@@ -11,6 +11,7 @@ alias reddit='rtv'
 alias l='ls -al'
 alias open='xdg-open'
 alias tmux='tmux -u'
+alias xclip='xclip -selection c'
 #setfont /usr/share/kbd/consolefonts/lat4-19.psfu.gz
 export PATH=/home/jesse/.gem/ruby/2.5.0/bin:/usr/lib/ruby/gems/2.5.0/bin:$PATH
 export PYTHONIOENCODING=utf8

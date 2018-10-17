@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/jesse/.calcurse'
+let g:netrw_dirhist_2='/home/jesse/.clojure'
+let g:netrw_dirhist_3='/home/jesse/.cache'
+let g:netrw_dirhist_4='/home/jesse'
+let g:netrw_dirhist_5='/home/jesse/.android'
+let g:netrw_dirhist_6='/home'
+let g:netrw_dirhist_7='/home/jesse'
+let g:netrw_dirhist_8='/home/jesse/Documents/Classes/ergo'

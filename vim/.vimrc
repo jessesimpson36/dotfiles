@@ -9,8 +9,14 @@ Plug 'scrooloose/nerdtree'
 " Auto-completion
 Plug 'Valloric/YouCompleteMe'
 
+" ends quotes/brackets/etc
+Plug 'cohama/lexima.vim'
+
+" PlantUML syntax highlighting
+Plug 'aklt/plantuml-syntax'
+
 "Syntax Checking
-Plug 'vim-syntastic/syntastic'
+"Plug 'vim-syntastic/syntastic'
 
 " Python syntax highlighting
 Plug 'hdima/python-syntax'
@@ -42,6 +48,16 @@ set mouse=a
 set number
 set expandtab
 set encoding=utf-8
+
+let g:netrw_banner=0 "disables annoying banner
+let g:netrw_browse_split=4 "open in prior window
+let g:netrw_altv=1 "open splits to the right
+let g:netrw_liststyle=3 "tree view
+
+" Searches sub-directories
+set path+=**
+" Enables tab completion for files/directories
+set wildmenu
 function! TrimWhiteSpace()
     %s/\s\+$//e
 		endfunction
@@ -103,11 +119,11 @@ vnoremap <leader><Space> :call ToggleComment()<cr>
 
 
 " Syntastic configuring
-set statusline+=%#warningmsg#
-set statusline+=%{SyntasticStatuslineFlag()}
-set statusline+=%*
+" set statusline+=%#warningmsg#
+" set statusline+=%{SyntasticStatuslineFlag()}
+" set statusline+=%*
 
-let g:syntastic_always_populate_loc_list = 1
-let g:syntastic_auto_loc_list = 1
-let g:syntastic_check_on_open = 1
-let g:syntastic_check_on_wq = 0
+" let g:syntastic_always_populate_loc_list = 1
+" let g:syntastic_auto_loc_list = 1
+" let g:syntastic_check_on_open = 1
+" let g:syntastic_check_on_wq = 0

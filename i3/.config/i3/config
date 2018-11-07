@@ -222,34 +222,21 @@ bindsym $mod+9 workspace $workspace9
 bindsym $mod+0 workspace $workspace10
 
 # sets the icons for workspaces
-set $workspace1   "1 Terminal"
-set $workspace2   "2 Browser"
-set $workspace3   "3 Media"
-set $workspace4   "4 Social"
-set $workspace5   "5 Coding"
-set $workspace6   "6 Schedule"
-set $workspace7   "7 "
-set $workspace8   "8 "
-set $workspace9   "9 "
-set $workspace10   "10 "
+set $workspace1   "1"
+set $workspace2   "2"
+set $workspace3   "3"
+set $workspace4   "4"
+set $workspace5   "5"
+set $workspace6   "6"
+set $workspace7   "7"
+set $workspace8   "8"
+set $workspace9   "9"
+set $workspace10   "10"
 
 # this will bind a system shutdown to the alt-shift-delete
 bindsym $mod+Shift+Delete exec --no-startup-id systemctl poweroff -i, mode "default"
 bindsym $mod+Shift+Home exec --no-startup-id systemctl suspend
 bindsym $mod+Shift+End exec i3lock -i /home/jesse/.i3lock/arch_reflection.png
-
-# assigning applications to their workspaces
-assign [class="chromium"] $workspace2
-assign [class="Chromium"] $workspace2
-assign [class="messenger for desktop"] $workspace4
-assign [class="Messenger for Desktop"] $workspace4
-assign [class="Opera"] $workspace2
-assign [class="jetbrains-studio"] $workspace5
-assign [class="Eclipse"] $workspace5
-assign [class="Firefox"] $workspace2
-assign [class="Navigator"] $workspace2
-assign [class="slack"] $workspace4
-assign [class="Slack"] $workspace4
 
 
 
